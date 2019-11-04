@@ -7,38 +7,38 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
-.cissp_test10_35.jpeg {max-width:400px; max-height:245px; }
-.cissp_test10_35.jpeg::after {content: '\00a0';display: inline-block; width:400px; height:245px; background-position: 95.5030487804878% 0.16051364365971107%;background-size: 428% 354.2857142857143%;background-image: url(set1.png);padding: 0; }
-div.cissp_test10_35.jpeg::after {max-width:400px; width:100%;height:0;padding: 0 0 61.25% 0;}
-.cissp_test11_2.jpeg {max-width:269px; max-height:520px; }
-.cissp_test11_2.jpeg::after {content: '\00a0';display: inline-block; width:269px; height:520px; background-position: 68.12196812196812% 0.28735632183908044%;background-size: 636.4312267657992% 166.92307692307693%;background-image: url(set1.png);padding: 0; }
-div.cissp_test11_2.jpeg::after {max-width:269px; width:100%;height:0;padding: 0 0 193.3085501858736% 0;}
-.cissp_test12_2.jpeg {max-width:460px; max-height:208px; }
-.cissp_test12_2.jpeg::after {content: '\00a0';display: inline-block; width:460px; height:208px; background-position: 78.51437699680511% 79.0909090909091%;background-size: 372.17391304347825% 417.3076923076923%;background-image: url(set1.png);padding: 0; }
-div.cissp_test12_2.jpeg::after {max-width:460px; width:100%;height:0;padding: 0 0 45.21739130434783% 0;}
-.cissp_test14_20.jpeg {max-width:460px; max-height:366px; }
-.cissp_test14_20.jpeg::after {content: '\00a0';display: inline-block; width:460px; height:366px; background-position: 41.69329073482428% 0.199203187250996%;background-size: 372.17391304347825% 237.1584699453552%;background-image: url(set1.png);padding: 0; }
-div.cissp_test14_20.jpeg::after {max-width:460px; width:100%;height:0;padding: 0 0 79.56521739130434% 0;}
-.cissp_test3_10.jpeg {max-width:267px; max-height:521px; }
-.cissp_test3_10.jpeg::after {content: '\00a0';display: inline-block; width:267px; height:521px; background-position: 99.93079584775087% 71.18155619596541%;background-size: 641.1985018726592% 166.60268714011517%;background-image: url(set1.png);padding: 0; }
-div.cissp_test3_10.jpeg::after {max-width:267px; width:100%;height:0;padding: 0 0 195.1310861423221% 0;}
-.cissp_test3_26.jpeg {max-width:520px; max-height:484px; }
-.cissp_test3_26.jpeg::after {content: '\00a0';display: inline-block; width:520px; height:484px; background-position: 0.08389261744966443% 0.2604166666666667%;background-size: 329.2307692307692% 179.3388429752066%;background-image: url(set1.png);padding: 0; }
-div.cissp_test3_26.jpeg::after {max-width:520px; width:100%;height:0;padding: 0 0 93.07692307692308% 0;}
-.cissp_test5_30.jpeg {max-width:460px; max-height:289px; }
-.cissp_test5_30.jpeg::after {content: '\00a0';display: inline-block; width:460px; height:289px; background-position: 41.69329073482428% 63.55785837651123%;background-size: 372.17391304347825% 300.34602076124565%;background-image: url(set1.png);padding: 0; }
-div.cissp_test5_30.jpeg::after {max-width:460px; width:100%;height:0;padding: 0 0 62.82608695652174% 0;}
-.cissp_test6_21.jpeg {max-width:460px; max-height:128px; }
-.cissp_test6_21.jpeg::after {content: '\00a0';display: inline-block; width:460px; height:128px; background-position: 70.52715654952077% 98.78378378378379%;background-size: 372.17391304347825% 678.125%;background-image: url(set1.png);padding: 0; }
-div.cissp_test6_21.jpeg::after {max-width:460px; width:100%;height:0;padding: 0 0 27.82608695652174% 0;}
-.cissp_test7_19.jpeg {max-width:320px; max-height:115px; }
-.cissp_test7_19.jpeg::after {content: '\00a0';display: inline-block; width:320px; height:115px; background-position: 0.07183908045977011% 99.867197875166%;background-size: 535% 754.7826086956521%;background-image: url(set1.png);padding: 0; }
-div.cissp_test7_19.jpeg::after {max-width:320px; width:100%;height:0;padding: 0 0 35.9375% 0;}
-.cissp_test9_25.jpeg {max-width:420px; max-height:265px; }
-.cissp_test9_25.jpeg::after {content: '\00a0';display: inline-block; width:420px; height:265px; background-position: 0.07739938080495357% 80.59701492537313%;background-size: 407.6190476190476% 327.54716981132077%;background-image: url(set1.png);padding: 0; }
-div.cissp_test9_25.jpeg::after {max-width:420px; width:100%;height:0;padding: 0 0 63.095238095238095% 0;}
-.cissp_test9_29.jpeg {max-width:460px; max-height:206px; }
-.cissp_test9_29.jpeg::after {content: '\00a0';display: inline-block; width:460px; height:206px; background-position: 33.70607028753994% 99.39577039274924%;background-size: 372.17391304347825% 421.3592233009709%;background-image: url(set1.png);padding: 0; }
-div.cissp_test9_29.jpeg::after {max-width:460px; width:100%;height:0;padding: 0 0 44.78260869565217% 0;}
+.cissp_test10_35 {max-width:400px; max-height:245px; }
+.cissp_test10_35::after {content: '\00a0';display: inline-block; width:400px; height:245px; background-position: 95.5030487804878% 0.16051364365971107%;background-size: 428% 354.2857142857143%;background-image: url(set1.png);padding: 0; }
+div.cissp_test10_35::after {max-width:400px; width:100%;height:0;padding: 0 0 61.25% 0;}
+.cissp_test11_2 {max-width:269px; max-height:520px; }
+.cissp_test11_2::after {content: '\00a0';display: inline-block; width:269px; height:520px; background-position: 68.12196812196812% 0.28735632183908044%;background-size: 636.4312267657992% 166.92307692307693%;background-image: url(set1.png);padding: 0; }
+div.cissp_test11_2::after {max-width:269px; width:100%;height:0;padding: 0 0 193.3085501858736% 0;}
+.cissp_test12_2 {max-width:460px; max-height:208px; }
+.cissp_test12_2::after {content: '\00a0';display: inline-block; width:460px; height:208px; background-position: 78.51437699680511% 79.0909090909091%;background-size: 372.17391304347825% 417.3076923076923%;background-image: url(set1.png);padding: 0; }
+div.cissp_test12_2::after {max-width:460px; width:100%;height:0;padding: 0 0 45.21739130434783% 0;}
+.cissp_test14_20 {max-width:460px; max-height:366px; }
+.cissp_test14_20::after {content: '\00a0';display: inline-block; width:460px; height:366px; background-position: 41.69329073482428% 0.199203187250996%;background-size: 372.17391304347825% 237.1584699453552%;background-image: url(set1.png);padding: 0; }
+div.cissp_test14_20::after {max-width:460px; width:100%;height:0;padding: 0 0 79.56521739130434% 0;}
+.cissp_test3_10 {max-width:267px; max-height:521px; }
+.cissp_test3_10::after {content: '\00a0';display: inline-block; width:267px; height:521px; background-position: 99.93079584775087% 71.18155619596541%;background-size: 641.1985018726592% 166.60268714011517%;background-image: url(set1.png);padding: 0; }
+div.cissp_test3_10::after {max-width:267px; width:100%;height:0;padding: 0 0 195.1310861423221% 0;}
+.cissp_test3_26 {max-width:520px; max-height:484px; }
+.cissp_test3_26::after {content: '\00a0';display: inline-block; width:520px; height:484px; background-position: 0.08389261744966443% 0.2604166666666667%;background-size: 329.2307692307692% 179.3388429752066%;background-image: url(set1.png);padding: 0; }
+div.cissp_test3_26::after {max-width:520px; width:100%;height:0;padding: 0 0 93.07692307692308% 0;}
+.cissp_test5_30 {max-width:460px; max-height:289px; }
+.cissp_test5_30::after {content: '\00a0';display: inline-block; width:460px; height:289px; background-position: 41.69329073482428% 63.55785837651123%;background-size: 372.17391304347825% 300.34602076124565%;background-image: url(set1.png);padding: 0; }
+div.cissp_test5_30::after {max-width:460px; width:100%;height:0;padding: 0 0 62.82608695652174% 0;}
+.cissp_test6_21 {max-width:460px; max-height:128px; }
+.cissp_test6_21::after {content: '\00a0';display: inline-block; width:460px; height:128px; background-position: 70.52715654952077% 98.78378378378379%;background-size: 372.17391304347825% 678.125%;background-image: url(set1.png);padding: 0; }
+div.cissp_test6_21::after {max-width:460px; width:100%;height:0;padding: 0 0 27.82608695652174% 0;}
+.cissp_test7_19 {max-width:320px; max-height:115px; }
+.cissp_test7_19::after {content: '\00a0';display: inline-block; width:320px; height:115px; background-position: 0.07183908045977011% 99.867197875166%;background-size: 535% 754.7826086956521%;background-image: url(set1.png);padding: 0; }
+div.cissp_test7_19::after {max-width:320px; width:100%;height:0;padding: 0 0 35.9375% 0;}
+.cissp_test9_25 {max-width:420px; max-height:265px; }
+.cissp_test9_25::after {content: '\00a0';display: inline-block; width:420px; height:265px; background-position: 0.07739938080495357% 80.59701492537313%;background-size: 407.6190476190476% 327.54716981132077%;background-image: url(set1.png);padding: 0; }
+div.cissp_test9_25::after {max-width:420px; width:100%;height:0;padding: 0 0 63.095238095238095% 0;}
+.cissp_test9_29 {max-width:460px; max-height:206px; }
+.cissp_test9_29::after {content: '\00a0';display: inline-block; width:460px; height:206px; background-position: 33.70607028753994% 99.39577039274924%;background-size: 372.17391304347825% 421.3592233009709%;background-image: url(set1.png);padding: 0; }
+div.cissp_test9_29::after {max-width:460px; width:100%;height:0;padding: 0 0 44.78260869565217% 0;}
 
-/* $TexturePacker:SmartUpdate:3e40c3167333a359938c947300c39488:10ce3e79e8889285b9a7c3e1ab2e0a21:6079bfabf986316de61e36305cbe76e0$ */
+/* $TexturePacker:SmartUpdate:8bed791f02d40c96bfe2654ef0106fe2:10ce3e79e8889285b9a7c3e1ab2e0a21:6079bfabf986316de61e36305cbe76e0$ */
