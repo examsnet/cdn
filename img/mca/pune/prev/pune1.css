@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.pune_mca_2017_40_para {max-width:306px; max-height:273px; }
+.pune_mca_2017_40_para::after {content: '\00a0';display: inline-block; width:306px; height:273px; background-position: 50% 50%;background-size: 100.65359477124183% 100.73260073260073%;background-image: url(pune1.png);padding: 0; }
+div.pune_mca_2017_40_para::after {max-width:306px; width:100%;height:0;padding: 0 0 89.2156862745098% 0;}
+
+/* $TexturePacker:SmartUpdate:60357e057fda11899e8131c4536bc8ef:ed6c0cffbdd8b17970066c7f9dbbe3a5:2352ef7517e49f17c2b8f305f67ee434$ */

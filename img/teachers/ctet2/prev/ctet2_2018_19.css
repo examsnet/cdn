@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Math_science_2019_Dec_37 {max-width:115px; max-height:110px; }
+.Math_science_2019_Dec_37::after {content: '\00a0';display: inline-block; width:115px; height:110px; background-position: 99.67948717948718% 0.746268656716418%;background-size: 371.30434782608694% 221.8181818181818%;background-image: url(ctet2_2018_19.png);padding: 0; }
+div.Math_science_2019_Dec_37::after {max-width:115px; width:100%;height:0;padding: 0 0 95.65217391304348% 0;}
+.Math_science_2019_JULY_57 {max-width:309px; max-height:135px; }
+.Math_science_2019_JULY_57::after {content: '\00a0';display: inline-block; width:309px; height:135px; background-position: 0.847457627118644% 0.9174311926605505%;background-size: 138.18770226537217% 180.74074074074073%;background-image: url(ctet2_2018_19.png);padding: 0; }
+div.Math_science_2019_JULY_57::after {max-width:309px; width:100%;height:0;padding: 0 0 43.689320388349515% 0;}
+.Social_and_Science_2018_Dec_83 {max-width:155px; max-height:106px; }
+.Social_and_Science_2018_Dec_83::after {content: '\00a0';display: inline-block; width:155px; height:106px; background-position: 0.36764705882352944% 99.27536231884058%;background-size: 275.48387096774195% 230.18867924528303%;background-image: url(ctet2_2018_19.png);padding: 0; }
+div.Social_and_Science_2018_Dec_83::after {max-width:155px; width:100%;height:0;padding: 0 0 68.38709677419355% 0;}
+.Social_and_Science_2018_Dec_84 {max-width:157px; max-height:99px; }
+.Social_and_Science_2018_Dec_84::after {content: '\00a0';display: inline-block; width:157px; height:99px; background-position: 58.148148148148145% 94.48275862068965%;background-size: 271.97452229299364% 246.46464646464648%;background-image: url(ctet2_2018_19.png);padding: 0; }
+div.Social_and_Science_2018_Dec_84::after {max-width:157px; width:100%;height:0;padding: 0 0 63.05732484076433% 0;}
+
+/* $TexturePacker:SmartUpdate:68c5e1bf095dd26f380e6b8bc55e2086:4e6f4fc30843260cadcd406a535b08d5:c556a99d42c9289a1d4b55904216337d$ */
