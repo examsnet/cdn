@@ -1,0 +1,20 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:4e1c812ffb239b398bf1bcd150d355f6$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(sets.png);}
+
+.compl {width:320px; height:232px; background-position: -324px -237px}
+.inter {width:320px; height:233px; background-position: -324px -2px}
+.relative {width:320px; height:231px; background-position: -646px -2px}
+.subset {width:150px; height:150px; background-position: -646px -235px}
+.symmetric {width:320px; height:234px; background-position: -2px -2px}
+.union {width:320px; height:233px; background-position: -2px -238px}

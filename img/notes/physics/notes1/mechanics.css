@@ -1,0 +1,33 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:384cc10a2c84f1b879937507e8dd2952$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(mechanics.png);}
+
+.mimg1 {width:300px; height:167px; background-position: -1061px -183px}
+.mimg2 {width:300px; height:157px; background-position: -1061px -352px}
+.mimg3 {width:226px; height:166px; background-position: -1339px -2px}
+.mimg4 {width:288px; height:179px; background-position: -1049px -2px}
+.osc10 {width:300px; height:282px; background-position: -2px -2px}
+.osc11 {width:300px; height:90px; background-position: -759px -411px}
+.osc12 {width:205px; height:209px; background-position: -552px -243px}
+.osc13 {width:224px; height:239px; background-position: -510px -2px}
+.osc14 {width:204px; height:250px; background-position: -304px -2px}
+.osc15 {width:311px; height:205px; background-position: -736px -2px}
+.osc2 {width:300px; height:105px; background-position: -1665px -309px}
+.osc3 {width:300px; height:151px; background-position: -1567px -156px}
+.osc4 {width:300px; height:200px; background-position: -759px -209px}
+.osc5 {width:300px; height:219px; background-position: -2px -286px}
+.osc6 {width:300px; height:152px; background-position: -1567px -2px}
+.osc7 {width:300px; height:82px; background-position: -1665px -416px}
+.osc8 {width:246px; height:248px; background-position: -304px -254px}
+.osc9 {width:300px; height:87px; background-position: -1363px -422px}
+.work1 {width:300px; height:111px; background-position: -1363px -309px}

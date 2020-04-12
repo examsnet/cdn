@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.CA_Foundation_2019_June_9_q {max-width:198px; max-height:176px; }
+.CA_Foundation_2019_June_9_q::after {content: '\00a0';display: inline-block; width:198px; height:176px; background-position: 50% 50%;background-size: 101.01010101010101% 101.13636363636364%;background-image: url(cafound_1.png);padding: 0; }
+div.CA_Foundation_2019_June_9_q::after {max-width:198px; width:100%;height:0;padding: 0 0 88.88888888888889% 0;}
+
+/* $TexturePacker:SmartUpdate:1f70fbec9ddb47f13bdfa288bd389c40:34dd470d9ca918a12105896d9a2d9ba2:976f1b5c8330b5c1b6f76805412b040b$ */

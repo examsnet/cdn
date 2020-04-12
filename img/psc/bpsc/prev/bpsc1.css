@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.BPSC_CCE_45TH_121 {max-width:304px; max-height:158px; }
+.BPSC_CCE_45TH_121::after {content: '\00a0';display: inline-block; width:304px; height:158px; background-position: 3.0303030303030303% 99.88151658767772%;background-size: 110.85526315789474% 634.1772151898734%;background-image: url(bpsc1.png);padding: 0; }
+div.BPSC_CCE_45TH_121::after {max-width:304px; width:100%;height:0;padding: 0 0 51.973684210526315% 0;}
+.BPSC_CCE_60TH-62ND_54 {max-width:335px; max-height:239px; }
+.BPSC_CCE_60TH-62ND_54::after {content: '\00a0';display: inline-block; width:335px; height:239px; background-position: 50% 0.1310615989515072%;background-size: 100.59701492537313% 419.2468619246862%;background-image: url(bpsc1.png);padding: 0; }
+div.BPSC_CCE_60TH-62ND_54::after {max-width:335px; width:100%;height:0;padding: 0 0 71.34328358208955% 0;}
+.BPSC_CCE_60TH-62ND_60 {max-width:311px; max-height:300px; }
+.BPSC_CCE_60TH-62ND_60::after {content: '\00a0';display: inline-block; width:311px; height:300px; background-position: 3.8461538461538463% 34.33048433048433%;background-size: 108.36012861736334% 334%;background-image: url(bpsc1.png);padding: 0; }
+div.BPSC_CCE_60TH-62ND_60::after {max-width:311px; width:100%;height:0;padding: 0 0 96.46302250803859% 0;}
+.BPSC_CCE_63RD_149 {max-width:294px; max-height:300px; }
+.BPSC_CCE_63RD_149::after {content: '\00a0';display: inline-block; width:294px; height:300px; background-position: 2.3255813953488373% 77.20797720797721%;background-size: 114.62585034013605% 334%;background-image: url(bpsc1.png);padding: 0; }
+div.BPSC_CCE_63RD_149::after {max-width:294px; width:100%;height:0;padding: 0 0 102.04081632653062% 0;}
+
+/* $TexturePacker:SmartUpdate:b24922b5aa9ca01fd1f7c2621296ceab:ca09c65d2e920c1f2a70f079aa1ef53d:c2e56b8041a665b283f6ec35bb343fef$ */

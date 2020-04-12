@@ -1,0 +1,39 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:f5d02b19c1e7db3cf5bfd139630f74bf$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(magnetism.png);}
+
+.mag1 {width:482px; height:406px; background-position: -2px -2px}
+.mag10 {width:215px; height:175px; background-position: -564px -1131px}
+.mag11 {width:307px; height:191px; background-position: -486px -2px}
+.mag12 {width:300px; height:180px; background-position: -608px -759px}
+.mag13 {width:300px; height:191px; background-position: -608px -566px}
+.mag14 {width:278px; height:355px; background-position: -284px -975px}
+.mag15 {width:280px; height:162px; background-position: -2px -880px}
+.mag16 {width:215px; height:227px; background-position: -781px -1298px}
+.mag17 {width:242px; height:242px; background-position: -244px -1425px}
+.mag18 {width:279px; height:188px; background-position: -606px -941px}
+.mag19 {width:243px; height:231px; background-position: -488px -1332px}
+.mag2 {width:200px; height:148px; background-position: -795px -2px}
+.mag20 {width:302px; height:261px; background-position: -2px -410px}
+.mag21 {width:276px; height:160px; background-position: -2px -1044px}
+.mag22 {width:300px; height:107px; background-position: -304px -866px}
+.mag23 {width:300px; height:205px; background-position: -2px -673px}
+.mag24 {width:266px; height:217px; background-position: -2px -1206px}
+.mag25 {width:306px; height:369px; background-position: -486px -195px}
+.mag3 {width:220px; height:165px; background-position: -781px -1131px}
+.mag4 {width:240px; height:252px; background-position: -2px -1425px}
+.mag5 {width:212px; height:187px; background-position: -794px -298px}
+.mag6 {width:300px; height:298px; background-position: -306px -566px}
+.mag7 {width:245px; height:116px; background-position: -733px -1527px}
+.mag8 {width:234px; height:96px; background-position: -488px -1565px}
+.mag9 {width:185px; height:144px; background-position: -795px -152px}

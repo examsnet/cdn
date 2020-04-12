@@ -1,0 +1,27 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:caf54bd7f281f0b3a3e649a01ffc8ebc$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(integral.png);}
+
+.Image_1642 {width:343px; height:264px; background-position: -347px -268px}
+.Image_1646 {width:343px; height:264px; background-position: -723px -2px}
+.Image_1649 {width:343px; height:264px; background-position: -378px -2px}
+.Image_1650 {width:343px; height:264px; background-position: -2px -513px}
+.Image_1651 {width:343px; height:264px; background-position: -2px -247px}
+.Image_1652 {width:343px; height:241px; background-position: -347px -534px}
+.Image_1653 {width:313px; height:243px; background-position: -2px -779px}
+.Image_1654 {width:374px; height:243px; background-position: -2px -2px}
+.Image_1657 {width:291px; height:243px; background-position: -692px -550px}
+.Image_1658 {width:292px; height:243px; background-position: -317px -779px}
+.Image_1661 {width:285px; height:226px; background-position: -611px -795px}
+.Image_1662 {width:257px; height:220px; background-position: -898px -795px}
+.int1 {width:280px; height:280px; background-position: -692px -268px}

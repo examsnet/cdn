@@ -1,0 +1,45 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:b0ad8a62bc9a73b0d9d524a311aa7e6b$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(woptics.png);}
+
+.wopt1 {width:480px; height:211px; background-position: -484px -517px}
+.wopt10 {width:242px; height:216px; background-position: -893px -1743px}
+.wopt11 {width:600px; height:260px; background-position: -2px -2px}
+.wopt12 {width:295px; height:232px; background-position: -1141px -894px}
+.wopt13 {width:260px; height:494px; background-position: -2px -1466px}
+.wopt14 {width:258px; height:300px; background-position: -845px -1441px}
+.wopt15 {width:500px; height:112px; background-position: -515px -403px}
+.wopt16 {width:206px; height:152px; background-position: -384px -1263px}
+.wopt17 {width:265px; height:228px; background-position: -1126px -1406px}
+.wopt18 {width:327px; height:216px; background-position: -1149px -2px}
+.wopt19 {width:420px; height:269px; background-position: -424px -730px}
+.wopt2 {width:400px; height:225px; background-position: -2px -1009px}
+.wopt20 {width:315px; height:347px; background-position: -1142px -545px}
+.wopt21 {width:245px; height:237px; background-position: -646px -1743px}
+.wopt22 {width:205px; height:240px; background-position: -439px -1743px}
+.wopt23 {width:174px; height:225px; background-position: -966px -517px}
+.wopt24 {width:293px; height:360px; background-position: -846px -744px}
+.wopt25 {width:278px; height:183px; background-position: -846px -1256px}
+.wopt26 {width:251px; height:344px; background-position: -592px -1263px}
+.wopt27 {width:420px; height:260px; background-position: -424px -1001px}
+.wopt28 {width:511px; height:203px; background-position: -2px -264px}
+.wopt29 {width:420px; height:325px; background-position: -2px -682px}
+.wopt3 {width:173px; height:477px; background-position: -264px -1466px}
+.wopt30 {width:480px; height:211px; background-position: -2px -469px}
+.wopt31 {width:286px; height:276px; background-position: -1138px -1128px}
+.wopt4 {width:543px; height:399px; background-position: -604px -2px}
+.wopt5 {width:380px; height:228px; background-position: -2px -1236px}
+.wopt6 {width:320px; height:162px; background-position: -1149px -220px}
+.wopt7 {width:244px; height:298px; background-position: -1137px -1636px}
+.wopt8 {width:320px; height:159px; background-position: -1149px -384px}
+.wopt9 {width:290px; height:148px; background-position: -846px -1106px}

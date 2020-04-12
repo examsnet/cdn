@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.CAT_Exam_2019_2_35 {max-width:660px; max-height:412px; }
+.CAT_Exam_2019_2_35::after {content: '\00a0';display: inline-block; width:660px; height:412px; background-position: 1.098901098901099% 39.63538149898717%;background-size: 113.78787878787878% 459.4660194174757%;background-image: url(set2.png);padding: 0; }
+div.CAT_Exam_2019_2_35::after {max-width:660px; width:100%;height:0;padding: 0 0 62.42424242424242% 0;}
+.CAT_Exam_2019_2_39 {max-width:355px; max-height:268px; }
+.CAT_Exam_2019_2_39::after {content: '\00a0';display: inline-block; width:355px; height:268px; background-position: 80.55555555555556% 0.06153846153846154%;background-size: 211.54929577464787% 706.3432835820895%;background-image: url(set2.png);padding: 0; }
+div.CAT_Exam_2019_2_39::after {max-width:355px; width:100%;height:0;padding: 0 0 75.49295774647888% 0;}
+.CAT_Exam_2019_2_59 {max-width:749px; max-height:316px; }
+.CAT_Exam_2019_2_59::after {content: '\00a0';display: inline-block; width:749px; height:316px; background-position: 50% 17.121116043119848%;background-size: 100.26702269692925% 599.0506329113924%;background-image: url(set2.png);padding: 0; }
+div.CAT_Exam_2019_2_59::after {max-width:749px; width:100%;height:0;padding: 0 0 42.18958611481976% 0;}
+.CAT_Exam_2019_47 {max-width:659px; max-height:477px; }
+.CAT_Exam_2019_47::after {content: '\00a0';display: inline-block; width:659px; height:477px; background-position: 1.0869565217391304% 99.92937853107344%;background-size: 113.96054628224583% 396.8553459119497%;background-image: url(set2.png);padding: 0; }
+div.CAT_Exam_2019_47::after {max-width:659px; width:100%;height:0;padding: 0 0 72.3823975720789% 0;}
+.CAT_Exam_2019_55 {max-width:476px; max-height:414px; }
+.CAT_Exam_2019_55::after {content: '\00a0';display: inline-block; width:476px; height:414px; background-position: 0.36363636363636365% 67.6132521974307%;background-size: 157.7731092436975% 457.2463768115942%;background-image: url(set2.png);padding: 0; }
+div.CAT_Exam_2019_55::after {max-width:476px; width:100%;height:0;padding: 0 0 86.97478991596638% 0;}
+.CAT_Exam_2019_63 {max-width:317px; max-height:178px; }
+.CAT_Exam_2019_63::after {content: '\00a0';display: inline-block; width:317px; height:178px; background-position: 0.2304147465437788% 0.05830903790087463%;background-size: 236.90851735015772% 1063.4831460674156%;background-image: url(set2.png);padding: 0; }
+div.CAT_Exam_2019_63::after {max-width:317px; width:100%;height:0;padding: 0 0 56.15141955835962% 0;}
+
+/* $TexturePacker:SmartUpdate:ee16fae30d7008ec31048afb43a43680:a936b40d59765f03082ca62d42be9333:ed44c3669e9d144894756af6eef5fe1c$ */

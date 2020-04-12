@@ -1,0 +1,56 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.math1 {max-width:352px; max-height:186px; }
+.math1::after {content: ' ';display: inline-block; width:352px; height:186px; background-position: 94.27662957074722% 99.88814317673378%;background-size: 278.6931818181818% 580.6451612903226%;background-image: url(test3.png);padding: 0; }
+div.math1::after {max-width:352px; width:100%;height:0;padding: 0 0 52.84090909090909% 0;}
+.math11 {max-width:223px; max-height:208px; }
+.math11::after {content: ' ';display: inline-block; width:223px; height:208px; background-position: 78.23218997361478% 73.85321100917432%;background-size: 439.9103139013453% 519.2307692307693%;background-image: url(test3.png);padding: 0; }
+div.math11::after {max-width:223px; width:100%;height:0;padding: 0 0 93.27354260089686% 0;}
+.math16 {max-width:241px; max-height:387px; }
+.math16::after {content: ' ';display: inline-block; width:241px; height:387px; background-position: 47.432432432432435% 44.300144300144304%;background-size: 407.0539419087137% 279.06976744186045%;background-image: url(test3.png);padding: 0; }
+div.math16::after {max-width:241px; width:100%;height:0;padding: 0 0 160.58091286307055% 0;}
+.math18 {max-width:226px; max-height:323px; }
+.math18::after {content: ' ';display: inline-block; width:226px; height:323px; background-position: 78.54304635761589% 42.27212681638045%;background-size: 434.070796460177% 334.3653250773994%;background-image: url(test3.png);padding: 0; }
+div.math18::after {max-width:226px; width:100%;height:0;padding: 0 0 142.9203539823009% 0;}
+.math20 {max-width:329px; max-height:276px; }
+.math20::after {content: ' ';display: inline-block; width:329px; height:276px; background-position: 0.15337423312883436% 42.53731343283582%;background-size: 298.17629179331306% 391.30434782608694%;background-image: url(test3.png);padding: 0; }
+div.math20::after {max-width:329px; width:100%;height:0;padding: 0 0 83.89057750759878% 0;}
+.math23 {max-width:329px; max-height:172px; }
+.math23::after {content: ' ';display: inline-block; width:329px; height:172px; background-position: 35.122699386503065% 98.6784140969163%;background-size: 298.17629179331306% 627.9069767441861%;background-image: url(test3.png);padding: 0; }
+div.math23::after {max-width:329px; width:100%;height:0;padding: 0 0 52.27963525835866% 0;}
+.math25 {max-width:227px; max-height:327px; }
+.math25::after {content: ' ';display: inline-block; width:227px; height:327px; background-position: 0.13262599469496023% 82.20451527224435%;background-size: 432.15859030837004% 330.27522935779814%;background-image: url(test3.png);padding: 0; }
+div.math25::after {max-width:227px; width:100%;height:0;padding: 0 0 144.05286343612335% 0;}
+.math3 {max-width:363px; max-height:200px; }
+.math3::after {content: ' ';display: inline-block; width:363px; height:200px; background-position: 37.055016181229774% 78.97727272727273%;background-size: 270.24793388429754% 540%;background-image: url(test3.png);padding: 0; }
+div.math3::after {max-width:363px; width:100%;height:0;padding: 0 0 55.09641873278237% 0;}
+.math_12a {max-width:148px; max-height:151px; }
+.math_12a::after {content: ' ';display: inline-block; width:148px; height:151px; background-position: 98.43937575030012% 34.445640473627556%;background-size: 662.8378378378378% 715.2317880794702%;background-image: url(test3.png);padding: 0; }
+div.math_12a::after {max-width:148px; width:100%;height:0;padding: 0 0 102.02702702702703% 0;}
+.math_12b {max-width:149px; max-height:137px; }
+.math_12b::after {content: ' ';display: inline-block; width:149px; height:137px; background-position: 98.19711538461539% 80.06362672322375%;background-size: 658.3892617449665% 788.3211678832117%;background-image: url(test3.png);padding: 0; }
+div.math_12b::after {max-width:149px; width:100%;height:0;padding: 0 0 91.94630872483222% 0;}
+.math_12c {max-width:147px; max-height:139px; }
+.math_12c::after {content: ' ';display: inline-block; width:147px; height:139px; background-position: 98.32134292565948% 65.35600425079703%;background-size: 667.3469387755102% 776.9784172661871%;background-image: url(test3.png);padding: 0; }
+div.math_12c::after {max-width:147px; width:100%;height:0;padding: 0 0 94.5578231292517% 0;}
+.math_12d {max-width:149px; max-height:142px; }
+.math_12d::after {content: ' ';display: inline-block; width:149px; height:142px; background-position: 98.5576923076923% 50.31982942430704%;background-size: 658.3892617449665% 760.5633802816901%;background-image: url(test3.png);padding: 0; }
+div.math_12d::after {max-width:149px; width:100%;height:0;padding: 0 0 95.30201342281879% 0;}
+.r11 {max-width:306px; max-height:318px; }
+.r11::after {content: ' ';display: inline-block; width:306px; height:318px; background-position: 99.85185185185185% 0.13123359580052493%;background-size: 320.5882352941176% 339.62264150943395%;background-image: url(test3.png);padding: 0; }
+div.r11::after {max-width:306px; width:100%;height:0;padding: 0 0 103.92156862745098% 0;}
+.r31 {max-width:349px; max-height:340px; }
+.r31::after {content: ' ';display: inline-block; width:349px; height:340px; background-position: 0.15822784810126583% 0.13513513513513514%;background-size: 281.0888252148997% 317.6470588235294%;background-image: url(test3.png);padding: 0; }
+div.r31::after {max-width:349px; width:100%;height:0;padding: 0 0 97.42120343839541% 0;}
+.r_11 {max-width:322px; max-height:305px; }
+.r_11::after {content: ' ';display: inline-block; width:322px; height:305px; background-position: 53.262518968133534% 0.12903225806451613%;background-size: 304.6583850931677% 354.0983606557377%;background-image: url(test3.png);padding: 0; }
+div.r_11::after {max-width:322px; width:100%;height:0;padding: 0 0 94.72049689440993% 0;}
+
+/* $TexturePacker:SmartUpdate:3f47f367ac785c12f16fafe61ce2ed89:64e016238f555026cc85f511c1127803:910e310a6c69f6f3c382644f59a9dc16$ */

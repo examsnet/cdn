@@ -1,0 +1,52 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:8783a0e75f4ce1f6b321aa757b1ee16d$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(optics1.png);}
+
+.gopt1 {width:230px; height:189px; background-position: -1797px -825px}
+.gopt10 {width:505px; height:261px; background-position: -2px -177px}
+.gopt11 {width:360px; height:177px; background-position: -509px -271px}
+.gopt12 {width:320px; height:231px; background-position: -424px -1205px}
+.gopt13 {width:360px; height:127px; background-position: -1575px -346px}
+.gopt15 {width:420px; height:272px; background-position: -2px -958px}
+.gopt16 {width:312px; height:176px; background-position: -1483px -825px}
+.gopt17 {width:360px; height:199px; background-position: -871px -271px}
+.gopt18 {width:363px; height:189px; background-position: -1631px -155px}
+.gopt19 {width:502px; height:152px; background-position: -645px -2px}
+.gopt2 {width:217px; height:199px; background-position: -1667px -1225px}
+.gopt20 {width:641px; height:173px; background-position: -2px -2px}
+.gopt21 {width:320px; height:272px; background-position: -424px -679px}
+.gopt22 {width:320px; height:250px; background-position: -424px -953px}
+.gopt23 {width:320px; height:185px; background-position: -1161px -657px}
+.gopt24 {width:340px; height:227px; background-position: -484px -450px}
+.gopt25 {width:480px; height:232px; background-position: -2px -440px}
+.gopt26 {width:420px; height:213px; background-position: -2px -1232px}
+.gopt3 {width:311px; height:197px; background-position: -1068px -1002px}
+.gopt31 {width:420px; height:282px; background-position: -2px -674px}
+.gopt32 {width:480px; height:129px; background-position: -1149px -140px}
+.gopt33 {width:480px; height:136px; background-position: -1149px -2px}
+.gopt34 {width:480px; height:113px; background-position: -645px -156px}
+.gopt35 {width:282px; height:161px; background-position: -1381px -1003px}
+.gopt36 {width:320px; height:177px; background-position: -1503px -646px}
+.gopt37 {width:313px; height:184px; background-position: -1068px -1201px}
+.gopt38 {width:320px; height:201px; background-position: -826px -673px}
+.gopt39 {width:320px; height:206px; background-position: -746px -876px}
+.gopt4 {width:268px; height:207px; background-position: -1667px -1016px}
+.gopt40 {width:320px; height:198px; background-position: -746px -1084px}
+.gopt41 {width:320px; height:155px; background-position: -746px -1284px}
+.gopt42 {width:320px; height:156px; background-position: -1148px -844px}
+.gopt5 {width:282px; height:203px; background-position: -1383px -1166px}
+.gopt6 {width:333px; height:199px; background-position: -826px -472px}
+.gopt7 {width:340px; height:169px; background-position: -1503px -475px}
+.gopt8 {width:340px; height:183px; background-position: -1161px -472px}
+.gopt9 {width:400px; height:151px; background-position: -1631px -2px}
+.opt40 {width:340px; height:199px; background-position: -1233px -271px}

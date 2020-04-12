@@ -1,0 +1,50 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.math14 {max-width:293px; max-height:207px; }
+.math14::after {content: ' ';display: inline-block; width:293px; height:207px; background-position: 67.90123456790124% 45.925925925925924%;background-size: 348.80546075085323% 426.0869565217391%;background-image: url(test2.png);padding: 0; }
+div.math14::after {max-width:293px; width:100%;height:0;padding: 0 0 70.64846416382252% 0;}
+.math18 {max-width:203px; max-height:173px; }
+.math18::after {content: ' ';display: inline-block; width:203px; height:173px; background-position: 99.87789987789988% 0.14104372355430184%;background-size: 503.44827586206895% 509.8265895953757%;background-image: url(test2.png);padding: 0; }
+div.math18::after {max-width:203px; width:100%;height:0;padding: 0 0 85.22167487684729% 0;}
+.math19 {max-width:227px; max-height:227px; }
+.math19::after {content: ' ';display: inline-block; width:227px; height:227px; background-position: 99.24528301886792% 47.786259541984734%;background-size: 450.22026431718064% 388.5462555066079%;background-image: url(test2.png);padding: 0; }
+div.math19::after {max-width:227px; width:100%;height:0;padding: 0 0 100% 0;}
+.math26 {max-width:245px; max-height:168px; }
+.math26::after {content: ' ';display: inline-block; width:245px; height:168px; background-position: 0.1287001287001287% 81.9327731092437%;background-size: 417.14285714285717% 525%;background-image: url(test2.png);padding: 0; }
+div.math26::after {max-width:245px; width:100%;height:0;padding: 0 0 68.57142857142857% 0;}
+.math27 {max-width:220px; max-height:210px; }
+.math27::after {content: ' ';display: inline-block; width:220px; height:210px; background-position: 69.9501246882793% 77.08333333333333%;background-size: 464.54545454545456% 420%;background-image: url(test2.png);padding: 0; }
+div.math27::after {max-width:220px; width:100%;height:0;padding: 0 0 95.45454545454545% 0;}
+.math28 {max-width:246px; max-height:244px; }
+.math28::after {content: ' ';display: inline-block; width:246px; height:244px; background-position: 40.4639175257732% 81.19122257053291%;background-size: 415.4471544715447% 361.4754098360656%;background-image: url(test2.png);padding: 0; }
+div.math28::after {max-width:246px; width:100%;height:0;padding: 0 0 99.1869918699187% 0;}
+.math29sol {max-width:228px; max-height:197px; }
+.math29sol::after {content: ' ';display: inline-block; width:228px; height:197px; background-position: 98.48866498740554% 78.97810218978103%;background-size: 448.2456140350877% 447.71573604060916%;background-image: url(test2.png);padding: 0; }
+div.math29sol::after {max-width:228px; width:100%;height:0;padding: 0 0 86.40350877192982% 0;}
+.math30 {max-width:166px; max-height:137px; }
+.math30::after {content: ' ';display: inline-block; width:166px; height:137px; background-position: 95.5607476635514% 23.48993288590604%;background-size: 615.6626506024096% 643.7956204379562%;background-image: url(test2.png);padding: 0; }
+div.math30::after {max-width:166px; width:100%;height:0;padding: 0 0 82.53012048192771% 0;}
+.math36 {max-width:180px; max-height:126px; }
+.math36::after {content: ' ';display: inline-block; width:180px; height:126px; background-position: 37.29216152019002% 39.55026455026455%;background-size: 567.7777777777778% 700%;background-image: url(test2.png);padding: 0; }
+div.math36::after {max-width:180px; width:100%;height:0;padding: 0 0 70% 0;}
+.math6 {max-width:297px; max-height:142px; }
+.math6::after {content: ' ';display: inline-block; width:297px; height:142px; background-position: 77.37931034482759% 99.86486486486487%;background-size: 344.1077441077441% 621.1267605633802%;background-image: url(test2.png);padding: 0; }
+div.math6::after {max-width:297px; width:100%;height:0;padding: 0 0 47.81144781144781% 0;}
+.r11 {max-width:299px; max-height:308px; }
+.r11::after {content: ' ';display: inline-block; width:299px; height:308px; background-position: 71.64591977869986% 0.17421602787456447%;background-size: 341.80602006688963% 286.3636363636364%;background-image: url(test2.png);padding: 0; }
+div.r11::after {max-width:299px; width:100%;height:0;padding: 0 0 103.01003344481606% 0;}
+.r43 {max-width:516px; max-height:297px; }
+.r43::after {content: ' ';display: inline-block; width:516px; height:297px; background-position: 0.1976284584980237% 0.17094017094017094%;background-size: 198.06201550387595% 296.969696969697%;background-image: url(test2.png);padding: 0; }
+div.r43::after {max-width:516px; width:100%;height:0;padding: 0 0 57.55813953488372% 0;}
+.w22 {max-width:312px; max-height:285px; }
+.w22::after {content: ' ';display: inline-block; width:312px; height:285px; background-position: 0.14084507042253522% 50.083752093802346%;background-size: 327.56410256410254% 309.4736842105263%;background-image: url(test2.png);padding: 0; }
+div.w22::after {max-width:312px; width:100%;height:0;padding: 0 0 91.34615384615384% 0;}
+
+/* $TexturePacker:SmartUpdate:89250c6a1bf7d875636a75fe089d83d9:499cc4bf793733ee264509c0e991bb31:c1230361f3c8e1cedcf060968ba40e7f$ */

@@ -1,0 +1,36 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:56a399a858c5067dbd2ab511f597173c$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(basics.png);}
+
+.ba1 {width:356px; height:356px; background-position: -545px -1105px}
+.ba10 {width:541px; height:371px; background-position: -2px -1096px}
+.ba11 {width:545px; height:246px; background-position: -1396px -354px}
+.ba12 {width:224px; height:173px; background-position: -1761px -908px}
+.ba13 {width:256px; height:218px; background-position: -1622px -1392px}
+.ba14 {width:564px; height:316px; background-position: -2px -1469px}
+.ba15 {width:326px; height:310px; background-position: -568px -1463px}
+.ba16 {width:365px; height:219px; background-position: -1022px -953px}
+.ba17 {width:416px; height:150px; background-position: -604px -953px}
+.ba18 {width:370px; height:482px; background-position: -1389px -908px}
+.ba19 {width:600px; height:450px; background-position: -2px -644px}
+.ba2 {width:662px; height:407px; background-position: -644px -2px}
+.ba20 {width:783px; height:64px; background-position: -604px -887px}
+.ba21 {width:750px; height:250px; background-position: -644px -411px}
+.ba22 {width:697px; height:350px; background-position: -1308px -2px}
+.ba23 {width:815px; height:222px; background-position: -604px -663px}
+.ba3 {width:378px; height:304px; background-position: -1421px -602px}
+.ba4 {width:364px; height:402px; background-position: -903px -1174px}
+.ba5 {width:348px; height:348px; background-position: -1272px -1392px}
+.ba6 {width:640px; height:640px; background-position: -2px -2px}
+.ba8 {width:374px; height:180px; background-position: -896px -1578px}
+.ba9 {width:330px; height:183px; background-position: -1622px -1612px}

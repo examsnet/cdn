@@ -1,0 +1,41 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:220ea64883f954de4dc9b0e85d96b4f3$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(electricity.png);}
+
+.ele1 {width:175px; height:216px; background-position: -734px -338px}
+.ele10 {width:142px; height:449px; background-position: -734px -556px}
+.ele11 {width:240px; height:324px; background-position: -2px -1321px}
+.ele12 {width:374px; height:334px; background-position: -533px -2px}
+.ele13 {width:200px; height:280px; background-position: -523px -964px}
+.ele14 {width:136px; height:19px; background-position: -2px -1647px}
+.ele15 {width:136px; height:28px; background-position: -725px -1115px}
+.ele16 {width:138px; height:29px; background-position: -725px -1084px}
+.ele17 {width:141px; height:75px; background-position: -725px -1007px}
+.ele18 {width:137px; height:38px; background-position: -306px -964px}
+.ele19 {width:139px; height:38px; background-position: -244px -1618px}
+.ele2 {width:280px; height:234px; background-position: -376px -1295px}
+.ele20 {width:504px; height:58px; background-position: -2px -94px}
+.ele21 {width:403px; height:127px; background-position: -2px -154px}
+.ele22 {width:320px; height:378px; background-position: -2px -551px}
+.ele23 {width:212px; height:146px; background-position: -658px -1471px}
+.ele24 {width:529px; height:90px; background-position: -2px -2px}
+.ele25 {width:310px; height:212px; background-position: -324px -750px}
+.ele26 {width:302px; height:388px; background-position: -2px -931px}
+.ele27 {width:400px; height:266px; background-position: -2px -283px}
+.ele3 {width:243px; height:223px; background-position: -658px -1246px}
+.ele4 {width:126px; height:36px; background-position: -404px -283px}
+.ele5 {width:215px; height:286px; background-position: -306px -1007px}
+.ele6 {width:247px; height:140px; background-position: -385px -1531px}
+.ele7 {width:328px; height:220px; background-position: -404px -338px}
+.ele8 {width:320px; height:188px; background-position: -324px -560px}
+.ele9 {width:130px; height:295px; background-position: -244px -1321px}

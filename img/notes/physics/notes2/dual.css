@@ -1,0 +1,24 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:6b4edb6ce136cd065957543d21fdaa14$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(dual.png);}
+
+.dual0 {width:300px; height:283px; background-position: -862px -2px}
+.dual1 {width:385px; height:359px; background-position: -2px -2px}
+.dual2 {width:300px; height:241px; background-position: -1164px -2px}
+.dual3 {width:320px; height:184px; background-position: -404px -326px}
+.dual4 {width:320px; height:176px; background-position: -726px -326px}
+.dual5 {width:350px; height:205px; background-position: -1048px -287px}
+.dual6 {width:227px; height:63px; background-position: -1400px -434px}
+.dual7 {width:246px; height:187px; background-position: -1400px -245px}
+.dual8 {width:400px; height:141px; background-position: -2px -363px}
+.dual9 {width:471px; height:322px; background-position: -389px -2px}

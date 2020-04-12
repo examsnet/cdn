@@ -1,0 +1,16 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:18418dc3967c0b9b00e1d8301cb4402a$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(matrices.png);}
+
+.ruleofsarrus {width:227px; height:240px; background-position: -2px -2px}
+.sarrusrule {width:200px; height:108px; background-position: -2px -244px}

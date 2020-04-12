@@ -1,0 +1,33 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:6c69d9ba47b4d7ac51ef735f361abba5$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(em.png);}
+
+.em1 {width:344px; height:271px; background-position: -1581px -665px}
+.em10 {width:538px; height:528px; background-position: -2px -561px}
+.em11 {width:1075px; height:557px; background-position: -2px -2px}
+.em12 {width:116px; height:53px; background-position: -974px -1219px}
+.em13 {width:365px; height:234px; background-position: -1581px -429px}
+.em14 {width:418px; height:212px; background-position: -1561px -215px}
+.em15 {width:436px; height:221px; background-position: -1079px -327px}
+.em16 {width:378px; height:211px; background-position: -1581px -2px}
+.em17 {width:376px; height:195px; background-position: -2px -1091px}
+.em18 {width:434px; height:214px; background-position: -1517px -938px}
+.em19 {width:59px; height:80px; background-position: -1517px -429px}
+.em2 {width:283px; height:279px; background-position: -974px -938px}
+.em20 {width:1037px; height:331px; background-position: -542px -561px}
+.em3 {width:480px; height:323px; background-position: -1079px -2px}
+.em4 {width:219px; height:202px; background-position: -753px -1082px}
+.em5 {width:256px; height:250px; background-position: -1259px -894px}
+.em6 {width:369px; height:186px; background-position: -542px -894px}
+.em7 {width:371px; height:186px; background-position: -380px -1091px}
+.em9 {width:94px; height:27px; background-position: -913px -894px}
