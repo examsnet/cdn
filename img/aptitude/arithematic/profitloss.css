@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.PL_previous_121 {max-width:151px; max-height:94px; }
+.PL_previous_121::after {content: '\00a0';display: inline-block; width:151px; height:94px; background-position: 99.71509971509971% 2.2222222222222223%;background-size: 332.4503311258278% 147.87234042553192%;background-image: url(profitloss.png);padding: 0; }
+div.PL_previous_121::after {max-width:151px; width:100%;height:0;padding: 0 0 62.25165562913907% 0;}
+.Practice_Tests_3_95 {max-width:348px; max-height:137px; }
+.Practice_Tests_3_95::after {content: '\00a0';display: inline-block; width:348px; height:137px; background-position: 0.6493506493506493% 50%;background-size: 144.2528735632184% 101.45985401459853%;background-image: url(profitloss.png);padding: 0; }
+div.Practice_Tests_3_95::after {max-width:348px; width:100%;height:0;padding: 0 0 39.367816091954026% 0;}
+
+/* $TexturePacker:SmartUpdate:e7a820ad833b6b0d4466c18d2ab21768:0df05335ab35b636e15624b924eaf0c1:f2e6aee3dd0b731b7747e532d9290393$ */

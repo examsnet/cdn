@@ -1,0 +1,62 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.PR_PT_1_25 {max-width:136px; max-height:178px; }
+.PR_PT_1_25::after {content: '\00a0';display: inline-block; width:136px; height:178px; background-position: 50% 61.5727002967359%;background-size: 372.05882352941177% 478.65168539325845%;background-image: url(powerroots.png);padding: 0; }
+div.PR_PT_1_25::after {max-width:136px; width:100%;height:0;padding: 0 0 130.88235294117646% 0;}
+.PR_PT_1_72 {max-width:183px; max-height:173px; }
+.PR_PT_1_72::after {content: '\00a0';display: inline-block; width:183px; height:173px; background-position: 0.30959752321981426% 61.11929307805597%;background-size: 276.5027322404372% 492.485549132948%;background-image: url(powerroots.png);padding: 0; }
+div.PR_PT_1_72::after {max-width:183px; width:100%;height:0;padding: 0 0 94.53551912568307% 0;}
+.PR_PT_1_77 {max-width:183px; max-height:197px; }
+.PR_PT_1_77::after {content: '\00a0';display: inline-block; width:183px; height:197px; background-position: 99.69040247678019% 64.42748091603053%;background-size: 276.5027322404372% 432.48730964467006%;background-image: url(powerroots.png);padding: 0; }
+div.PR_PT_1_77::after {max-width:183px; width:100%;height:0;padding: 0 0 107.65027322404372% 0;}
+.PR_PT_1_90 {max-width:128px; max-height:173px; }
+.PR_PT_1_90::after {content: '\00a0';display: inline-block; width:128px; height:173px; background-position: 92.06349206349206% 36.52430044182621%;background-size: 395.3125% 492.485549132948%;background-image: url(powerroots.png);padding: 0; }
+div.PR_PT_1_90::after {max-width:128px; width:100%;height:0;padding: 0 0 135.15625% 0;}
+.Powers_Roots_PT_2_73 {max-width:92px; max-height:81px; }
+.Powers_Roots_PT_2_73::after {content: '\00a0';display: inline-block; width:92px; height:81px; background-position: 0.24154589371980675% 0.1297016861219196%;background-size: 550% 1051.851851851852%;background-image: url(powerroots.png);padding: 0; }
+div.Powers_Roots_PT_2_73::after {max-width:92px; width:100%;height:0;padding: 0 0 88.04347826086956% 0;}
+.Powers_Roots_PT_2_74 {max-width:142px; max-height:110px; }
+.Powers_Roots_PT_2_74::after {content: '\00a0';display: inline-block; width:142px; height:110px; background-position: 25.824175824175825% 0.1347708894878706%;background-size: 356.3380281690141% 774.5454545454545%;background-image: url(powerroots.png);padding: 0; }
+div.Powers_Roots_PT_2_74::after {max-width:142px; width:100%;height:0;padding: 0 0 77.46478873239437% 0;}
+.Powers_Roots_PT_2_75 {max-width:129px; max-height:120px; }
+.Powers_Roots_PT_2_75::after {content: '\00a0';display: inline-block; width:129px; height:120px; background-position: 90.18567639257294% 0.1366120218579235%;background-size: 392.2480620155039% 710%;background-image: url(powerroots.png);padding: 0; }
+div.Powers_Roots_PT_2_75::after {max-width:129px; width:100%;height:0;padding: 0 0 93.02325581395348% 0;}
+.Powers_Roots_PT_2_76 {max-width:86px; max-height:141px; }
+.Powers_Roots_PT_2_76::after {content: '\00a0';display: inline-block; width:86px; height:141px; background-position: 0.23809523809523808% 11.673699015471167%;background-size: 588.3720930232558% 604.2553191489362%;background-image: url(powerroots.png);padding: 0; }
+div.Powers_Roots_PT_2_76::after {max-width:86px; width:100%;height:0;padding: 0 0 163.95348837209303% 0;}
+.Powers_and_Roots_PT_2_27 {max-width:102px; max-height:115px; }
+.Powers_and_Roots_PT_2_27::after {content: '\00a0';display: inline-block; width:102px; height:115px; background-position: 58.663366336633665% 0.13568521031207598%;background-size: 496.078431372549% 740.8695652173913%;background-image: url(powerroots.png);padding: 0; }
+div.Powers_and_Roots_PT_2_27::after {max-width:102px; width:100%;height:0;padding: 0 0 112.74509803921569% 0;}
+.Powers_and_Roots_PT_2_28 {max-width:102px; max-height:126px; }
+.Powers_and_Roots_PT_2_28::after {content: '\00a0';display: inline-block; width:102px; height:126px; background-position: 48.01980198019802% 16.115702479338843%;background-size: 496.078431372549% 676.1904761904761%;background-image: url(powerroots.png);padding: 0; }
+div.Powers_and_Roots_PT_2_28::after {max-width:102px; width:100%;height:0;padding: 0 0 123.52941176470588% 0;}
+.Powers_and_Roots_PT_2_29 {max-width:194px; max-height:125px; }
+.Powers_and_Roots_PT_2_29::after {content: '\00a0';display: inline-block; width:194px; height:125px; background-position: 95.1923076923077% 16.781292984869324%;background-size: 260.82474226804123% 681.6%;background-image: url(powerroots.png);padding: 0; }
+div.Powers_and_Roots_PT_2_29::after {max-width:194px; width:100%;height:0;padding: 0 0 64.43298969072166% 0;}
+.Powers_and_Roots_PT_2_31 {max-width:99px; max-height:127px; }
+.Powers_and_Roots_PT_2_31::after {content: '\00a0';display: inline-block; width:99px; height:127px; background-position: 0.2457002457002457% 32.13793103448276%;background-size: 511.1111111111111% 670.8661417322835%;background-image: url(powerroots.png);padding: 0; }
+div.Powers_and_Roots_PT_2_31::after {max-width:99px; width:100%;height:0;padding: 0 0 128.2828282828283% 0;}
+.Powers_and_Roots_PT_2_32 {max-width:105px; max-height:120px; }
+.Powers_and_Roots_PT_2_32::after {content: '\00a0';display: inline-block; width:105px; height:120px; background-position: 21.945137157107233% 15.300546448087431%;background-size: 481.9047619047619% 710%;background-image: url(powerroots.png);padding: 0; }
+div.Powers_and_Roots_PT_2_32::after {max-width:105px; width:100%;height:0;padding: 0 0 114.28571428571429% 0;}
+.Powers_and_Roots_PT_2_5 {max-width:182px; max-height:231px; }
+.Powers_and_Roots_PT_2_5::after {content: '\00a0';display: inline-block; width:182px; height:231px; background-position: 97.22222222222223% 99.8389694041868%;background-size: 278.02197802197804% 368.83116883116884%;background-image: url(powerroots.png);padding: 0; }
+div.Powers_and_Roots_PT_2_5::after {max-width:182px; width:100%;height:0;padding: 0 0 126.92307692307692% 0;}
+.Powers_and_Roots_PT_2_6 {max-width:158px; max-height:212px; }
+.Powers_and_Roots_PT_2_6::after {content: '\00a0';display: inline-block; width:158px; height:212px; background-position: 44.827586206896555% 92.8125%;background-size: 320.253164556962% 401.8867924528302%;background-image: url(powerroots.png);padding: 0; }
+div.Powers_and_Roots_PT_2_6::after {max-width:158px; width:100%;height:0;padding: 0 0 134.1772151898734% 0;}
+.Powers_and_Roots_PT_2_7_1 {max-width:154px; max-height:206px; }
+.Powers_and_Roots_PT_2_7_1::after {content: '\00a0';display: inline-block; width:154px; height:206px; background-position: 0.2840909090909091% 91.17647058823529%;background-size: 328.57142857142856% 413.59223300970876%;background-image: url(powerroots.png);padding: 0; }
+div.Powers_and_Roots_PT_2_7_1::after {max-width:154px; width:100%;height:0;padding: 0 0 133.76623376623377% 0;}
+.Powers_and_Roots_PT_2_7_2 {max-width:246px; max-height:166px; }
+.Powers_and_Roots_PT_2_7_2::after {content: '\00a0';display: inline-block; width:246px; height:166px; background-position: 38.84615384615385% 36.15160349854227%;background-size: 205.6910569105691% 513.2530120481928%;background-image: url(powerroots.png);padding: 0; }
+div.Powers_and_Roots_PT_2_7_2::after {max-width:246px; width:100%;height:0;padding: 0 0 67.47967479674797% 0;}
+
+/* $TexturePacker:SmartUpdate:bc055ff147aa9a375cbd4dc6227c0896:0861813319a5b722308d201976bbb664:0f9a80b1914d4f5ced9fdcd6b712c7d7$ */

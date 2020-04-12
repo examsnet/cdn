@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Sets_15 {max-width:211px; max-height:138px; }
+.Sets_15::after {content: '\00a0';display: inline-block; width:211px; height:138px; background-position: 33.333333333333336% 25.259515570934255%;background-size: 101.4218009478673% 518.8405797101449%;background-image: url(sets.png);padding: 0; }
+div.Sets_15::after {max-width:211px; width:100%;height:0;padding: 0 0 65.40284360189574% 0;}
+.Sets_19 {max-width:209px; max-height:154px; }
+.Sets_19::after {content: '\00a0';display: inline-block; width:209px; height:154px; background-position: 20% 78.46975088967972%;background-size: 102.39234449760765% 464.93506493506493%;background-image: url(sets.png);padding: 0; }
+div.Sets_19::after {max-width:209px; width:100%;height:0;padding: 0 0 73.6842105263158% 0;}
+.Sets_20 {max-width:210px; max-height:155px; }
+.Sets_20::after {content: '\00a0';display: inline-block; width:210px; height:155px; background-position: 25% 50.80213903743316%;background-size: 101.9047619047619% 461.93548387096774%;background-image: url(sets.png);padding: 0; }
+div.Sets_20::after {max-width:210px; width:100%;height:0;padding: 0 0 73.80952380952381% 0;}
+.Sets_26 {max-width:212px; max-height:144px; }
+.Sets_26::after {content: '\00a0';display: inline-block; width:212px; height:144px; background-position: 50% 0.17482517482517482%;background-size: 100.94339622641509% 497.22222222222223%;background-image: url(sets.png);padding: 0; }
+div.Sets_26::after {max-width:212px; width:100%;height:0;padding: 0 0 67.9245283018868% 0;}
+.Sets_28 {max-width:209px; max-height:119px; }
+.Sets_28::after {content: '\00a0';display: inline-block; width:209px; height:119px; background-position: 20% 99.83249581239531%;background-size: 102.39234449760765% 601.6806722689075%;background-image: url(sets.png);padding: 0; }
+div.Sets_28::after {max-width:209px; width:100%;height:0;padding: 0 0 56.9377990430622% 0;}
+
+/* $TexturePacker:SmartUpdate:bee766c665b4ef90b0ff4ccad48ba23e:836f95131c1add888edfdccdb24cfcea:f0156cd2f0c397d7c1d98d400982cbe0$ */

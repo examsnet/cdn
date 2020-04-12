@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.apt_ps_l2_prev_54sol {max-width:296px; max-height:144px; }
+.apt_ps_l2_prev_54sol::after {content: '\00a0';display: inline-block; width:296px; height:144px; background-position: 0.4975124378109453% 0.2849002849002849%;background-size: 167.90540540540542% 343.75%;background-image: url(timedistance.png);padding: 0; }
+div.apt_ps_l2_prev_54sol::after {max-width:296px; width:100%;height:0;padding: 0 0 48.648648648648646% 0;}
+.apt_ps_l2_prev_70sol {max-width:198px; max-height:181px; }
+.apt_ps_l2_prev_70sol::after {content: '\00a0';display: inline-block; width:198px; height:181px; background-position: 99.66555183946488% 0.3184713375796178%;background-size: 251.010101010101% 273.4806629834254%;background-image: url(timedistance.png);padding: 0; }
+div.apt_ps_l2_prev_70sol::after {max-width:198px; width:100%;height:0;padding: 0 0 91.41414141414141% 0;}
+.apt_ps_l2_prev_72sol {max-width:212px; max-height:167px; }
+.apt_ps_l2_prev_72sol::after {content: '\00a0';display: inline-block; width:212px; height:167px; background-position: 0.3508771929824561% 99.6951219512195%;background-size: 234.43396226415095% 296.4071856287425%;background-image: url(timedistance.png);padding: 0; }
+div.apt_ps_l2_prev_72sol::after {max-width:212px; width:100%;height:0;padding: 0 0 78.77358490566037% 0;}
+.apt_ps_l2_prev_74sol {max-width:207px; max-height:197px; }
+.apt_ps_l2_prev_74sol::after {content: '\00a0';display: inline-block; width:207px; height:197px; background-position: 76.89655172413794% 61.40939597315436%;background-size: 240.09661835748793% 251.26903553299493%;background-image: url(timedistance.png);padding: 0; }
+div.apt_ps_l2_prev_74sol::after {max-width:207px; width:100%;height:0;padding: 0 0 95.16908212560386% 0;}
+.apt_ps_l2_prev_78sol {max-width:221px; max-height:180px; }
+.apt_ps_l2_prev_78sol::after {content: '\00a0';display: inline-block; width:221px; height:180px; background-position: 0.36231884057971014% 46.34920634920635%;background-size: 224.8868778280543% 275%;background-image: url(timedistance.png);padding: 0; }
+div.apt_ps_l2_prev_78sol::after {max-width:221px; width:100%;height:0;padding: 0 0 81.44796380090497% 0;}
+
+/* $TexturePacker:SmartUpdate:45a468cd95ffbc95cf01768bdce13f0e:58d19dc02e69ce73f662b722ed64bc71:309a36d28f6ee62d933c3e2c4e1e0d8d$ */
