@@ -7,125 +7,140 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
+.IIFT_2008_-32sol {max-width:380px; max-height:246px; }
+.IIFT_2008_-32sol::after {content: '\00a0';display: inline-block; width:380px; height:246px; background-position: 55.14527845036319% 21.20253164556962%;background-size: 534.7368421052631% 742.2764227642276%;background-image: url(iiftset2.png);padding: 0; }
+div.IIFT_2008_-32sol::after {max-width:380px; width:100%;height:0;padding: 0 0 64.73684210526316% 0;}
+.IIFT_2008_16sol {max-width:400px; max-height:235px; }
+.IIFT_2008_16sol::after {content: '\00a0';display: inline-block; width:400px; height:235px; background-position: 79.16666666666667% 34.19233186675047%;background-size: 508% 777.0212765957447%;background-image: url(iiftset2.png);padding: 0; }
+div.IIFT_2008_16sol::after {max-width:400px; width:100%;height:0;padding: 0 0 58.75% 0;}
+.IIFT_2008_17sola {max-width:400px; max-height:175px; }
+.IIFT_2008_17sola::after {content: '\00a0';display: inline-block; width:400px; height:175px; background-position: 0.061274509803921566% 99.87886129618413%;background-size: 508% 1043.4285714285713%;background-image: url(iiftset2.png);padding: 0; }
+div.IIFT_2008_17sola::after {max-width:400px; width:100%;height:0;padding: 0 0 43.75% 0;}
+.IIFT_2008_17solb {max-width:384px; max-height:180px; }
+.IIFT_2008_17solb::after {content: '\00a0';display: inline-block; width:384px; height:180px; background-position: 73.05825242718447% 92.77035236938032%;background-size: 529.1666666666666% 1014.4444444444445%;background-image: url(iiftset2.png);padding: 0; }
+div.IIFT_2008_17solb::after {max-width:384px; width:100%;height:0;padding: 0 0 46.875% 0;}
+.IIFT_2008_18sol {max-width:450px; max-height:508px; }
+.IIFT_2008_18sol::after {content: '\00a0';display: inline-block; width:450px; height:508px; background-position: 0.0632111251580278% 86.49468892261001%;background-size: 451.55555555555554% 359.4488188976378%;background-image: url(iiftset2.png);padding: 0; }
+div.IIFT_2008_18sol::after {max-width:450px; width:100%;height:0;padding: 0 0 112.88888888888889% 0;}
 .IIFT_2008_41sol {max-width:113px; max-height:214px; }
-.IIFT_2008_41sol::after {content: '\00a0';display: inline-block; width:113px; height:214px; background-position: 70.44979079497908% 76.83284457478005%;background-size: 1792.0353982300885% 737.3831775700935%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2008_41sol::after {content: '\00a0';display: inline-block; width:113px; height:214px; background-position: 82.80354351224597% 97.45657568238214%;background-size: 1798.2300884955753% 853.2710280373832%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2008_41sol::after {max-width:113px; width:100%;height:0;padding: 0 0 189.38053097345133% 0;}
 .IIFT_2008_41sol_a {max-width:191px; max-height:127px; }
-.IIFT_2008_41sol_a::after {content: '\00a0';display: inline-block; width:191px; height:127px; background-position: 93.40239912758997% 57.20192970365265%;background-size: 1060.2094240837696% 1242.5196850393702%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2008_41sol_a::after {content: '\00a0';display: inline-block; width:191px; height:127px; background-position: 77.83813145029875% 75.22071806945262%;background-size: 1063.874345549738% 1437.7952755905512%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2008_41sol_a::after {max-width:191px; width:100%;height:0;padding: 0 0 66.49214659685863% 0;}
 .IIFT_2008_47sol {max-width:202px; max-height:192px; }
-.IIFT_2008_47sol::after {content: '\00a0';display: inline-block; width:202px; height:192px; background-position: 62.75370268787712% 75.61327561327562%;background-size: 1002.4752475247525% 821.875%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2008_47sol::after {content: '\00a0';display: inline-block; width:202px; height:192px; background-position: 43.87978142076503% 82.1297429620563%;background-size: 1005.940594059406% 951.0416666666666%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2008_47sol::after {max-width:202px; width:100%;height:0;padding: 0 0 95.04950495049505% 0;}
 .IIFT_2008_58sol {max-width:410px; max-height:158px; }
-.IIFT_2008_58sol::after {content: '\00a0';display: inline-block; width:410px; height:158px; background-position: 25.386996904024766% 62.53521126760563%;background-size: 493.9024390243902% 998.7341772151899%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2008_58sol::after {content: '\00a0';display: inline-block; width:410px; height:158px; background-position: 79.65474722564736% 23.081534772182255%;background-size: 495.609756097561% 1155.6962025316457%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2008_58sol::after {max-width:410px; width:100%;height:0;padding: 0 0 38.53658536585366% 0;}
 .IIFT_2008_66 {max-width:461px; max-height:278px; }
-.IIFT_2008_66::after {content: '\00a0';display: inline-block; width:461px; height:278px; background-position: 49.10485933503836% 25.76923076923077%;background-size: 439.26247288503254% 567.6258992805756%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2008_66::after {content: '\00a0';display: inline-block; width:461px; height:278px; background-position: 47.23106301718651% 99.48320413436693%;background-size: 440.78091106290674% 656.8345323741007%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2008_66::after {max-width:461px; width:100%;height:0;padding: 0 0 60.30368763557484% 0;}
 .IIFT_2008_81 {max-width:408px; max-height:497px; }
-.IIFT_2008_81::after {content: '\00a0';display: inline-block; width:408px; height:497px; background-position: 0.06184291898577613% 54.671600370027754%;background-size: 496.3235294117647% 317.5050301810865%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2008_81::after {content: '\00a0';display: inline-block; width:408px; height:497px; background-position: 20.997536945812808% 44.46952595936794%;background-size: 498.03921568627453% 367.4044265593561%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2008_81::after {max-width:408px; width:100%;height:0;padding: 0 0 121.81372549019608% 0;}
 .IIFT_2009_1 {max-width:426px; max-height:589px; }
-.IIFT_2009_1::after {content: '\00a0';display: inline-block; width:426px; height:589px; background-position: 0.06253908692933083% 0.10111223458038422%;background-size: 475.3521126760563% 267.91171477079797%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2009_1::after {content: '\00a0';display: inline-block; width:426px; height:589px; background-position: 0.062266500622665005% 0.08084074373484236%;background-size: 476.99530516431923% 310.0169779286927%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2009_1::after {max-width:426px; width:100%;height:0;padding: 0 0 138.26291079812208% 0;}
 .IIFT_2009_101sol {max-width:165px; max-height:334px; }
-.IIFT_2009_101sol::after {content: '\00a0';display: inline-block; width:165px; height:334px; background-position: 18.9247311827957% 87.54019292604502%;background-size: 1227.2727272727273% 472.45508982035926%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2009_101sol::after {content: '\00a0';display: inline-block; width:165px; height:334px; background-position: 34.547402249598285% 0.06702412868632708%;background-size: 1231.5151515151515% 546.7065868263473%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2009_101sol::after {max-width:165px; width:100%;height:0;padding: 0 0 202.42424242424244% 0;}
 .IIFT_2009_105sol {max-width:193px; max-height:185px; }
-.IIFT_2009_105sol::after {content: '\00a0';display: inline-block; width:193px; height:185px; background-position: 71.99781659388647% 90.66762383345298%;background-size: 1049.2227979274612% 852.972972972973%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2009_105sol::after {content: '\00a0';display: inline-block; width:193px; height:185px; background-position: 54.70364328439369% 81.7794028031688%;background-size: 1052.8497409326426% 987.027027027027%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2009_105sol::after {max-width:193px; width:100%;height:0;padding: 0 0 95.85492227979275% 0;}
 .IIFT_2009_109sol {max-width:203px; max-height:128px; }
-.IIFT_2009_109sol::after {content: '\00a0';display: inline-block; width:203px; height:128px; background-position: 83.04061470911087% 96.13793103448276%;background-size: 997.5369458128079% 1232.8125%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2009_109sol::after {content: '\00a0';display: inline-block; width:203px; height:128px; background-position: 43.90377255330782% 71.43698468786808%;background-size: 1000.9852216748768% 1426.5625%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2009_109sol::after {max-width:203px; width:100%;height:0;padding: 0 0 63.05418719211823% 0;}
 .IIFT_2009_110sol {max-width:205px; max-height:128px; }
-.IIFT_2009_110sol::after {content: '\00a0';display: inline-block; width:205px; height:128px; background-position: 64.89010989010988% 99.93103448275862%;background-size: 987.8048780487804% 1232.8125%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2009_110sol::after {content: '\00a0';display: inline-block; width:205px; height:128px; background-position: 43.95183360700602% 63.839811542991754%;background-size: 991.219512195122% 1426.5625%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2009_110sol::after {max-width:205px; width:100%;height:0;padding: 0 0 62.4390243902439% 0;}
 .IIFT_2009_113sol {max-width:235px; max-height:223px; }
-.IIFT_2009_113sol::after {content: '\00a0';display: inline-block; width:235px; height:223px; background-position: 84.52513966480447% 86.34686346863468%;background-size: 861.7021276595744% 707.6233183856502%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2009_113sol::after {content: '\00a0';display: inline-block; width:235px; height:223px; background-position: 78.96494156928213% 65.75171553337492%;background-size: 864.6808510638298% 818.8340807174887%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2009_113sol::after {max-width:235px; width:100%;height:0;padding: 0 0 94.8936170212766% 0;}
 .IIFT_2009_23sol {max-width:319px; max-height:181px; }
-.IIFT_2009_23sol::after {content: '\00a0';display: inline-block; width:319px; height:181px; background-position: 51.055099648300114% 60.4151753758053%;background-size: 634.7962382445141% 871.8232044198895%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2009_23sol::after {content: '\00a0';display: inline-block; width:319px; height:181px; background-position: 99.94162288382954% 23.10030395136778%;background-size: 636.9905956112852% 1008.8397790055249%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2009_23sol::after {max-width:319px; width:100%;height:0;padding: 0 0 56.739811912225704% 0;}
 .IIFT_2009_99sol {max-width:291px; max-height:264px; }
-.IIFT_2009_99sol::after {content: '\00a0';display: inline-block; width:291px; height:264px; background-position: 98.78892733564014% 42.99847792998478%;background-size: 695.8762886597938% 597.7272727272727%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2009_99sol::after {content: '\00a0';display: inline-block; width:291px; height:264px; background-position: 98.56404365307294% 0.06402048655569782%;background-size: 698.2817869415808% 691.6666666666666%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2009_99sol::after {max-width:291px; width:100%;height:0;padding: 0 0 90.72164948453609% 0;}
 .IIFT_2010_19sol {max-width:163px; max-height:144px; }
-.IIFT_2010_19sol::after {content: '\00a0';display: inline-block; width:163px; height:144px; background-position: 18.904403866809883% 99.30264993026499%;background-size: 1242.3312883435583% 1095.8333333333333%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2010_19sol::after {content: '\00a0';display: inline-block; width:163px; height:144px; background-position: 54.73515248796148% 53.388822829964326%;background-size: 1246.6257668711658% 1268.0555555555557%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2010_19sol::after {max-width:163px; width:100%;height:0;padding: 0 0 88.34355828220859% 0;}
 .IIFT_2010_26sol {max-width:419px; max-height:92px; }
-.IIFT_2010_26sol::after {content: '\00a0';display: inline-block; width:419px; height:92px; background-position: 74.906600249066% 56.594885598923284%;background-size: 483.29355608591885% 1715.2173913043478%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2010_26sol::after {content: '\00a0';display: inline-block; width:419px; height:92px; background-position: 80.0991940483571% 16.839677047289506%;background-size: 484.964200477327% 1984.7826086956522%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2010_26sol::after {max-width:419px; width:100%;height:0;padding: 0 0 21.957040572792362% 0;}
 .IIFT_2010_27sol {max-width:216px; max-height:347px; }
-.IIFT_2010_27sol::after {content: '\00a0';display: inline-block; width:216px; height:347px; background-position: 93.80873410724158% 17.627944760357433%;background-size: 937.5% 454.7550432276657%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2010_27sol::after {content: '\00a0';display: inline-block; width:216px; height:347px; background-position: 23.568281938325992% 0.0676132521974307%;background-size: 940.7407407407408% 526.2247838616714%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2010_27sol::after {max-width:216px; width:100%;height:0;padding: 0 0 160.64814814814815% 0;}
 .IIFT_2010_29sol {max-width:239px; max-height:236px; }
-.IIFT_2010_29sol::after {content: '\00a0';display: inline-block; width:239px; height:236px; background-position: 50.61590145576708% 76.45305514157972%;background-size: 847.2803347280335% 668.6440677966102%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2010_29sol::after {content: '\00a0';display: inline-block; width:239px; height:236px; background-position: 65.75571667596208% 66.28930817610063%;background-size: 850.2092050209205% 773.728813559322%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2010_29sol::after {max-width:239px; width:100%;height:0;padding: 0 0 98.74476987447699% 0;}
 .IIFT_2010_37sol {max-width:289px; max-height:107px; }
-.IIFT_2010_37sol::after {content: '\00a0';display: inline-block; width:289px; height:107px; background-position: 51.324884792626726% 98.50441876274643%;background-size: 700.6920415224913% 1474.766355140187%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2010_37sol::after {content: '\00a0';display: inline-block; width:289px; height:107px; background-position: 25.932300631095814% 89.586969168121%;background-size: 703.1141868512111% 1706.5420560747664%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2010_37sol::after {max-width:289px; width:100%;height:0;padding: 0 0 37.0242214532872% 0;}
 .IIFT_2010_38sol {max-width:262px; max-height:113px; }
-.IIFT_2010_38sol::after {content: '\00a0';display: inline-block; width:262px; height:113px; background-position: 67.55530346001134% 63.7542662116041%;background-size: 772.9007633587786% 1396.4601769911505%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2010_38sol::after {content: '\00a0';display: inline-block; width:262px; height:113px; background-position: 96.94915254237289% 15.528312901342673%;background-size: 775.5725190839695% 1615.929203539823%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2010_38sol::after {max-width:262px; width:100%;height:0;padding: 0 0 43.12977099236641% 0;}
 .IIFT_2010_45sol {max-width:272px; max-height:185px; }
-.IIFT_2010_45sol::after {content: '\00a0';display: inline-block; width:272px; height:185px; background-position: 50.88419851682829% 90.66762383345298%;background-size: 744.4852941176471% 852.972972972973%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2010_45sol::after {content: '\00a0';display: inline-block; width:272px; height:185px; background-position: 42.61363636363637% 54.72273004265691%;background-size: 747.0588235294117% 987.027027027027%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2010_45sol::after {max-width:272px; width:100%;height:0;padding: 0 0 68.01470588235294% 0;}
 .IIFT_2010_46 {max-width:385px; max-height:205px; }
-.IIFT_2010_46::after {content: '\00a0';display: inline-block; width:385px; height:205px; background-position: 31.585365853658537% 76.25637290604516%;background-size: 525.974025974026% 769.7560975609756%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2010_46::after {content: '\00a0';display: inline-block; width:385px; height:205px; background-position: 98.6642380085003% 84.20727945712522%;background-size: 527.7922077922078% 890.7317073170732%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2010_46::after {max-width:385px; width:100%;height:0;padding: 0 0 53.246753246753244% 0;}
 .IIFT_2010_58sol {max-width:460px; max-height:273px; }
-.IIFT_2010_58sol::after {content: '\00a0';display: inline-block; width:460px; height:273px; background-position: 26.19808306709265% 47.04980842911878%;background-size: 440.2173913043478% 578.021978021978%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2010_58sol::after {content: '\00a0';display: inline-block; width:460px; height:273px; background-position: 76.97201017811705% 50.225370251126854%;background-size: 441.7391304347826% 668.8644688644689%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2010_58sol::after {max-width:460px; width:100%;height:0;padding: 0 0 59.34782608695652% 0;}
 .IIFT_2010_62 {max-width:437px; max-height:333px; }
-.IIFT_2010_62::after {content: '\00a0';display: inline-block; width:437px; height:333px; background-position: 48.36272040302267% 0.08032128514056225%;background-size: 463.3867276887872% 473.8738738738739%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2010_62::after {content: '\00a0';display: inline-block; width:437px; height:333px; background-position: 50.84639498432602% 0.06697923643670463%;background-size: 464.9885583524027% 548.3483483483484%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2010_62::after {max-width:437px; width:100%;height:0;padding: 0 0 76.20137299771167% 0;}
 .IIFT_2010_63 {max-width:466px; max-height:290px; }
-.IIFT_2010_63::after {content: '\00a0';display: inline-block; width:466px; height:290px; background-position: 78.89672867222579% 24.301242236024844%;background-size: 434.54935622317595% 544.1379310344828%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2010_63::after {content: '\00a0';display: inline-block; width:466px; height:290px; background-position: 79.757343550447% 0.06510416666666667%;background-size: 436.05150214592277% 629.6551724137931%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2010_63::after {max-width:466px; width:100%;height:0;padding: 0 0 62.23175965665236% 0;}
 .IIFT_2011_58sol_a {max-width:153px; max-height:177px; }
-.IIFT_2011_58sol_a::after {content: '\00a0';display: inline-block; width:153px; height:177px; background-position: 93.42948717948718% 83.01213418986438%;background-size: 1323.5294117647059% 891.5254237288135%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2011_58sol_a::after {content: '\00a0';display: inline-block; width:153px; height:177px; background-position: 30.28206492815327% 99.93935718617344%;background-size: 1328.1045751633987% 1031.638418079096%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2011_58sol_a::after {max-width:153px; width:100%;height:0;padding: 0 0 115.68627450980392% 0;}
 .IIFT_2011_58sol_b {max-width:166px; max-height:167px; }
-.IIFT_2011_58sol_b::after {content: '\00a0';display: inline-block; width:166px; height:167px; background-position: 99.51586874663798% 67.89510985116938%;background-size: 1219.879518072289% 944.9101796407185%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2011_58sol_b::after {content: '\00a0';display: inline-block; width:166px; height:167px; background-position: 21.543408360128616% 99.39722724532851%;background-size: 1224.0963855421687% 1093.4131736526947%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2011_58sol_b::after {max-width:166px; width:100%;height:0;padding: 0 0 100.60240963855422% 0;}
 .IIFT_2011_63 {max-width:459px; max-height:311px; }
-.IIFT_2011_63::after {content: '\00a0';display: inline-block; width:459px; height:311px; background-position: 77.01149425287356% 0.07892659826361484%;background-size: 441.1764705882353% 507.39549839228295%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2011_63::after {content: '\00a0';display: inline-block; width:459px; height:311px; background-position: 47.679593134138585% 38.679867986798676%;background-size: 442.70152505446623% 587.1382636655949%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2011_63::after {max-width:459px; width:100%;height:0;padding: 0 0 67.75599128540306% 0;}
 .IIFT_2011_82sol {max-width:331px; max-height:229px; }
-.IIFT_2011_82sol::after {content: '\00a0';display: inline-block; width:331px; height:229px; background-position: 51.41676505312869% 45.51519644180875%;background-size: 611.7824773413897% 689.0829694323144%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2011_82sol::after {content: '\00a0';display: inline-block; width:331px; height:229px; background-position: 99.52968841857731% 35.190983093299934%;background-size: 613.8972809667674% 797.3799126637555%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2011_82sol::after {max-width:331px; width:100%;height:0;padding: 0 0 69.18429003021149% 0;}
 .IIFT_2011_83sol {max-width:232px; max-height:235px; }
-.IIFT_2011_83sol::after {content: '\00a0';display: inline-block; width:232px; height:235px; background-position: 81.48354712771891% 69.5457930007446%;background-size: 872.8448275862069% 671.4893617021277%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2011_83sol::after {content: '\00a0';display: inline-block; width:232px; height:235px; background-position: 66.66666666666667% 81.14393463230672%;background-size: 875.8620689655172% 777.0212765957447%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2011_83sol::after {max-width:232px; width:100%;height:0;padding: 0 0 101.29310344827586% 0;}
 .IIFT_2011_92sol {max-width:155px; max-height:204px; }
-.IIFT_2011_92sol::after {content: '\00a0';display: inline-block; width:155px; height:204px; background-position: 90.58823529411765% 69.72343522561863%;background-size: 1306.4516129032259% 773.5294117647059%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2011_92sol::after {content: '\00a0';display: inline-block; width:155px; height:204px; background-position: 54.50186467767715% 64.30332922318125%;background-size: 1310.967741935484% 895.0980392156863%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2011_92sol::after {max-width:155px; width:100%;height:0;padding: 0 0 131.61290322580646% 0;}
 .IIFT_2011_93sol {max-width:153px; max-height:207px; }
-.IIFT_2011_93sol::after {content: '\00a0';display: inline-block; width:153px; height:207px; background-position: 62.23290598290598% 90.51787016776076%;background-size: 1323.5294117647059% 762.3188405797101%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2011_93sol::after {content: '\00a0';display: inline-block; width:153px; height:207px; background-position: 90.63331559340075% 97.03520691785053%;background-size: 1328.1045751633987% 882.1256038647343%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2011_93sol::after {max-width:153px; width:100%;height:0;padding: 0 0 135.2941176470588% 0;}
 .IIFT_2011_98sol {max-width:373px; max-height:159px; }
-.IIFT_2011_98sol::after {content: '\00a0';display: inline-block; width:373px; height:159px; background-position: 31.35593220338983% 88.30162085976039%;background-size: 542.8954423592493% 992.4528301886793%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2011_98sol::after {content: '\00a0';display: inline-block; width:373px; height:159px; background-position: 99.7588908981314% 63.22735452909418%;background-size: 544.7721179624665% 1148.427672955975%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2011_98sol::after {max-width:373px; width:100%;height:0;padding: 0 0 42.62734584450402% 0;}
 .IIFT_2011_99sol {max-width:372px; max-height:150px; }
-.IIFT_2011_99sol::after {content: '\00a0';display: inline-block; width:372px; height:150px; background-position: 31.33696309739867% 98.94957983193277%;background-size: 544.3548387096774% 1052%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2011_99sol::after {content: '\00a0';display: inline-block; width:372px; height:150px; background-position: 99.6987951807229% 72.43436754176611%;background-size: 546.236559139785% 1217.3333333333333%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2011_99sol::after {max-width:372px; width:100%;height:0;padding: 0 0 40.32258064516129% 0;}
 .IIFT_2012_1 {max-width:351px; max-height:215px; }
-.IIFT_2012_1::after {content: '\00a0';display: inline-block; width:351px; height:215px; background-position: 99.5221027479092% 0.07336757153338225%;background-size: 576.9230769230769% 733.953488372093%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2012_1::after {content: '\00a0';display: inline-block; width:351px; height:215px; background-position: 99.40511600237953% 49.16201117318436%;background-size: 578.9173789173789% 849.3023255813954%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2012_1::after {max-width:351px; width:100%;height:0;padding: 0 0 61.25356125356125% 0;}
 .IIFT_2012_123sol {max-width:130px; max-height:119px; }
-.IIFT_2012_123sol::after {content: '\00a0';display: inline-block; width:130px; height:119px; background-position: 99.94722955145119% 91.91226867717614%;background-size: 1557.6923076923076% 1326.0504201680671%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2012_123sol::after {content: '\00a0';display: inline-block; width:130px; height:119px; background-position: 75.34174553101998% 82.36672524897482%;background-size: 1563.076923076923% 1534.453781512605%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2012_123sol::after {max-width:130px; width:100%;height:0;padding: 0 0 91.53846153846153% 0;}
 .IIFT_2012_124sol {max-width:144px; max-height:154px; }
-.IIFT_2012_124sol::after {content: '\00a0';display: inline-block; width:144px; height:154px; background-position: 92.98245614035088% 94.17134831460675%;background-size: 1406.25% 1024.6753246753246%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2012_124sol::after {content: '\00a0';display: inline-block; width:144px; height:154px; background-position: 98.35805084745763% 93.95933014354067%;background-size: 1411.111111111111% 1185.7142857142858%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2012_124sol::after {max-width:144px; width:100%;height:0;padding: 0 0 106.94444444444444% 0;}
 .IIFT_2012_15 {max-width:350px; max-height:450px; }
-.IIFT_2012_15::after {content: '\00a0';display: inline-block; width:350px; height:450px; background-position: 0.05970149253731343% 96.54255319148936%;background-size: 578.5714285714286% 350.6666666666667%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2012_15::after {content: '\00a0';display: inline-block; width:350px; height:450px; background-position: 26.872770511296075% 79.14244186046511%;background-size: 580.5714285714286% 405.77777777777777%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2012_15::after {max-width:350px; width:100%;height:0;padding: 0 0 128.57142857142858% 0;}
 .IIFT_2012_18 {max-width:339px; max-height:548px; }
-.IIFT_2012_18::after {content: '\00a0';display: inline-block; width:339px; height:548px; background-position: 25.38552787663108% 0.0970873786407767%;background-size: 597.3451327433628% 287.95620437956205%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2012_18::after {content: '\00a0';display: inline-block; width:339px; height:548px; background-position: 0.05906674542232723% 46.244131455399064%;background-size: 599.4100294985251% 333.2116788321168%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2012_18::after {max-width:339px; width:100%;height:0;padding: 0 0 161.6519174041298% 0;}
 .IIFT_2012_32sol {max-width:482px; max-height:236px; }
-.IIFT_2012_32sol::after {content: '\00a0';display: inline-block; width:482px; height:236px; background-position: 79.71484121840571% 45.007451564828614%;background-size: 420.1244813278008% 668.6440677966102%;background-image: url(iiftset2.png);padding: 0; }
+.IIFT_2012_32sol::after {content: '\00a0';display: inline-block; width:482px; height:236px; background-position: 27.612903225806452% 21.949685534591193%;background-size: 421.57676348547716% 773.728813559322%;background-image: url(iiftset2.png);padding: 0; }
 div.IIFT_2012_32sol::after {max-width:482px; width:100%;height:0;padding: 0 0 48.96265560165975% 0;}
 
-/* $TexturePacker:SmartUpdate:82b27d670f5937a329db7d005fce8a5d:f6a6afee1bf2aeb96a55c7ed9f48ef28:b4c32799757a8aad0855186ec315b08f$ */
+/* $TexturePacker:SmartUpdate:e74a67455d12358eed8998e623a6424d:00ad01952ed639213e230367c5fb0a15:b4c32799757a8aad0855186ec315b08f$ */
