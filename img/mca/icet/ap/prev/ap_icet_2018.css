@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.apicet_2018_an_49 {max-width:227px; max-height:276px; }
+.apicet_2018_an_49::after {content: '\00a0';display: inline-block; width:227px; height:276px; background-position: 99.92673992673993% 0.7518796992481203%;background-size: 701.3215859030837% 148.18840579710144%;background-image: url(ap_icet_2018.png);padding: 0; }
+div.apicet_2018_an_49::after {max-width:227px; width:100%;height:0;padding: 0 0 121.58590308370044% 0;}
+.apicet_2018_fn_46 {max-width:661px; max-height:400px; }
+.apicet_2018_fn_46::after {content: '\00a0';display: inline-block; width:661px; height:400px; background-position: 45.757250268528466% 11.11111111111111%;background-size: 240.84720121028744% 102.25%;background-image: url(ap_icet_2018.png);padding: 0; }
+div.apicet_2018_fn_46::after {max-width:661px; width:100%;height:0;padding: 0 0 60.514372163388806% 0;}
+.apicet_2018_fn_49 {max-width:424px; max-height:407px; }
+.apicet_2018_fn_49::after {content: '\00a0';display: inline-block; width:424px; height:407px; background-position: 0.08561643835616438% 50%;background-size: 375.47169811320754% 100.4914004914005%;background-image: url(ap_icet_2018.png);padding: 0; }
+div.apicet_2018_fn_49::after {max-width:424px; width:100%;height:0;padding: 0 0 95.99056603773585% 0;}
+.apicet_2018_fn_54 {max-width:275px; max-height:304px; }
+.apicet_2018_fn_54::after {content: '\00a0';display: inline-block; width:275px; height:304px; background-position: 82.61199696279422% 0.9523809523809523%;background-size: 578.9090909090909% 134.53947368421052%;background-image: url(ap_icet_2018.png);padding: 0; }
+div.apicet_2018_fn_54::after {max-width:275px; width:100%;height:0;padding: 0 0 110.54545454545455% 0;}
+
+/* $TexturePacker:SmartUpdate:a2f5e80a758de45435e8bcd6639c54db:8c7348d21d3ba623a60121ced4ecc4d0:097d0b039b3b89271383a3944aebf8d0$ */
