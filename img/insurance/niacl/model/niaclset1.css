@@ -1,0 +1,125 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.NIACL_MP1_6 {max-width:520px; max-height:368px; }
+.NIACL_MP1_6::after {content: '\00a0';display: inline-block; width:520px; height:368px; background-position: 0.06578947368421052% 0.11587485515643106%;background-size: 392.3076923076923% 334.5108695652174%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP1_6::after {max-width:520px; width:100%;height:0;padding: 0 0 70.76923076923077% 0;}
+.NIACL_MP1_SOL_11 {max-width:320px; max-height:123px; }
+.NIACL_MP1_SOL_11::after {content: '\00a0';display: inline-block; width:320px; height:123px; background-position: 26.27906976744186% 99.09747292418773%;background-size: 637.5% 1000.8130081300814%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP1_SOL_11::after {max-width:320px; width:100%;height:0;padding: 0 0 38.4375% 0;}
+.NIACL_MP1_SOL_12 {max-width:450px; max-height:70px; }
+.NIACL_MP1_SOL_12::after {content: '\00a0';display: inline-block; width:450px; height:70px; background-position: 61.19496855345912% 25.064599483204134%;background-size: 453.3333333333333% 1758.5714285714287%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP1_SOL_12::after {max-width:450px; width:100%;height:0;padding: 0 0 15.555555555555555% 0;}
+.NIACL_MP1_SOL_13 {max-width:450px; max-height:88px; }
+.NIACL_MP1_SOL_13::after {content: '\00a0';display: inline-block; width:450px; height:88px; background-position: 89.55974842767296% 24.58442694663167%;background-size: 453.3333333333333% 1398.8636363636363%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP1_SOL_13::after {max-width:450px; width:100%;height:0;padding: 0 0 19.555555555555557% 0;}
+.NIACL_MP1_SOL_15 {max-width:320px; max-height:165px; }
+.NIACL_MP1_SOL_15::after {content: '\00a0';display: inline-block; width:320px; height:165px; background-position: 82.26744186046511% 83.86491557223265%;background-size: 637.5% 746.060606060606%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP1_SOL_15::after {max-width:320px; width:100%;height:0;padding: 0 0 51.5625% 0;}
+.NIACL_MP1_SOL_19 {max-width:450px; max-height:204px; }
+.NIACL_MP1_SOL_19::after {content: '\00a0';display: inline-block; width:450px; height:204px; background-position: 0.06289308176100629% 99.4157740993184%;background-size: 453.3333333333333% 603.4313725490196%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP1_SOL_19::after {max-width:450px; width:100%;height:0;padding: 0 0 45.333333333333336% 0;}
+.NIACL_MP1_SOL_20 {max-width:320px; max-height:288px; }
+.NIACL_MP1_SOL_20::after {content: '\00a0';display: inline-block; width:320px; height:288px; background-position: 44.94186046511628% 87.8048780487805%;background-size: 637.5% 427.43055555555554%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP1_SOL_20::after {max-width:320px; width:100%;height:0;padding: 0 0 90% 0;}
+.NIACL_MP1_SOL_37 {max-width:450px; max-height:279px; }
+.NIACL_MP1_SOL_37::after {content: '\00a0';display: inline-block; width:450px; height:279px; background-position: 89.55974842767296% 0.10504201680672269%;background-size: 453.3333333333333% 441.21863799283153%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP1_SOL_37::after {max-width:450px; width:100%;height:0;padding: 0 0 62% 0;}
+.NIACL_MP1_SOL_40 {max-width:320px; max-height:109px; }
+.NIACL_MP1_SOL_40::after {content: '\00a0';display: inline-block; width:320px; height:109px; background-position: 44.94186046511628% 99.55436720142602%;background-size: 637.5% 1129.3577981651376%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP1_SOL_40::after {max-width:320px; width:100%;height:0;padding: 0 0 34.0625% 0;}
+.NIACL_MP1_SOL_42 {max-width:320px; max-height:109px; }
+.NIACL_MP1_SOL_42::after {content: '\00a0';display: inline-block; width:320px; height:109px; background-position: 63.604651162790695% 97.50445632798574%;background-size: 637.5% 1129.3577981651376%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP1_SOL_42::after {max-width:320px; width:100%;height:0;padding: 0 0 34.0625% 0;}
+.NIACL_MP1_SOL_47 {max-width:450px; max-height:186px; }
+.NIACL_MP1_SOL_47::after {content: '\00a0';display: inline-block; width:450px; height:186px; background-position: 32.83018867924528% 32.72727272727273%;background-size: 453.3333333333333% 661.8279569892474%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP1_SOL_47::after {max-width:450px; width:100%;height:0;padding: 0 0 41.333333333333336% 0;}
+.NIACL_MP1_SOL_48 {max-width:450px; max-height:143px; }
+.NIACL_MP1_SOL_48::after {content: '\00a0';display: inline-block; width:450px; height:143px; background-position: 61.19496855345912% 33.27205882352941%;background-size: 453.3333333333333% 860.8391608391609%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP1_SOL_48::after {max-width:450px; width:100%;height:0;padding: 0 0 31.77777777777778% 0;}
+.NIACL_MP1_SOL_49 {max-width:450px; max-height:138px; }
+.NIACL_MP1_SOL_49::after {content: '\00a0';display: inline-block; width:450px; height:138px; background-position: 89.55974842767296% 33.85178408051235%;background-size: 453.3333333333333% 892.0289855072464%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP1_SOL_49::after {max-width:450px; width:100%;height:0;padding: 0 0 30.666666666666668% 0;}
+.NIACL_MP1_SOL_50 {max-width:450px; max-height:303px; }
+.NIACL_MP1_SOL_50::after {content: '\00a0';display: inline-block; width:450px; height:303px; background-position: 0.06289308176100629% 77.26293103448276%;background-size: 453.3333333333333% 406.2706270627063%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP1_SOL_50::after {max-width:450px; width:100%;height:0;padding: 0 0 67.33333333333333% 0;}
+.NIACL_MP1_SOL_51 {max-width:450px; max-height:273px; }
+.NIACL_MP1_SOL_51::after {content: '\00a0';display: inline-block; width:450px; height:273px; background-position: 28.427672955974842% 55.21920668058455%;background-size: 453.3333333333333% 450.9157509157509%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP1_SOL_51::after {max-width:450px; width:100%;height:0;padding: 0 0 60.666666666666664% 0;}
+.NIACL_MP1_SOL_52 {max-width:320px; max-height:265px; }
+.NIACL_MP1_SOL_52::after {content: '\00a0';display: inline-block; width:320px; height:265px; background-position: 63.604651162790695% 85.71428571428571%;background-size: 637.5% 464.52830188679246%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP1_SOL_52::after {max-width:320px; width:100%;height:0;padding: 0 0 82.8125% 0;}
+.NIACL_MP2_SOL_41 {max-width:84px; max-height:76px; }
+.NIACL_MP2_SOL_41::after {content: '\00a0';display: inline-block; width:84px; height:76px; background-position: 95.85889570552148% 9.264069264069263%;background-size: 2428.5714285714284% 1619.7368421052631%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP2_SOL_41::after {max-width:84px; width:100%;height:0;padding: 0 0 90.47619047619048% 0;}
+.NIACL_MP2_SOL_43 {max-width:84px; max-height:76px; }
+.NIACL_MP2_SOL_43::after {content: '\00a0';display: inline-block; width:84px; height:76px; background-position: 95.85889570552148% 15.930735930735931%;background-size: 2428.5714285714284% 1619.7368421052631%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP2_SOL_43::after {max-width:84px; width:100%;height:0;padding: 0 0 90.47619047619048% 0;}
+.NIACL_MP2_SOL_43_1 {max-width:84px; max-height:76px; }
+.NIACL_MP2_SOL_43_1::after {content: '\00a0';display: inline-block; width:84px; height:76px; background-position: 95.85889570552148% 15.930735930735931%;background-size: 2428.5714285714284% 1619.7368421052631%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP2_SOL_43_1::after {max-width:84px; width:100%;height:0;padding: 0 0 90.47619047619048% 0;}
+.NIACL_MP2_SOL_44 {max-width:84px; max-height:76px; }
+.NIACL_MP2_SOL_44::after {content: '\00a0';display: inline-block; width:84px; height:76px; background-position: 95.85889570552148% 15.930735930735931%;background-size: 2428.5714285714284% 1619.7368421052631%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP2_SOL_44::after {max-width:84px; width:100%;height:0;padding: 0 0 90.47619047619048% 0;}
+.NIACL_MP2_SOL_45 {max-width:81px; max-height:78px; }
+.NIACL_MP2_SOL_45::after {content: '\00a0';display: inline-block; width:81px; height:78px; background-position: 95.71209800918837% 22.636600173460536%;background-size: 2518.5185185185187% 1578.2051282051282%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP2_SOL_45::after {max-width:81px; width:100%;height:0;padding: 0 0 96.29629629629629% 0;}
+.NIACL_MP2_SOL_45_1 {max-width:81px; max-height:78px; }
+.NIACL_MP2_SOL_45_1::after {content: '\00a0';display: inline-block; width:81px; height:78px; background-position: 95.71209800918837% 22.636600173460536%;background-size: 2518.5185185185187% 1578.2051282051282%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP2_SOL_45_1::after {max-width:81px; width:100%;height:0;padding: 0 0 96.29629629629629% 0;}
+.NIACL_MP2_SOL_46 {max-width:250px; max-height:148px; }
+.NIACL_MP2_SOL_46::after {content: '\00a0';display: inline-block; width:250px; height:148px; background-position: 96.98324022346368% 99.90766389658357%;background-size: 816% 831.7567567567568%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP2_SOL_46::after {max-width:250px; width:100%;height:0;padding: 0 0 59.2% 0;}
+.NIACL_MP2_SOL_51 {max-width:320px; max-height:294px; }
+.NIACL_MP2_SOL_51::after {content: '\00a0';display: inline-block; width:320px; height:294px; background-position: 26.27906976744186% 85.6990394877268%;background-size: 637.5% 418.7074829931973%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP2_SOL_51::after {max-width:320px; width:100%;height:0;padding: 0 0 91.875% 0;}
+.NIACL_MP2_SOL_61 {max-width:450px; max-height:113px; }
+.NIACL_MP2_SOL_61::after {content: '\00a0';display: inline-block; width:450px; height:113px; background-position: 61.19496855345912% 45.25939177101968%;background-size: 453.3333333333333% 1089.3805309734514%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP2_SOL_61::after {max-width:450px; width:100%;height:0;padding: 0 0 25.11111111111111% 0;}
+.NIACL_MP3_31 {max-width:450px; max-height:289px; }
+.NIACL_MP3_31::after {content: '\00a0';display: inline-block; width:450px; height:289px; background-position: 61.19496855345912% 0.10615711252653928%;background-size: 453.3333333333333% 425.9515570934256%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP3_31::after {max-width:450px; width:100%;height:0;padding: 0 0 64.22222222222223% 0;}
+.NIACL_MP3_SOL_11 {max-width:450px; max-height:79px; }
+.NIACL_MP3_SOL_11::after {content: '\00a0';display: inline-block; width:450px; height:79px; background-position: 89.55974842767296% 51.302083333333336%;background-size: 453.3333333333333% 1558.2278481012659%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP3_SOL_11::after {max-width:450px; width:100%;height:0;padding: 0 0 17.555555555555557% 0;}
+.NIACL_MP3_SOL_12 {max-width:450px; max-height:72px; }
+.NIACL_MP3_SOL_12::after {content: '\00a0';display: inline-block; width:450px; height:72px; background-position: 56.79245283018868% 53.49439171699741%;background-size: 453.3333333333333% 1709.7222222222222%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP3_SOL_12::after {max-width:450px; width:100%;height:0;padding: 0 0 16% 0;}
+.NIACL_MP3_SOL_13 {max-width:450px; max-height:63px; }
+.NIACL_MP3_SOL_13::after {content: '\00a0';display: inline-block; width:450px; height:63px; background-position: 56.79245283018868% 65.41095890410959%;background-size: 453.3333333333333% 1953.968253968254%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP3_SOL_13::after {max-width:450px; width:100%;height:0;padding: 0 0 14% 0;}
+.NIACL_MP3_SOL_14 {max-width:450px; max-height:70px; }
+.NIACL_MP3_SOL_14::after {content: '\00a0';display: inline-block; width:450px; height:70px; background-position: 56.79245283018868% 59.689922480620154%;background-size: 453.3333333333333% 1758.5714285714287%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP3_SOL_14::after {max-width:450px; width:100%;height:0;padding: 0 0 15.555555555555555% 0;}
+.NIACL_MP3_SOL_15 {max-width:450px; max-height:81px; }
+.NIACL_MP3_SOL_15::after {content: '\00a0';display: inline-block; width:450px; height:81px; background-position: 89.55974842767296% 44.26086956521739%;background-size: 453.3333333333333% 1519.7530864197531%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP3_SOL_15::after {max-width:450px; width:100%;height:0;padding: 0 0 18% 0;}
+.NIACL_MP3_SOL_40 {max-width:148px; max-height:105px; }
+.NIACL_MP3_SOL_40::after {content: '\00a0';display: inline-block; width:148px; height:105px; background-position: 99.1014799154334% 0.08880994671403197%;background-size: 1378.3783783783783% 1172.3809523809523%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP3_SOL_40::after {max-width:148px; width:100%;height:0;padding: 0 0 70.94594594594595% 0;}
+.NIACL_MP3_SOL_46 {max-width:256px; max-height:217px; }
+.NIACL_MP3_SOL_46::after {content: '\00a0';display: inline-block; width:256px; height:217px; background-position: 97.30941704035874% 85.20710059171597%;background-size: 796.875% 567.2811059907834%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP3_SOL_46::after {max-width:256px; width:100%;height:0;padding: 0 0 84.765625% 0;}
+.NIACL_MP3_SOL_62 {max-width:450px; max-height:340px; }
+.NIACL_MP3_SOL_62::after {content: '\00a0';display: inline-block; width:450px; height:340px; background-position: 32.83018867924528% 0.1122334455667789%;background-size: 453.3333333333333% 362.05882352941177%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP3_SOL_62::after {max-width:450px; width:100%;height:0;padding: 0 0 75.55555555555556% 0;}
+.NIACL_MP3_SOL_63 {max-width:450px; max-height:346px; }
+.NIACL_MP3_SOL_63::after {content: '\00a0';display: inline-block; width:450px; height:346px; background-position: 0.06289308176100629% 41.80790960451977%;background-size: 453.3333333333333% 355.78034682080926%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP3_SOL_63::after {max-width:450px; width:100%;height:0;padding: 0 0 76.88888888888889% 0;}
+.NIACL_MP3_SOL_64 {max-width:318px; max-height:222px; }
+.NIACL_MP3_SOL_64::after {content: '\00a0';display: inline-block; width:318px; height:222px; background-position: 82.1718931475029% 66.50148662041626%;background-size: 641.5094339622641% 554.5045045045046%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP3_SOL_64::after {max-width:318px; width:100%;height:0;padding: 0 0 69.81132075471699% 0;}
+.NIACL_MP3_SOL_65 {max-width:305px; max-height:192px; }
+.NIACL_MP3_SOL_65::after {content: '\00a0';display: inline-block; width:305px; height:192px; background-position: 99.94236311239193% 64.58132820019249%;background-size: 668.8524590163935% 641.1458333333334%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP3_SOL_65::after {max-width:305px; width:100%;height:0;padding: 0 0 62.950819672131146% 0;}
+.NIACL_MP3_SOL_66 {max-width:320px; max-height:108px; }
+.NIACL_MP3_SOL_66::after {content: '\00a0';display: inline-block; width:320px; height:108px; background-position: 82.26744186046511% 94.39002671415851%;background-size: 637.5% 1139.8148148148148%;background-image: url(niaclset1.png);padding: 0; }
+div.NIACL_MP3_SOL_66::after {max-width:320px; width:100%;height:0;padding: 0 0 33.75% 0;}
+
+/* $TexturePacker:SmartUpdate:e7a22e5c63720f733831d743e72381a8:33f10d0edf86764bdf4975f02555e7eb:31e3937ea889c9d73330b366caa49302$ */
