@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.ms_az_103_t1_10 {max-width:688px; max-height:504px; }
+.ms_az_103_t1_10::after {content: '\00a0';display: inline-block; width:688px; height:504px; background-position: 0.0823045267489712% 50%;background-size: 276.5988372093023% 100.39682539682539%;background-image: url(set2.png);padding: 0; }
+div.ms_az_103_t1_10::after {max-width:688px; width:100%;height:0;padding: 0 0 73.25581395348837% 0;}
+.ms_az_103_t1_13 {max-width:511px; max-height:424px; }
+.ms_az_103_t1_13::after {content: '\00a0';display: inline-block; width:511px; height:424px; background-position: 49.56896551724138% 1.2195121951219512%;background-size: 372.4070450097847% 119.33962264150944%;background-image: url(set2.png);padding: 0; }
+div.ms_az_103_t1_13::after {max-width:511px; width:100%;height:0;padding: 0 0 82.97455968688845% 0;}
+.ms_az_103_t2_27 {max-width:700px; max-height:330px; }
+.ms_az_103_t2_27::after {content: '\00a0';display: inline-block; width:700px; height:330px; background-position: 99.91687448046551% 0.5681818181818182%;background-size: 271.85714285714283% 153.33333333333334%;background-image: url(set2.png);padding: 0; }
+div.ms_az_103_t2_27::after {max-width:700px; width:100%;height:0;padding: 0 0 47.142857142857146% 0;}
+
+/* $TexturePacker:SmartUpdate:9d7fc6255b2ec2a519d25baeaeb1c76c:b46feb0edf2ca470d1ef3bd0bc092168:ed44c3669e9d144894756af6eef5fe1c$ */
