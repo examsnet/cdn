@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.azure_ds_dp_201_test2_5 {max-width:600px; max-height:299px; }
+.azure_ds_dp_201_test2_5::after {content: '\00a0';display: inline-block; width:600px; height:299px; background-position: 2.272727272727273% 99.74619289340102%;background-size: 107.33333333333333% 231.77257525083613%;background-image: url(dpset1.png);padding: 0; }
+div.azure_ds_dp_201_test2_5::after {max-width:600px; width:100%;height:0;padding: 0 0 49.833333333333336% 0;}
+.azure_ds_dp_201_test2_5sol {max-width:642px; max-height:391px; }
+.azure_ds_dp_201_test2_5sol::after {content: '\00a0';display: inline-block; width:642px; height:391px; background-position: 50% 0.33112582781456956%;background-size: 100.31152647975078% 177.2378516624041%;background-image: url(dpset1.png);padding: 0; }
+div.azure_ds_dp_201_test2_5sol::after {max-width:642px; width:100%;height:0;padding: 0 0 60.90342679127726% 0;}
+
+/* $TexturePacker:SmartUpdate:919916ae3ae84433340f35231c975f37:1997c5d642415ed212a1d1ffdf000639:1dd48fb862fc37e48e6ea200b6641518$ */
