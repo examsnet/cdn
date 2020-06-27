@@ -1,0 +1,110 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.AFCAT_2020_P1_100 {max-width:450px; max-height:320px; }
+.AFCAT_2020_P1_100::after {content: '\00a0';display: inline-block; width:450px; height:320px; background-position: 76.32352941176471% 0.09407337723424271%;background-size: 402.22222222222223% 432.1875%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_100::after {max-width:450px; width:100%;height:0;padding: 0 0 71.11111111111111% 0;}
+.AFCAT_2020_P1_30sol {max-width:1036px; max-height:331px; }
+.AFCAT_2020_P1_30sol::after {content: '\00a0';display: inline-block; width:1036px; height:331px; background-position: 0.12919896640826872% 0.09505703422053231%;background-size: 174.71042471042472% 417.8247734138973%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_30sol::after {max-width:1036px; width:100%;height:0;padding: 0 0 31.94980694980695% 0;}
+.AFCAT_2020_P1_34sol {max-width:397px; max-height:283px; }
+.AFCAT_2020_P1_34sol::after {content: '\00a0';display: inline-block; width:397px; height:283px; background-position: 28.450106157112526% 30.272727272727273%;background-size: 455.91939546599497% 488.69257950530033%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_34sol::after {max-width:397px; width:100%;height:0;padding: 0 0 71.28463476070529% 0;}
+.AFCAT_2020_P1_40sol {max-width:400px; max-height:746px; }
+.AFCAT_2020_P1_40sol::after {content: '\00a0';display: inline-block; width:400px; height:746px; background-position: 0.07092198581560284% 52.27629513343799%;background-size: 452.5% 185.3887399463807%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_40sol::after {max-width:400px; width:100%;height:0;padding: 0 0 186.5% 0;}
+.AFCAT_2020_P1_57sol {max-width:250px; max-height:186px; }
+.AFCAT_2020_P1_57sol::after {content: '\00a0';display: inline-block; width:250px; height:186px; background-position: 74.61538461538461% 51.294903926482874%;background-size: 724% 743.5483870967741%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_57sol::after {max-width:250px; width:100%;height:0;padding: 0 0 74.4% 0;}
+.AFCAT_2020_P1_87_a {max-width:160px; max-height:151px; }
+.AFCAT_2020_P1_87_a::after {content: '\00a0';display: inline-block; width:160px; height:151px; background-position: 95.51515151515152% 58.116883116883116%;background-size: 1131.25% 915.8940397350993%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_87_a::after {max-width:160px; width:100%;height:0;padding: 0 0 94.375% 0;}
+.AFCAT_2020_P1_87_b {max-width:160px; max-height:162px; }
+.AFCAT_2020_P1_87_b::after {content: '\00a0';display: inline-block; width:160px; height:162px; background-position: 85.27272727272727% 66.01146601146601%;background-size: 1131.25% 853.7037037037037%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_87_b::after {max-width:160px; width:100%;height:0;padding: 0 0 101.25% 0;}
+.AFCAT_2020_P1_87_c {max-width:160px; max-height:160px; }
+.AFCAT_2020_P1_87_c::after {content: '\00a0';display: inline-block; width:160px; height:160px; background-position: 95.03030303030303% 70.97301717089125%;background-size: 1131.25% 864.375%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_87_c::after {max-width:160px; width:100%;height:0;padding: 0 0 100% 0;}
+.AFCAT_2020_P1_87_d {max-width:160px; max-height:154px; }
+.AFCAT_2020_P1_87_d::after {content: '\00a0';display: inline-block; width:160px; height:154px; background-position: 65.75757575757575% 94.06021155410903%;background-size: 1131.25% 898.0519480519481%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_87_d::after {max-width:160px; width:100%;height:0;padding: 0 0 96.25% 0;}
+.AFCAT_2020_P1_88_a {max-width:160px; max-height:158px; }
+.AFCAT_2020_P1_88_a::after {content: '\00a0';display: inline-block; width:160px; height:158px; background-position: 75.51515151515152% 93.06122448979592%;background-size: 1131.25% 875.3164556962025%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_88_a::after {max-width:160px; width:100%;height:0;padding: 0 0 98.75% 0;}
+.AFCAT_2020_P1_88_b {max-width:160px; max-height:169px; }
+.AFCAT_2020_P1_88_b::after {content: '\00a0';display: inline-block; width:160px; height:169px; background-position: 65.75757575757575% 81.21911037891269%;background-size: 1131.25% 818.3431952662722%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_88_b::after {max-width:160px; width:100%;height:0;padding: 0 0 105.625% 0;}
+.AFCAT_2020_P1_88_c {max-width:160px; max-height:152px; }
+.AFCAT_2020_P1_88_c::after {content: '\00a0';display: inline-block; width:160px; height:152px; background-position: 95.03030303030303% 83.59057676685622%;background-size: 1131.25% 909.8684210526316%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_88_c::after {max-width:160px; width:100%;height:0;padding: 0 0 95% 0;}
+.AFCAT_2020_P1_88_d {max-width:160px; max-height:164px; }
+.AFCAT_2020_P1_88_d::after {content: '\00a0';display: inline-block; width:160px; height:164px; background-position: 75.51515151515152% 79.98359310910583%;background-size: 1131.25% 843.2926829268292%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_88_d::after {max-width:160px; width:100%;height:0;padding: 0 0 102.5% 0;}
+.AFCAT_2020_P1_89sol {max-width:200px; max-height:254px; }
+.AFCAT_2020_P1_89sol::after {content: '\00a0';display: inline-block; width:200px; height:254px; background-position: 44.90683229813665% 82.55093002657219%;background-size: 905% 544.488188976378%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_89sol::after {max-width:200px; width:100%;height:0;padding: 0 0 127% 0;}
+.AFCAT_2020_P1_90_a {max-width:160px; max-height:158px; }
+.AFCAT_2020_P1_90_a::after {content: '\00a0';display: inline-block; width:160px; height:158px; background-position: 85.27272727272727% 92.40816326530613%;background-size: 1131.25% 875.3164556962025%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_90_a::after {max-width:160px; width:100%;height:0;padding: 0 0 98.75% 0;}
+.AFCAT_2020_P1_90_b {max-width:160px; max-height:162px; }
+.AFCAT_2020_P1_90_b::after {content: '\00a0';display: inline-block; width:160px; height:162px; background-position: 85.27272727272727% 79.36117936117937%;background-size: 1131.25% 853.7037037037037%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_90_b::after {max-width:160px; width:100%;height:0;padding: 0 0 101.25% 0;}
+.AFCAT_2020_P1_90_c {max-width:160px; max-height:173px; }
+.AFCAT_2020_P1_90_c::after {content: '\00a0';display: inline-block; width:160px; height:173px; background-position: 75.51515151515152% 66.19834710743801%;background-size: 1131.25% 799.4219653179191%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_90_c::after {max-width:160px; width:100%;height:0;padding: 0 0 108.125% 0;}
+.AFCAT_2020_P1_90_d {max-width:160px; max-height:144px; }
+.AFCAT_2020_P1_90_d::after {content: '\00a0';display: inline-block; width:160px; height:144px; background-position: 95.03030303030303% 95.39951573849879%;background-size: 1131.25% 960.4166666666666%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_90_d::after {max-width:160px; width:100%;height:0;padding: 0 0 90% 0;}
+.AFCAT_2020_P1_92 {max-width:360px; max-height:314px; }
+.AFCAT_2020_P1_92::after {content: '\00a0';display: inline-block; width:360px; height:314px; background-position: 27.724137931034484% 57.717492984097284%;background-size: 502.77777777777777% 440.4458598726115%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_92::after {max-width:360px; width:100%;height:0;padding: 0 0 87.22222222222223% 0;}
+.AFCAT_2020_P1_92sol {max-width:160px; max-height:191px; }
+.AFCAT_2020_P1_92sol::after {content: '\00a0';display: inline-block; width:160px; height:191px; background-position: 56% 93.28859060402685%;background-size: 1131.25% 724.0837696335078%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_92sol::after {max-width:160px; width:100%;height:0;padding: 0 0 119.375% 0;}
+.AFCAT_2020_P1_93 {max-width:320px; max-height:344px; }
+.AFCAT_2020_P1_93::after {content: '\00a0';display: inline-block; width:320px; height:344px; background-position: 26.97986577181208% 89.70163618864292%;background-size: 565.625% 402.0348837209302%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_93::after {max-width:320px; width:100%;height:0;padding: 0 0 107.5% 0;}
+.AFCAT_2020_P1_93sol {max-width:160px; max-height:231px; }
+.AFCAT_2020_P1_93sol::after {content: '\00a0';display: inline-block; width:160px; height:231px; background-position: 56% 76.38888888888889%;background-size: 1131.25% 598.7012987012987%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_93sol::after {max-width:160px; width:100%;height:0;padding: 0 0 144.375% 0;}
+.AFCAT_2020_P1_94_a {max-width:250px; max-height:211px; }
+.AFCAT_2020_P1_94_a::after {content: '\00a0';display: inline-block; width:250px; height:211px; background-position: 96.28205128205128% 27.133105802047783%;background-size: 724% 655.4502369668246%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_94_a::after {max-width:250px; width:100%;height:0;padding: 0 0 84.4% 0;}
+.AFCAT_2020_P1_94_b {max-width:400px; max-height:149px; }
+.AFCAT_2020_P1_94_b::after {content: '\00a0';display: inline-block; width:400px; height:149px; background-position: 54.11347517730496% 50.162074554294975%;background-size: 452.5% 928.1879194630873%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_94_b::after {max-width:400px; width:100%;height:0;padding: 0 0 37.25% 0;}
+.AFCAT_2020_P1_94sol {max-width:160px; max-height:191px; }
+.AFCAT_2020_P1_94sol::after {content: '\00a0';display: inline-block; width:160px; height:191px; background-position: 85.75757575757575% 51.51006711409396%;background-size: 1131.25% 724.0837696335078%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_94sol::after {max-width:160px; width:100%;height:0;padding: 0 0 119.375% 0;}
+.AFCAT_2020_P1_95 {max-width:320px; max-height:316px; }
+.AFCAT_2020_P1_95::after {content: '\00a0';display: inline-block; width:320px; height:316px; background-position: 99.93288590604027% 0.09372071227741331%;background-size: 565.625% 437.65822784810126%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_95::after {max-width:320px; width:100%;height:0;padding: 0 0 98.75% 0;}
+.AFCAT_2020_P1_95sol {max-width:160px; max-height:184px; }
+.AFCAT_2020_P1_95sol::after {content: '\00a0';display: inline-block; width:160px; height:184px; background-position: 65.75757575757575% 66.80567139282735%;background-size: 1131.25% 751.6304347826087%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_95sol::after {max-width:160px; width:100%;height:0;padding: 0 0 115% 0;}
+.AFCAT_2020_P1_96 {max-width:320px; max-height:285px; }
+.AFCAT_2020_P1_96::after {content: '\00a0';display: inline-block; width:320px; height:285px; background-position: 53.691275167785236% 30.327868852459016%;background-size: 565.625% 485.2631578947368%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_96::after {max-width:320px; width:100%;height:0;padding: 0 0 89.0625% 0;}
+.AFCAT_2020_P1_96sol {max-width:160px; max-height:185px; }
+.AFCAT_2020_P1_96sol::after {content: '\00a0';display: inline-block; width:160px; height:185px; background-position: 95.51515151515152% 44.24040066777963%;background-size: 1131.25% 747.5675675675676%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_96sol::after {max-width:160px; width:100%;height:0;padding: 0 0 115.625% 0;}
+.AFCAT_2020_P1_97_a {max-width:200px; max-height:177px; }
+.AFCAT_2020_P1_97_a::after {content: '\00a0';display: inline-block; width:200px; height:177px; background-position: 44.90683229813665% 98.424543946932%;background-size: 905% 781.3559322033898%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_97_a::after {max-width:200px; width:100%;height:0;padding: 0 0 88.5% 0;}
+.AFCAT_2020_P1_97_b {max-width:320px; max-height:110px; }
+.AFCAT_2020_P1_97_b::after {content: '\00a0';display: inline-block; width:320px; height:110px; background-position: 51.20805369127517% 60.408483896307935%;background-size: 565.625% 1257.2727272727273%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_97_b::after {max-width:320px; width:100%;height:0;padding: 0 0 34.375% 0;}
+.AFCAT_2020_P1_98 {max-width:380px; max-height:291px; }
+.AFCAT_2020_P1_98::after {content: '\00a0';display: inline-block; width:380px; height:291px; background-position: 78.39160839160839% 29.487179487179485%;background-size: 476.3157894736842% 475.25773195876286%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_98::after {max-width:380px; width:100%;height:0;padding: 0 0 76.57894736842105% 0;}
+.AFCAT_2020_P1_99 {max-width:400px; max-height:302px; }
+.AFCAT_2020_P1_99::after {content: '\00a0';display: inline-block; width:400px; height:302px; background-position: 0.07092198581560284% 99.90749306197965%;background-size: 452.5% 457.94701986754967%;background-image: url(afcat2020.png);padding: 0; }
+div.AFCAT_2020_P1_99::after {max-width:400px; width:100%;height:0;padding: 0 0 75.5% 0;}
+
+/* $TexturePacker:SmartUpdate:d78e26459600f4047ac545fbe34e186d:f68bc64d3b372d1db767225a7ef4d0b3:0d6bfb54c00ba0863bdfa37dbd71bf4c$ */
