@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.KEAM_2020_phy_and_che_29_q {max-width:218px; max-height:160px; }
+.KEAM_2020_phy_and_che_29_q::after {content: '\00a0';display: inline-block; width:218px; height:160px; background-position: 3.4482758620689653% 99.61685823754789%;background-size: 113.30275229357798% 263.125%;background-image: url(keam2020.png);padding: 0; }
+div.KEAM_2020_phy_and_che_29_q::after {max-width:218px; width:100%;height:0;padding: 0 0 73.39449541284404% 0;}
+.KEAM_2020_phy_and_che_31_q {max-width:219px; max-height:119px; }
+.KEAM_2020_phy_and_che_31_q::after {content: '\00a0';display: inline-block; width:219px; height:119px; background-position: 3.5714285714285716% 46.35761589403973%;background-size: 112.78538812785388% 353.781512605042%;background-image: url(keam2020.png);padding: 0; }
+div.KEAM_2020_phy_and_che_31_q::after {max-width:219px; width:100%;height:0;padding: 0 0 54.337899543378995% 0;}
+.KEAM_2020_phy_and_che_52_q {max-width:245px; max-height:138px; }
+.KEAM_2020_phy_and_che_52_q::after {content: '\00a0';display: inline-block; width:245px; height:138px; background-position: 50% 0.35335689045936397%;background-size: 100.81632653061224% 305.07246376811594%;background-image: url(keam2020.png);padding: 0; }
+div.KEAM_2020_phy_and_che_52_q::after {max-width:245px; width:100%;height:0;padding: 0 0 56.326530612244895% 0;}
+
+/* $TexturePacker:SmartUpdate:7c93b13b14271897a8536ae27f81f7ef:84d211509a68d83b34fb0e03325a753d:7ecdb70a66a0fa30e6afb14576727414$ */
