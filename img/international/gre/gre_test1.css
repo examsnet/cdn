@@ -1,0 +1,41 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.gre_pt1_qr1_1 {max-width:333px; max-height:283px; }
+.gre_pt1_qr1_1::after {content: '\00a0';display: inline-block; width:333px; height:283px; background-position: 57.5187969924812% 98.40810419681621%;background-size: 339.63963963963965% 344.1696113074205%;background-image: url(gre_test1.png);padding: 0; }
+div.gre_pt1_qr1_1::after {max-width:333px; width:100%;height:0;padding: 0 0 84.98498498498499% 0;}
+.gre_pt1_qr1_11_para {max-width:484px; max-height:471px; }
+.gre_pt1_qr1_11_para::after {content: '\00a0';display: inline-block; width:484px; height:471px; background-position: 0.1545595054095827% 0.1988071570576541%;background-size: 233.67768595041323% 206.7940552016985%;background-image: url(gre_test1.png);padding: 0; }
+div.gre_pt1_qr1_11_para::after {max-width:484px; width:100%;height:0;padding: 0 0 97.31404958677686% 0;}
+.gre_pt1_qr1_17 {max-width:457px; max-height:318px; }
+.gre_pt1_qr1_17::after {content: '\00a0';display: inline-block; width:457px; height:318px; background-position: 0.14836795252225518% 72.10365853658537%;background-size: 247.4835886214442% 306.28930817610063%;background-image: url(gre_test1.png);padding: 0; }
+div.gre_pt1_qr1_17::after {max-width:457px; width:100%;height:0;padding: 0 0 69.58424507658643% 0;}
+.gre_pt1_qr1_4 {max-width:152px; max-height:241px; }
+.gre_pt1_qr1_4::after {content: '\00a0';display: inline-block; width:152px; height:241px; background-position: 88.35546475995915% 0.1364256480218281%;background-size: 744.078947368421% 404.149377593361%;background-image: url(gre_test1.png);padding: 0; }
+div.gre_pt1_qr1_4::after {max-width:152px; width:100%;height:0;padding: 0 0 158.55263157894737% 0;}
+.gre_pt1_qr1_6_1 {max-width:263px; max-height:190px; }
+.gre_pt1_qr1_6_1::after {content: '\00a0';display: inline-block; width:263px; height:190px; background-position: 99.65437788018433% 30.994897959183675%;background-size: 430.0380228136882% 512.6315789473684%;background-image: url(gre_test1.png);padding: 0; }
+div.gre_pt1_qr1_6_1::after {max-width:263px; width:100%;height:0;padding: 0 0 72.24334600760456% 0;}
+.gre_pt1_qr1_6_2 {max-width:279px; max-height:174px; }
+.gre_pt1_qr1_6_2::after {content: '\00a0';display: inline-block; width:279px; height:174px; background-position: 0.11737089201877934% 99%;background-size: 405.3763440860215% 559.7701149425287%;background-image: url(gre_test1.png);padding: 0; }
+div.gre_pt1_qr1_6_2::after {max-width:279px; width:100%;height:0;padding: 0 0 62.365591397849464% 0;}
+.gre_pt1_qr2_11sol {max-width:328px; max-height:317px; }
+.gre_pt1_qr2_11sol::after {content: '\00a0';display: inline-block; width:328px; height:317px; background-position: 99.87546699875467% 74.73363774733637%;background-size: 344.8170731707317% 307.25552050473186%;background-image: url(gre_test1.png);padding: 0; }
+div.gre_pt1_qr2_11sol::after {max-width:328px; width:100%;height:0;padding: 0 0 96.64634146341463% 0;}
+.gre_pt1_qr2_14_para {max-width:378px; max-height:489px; }
+.gre_pt1_qr2_14_para::after {content: '\00a0';display: inline-block; width:378px; height:489px; background-position: 64.54183266932272% 0.20618556701030927%;background-size: 299.2063492063492% 199.18200408997956%;background-image: url(gre_test1.png);padding: 0; }
+div.gre_pt1_qr2_14_para::after {max-width:378px; width:100%;height:0;padding: 0 0 129.36507936507937% 0;}
+.gre_pt1_qr2_20 {max-width:342px; max-height:188px; }
+.gre_pt1_qr2_20::after {content: '\00a0';display: inline-block; width:342px; height:188px; background-position: 58.17490494296578% 62.468193384223916%;background-size: 330.70175438596493% 518.0851063829788%;background-image: url(gre_test1.png);padding: 0; }
+div.gre_pt1_qr2_20::after {max-width:342px; width:100%;height:0;padding: 0 0 54.97076023391813% 0;}
+.gre_pt1_qr2_6 {max-width:319px; max-height:164px; }
+.gre_pt1_qr2_6::after {content: '\00a0';display: inline-block; width:319px; height:164px; background-position: 97.66009852216749% 99.87654320987654%;background-size: 354.54545454545456% 593.9024390243902%;background-image: url(gre_test1.png);padding: 0; }
+div.gre_pt1_qr2_6::after {max-width:319px; width:100%;height:0;padding: 0 0 51.41065830721003% 0;}
+
+/* $TexturePacker:SmartUpdate:53cc183d9359132f78d1f572dbac4c62:1e4e68d17b4d5dd29d9a7e479ddd1851:fedc2af57eeb9fefff0f4046db317e7b$ */

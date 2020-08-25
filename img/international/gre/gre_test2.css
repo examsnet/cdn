@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.gre_pt2_qr1_13 {max-width:336px; max-height:275px; }
+.gre_pt2_qr1_13::after {content: '\00a0';display: inline-block; width:336px; height:275px; background-position: 58.557046979865774% 0.24330900243309003%;background-size: 277.3809523809524% 249.45454545454547%;background-image: url(gre_test2.png);padding: 0; }
+div.gre_pt2_qr1_13::after {max-width:336px; width:100%;height:0;padding: 0 0 81.8452380952381% 0;}
+.gre_pt2_qr1_14_para_1 {max-width:498px; max-height:187px; }
+.gre_pt2_qr1_14_para_1::after {content: '\00a0';display: inline-block; width:498px; height:187px; background-position: 86.40552995391705% 85.17034068136273%;background-size: 187.14859437751005% 366.8449197860963%;background-image: url(gre_test2.png);padding: 0; }
+div.gre_pt2_qr1_14_para_1::after {max-width:498px; width:100%;height:0;padding: 0 0 37.55020080321285% 0;}
+.gre_pt2_qr1_14_para_2 {max-width:347px; max-height:354px; }
+.gre_pt2_qr1_14_para_2::after {content: '\00a0';display: inline-block; width:347px; height:354px; background-position: 0.17094017094017094% 0.30120481927710846%;background-size: 268.5878962536023% 193.78531073446328%;background-image: url(gre_test2.png);padding: 0; }
+div.gre_pt2_qr1_14_para_2::after {max-width:347px; width:100%;height:0;padding: 0 0 102.01729106628243% 0;}
+.gre_pt2_qr2_13_1 {max-width:238px; max-height:142px; }
+.gre_pt2_qr2_13_1::after {content: '\00a0';display: inline-block; width:238px; height:142px; background-position: 98.84726224783861% 43.1985294117647%;background-size: 391.5966386554622% 483.09859154929575%;background-image: url(gre_test2.png);padding: 0; }
+div.gre_pt2_qr2_13_1::after {max-width:238px; width:100%;height:0;padding: 0 0 59.66386554621849% 0;}
+.gre_pt2_qr2_13_2 {max-width:236px; max-height:147px; }
+.gre_pt2_qr2_13_2::after {content: '\00a0';display: inline-block; width:236px; height:147px; background-position: 53.87931034482759% 51.391465677179966%;background-size: 394.91525423728814% 466.6666666666667%;background-image: url(gre_test2.png);padding: 0; }
+div.gre_pt2_qr2_13_2::after {max-width:236px; width:100%;height:0;padding: 0 0 62.28813559322034% 0;}
+.gre_pt2_qr2_14_para {max-width:373px; max-height:329px; }
+.gre_pt2_qr2_14_para::after {content: '\00a0';display: inline-block; width:373px; height:329px; background-position: 0.17889087656529518% 99.71988795518207%;background-size: 249.86595174262735% 208.51063829787233%;background-image: url(gre_test2.png);padding: 0; }
+div.gre_pt2_qr2_14_para::after {max-width:373px; width:100%;height:0;padding: 0 0 88.20375335120643% 0;}
+.gre_pt2_qr2_20 {max-width:245px; max-height:233px; }
+.gre_pt2_qr2_20::after {content: '\00a0';display: inline-block; width:245px; height:233px; background-position: 99.85443959243086% 0.22075055187637968%;background-size: 380.40816326530614% 294.4206008583691%;background-image: url(gre_test2.png);padding: 0; }
+div.gre_pt2_qr2_20::after {max-width:245px; width:100%;height:0;padding: 0 0 95.10204081632654% 0;}
+
+/* $TexturePacker:SmartUpdate:1f2f30c5985bf2c1b43e344211d1d588:800176d6da92aab15910b18702da1c11:b930908673b0614e8c769343ba83a5cd$ */
