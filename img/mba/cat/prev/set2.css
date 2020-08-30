@@ -7,23 +7,53 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
+.CAT_2018_SHIFT_1_51_para {max-width:476px; max-height:375px; }
+.CAT_2018_SHIFT_1_51_para::after {content: '\00a0';display: inline-block; width:476px; height:375px; background-position: 34.339080459770116% 52.80612244897959%;background-size: 392.43697478991595% 309.06666666666666%;background-image: url(set2.png);padding: 0; }
+div.CAT_2018_SHIFT_1_51_para::after {max-width:476px; width:100%;height:0;padding: 0 0 78.78151260504201% 0;}
+.CAT_2018_SHIFT_2_63_para {max-width:419px; max-height:460px; }
+.CAT_2018_SHIFT_2_63_para::after {content: '\00a0';display: inline-block; width:419px; height:460px; background-position: 0.06901311249137336% 0.1430615164520744%;background-size: 445.8233890214797% 251.95652173913044%;background-image: url(set2.png);padding: 0; }
+div.CAT_2018_SHIFT_2_63_para::after {max-width:419px; width:100%;height:0;padding: 0 0 109.78520286396181% 0;}
 .CAT_Exam_2019_2_35 {max-width:660px; max-height:412px; }
-.CAT_Exam_2019_2_35::after {content: '\00a0';display: inline-block; width:660px; height:412px; background-position: 1.098901098901099% 39.63538149898717%;background-size: 113.78787878787878% 459.4660194174757%;background-image: url(set2.png);padding: 0; }
+.CAT_Exam_2019_2_35::after {content: '\00a0';display: inline-block; width:660px; height:412px; background-position: 34.85099337748344% 0.13386880856760375%;background-size: 283.030303030303% 281.31067961165047%;background-image: url(set2.png);padding: 0; }
 div.CAT_Exam_2019_2_35::after {max-width:660px; width:100%;height:0;padding: 0 0 62.42424242424242% 0;}
 .CAT_Exam_2019_2_39 {max-width:355px; max-height:268px; }
-.CAT_Exam_2019_2_39::after {content: '\00a0';display: inline-block; width:355px; height:268px; background-position: 80.55555555555556% 0.06153846153846154%;background-size: 211.54929577464787% 706.3432835820895%;background-image: url(set2.png);padding: 0; }
+.CAT_Exam_2019_2_39::after {content: '\00a0';display: inline-block; width:355px; height:268px; background-position: 21.810971579643095% 98.4287317620651%;background-size: 526.1971830985915% 432.46268656716416%;background-image: url(set2.png);padding: 0; }
 div.CAT_Exam_2019_2_39::after {max-width:355px; width:100%;height:0;padding: 0 0 75.49295774647888% 0;}
 .CAT_Exam_2019_2_59 {max-width:749px; max-height:316px; }
-.CAT_Exam_2019_2_59::after {content: '\00a0';display: inline-block; width:749px; height:316px; background-position: 50% 17.121116043119848%;background-size: 100.26702269692925% 599.0506329113924%;background-image: url(set2.png);padding: 0; }
+.CAT_Exam_2019_2_59::after {content: '\00a0';display: inline-block; width:749px; height:316px; background-position: 96.6934763181412% 0.11862396204033215%;background-size: 249.3991989319092% 366.7721518987342%;background-image: url(set2.png);padding: 0; }
 div.CAT_Exam_2019_2_59::after {max-width:749px; width:100%;height:0;padding: 0 0 42.18958611481976% 0;}
-.CAT_Exam_2019_47 {max-width:659px; max-height:477px; }
-.CAT_Exam_2019_47::after {content: '\00a0';display: inline-block; width:659px; height:477px; background-position: 1.0869565217391304% 99.92937853107344%;background-size: 113.96054628224583% 396.8553459119497%;background-image: url(set2.png);padding: 0; }
-div.CAT_Exam_2019_47::after {max-width:659px; width:100%;height:0;padding: 0 0 72.3823975720789% 0;}
+.CAT_Exam_2019_47 {max-width:470px; max-height:340px; }
+.CAT_Exam_2019_47::after {content: '\00a0';display: inline-block; width:470px; height:340px; background-position: 49.07010014306152% 96.45909645909646%;background-size: 397.4468085106383% 340.88235294117646%;background-image: url(set2.png);padding: 0; }
+div.CAT_Exam_2019_47::after {max-width:470px; width:100%;height:0;padding: 0 0 72.34042553191489% 0;}
 .CAT_Exam_2019_55 {max-width:476px; max-height:414px; }
-.CAT_Exam_2019_55::after {content: '\00a0';display: inline-block; width:476px; height:414px; background-position: 0.36363636363636365% 67.6132521974307%;background-size: 157.7731092436975% 457.2463768115942%;background-image: url(set2.png);padding: 0; }
+.CAT_Exam_2019_55::after {content: '\00a0';display: inline-block; width:476px; height:414px; background-position: 0.07183908045977011% 62.013422818791945%;background-size: 392.43697478991595% 279.951690821256%;background-image: url(set2.png);padding: 0; }
 div.CAT_Exam_2019_55::after {max-width:476px; width:100%;height:0;padding: 0 0 86.97478991596638% 0;}
 .CAT_Exam_2019_63 {max-width:317px; max-height:178px; }
-.CAT_Exam_2019_63::after {content: '\00a0';display: inline-block; width:317px; height:178px; background-position: 0.2304147465437788% 0.05830903790087463%;background-size: 236.90851735015772% 1063.4831460674156%;background-image: url(set2.png);padding: 0; }
+.CAT_Exam_2019_63::after {content: '\00a0';display: inline-block; width:317px; height:178px; background-position: 94.64861379754997% 52.08970438328237%;background-size: 589.2744479495268% 651.123595505618%;background-image: url(set2.png);padding: 0; }
 div.CAT_Exam_2019_63::after {max-width:317px; width:100%;height:0;padding: 0 0 56.15141955835962% 0;}
+.cat2017_69sol {max-width:173px; max-height:184px; }
+.cat2017_69sol::after {content: '\00a0';display: inline-block; width:173px; height:184px; background-position: 86.48967551622418% 70.76923076923077%;background-size: 1079.7687861271677% 629.8913043478261%;background-image: url(set2.png);padding: 0; }
+div.cat2017_69sol::after {max-width:173px; width:100%;height:0;padding: 0 0 106.35838150289017% 0;}
+.cat2017_85sola {max-width:328px; max-height:281px; }
+.cat2017_85sola::after {content: '\00a0';display: inline-block; width:328px; height:281px; background-position: 0.06493506493506493% 99.8861047835991%;background-size: 569.5121951219512% 412.4555160142349%;background-image: url(set2.png);padding: 0; }
+div.cat2017_85sola::after {max-width:328px; width:100%;height:0;padding: 0 0 85.67073170731707% 0;}
+.cat2017_85solb {max-width:328px; max-height:315px; }
+.cat2017_85solb::after {content: '\00a0';display: inline-block; width:328px; height:315px; background-position: 73.96103896103897% 37.677725118483416%;background-size: 569.5121951219512% 367.93650793650795%;background-image: url(set2.png);padding: 0; }
+div.cat2017_85solb::after {max-width:328px; width:100%;height:0;padding: 0 0 96.03658536585365% 0;}
+.cat2017_95sola {max-width:399px; max-height:192px; }
+.cat2017_95sola::after {content: '\00a0';display: inline-block; width:399px; height:192px; background-position: 99.93192648059905% 32.88521199586349%;background-size: 468.1704260651629% 603.6458333333334%;background-image: url(set2.png);padding: 0; }
+div.cat2017_95sola::after {max-width:399px; width:100%;height:0;padding: 0 0 48.1203007518797% 0;}
+.cat2017_95solb {max-width:172px; max-height:208px; }
+.cat2017_95solb::after {content: '\00a0';display: inline-block; width:172px; height:208px; background-position: 97.75943396226415% 72.55520504731861%;background-size: 1086.046511627907% 557.2115384615385%;background-image: url(set2.png);padding: 0; }
+div.cat2017_95solb::after {max-width:172px; width:100%;height:0;padding: 0 0 120.93023255813954% 0;}
+.cat2017_99sol {max-width:183px; max-height:320px; }
+.cat2017_99sol::after {content: '\00a0';display: inline-block; width:183px; height:320px; background-position: 56.676557863501486% 49.344457687723484%;background-size: 1020.7650273224044% 362.1875%;background-image: url(set2.png);padding: 0; }
+div.cat2017_99sol::after {max-width:183px; width:100%;height:0;padding: 0 0 174.86338797814207% 0;}
+.cat_2017_63p {max-width:500px; max-height:226px; }
+.cat_2017_63p::after {content: '\00a0';display: inline-block; width:500px; height:226px; background-position: 84.57602339181287% 94.64094319399786%;background-size: 373.6% 512.8318584070796%;background-image: url(set2.png);padding: 0; }
+div.cat_2017_63p::after {max-width:500px; width:100%;height:0;padding: 0 0 45.2% 0;}
+.cat_2017_95 {max-width:308px; max-height:248px; }
+.cat_2017_95::after {content: '\00a0';display: inline-block; width:308px; height:248px; background-position: 74.16666666666667% 69.59385290889132%;background-size: 606.4935064935065% 467.33870967741933%;background-image: url(set2.png);padding: 0; }
+div.cat_2017_95::after {max-width:308px; width:100%;height:0;padding: 0 0 80.51948051948052% 0;}
 
-/* $TexturePacker:SmartUpdate:ee16fae30d7008ec31048afb43a43680:a936b40d59765f03082ca62d42be9333:ed44c3669e9d144894756af6eef5fe1c$ */
+/* $TexturePacker:SmartUpdate:332e3182538412a6acecab5768181706:d91b4f72c11b116f554b4c77ed6853de:ed44c3669e9d144894756af6eef5fe1c$ */
