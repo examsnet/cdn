@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.IAS_Prelim_2017_Paper_1_54_s {max-width:390px; max-height:235px; }
+.IAS_Prelim_2017_Paper_1_54_s::after {content: '\00a0';display: inline-block; width:390px; height:235px; background-position: 26.792179580014484% 6.666666666666667%;background-size: 454.1025641025641% 106.38297872340425%;background-image: url(IAS2017.png);padding: 0; }
+div.IAS_Prelim_2017_Paper_1_54_s::after {max-width:390px; width:100%;height:0;padding: 0 0 60.256410256410255% 0;}
+.IAS_Prelim_2017_Paper_1_55_s {max-width:426px; max-height:179px; }
+.IAS_Prelim_2017_Paper_1_55_s::after {content: '\00a0';display: inline-block; width:426px; height:179px; background-position: 56.57992565055762% 1.408450704225352%;background-size: 415.7276995305164% 139.66480446927375%;background-image: url(IAS2017.png);padding: 0; }
+div.IAS_Prelim_2017_Paper_1_55_s::after {max-width:426px; width:100%;height:0;padding: 0 0 42.01877934272301% 0;}
+.IAS_Prelim_2017_Paper_2_19_s {max-width:251px; max-height:159px; }
+.IAS_Prelim_2017_Paper_2_19_s::after {content: '\00a0';display: inline-block; width:251px; height:159px; background-position: 78.15789473684211% 1.098901098901099%;background-size: 705.5776892430279% 157.23270440251574%;background-image: url(IAS2017.png);padding: 0; }
+div.IAS_Prelim_2017_Paper_2_19_s::after {max-width:251px; width:100%;height:0;padding: 0 0 63.34661354581673% 0;}
+.IAS_Prelim_2017_Paper_2_50_s {max-width:330px; max-height:124px; }
+.IAS_Prelim_2017_Paper_2_50_s::after {content: '\00a0';display: inline-block; width:330px; height:124px; background-position: 99.93060374739764% 0.7936507936507936%;background-size: 536.6666666666666% 201.61290322580646%;background-image: url(IAS2017.png);padding: 0; }
+div.IAS_Prelim_2017_Paper_2_50_s::after {max-width:330px; width:100%;height:0;padding: 0 0 37.57575757575758% 0;}
+.IAS_Prelim_2017_Paper_2_55_s {max-width:368px; max-height:248px; }
+.IAS_Prelim_2017_Paper_2_55_s::after {content: '\00a0';display: inline-block; width:368px; height:248px; background-position: 0.07127583749109052% 50%;background-size: 481.25% 100.80645161290323%;background-image: url(IAS2017.png);padding: 0; }
+div.IAS_Prelim_2017_Paper_2_55_s::after {max-width:368px; width:100%;height:0;padding: 0 0 67.3913043478261% 0;}
+.IAS_Prelim_2017_Paper_2_60_s {max-width:325px; max-height:98px; }
+.IAS_Prelim_2017_Paper_2_60_s::after {content: '\00a0';display: inline-block; width:325px; height:98px; background-position: 99.5850622406639% 82.89473684210526%;background-size: 544.9230769230769% 255.10204081632654%;background-image: url(IAS2017.png);padding: 0; }
+div.IAS_Prelim_2017_Paper_2_60_s::after {max-width:325px; width:100%;height:0;padding: 0 0 30.153846153846153% 0;}
+
+/* $TexturePacker:SmartUpdate:c26edc33c5e51c25eff6fd1000faec0b:e71633841f37cb49f711d5908496bb08:c3eefd3b954a781681438230b9cd3cfa$ */
