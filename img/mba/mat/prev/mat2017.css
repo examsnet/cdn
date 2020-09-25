@@ -1,0 +1,65 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.mat_2017_das_121_para {max-width:520px; max-height:254px; }
+.mat_2017_das_121_para::after {content: '\00a0';display: inline-block; width:520px; height:254px; background-position: 70.4% 0.09551098376313276%;background-size: 196.15384615384616% 512.2047244094488%;background-image: url(mat2017.png);padding: 0; }
+div.mat_2017_das_121_para::after {max-width:520px; width:100%;height:0;padding: 0 0 48.84615384615385% 0;}
+.mat_2017_das_126_para {max-width:350px; max-height:515px; }
+.mat_2017_das_126_para::after {content: '\00a0';display: inline-block; width:350px; height:515px; background-position: 0.14925373134328357% 0.1272264631043257%;background-size: 291.42857142857144% 252.62135922330097%;background-image: url(mat2017.png);padding: 0; }
+div.mat_2017_das_126_para::after {max-width:350px; width:100%;height:0;padding: 0 0 147.14285714285714% 0;}
+.mat_2017_das_131_para {max-width:340px; max-height:450px; }
+.mat_2017_das_131_para::after {content: '\00a0';display: inline-block; width:340px; height:450px; background-position: 76.76470588235294% 57.109283196239716%;background-size: 300% 289.1111111111111%;background-image: url(mat2017.png);padding: 0; }
+div.mat_2017_das_131_para::after {max-width:340px; width:100%;height:0;padding: 0 0 132.35294117647058% 0;}
+.mat_2017_das_151_para {max-width:520px; max-height:238px; }
+.mat_2017_das_151_para::after {content: '\00a0';display: inline-block; width:520px; height:238px; background-position: 0.2% 78.36312323612418%;background-size: 196.15384615384616% 546.6386554621848%;background-image: url(mat2017.png);padding: 0; }
+div.mat_2017_das_151_para::after {max-width:520px; width:100%;height:0;padding: 0 0 45.76923076923077% 0;}
+.mat_2017_das_156_para {max-width:520px; max-height:315px; }
+.mat_2017_das_156_para::after {content: '\00a0';display: inline-block; width:520px; height:315px; background-position: 0.2% 52.4340770791075%;background-size: 196.15384615384616% 413.015873015873%;background-image: url(mat2017.png);padding: 0; }
+div.mat_2017_das_156_para::after {max-width:520px; width:100%;height:0;padding: 0 0 60.57692307692308% 0;}
+.mat_2017_icr_46sol {max-width:257px; max-height:72px; }
+.mat_2017_icr_46sol::after {content: '\00a0';display: inline-block; width:257px; height:72px; background-position: 90.956749672346% 98.53539462978031%;background-size: 396.88715953307394% 1806.9444444444443%;background-image: url(mat2017.png);padding: 0; }
+div.mat_2017_icr_46sol::after {max-width:257px; width:100%;height:0;padding: 0 0 28.01556420233463% 0;}
+.mat_2017_icr_51sol {max-width:188px; max-height:123px; }
+.mat_2017_icr_51sol::after {content: '\00a0';display: inline-block; width:188px; height:123px; background-position: 62.86057692307692% 91.08658743633276%;background-size: 542.5531914893617% 1057.7235772357724%;background-image: url(mat2017.png);padding: 0; }
+div.mat_2017_icr_51sol::after {max-width:188px; width:100%;height:0;padding: 0 0 65.42553191489361% 0;}
+.mat_2017_icr_56sol {max-width:233px; max-height:135px; }
+.mat_2017_icr_56sol::after {content: '\00a0';display: inline-block; width:233px; height:135px; background-position: 66.32782719186785% 80.36020583190394%;background-size: 437.76824034334766% 963.7037037037037%;background-image: url(mat2017.png);padding: 0; }
+div.mat_2017_icr_56sol::after {max-width:233px; width:100%;height:0;padding: 0 0 57.93991416309013% 0;}
+.mat_2017_icr_57sol {max-width:521px; max-height:227px; }
+.mat_2017_icr_57sol::after {content: '\00a0';display: inline-block; width:521px; height:227px; background-position: 0.20040080160320642% 99.90689013035382%;background-size: 195.77735124760076% 573.1277533039647%;background-image: url(mat2017.png);padding: 0; }
+div.mat_2017_icr_57sol::after {max-width:521px; width:100%;height:0;padding: 0 0 43.5700575815739% 0;}
+.mat_2017_icr_59sol {max-width:156px; max-height:120px; }
+.mat_2017_icr_59sol::after {content: '\00a0';display: inline-block; width:156px; height:120px; background-position: 99.88425925925925% 41.151566469093986%;background-size: 653.8461538461538% 1084.1666666666667%;background-image: url(mat2017.png);padding: 0; }
+div.mat_2017_icr_59sol::after {max-width:156px; width:100%;height:0;padding: 0 0 76.92307692307692% 0;}
+.mat_2017_icr_60sol {max-width:206px; max-height:150px; }
+.mat_2017_icr_60sol::after {content: '\00a0';display: inline-block; width:206px; height:150px; background-position: 92.87469287469287% 81.40747176368376%;background-size: 495.1456310679612% 867.3333333333334%;background-image: url(mat2017.png);padding: 0; }
+div.mat_2017_icr_60sol::after {max-width:206px; width:100%;height:0;padding: 0 0 72.81553398058253% 0;}
+.mat_2017_icr_65sol {max-width:128px; max-height:129px; }
+.mat_2017_icr_65sol::after {content: '\00a0';display: inline-block; width:128px; height:129px; background-position: 97.86995515695067% 0.08532423208191127%;background-size: 796.875% 1008.5271317829457%;background-image: url(mat2017.png);padding: 0; }
+div.mat_2017_icr_65sol::after {max-width:128px; width:100%;height:0;padding: 0 0 100.78125% 0;}
+.mat_2017_ms_103sol {max-width:170px; max-height:48px; }
+.mat_2017_ms_103sol::after {content: '\00a0';display: inline-block; width:170px; height:48px; background-position: 61.529411764705884% 95.53072625698324%;background-size: 600% 2710.4166666666665%;background-image: url(mat2017.png);padding: 0; }
+div.mat_2017_ms_103sol::after {max-width:170px; width:100%;height:0;padding: 0 0 28.235294117647058% 0;}
+.mat_2017_ms_116sol {max-width:579px; max-height:229px; }
+.mat_2017_ms_116sol::after {content: '\00a0';display: inline-block; width:579px; height:229px; background-position: 79.81859410430839% 23.880597014925375%;background-size: 176.1658031088083% 568.1222707423581%;background-image: url(mat2017.png);padding: 0; }
+div.mat_2017_ms_116sol::after {max-width:579px; width:100%;height:0;padding: 0 0 39.55094991364422% 0;}
+.mat_2017_ms_88 {max-width:175px; max-height:122px; }
+.mat_2017_ms_88::after {content: '\00a0';display: inline-block; width:175px; height:122px; background-position: 84.2603550295858% 92.28159457167091%;background-size: 582.8571428571429% 1066.3934426229507%;background-image: url(mat2017.png);padding: 0; }
+div.mat_2017_ms_88::after {max-width:175px; width:100%;height:0;padding: 0 0 69.71428571428571% 0;}
+.mat_2017_ms_90sol {max-width:126px; max-height:110px; }
+.mat_2017_ms_90sol::after {content: '\00a0';display: inline-block; width:126px; height:110px; background-position: 97.6510067114094% 10.999160369437448%;background-size: 809.5238095238095% 1182.7272727272727%;background-image: url(mat2017.png);padding: 0; }
+div.mat_2017_ms_90sol::after {max-width:126px; width:100%;height:0;padding: 0 0 87.3015873015873% 0;}
+.mat_2017_ms_92sol {max-width:111px; max-height:70px; }
+.mat_2017_ms_92sol::after {content: '\00a0';display: inline-block; width:111px; height:70px; background-position: 94.93949394939494% 49.30950446791227%;background-size: 918.918918918919% 1858.5714285714287%;background-image: url(mat2017.png);padding: 0; }
+div.mat_2017_ms_92sol::after {max-width:111px; width:100%;height:0;padding: 0 0 63.06306306306306% 0;}
+.mat_2017_ms_94sol {max-width:112px; max-height:82px; }
+.mat_2017_ms_94sol::after {content: '\00a0';display: inline-block; width:112px; height:82px; background-position: 97.79735682819383% 89.25348646431502%;background-size: 910.7142857142857% 1586.5853658536585%;background-image: url(mat2017.png);padding: 0; }
+div.mat_2017_ms_94sol::after {max-width:112px; width:100%;height:0;padding: 0 0 73.21428571428571% 0;}
+
+/* $TexturePacker:SmartUpdate:804cd6c71f521c1e28efe7617f90fa5c:b032f86e96c990f8807c985b76a7fbc3:3f9a26b9b0a9b0472770f2c753f95bab$ */

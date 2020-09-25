@@ -1,0 +1,56 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.mat_2018_das_126_para {max-width:480px; max-height:221px; }
+.mat_2018_das_126_para::after {content: '\00a0';display: inline-block; width:480px; height:221px; background-position: 87.4274661508704% 77.49401436552274%;background-size: 207.70833333333334% 666.9683257918552%;background-image: url(mat2018.png);padding: 0; }
+div.mat_2018_das_126_para::after {max-width:480px; width:100%;height:0;padding: 0 0 46.041666666666664% 0;}
+.mat_2018_das_136_para {max-width:626px; max-height:288px; }
+.mat_2018_das_136_para::after {content: '\00a0';display: inline-block; width:626px; height:288px; background-position: 0.2695417789757412% 27.487352445193928%;background-size: 159.26517571884983% 511.80555555555554%;background-image: url(mat2018.png);padding: 0; }
+div.mat_2018_das_136_para::after {max-width:626px; width:100%;height:0;padding: 0 0 46.00638977635783% 0;}
+.mat_2018_das_146_para {max-width:450px; max-height:481px; }
+.mat_2018_das_146_para::after {content: '\00a0';display: inline-block; width:450px; height:481px; background-position: 0.18281535648994515% 73.61530715005036%;background-size: 221.55555555555554% 306.44490644490645%;background-image: url(mat2018.png);padding: 0; }
+div.mat_2018_das_146_para::after {max-width:450px; width:100%;height:0;padding: 0 0 106.88888888888889% 0;}
+.mat_2018_das_151_para {max-width:661px; max-height:324px; }
+.mat_2018_das_151_para::after {content: '\00a0';display: inline-block; width:661px; height:324px; background-position: 0.2976190476190476% 0.08695652173913043%;background-size: 150.8320726172466% 454.9382716049383%;background-image: url(mat2018.png);padding: 0; }
+div.mat_2018_das_151_para::after {max-width:661px; width:100%;height:0;padding: 0 0 49.016641452344935% 0;}
+.mat_2018_icr_54sol {max-width:207px; max-height:63px; }
+.mat_2018_icr_54sol::after {content: '\00a0';display: inline-block; width:207px; height:63px; background-position: 74.43037974683544% 45.28703047484054%;background-size: 481.64251207729467% 2339.6825396825398%;background-image: url(mat2018.png);padding: 0; }
+div.mat_2018_icr_54sol::after {max-width:207px; width:100%;height:0;padding: 0 0 30.434782608695652% 0;}
+.mat_2018_icr_59sol {max-width:586px; max-height:115px; }
+.mat_2018_icr_59sol::after {content: '\00a0';display: inline-block; width:586px; height:115px; background-position: 0.24330900243309003% 45.253863134657834%;background-size: 170.13651877133105% 1281.7391304347825%;background-image: url(mat2018.png);padding: 0; }
+div.mat_2018_icr_59sol::after {max-width:586px; width:100%;height:0;padding: 0 0 19.62457337883959% 0;}
+.mat_2018_icr_60sol {max-width:430px; max-height:120px; }
+.mat_2018_icr_60sol::after {content: '\00a0';display: inline-block; width:430px; height:120px; background-position: 80.24691358024691% 98.1536189069424%;background-size: 231.86046511627907% 1228.3333333333333%;background-image: url(mat2018.png);padding: 0; }
+div.mat_2018_icr_60sol::after {max-width:430px; width:100%;height:0;padding: 0 0 27.906976744186046% 0;}
+.mat_2018_icr_61sol {max-width:523px; max-height:128px; }
+.mat_2018_icr_61sol::after {content: '\00a0';display: inline-block; width:523px; height:128px; background-position: 95.35864978902954% 62.555720653789%;background-size: 190.63097514340345% 1151.5625%;background-image: url(mat2018.png);padding: 0; }
+div.mat_2018_icr_61sol::after {max-width:523px; width:100%;height:0;padding: 0 0 24.47418738049713% 0;}
+.mat_2018_icr_62sol {max-width:544px; max-height:110px; }
+.mat_2018_icr_62sol::after {content: '\00a0';display: inline-block; width:544px; height:110px; background-position: 99.77924944812362% 53.592375366568916%;background-size: 183.27205882352942% 1340%;background-image: url(mat2018.png);padding: 0; }
+div.mat_2018_icr_62sol::after {max-width:544px; width:100%;height:0;padding: 0 0 20.220588235294116% 0;}
+.mat_2018_icr_63sol {max-width:460px; max-height:135px; }
+.mat_2018_icr_63sol::after {content: '\00a0';display: inline-block; width:460px; height:135px; background-position: 84.72998137802607% 89.09634055265123%;background-size: 216.7391304347826% 1091.851851851852%;background-image: url(mat2018.png);padding: 0; }
+div.mat_2018_icr_63sol::after {max-width:460px; width:100%;height:0;padding: 0 0 29.347826086956523% 0;}
+.mat_2018_icr_69sol {max-width:271px; max-height:215px; }
+.mat_2018_icr_69sol::after {content: '\00a0';display: inline-block; width:271px; height:215px; background-position: 91.32231404958678% 11.99364575059571%;background-size: 367.8966789667897% 685.5813953488372%;background-image: url(mat2018.png);padding: 0; }
+div.mat_2018_icr_69sol::after {max-width:271px; width:100%;height:0;padding: 0 0 79.33579335793358% 0;}
+.mat_2018_icr_77sol_a {max-width:361px; max-height:149px; }
+.mat_2018_icr_77sol_a::after {content: '\00a0';display: inline-block; width:361px; height:149px; background-position: 98.74213836477988% 27.69811320754717%;background-size: 276.17728531855954% 989.261744966443%;background-image: url(mat2018.png);padding: 0; }
+div.mat_2018_icr_77sol_a::after {max-width:361px; width:100%;height:0;padding: 0 0 41.27423822714682% 0;}
+.mat_2018_icr_77sol_b {max-width:453px; max-height:260px; }
+.mat_2018_icr_77sol_b::after {content: '\00a0';display: inline-block; width:453px; height:260px; background-position: 0.18382352941176472% 99.9176276771005%;background-size: 220.08830022075054% 566.9230769230769%;background-image: url(mat2018.png);padding: 0; }
+div.mat_2018_icr_77sol_b::after {max-width:453px; width:100%;height:0;padding: 0 0 57.39514348785872% 0;}
+.mat_2018_ms_92sol {max-width:216px; max-height:121px; }
+.mat_2018_ms_92sol::after {content: '\00a0';display: inline-block; width:216px; height:121px; background-position: 80.40973111395647% 38.21138211382114%;background-size: 461.5740740740741% 1218.1818181818182%;background-image: url(mat2018.png);padding: 0; }
+div.mat_2018_ms_92sol::after {max-width:216px; width:100%;height:0;padding: 0 0 56.01851851851852% 0;}
+.mat_2018_ms_94sol {max-width:276px; max-height:149px; }
+.mat_2018_ms_94sol::after {content: '\00a0';display: inline-block; width:276px; height:149px; background-position: 91.95561719833564% 0.07547169811320754%;background-size: 361.231884057971% 989.261744966443%;background-image: url(mat2018.png);padding: 0; }
+div.mat_2018_ms_94sol::after {max-width:276px; width:100%;height:0;padding: 0 0 53.98550724637681% 0;}
+
+/* $TexturePacker:SmartUpdate:69c1f6ce143cbb3abf799775e821c2e9:ec82dd96be41d4e40b809db143f2ac32:a260eb662ed4a263accfdf20219d1f45$ */
