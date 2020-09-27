@@ -1,0 +1,83 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.PMSN_M1_100sol {max-width:490px; max-height:137px; }
+.PMSN_M1_100sol::after {content: '\00a0';display: inline-block; width:490px; height:137px; background-position: 0.21367521367521367% 0.08237232289950576%;background-size: 195.51020408163265% 986.1313868613139%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M1_100sol::after {max-width:490px; width:100%;height:0;padding: 0 0 27.959183673469386% 0;}
+.PMSN_M1_52sol {max-width:388px; max-height:105px; }
+.PMSN_M1_52sol::after {content: '\00a0';display: inline-block; width:388px; height:105px; background-position: 73.85964912280701% 14.044943820224718%;background-size: 246.90721649484536% 1286.6666666666667%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M1_52sol::after {max-width:388px; width:100%;height:0;padding: 0 0 27.061855670103093% 0;}
+.PMSN_M1_53sol {max-width:318px; max-height:86px; }
+.PMSN_M1_53sol::after {content: '\00a0';display: inline-block; width:318px; height:86px; background-position: 0.15625% 63.952569169960476%;background-size: 301.25786163522014% 1570.9302325581396%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M1_53sol::after {max-width:318px; width:100%;height:0;padding: 0 0 27.044025157232703% 0;}
+.PMSN_M1_65sol {max-width:173px; max-height:138px; }
+.PMSN_M1_65sol::after {content: '\00a0';display: inline-block; width:173px; height:138px; background-position: 64.20382165605096% 77.74113767518548%;background-size: 553.7572254335261% 978.9855072463768%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M1_65sol::after {max-width:173px; width:100%;height:0;padding: 0 0 79.76878612716763% 0;}
+.PMSN_M1_67sol {max-width:190px; max-height:132px; }
+.PMSN_M1_67sol::after {content: '\00a0';display: inline-block; width:190px; height:132px; background-position: 65.36458333333333% 99.75389663658737%;background-size: 504.2105263157895% 1023.4848484848485%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M1_67sol::after {max-width:190px; width:100%;height:0;padding: 0 0 69.47368421052632% 0;}
+.PMSN_M1_67sol_a {max-width:188px; max-height:130px; }
+.PMSN_M1_67sol_a::after {content: '\00a0';display: inline-block; width:188px; height:130px; background-position: 65.45454545454545% 88.61588861588862%;background-size: 509.5744680851064% 1039.2307692307693%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M1_67sol_a::after {max-width:188px; width:100%;height:0;padding: 0 0 69.14893617021276% 0;}
+.PMSN_M1_68sol {max-width:295px; max-height:122px; }
+.PMSN_M1_68sol::after {content: '\00a0';display: inline-block; width:295px; height:122px; background-position: 0.15082956259426847% 72.90480065093573%;background-size: 324.7457627118644% 1107.377049180328%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M1_68sol::after {max-width:295px; width:100%;height:0;padding: 0 0 41.355932203389834% 0;}
+.PMSN_M1_74sol {max-width:318px; max-height:218px; }
+.PMSN_M1_74sol::after {content: '\00a0';display: inline-block; width:318px; height:218px; background-position: 56.71875% 63.90114739629303%;background-size: 301.25786163522014% 619.7247706422019%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M1_74sol::after {max-width:318px; width:100%;height:0;padding: 0 0 68.55345911949685% 0;}
+.PMSN_M1_79sol {max-width:290px; max-height:289px; }
+.PMSN_M1_79sol::after {content: '\00a0';display: inline-block; width:290px; height:289px; background-position: 0.1497005988023952% 95.95103578154426%;background-size: 330.3448275862069% 467.47404844290656%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M1_79sol::after {max-width:290px; width:100%;height:0;padding: 0 0 99.65517241379311% 0;}
+.PMSN_M2_41sol {max-width:125px; max-height:151px; }
+.PMSN_M2_41sol::after {content: '\00a0';display: inline-block; width:125px; height:151px; background-position: 97.23889555822329% 14.583333333333334%;background-size: 766.4% 894.7019867549669%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M2_41sol::after {max-width:125px; width:100%;height:0;padding: 0 0 120.8% 0;}
+.PMSN_M2_63sol. {max-width:369px; max-height:146px; }
+.PMSN_M2_63sol.::after {content: '\00a0';display: inline-block; width:369px; height:146px; background-position: 0.1697792869269949% 42.655601659751035%;background-size: 259.62059620596204% 925.3424657534247%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M2_63sol.::after {max-width:369px; width:100%;height:0;padding: 0 0 39.56639566395664% 0;}
+.PMSN_M2_64sol {max-width:375px; max-height:153px; }
+.PMSN_M2_64sol::after {content: '\00a0';display: inline-block; width:375px; height:153px; background-position: 64.6655231560892% 35.475792988313856%;background-size: 255.46666666666667% 883.0065359477125%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M2_64sol::after {max-width:375px; width:100%;height:0;padding: 0 0 40.8% 0;}
+.PMSN_M2_65sol {max-width:368px; max-height:144px; }
+.PMSN_M2_65sol::after {content: '\00a0';display: inline-block; width:368px; height:144px; background-position: 62.88135593220339% 47.970173985086994%;background-size: 260.32608695652175% 938.1944444444445%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M2_65sol::after {max-width:368px; width:100%;height:0;padding: 0 0 39.130434782608695% 0;}
+.PMSN_M2_66sol {max-width:383px; max-height:143px; }
+.PMSN_M2_66sol::after {content: '\00a0';display: inline-block; width:383px; height:143px; background-position: 73.21739130434783% 23.26158940397351%;background-size: 250.13054830287206% 944.7552447552448%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M2_66sol::after {max-width:383px; width:100%;height:0;padding: 0 0 37.33681462140992% 0;}
+.PMSN_M2_67sol {max-width:361px; max-height:147px; }
+.PMSN_M2_67sol::after {content: '\00a0';display: inline-block; width:361px; height:147px; background-position: 0.16750418760469013% 54.90033222591362%;background-size: 265.37396121883654% 919.047619047619%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M2_67sol::after {max-width:361px; width:100%;height:0;padding: 0 0 40.7202216066482% 0;}
+.PMSN_M2_77sol {max-width:375px; max-height:184px; }
+.PMSN_M2_77sol::after {content: '\00a0';display: inline-block; width:375px; height:184px; background-position: 0.17152658662092624% 28.191945158526135%;background-size: 255.46666666666667% 734.2391304347826%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M2_77sol::after {max-width:375px; width:100%;height:0;padding: 0 0 49.06666666666667% 0;}
+.PMSN_M2_78sol {max-width:419px; max-height:189px; }
+.PMSN_M2_78sol::after {content: '\00a0';display: inline-block; width:419px; height:189px; background-position: 0.18552875695732837% 11.962134251290879%;background-size: 228.63961813842482% 714.8148148148148%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M2_78sol::after {max-width:419px; width:100%;height:0;padding: 0 0 45.10739856801909% 0;}
+.PMSN_M2_78sol_a {max-width:162px; max-height:189px; }
+.PMSN_M2_78sol_a::after {content: '\00a0';display: inline-block; width:162px; height:189px; background-position: 87.06030150753769% 93.88984509466437%;background-size: 591.358024691358% 714.8148148148148%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M2_78sol_a::after {max-width:162px; width:100%;height:0;padding: 0 0 116.66666666666667% 0;}
+.PMSN_M2_79sol {max-width:222px; max-height:141px; }
+.PMSN_M2_79sol::after {content: '\00a0';display: inline-block; width:222px; height:141px; background-position: 94.15760869565217% 78.4297520661157%;background-size: 431.5315315315315% 958.1560283687943%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M2_79sol::after {max-width:222px; width:100%;height:0;padding: 0 0 63.513513513513516% 0;}
+.PMSN_M3_64sol {max-width:204px; max-height:380px; }
+.PMSN_M3_64sol::after {content: '\00a0';display: inline-block; width:204px; height:380px; background-position: 99.86737400530504% 43.76930998970134%;background-size: 469.6078431372549% 355.5263157894737%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M3_64sol::after {max-width:204px; width:100%;height:0;padding: 0 0 186.27450980392157% 0;}
+.PMSN_M3_72sol {max-width:211px; max-height:196px; }
+.PMSN_M3_72sol::after {content: '\00a0';display: inline-block; width:211px; height:196px; background-position: 39.0896921017403% 88.22510822510823%;background-size: 454.02843601895734% 689.2857142857143%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M3_72sol::after {max-width:211px; width:100%;height:0;padding: 0 0 92.8909952606635% 0;}
+.PMSN_M3_72sol_a {max-width:209px; max-height:134px; }
+.PMSN_M3_72sol_a::after {content: '\00a0';display: inline-block; width:209px; height:134px; background-position: 38.98531375166889% 99.9178307313065%;background-size: 458.3732057416268% 1008.2089552238806%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M3_72sol_a::after {max-width:209px; width:100%;height:0;padding: 0 0 64.11483253588517% 0;}
+.PMSN_M3_78sol {max-width:267px; max-height:142px; }
+.PMSN_M3_78sol::after {content: '\00a0';display: inline-block; width:267px; height:142px; background-position: 98.69753979739508% 66.66666666666667%;background-size: 358.80149812734084% 951.4084507042254%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M3_78sol::after {max-width:267px; width:100%;height:0;padding: 0 0 53.18352059925093% 0;}
+.PMSN_M3_99sol {max-width:439px; max-height:173px; }
+.PMSN_M3_99sol::after {content: '\00a0';display: inline-block; width:439px; height:173px; background-position: 94.79768786127168% 0.08488964346349745%;background-size: 218.2232346241458% 780.9248554913295%;background-image: url(paraset1.png);padding: 0; }
+div.PMSN_M3_99sol::after {max-width:439px; width:100%;height:0;padding: 0 0 39.40774487471526% 0;}
+
+/* $TexturePacker:SmartUpdate:5359ec272c62887e878a5f286761fea4:e8a59ecdbff5c19bc007264c3834d052:850d42f2bdb09ee228ec20cb3a705740$ */
