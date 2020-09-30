@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.nt_bg_biodiversity_16 {max-width:237px; max-height:203px; }
+.nt_bg_biodiversity_16::after {content: '\00a0';display: inline-block; width:237px; height:203px; background-position: 50% 87.24832214765101%;background-size: 371.7299578059072% 246.79802955665025%;background-image: url(biology_ch_36_40.jpg);padding: 0; }
+div.nt_bg_biodiversity_16::after {max-width:237px; width:100%;height:0;padding: 0 0 85.65400843881856% 0;}
+.nt_bg_ecosystem_15 {max-width:320px; max-height:240px; }
+.nt_bg_ecosystem_15::after {content: '\00a0';display: inline-block; width:320px; height:240px; background-position: 0.17825311942959002% 99.61685823754789%;background-size: 275.3125% 208.75%;background-image: url(biology_ch_36_40.jpg);padding: 0; }
+div.nt_bg_ecosystem_15::after {max-width:320px; width:100%;height:0;padding: 0 0 75% 0;}
+.nt_bg_ecosystem_25 {max-width:320px; max-height:93px; }
+.nt_bg_ecosystem_25::after {content: '\00a0';display: inline-block; width:320px; height:93px; background-position: 82.3529411764706% 0.24509803921568626%;background-size: 275.3125% 538.7096774193549%;background-image: url(biology_ch_36_40.jpg);padding: 0; }
+div.nt_bg_ecosystem_25::after {max-width:320px; width:100%;height:0;padding: 0 0 29.0625% 0;}
+.nt_bg_ecosystem_30 {max-width:460px; max-height:258px; }
+.nt_bg_ecosystem_30::after {content: '\00a0';display: inline-block; width:460px; height:258px; background-position: 0.2375296912114014% 0.411522633744856%;background-size: 191.52173913043478% 194.1860465116279%;background-image: url(biology_ch_36_40.jpg);padding: 0; }
+div.nt_bg_ecosystem_30::after {max-width:460px; width:100%;height:0;padding: 0 0 56.08695652173913% 0;}
+.nt_bg_ecosystem_39 {max-width:320px; max-height:295px; }
+.nt_bg_ecosystem_39::after {content: '\00a0';display: inline-block; width:320px; height:295px; background-position: 99.82174688057042% 46.116504854368934%;background-size: 275.3125% 169.83050847457628%;background-image: url(biology_ch_36_40.jpg);padding: 0; }
+div.nt_bg_ecosystem_39::after {max-width:320px; width:100%;height:0;padding: 0 0 92.1875% 0;}
+
+/* $TexturePacker:SmartUpdate:ed5e28e2dc5b7de6571765d1e8f5be34:294b602b6f0003aa602b6620d4fa8818:06e6d9b08304525037b4c5f1704bb43f$ */
