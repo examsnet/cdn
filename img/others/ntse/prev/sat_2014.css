@@ -1,0 +1,62 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.NTSE_2014_11_SAT_sol {max-width:387px; max-height:146px; }
+.NTSE_2014_11_SAT_sol::after {content: '\00a0';display: inline-block; width:387px; height:146px; background-position: 55.11182108626198% 44.3287037037037%;background-size: 261.75710594315245% 691.7808219178082%;background-image: url(sat_2014.png);padding: 0; }
+div.NTSE_2014_11_SAT_sol::after {max-width:387px; width:100%;height:0;padding: 0 0 37.72609819121447% 0;}
+.NTSE_2014_25_SAT_sol {max-width:343px; max-height:289px; }
+.NTSE_2014_25_SAT_sol::after {content: '\00a0';display: inline-block; width:343px; height:289px; background-position: 0.14925373134328357% 25.65880721220527%;background-size: 295.33527696793004% 349.48096885813146%;background-image: url(sat_2014.png);padding: 0; }
+div.NTSE_2014_25_SAT_sol::after {max-width:343px; width:100%;height:0;padding: 0 0 84.25655976676384% 0;}
+.NTSE_2014_26_SAT_sol {max-width:294px; max-height:208px; }
+.NTSE_2014_26_SAT_sol::after {content: '\00a0';display: inline-block; width:294px; height:208px; background-position: 0.13908205841446453% 99.87531172069825%;background-size: 344.5578231292517% 485.5769230769231%;background-image: url(sat_2014.png);padding: 0; }
+div.NTSE_2014_26_SAT_sol::after {max-width:294px; width:100%;height:0;padding: 0 0 70.74829931972789% 0;}
+.NTSE_2014_27_SAT_sol {max-width:380px; max-height:181px; }
+.NTSE_2014_27_SAT_sol::after {content: '\00a0';display: inline-block; width:380px; height:181px; background-position: 54.502369668246445% 24.246079613992762%;background-size: 266.57894736842104% 558.0110497237569%;background-image: url(sat_2014.png);padding: 0; }
+div.NTSE_2014_27_SAT_sol::after {max-width:380px; width:100%;height:0;padding: 0 0 47.63157894736842% 0;}
+.NTSE_2014_2_SAT_sol {max-width:451px; max-height:183px; }
+.NTSE_2014_2_SAT_sol::after {content: '\00a0';display: inline-block; width:451px; height:183px; background-position: 0.17793594306049823% 0.12091898428053205%;background-size: 224.6119733924612% 551.9125683060109%;background-image: url(sat_2014.png);padding: 0; }
+div.NTSE_2014_2_SAT_sol::after {max-width:451px; width:100%;height:0;padding: 0 0 40.57649667405765% 0;}
+.NTSE_2014_46_SAT {max-width:255px; max-height:160px; }
+.NTSE_2014_46_SAT::after {content: '\00a0';display: inline-block; width:255px; height:160px; background-position: 39.050131926121374% 99.52941176470588%;background-size: 397.2549019607843% 631.25%;background-image: url(sat_2014.png);padding: 0; }
+div.NTSE_2014_46_SAT::after {max-width:255px; width:100%;height:0;padding: 0 0 62.745098039215684% 0;}
+.NTSE_2014_48_SAT_sol {max-width:165px; max-height:138px; }
+.NTSE_2014_48_SAT_sol::after {content: '\00a0';display: inline-block; width:165px; height:138px; background-position: 99.05660377358491% 0.11467889908256881%;background-size: 613.939393939394% 731.8840579710145%;background-image: url(sat_2014.png);padding: 0; }
+div.NTSE_2014_48_SAT_sol::after {max-width:165px; width:100%;height:0;padding: 0 0 83.63636363636364% 0;}
+.NTSE_2014_52_SAT {max-width:251px; max-height:168px; }
+.NTSE_2014_52_SAT::after {content: '\00a0';display: inline-block; width:251px; height:168px; background-position: 95.2755905511811% 23.871733966745843%;background-size: 403.58565737051794% 601.1904761904761%;background-image: url(sat_2014.png);padding: 0; }
+div.NTSE_2014_52_SAT::after {max-width:251px; width:100%;height:0;padding: 0 0 66.93227091633466% 0;}
+.NTSE_2014_77_SAT {max-width:211px; max-height:137px; }
+.NTSE_2014_77_SAT::after {content: '\00a0';display: inline-block; width:211px; height:137px; background-position: 91.39650872817955% 42.38258877434135%;background-size: 480.09478672985784% 737.2262773722628%;background-image: url(sat_2014.png);padding: 0; }
+div.NTSE_2014_77_SAT::after {max-width:211px; width:100%;height:0;padding: 0 0 64.92890995260663% 0;}
+.NTSE_2014_79_a_SAT {max-width:402px; max-height:109px; }
+.NTSE_2014_79_a_SAT::after {content: '\00a0';display: inline-block; width:402px; height:109px; background-position: 95.41734860883797% 92.1198668146504%;background-size: 251.9900497512438% 926.605504587156%;background-image: url(sat_2014.png);padding: 0; }
+div.NTSE_2014_79_a_SAT::after {max-width:402px; width:100%;height:0;padding: 0 0 27.114427860696516% 0;}
+.NTSE_2014_79_b_SAT {max-width:406px; max-height:110px; }
+.NTSE_2014_79_b_SAT::after {content: '\00a0';display: inline-block; width:406px; height:110px; background-position: 98.18780889621087% 70.11111111111111%;background-size: 249.50738916256157% 918.1818181818181%;background-image: url(sat_2014.png);padding: 0; }
+div.NTSE_2014_79_b_SAT::after {max-width:406px; width:100%;height:0;padding: 0 0 27.0935960591133% 0;}
+.NTSE_2014_79_c_SAT {max-width:416px; max-height:100px; }
+.NTSE_2014_79_c_SAT::after {content: '\00a0';display: inline-block; width:416px; height:100px; background-position: 99.83249581239531% 58.24175824175824%;background-size: 243.5096153846154% 1010%;background-image: url(sat_2014.png);padding: 0; }
+div.NTSE_2014_79_c_SAT::after {max-width:416px; width:100%;height:0;padding: 0 0 24.03846153846154% 0;}
+.NTSE_2014_79_d_SAT {max-width:411px; max-height:87px; }
+.NTSE_2014_79_d_SAT::after {content: '\00a0';display: inline-block; width:411px; height:87px; background-position: 99.00332225913621% 80.39003250270856%;background-size: 246.4720194647202% 1160.9195402298851%;background-image: url(sat_2014.png);padding: 0; }
+div.NTSE_2014_79_d_SAT::after {max-width:411px; width:100%;height:0;padding: 0 0 21.16788321167883% 0;}
+.NTSE_2014_83_SAT {max-width:277px; max-height:47px; }
+.NTSE_2014_83_SAT::after {content: '\00a0';display: inline-block; width:277px; height:47px; background-position: 41.44021739130435% 82.86604361370716%;background-size: 365.7039711191336% 2148.936170212766%;background-image: url(sat_2014.png);padding: 0; }
+div.NTSE_2014_83_SAT::after {max-width:277px; width:100%;height:0;padding: 0 0 16.967509025270758% 0;}
+.NTSE_2014_84_SAT {max-width:303px; max-height:325px; }
+.NTSE_2014_84_SAT::after {content: '\00a0';display: inline-block; width:303px; height:325px; background-position: 0.14084507042253522% 69.34306569343066%;background-size: 334.32343234323434% 310.7692307692308%;background-image: url(sat_2014.png);padding: 0; }
+div.NTSE_2014_84_SAT::after {max-width:303px; width:100%;height:0;padding: 0 0 107.26072607260726% 0;}
+.NTSE_2014_86_SAT {max-width:386px; max-height:199px; }
+.NTSE_2014_86_SAT::after {content: '\00a0';display: inline-block; width:386px; height:199px; background-position: 72.2488038277512% 0.12330456226880394%;background-size: 262.43523316062175% 507.53768844221105%;background-image: url(sat_2014.png);padding: 0; }
+div.NTSE_2014_86_SAT::after {max-width:386px; width:100%;height:0;padding: 0 0 51.55440414507772% 0;}
+.NTSE_2014_88_SAT {max-width:290px; max-height:267px; }
+.NTSE_2014_88_SAT::after {content: '\00a0';display: inline-block; width:290px; height:267px; background-position: 42.18533886583679% 71.33243606998654%;background-size: 349.3103448275862% 378.2771535580524%;background-image: url(sat_2014.png);padding: 0; }
+div.NTSE_2014_88_SAT::after {max-width:290px; width:100%;height:0;padding: 0 0 92.06896551724138% 0;}
+
+/* $TexturePacker:SmartUpdate:9c7a2fc27f08108e54717e6c87405490:a7b4ab5af7878890b71794928574e25f:e0471a705c0c6ceefcf5f5dda541a633$ */
