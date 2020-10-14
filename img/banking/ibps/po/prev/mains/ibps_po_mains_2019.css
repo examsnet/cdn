@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.IBPS_PO_MAINS2019_1 {max-width:596px; max-height:338px; }
+.IBPS_PO_MAINS2019_1::after {content: '\00a0';display: inline-block; width:596px; height:338px; background-position: 50.56472632493484% 42.25806451612903%;background-size: 293.12080536912754% 283.43195266272187%;background-image: url(ibps_po_mains_2019.png);padding: 0; }
+div.IBPS_PO_MAINS2019_1::after {max-width:596px; width:100%;height:0;padding: 0 0 56.711409395973156% 0;}
+.IBPS_PO_MAINS2019_11 {max-width:598px; max-height:260px; }
+.IBPS_PO_MAINS2019_11::after {content: '\00a0';display: inline-block; width:598px; height:260px; background-position: 50.652741514360315% 0.14326647564469913%;background-size: 292.1404682274248% 368.46153846153845%;background-image: url(ibps_po_mains_2019.png);padding: 0; }
+div.IBPS_PO_MAINS2019_11::after {max-width:598px; width:100%;height:0;padding: 0 0 43.47826086956522% 0;}
+.IBPS_PO_MAINS2019_16 {max-width:580px; max-height:760px; }
+.IBPS_PO_MAINS2019_16::after {content: '\00a0';display: inline-block; width:580px; height:760px; background-position: 0.0856898029134533% 0.5050505050505051%;background-size: 301.2068965517241% 126.05263157894737%;background-image: url(ibps_po_mains_2019.png);padding: 0; }
+div.IBPS_PO_MAINS2019_16::after {max-width:580px; width:100%;height:0;padding: 0 0 131.0344827586207% 0;}
+.IBPS_PO_MAINS2019_31 {max-width:553px; max-height:325px; }
+.IBPS_PO_MAINS2019_31::after {content: '\00a0';display: inline-block; width:553px; height:325px; background-position: 98.91122278056952% 0.1579778830963665%;background-size: 315.9132007233273% 294.7692307692308%;background-image: url(ibps_po_mains_2019.png);padding: 0; }
+div.IBPS_PO_MAINS2019_31::after {max-width:553px; width:100%;height:0;padding: 0 0 58.77034358047016% 0;}
+.IBPS_PO_MAINS2019_6 {max-width:575px; max-height:335px; }
+.IBPS_PO_MAINS2019_6::after {content: '\00a0';display: inline-block; width:575px; height:335px; background-position: 99.91467576791808% 96.46869983948636%;background-size: 303.82608695652175% 285.97014925373134%;background-image: url(ibps_po_mains_2019.png);padding: 0; }
+div.IBPS_PO_MAINS2019_6::after {max-width:575px; width:100%;height:0;padding: 0 0 58.26086956521739% 0;}
+.IBPS_PO_MAINS2019_6_1 {max-width:588px; max-height:356px; }
+.IBPS_PO_MAINS2019_6_1::after {content: '\00a0';display: inline-block; width:588px; height:356px; background-position: 50.21570319240725% 99.83388704318936%;background-size: 297.10884353741494% 269.1011235955056%;background-image: url(ibps_po_mains_2019.png);padding: 0; }
+div.IBPS_PO_MAINS2019_6_1::after {max-width:588px; width:100%;height:0;padding: 0 0 60.54421768707483% 0;}
+
+/* $TexturePacker:SmartUpdate:54d34432bea62f792bd4597d399ea5b8:2a4bbe541ca42b6a81cb45e4a38047f9:cba79504edc95744978a92daa857de95$ */
