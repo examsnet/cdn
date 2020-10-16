@@ -1,0 +1,98 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.nt_ph_moti_in_plane_13 {max-width:275px; max-height:238px; }
+.nt_ph_moti_in_plane_13::after {content: '\00a0';display: inline-block; width:275px; height:238px; background-position: 49.96892479801119% 68.34249803613511%;background-size: 685.0909090909091% 634.8739495798319%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_moti_in_plane_13::after {max-width:275px; width:100%;height:0;padding: 0 0 86.54545454545455% 0;}
+.nt_ph_moti_in_plane_13_sol {max-width:372px; max-height:220px; }
+.nt_ph_moti_in_plane_13_sol::after {content: '\00a0';display: inline-block; width:372px; height:220px; background-position: 23.280423280423282% 96.82416731216111%;background-size: 506.4516129032258% 686.8181818181819%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_moti_in_plane_13_sol::after {max-width:372px; width:100%;height:0;padding: 0 0 59.13978494623656% 0;}
+.nt_ph_moti_in_plane_19_sol {max-width:506px; max-height:324px; }
+.nt_ph_moti_in_plane_19_sol::after {content: '\00a0';display: inline-block; width:506px; height:324px; background-position: 0.07256894049346879% 0.08424599831508003%;background-size: 372.3320158102767% 466.358024691358%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_moti_in_plane_19_sol::after {max-width:506px; width:100%;height:0;padding: 0 0 64.03162055335969% 0;}
+.nt_ph_moti_in_plane_1_sol {max-width:350px; max-height:314px; }
+.nt_ph_moti_in_plane_1_sol::after {content: '\00a0';display: inline-block; width:350px; height:314px; background-position: 0.0651890482398957% 87.3015873015873%;background-size: 538.2857142857143% 481.21019108280257%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_moti_in_plane_1_sol::after {max-width:350px; width:100%;height:0;padding: 0 0 89.71428571428571% 0;}
+.nt_ph_moti_in_plane_20_sol {max-width:375px; max-height:231px; }
+.nt_ph_moti_in_plane_20_sol::after {content: '\00a0';display: inline-block; width:375px; height:231px; background-position: 26.507620941020544% 79.53125%;background-size: 502.4% 654.1125541125541%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_moti_in_plane_20_sol::after {max-width:375px; width:100%;height:0;padding: 0 0 61.6% 0;}
+.nt_ph_moti_in_plane_22 {max-width:370px; max-height:235px; }
+.nt_ph_moti_in_plane_22::after {content: '\00a0';display: inline-block; width:370px; height:235px; background-position: 58.91677675033025% 49.68652037617555%;background-size: 509.18918918918916% 642.9787234042553%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_moti_in_plane_22::after {max-width:370px; width:100%;height:0;padding: 0 0 63.513513513513516% 0;}
+.nt_ph_moti_in_plane_22_sol {max-width:222px; max-height:308px; }
+.nt_ph_moti_in_plane_22_sol::after {content: '\00a0';display: inline-block; width:222px; height:308px; background-position: 99.93983152827919% 0.0831255195344971%;background-size: 848.6486486486486% 490.5844155844156%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_moti_in_plane_22_sol::after {max-width:222px; width:100%;height:0;padding: 0 0 138.73873873873873% 0;}
+.nt_ph_moti_in_plane_23_sol {max-width:480px; max-height:255px; }
+.nt_ph_moti_in_plane_23_sol::after {content: '\00a0';display: inline-block; width:480px; height:255px; background-position: 28.632478632478634% 30.493630573248407%;background-size: 392.5% 592.5490196078431%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_moti_in_plane_23_sol::after {max-width:480px; width:100%;height:0;padding: 0 0 53.125% 0;}
+.nt_ph_moti_in_plane_25 {max-width:318px; max-height:250px; }
+.nt_ph_moti_in_plane_25::after {content: '\00a0';display: inline-block; width:318px; height:250px; background-position: 56.38569604086845% 30.37272006344171%;background-size: 592.4528301886793% 604.4%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_moti_in_plane_25::after {max-width:318px; width:100%;height:0;padding: 0 0 78.61635220125787% 0;}
+.nt_ph_moti_in_plane_26_sol {max-width:489px; max-height:199px; }
+.nt_ph_moti_in_plane_26_sol::after {content: '\00a0';display: inline-block; width:489px; height:199px; background-position: 28.817204301075268% 48.704268292682926%;background-size: 385.2760736196319% 759.2964824120603%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_moti_in_plane_26_sol::after {max-width:489px; width:100%;height:0;padding: 0 0 40.695296523517385% 0;}
+.nt_ph_moti_in_plane_28_sol {max-width:398px; max-height:307px; }
+.nt_ph_moti_in_plane_28_sol::after {content: '\00a0';display: inline-block; width:398px; height:307px; background-position: 0.06729475100942127% 61.21262458471761%;background-size: 473.36683417085425% 492.1824104234528%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_moti_in_plane_28_sol::after {max-width:398px; width:100%;height:0;padding: 0 0 77.1356783919598% 0;}
+.nt_ph_moti_in_plane_2_sol {max-width:400px; max-height:410px; }
+.nt_ph_moti_in_plane_2_sol::after {content: '\00a0';display: inline-block; width:400px; height:410px; background-position: 0.0673854447439353% 29.6094459582198%;background-size: 471% 368.5365853658537%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_moti_in_plane_2_sol::after {max-width:400px; width:100%;height:0;padding: 0 0 102.5% 0;}
+.nt_ph_moti_in_plane_31_sol {max-width:403px; max-height:178px; }
+.nt_ph_moti_in_plane_31_sol::after {content: '\00a0';display: inline-block; width:403px; height:178px; background-position: 27.00877785280216% 62.94073518379595%;background-size: 467.4937965260546% 848.876404494382%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_moti_in_plane_31_sol::after {max-width:403px; width:100%;height:0;padding: 0 0 44.168734491315135% 0;}
+.nt_ph_moti_in_plane_33_sol {max-width:197px; max-height:187px; }
+.nt_ph_moti_in_plane_33_sol::after {content: '\00a0';display: inline-block; width:197px; height:187px; background-position: 57.91345583876704% 99.16918429003022%;background-size: 956.3451776649746% 808.0213903743315%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_moti_in_plane_33_sol::after {max-width:197px; width:100%;height:0;padding: 0 0 94.9238578680203% 0;}
+.nt_ph_moti_in_plane_46_sol {max-width:326px; max-height:280px; }
+.nt_ph_moti_in_plane_46_sol::after {content: '\00a0';display: inline-block; width:326px; height:280px; background-position: 98.97304236200257% 25.182778229082047%;background-size: 577.9141104294479% 539.6428571428571%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_moti_in_plane_46_sol::after {max-width:326px; width:100%;height:0;padding: 0 0 85.88957055214723% 0;}
+.nt_ph_moti_in_plane_50 {max-width:339px; max-height:304px; }
+.nt_ph_moti_in_plane_50::after {content: '\00a0';display: inline-block; width:339px; height:304px; background-position: 77.79935275080906% 19.055509527754765%;background-size: 555.7522123893805% 497.0394736842105%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_moti_in_plane_50::after {max-width:339px; width:100%;height:0;padding: 0 0 89.6755162241888% 0;}
+.nt_ph_moti_in_plane_6 {max-width:261px; max-height:238px; }
+.nt_ph_moti_in_plane_6::after {content: '\00a0';display: inline-block; width:261px; height:238px; background-position: 66.54343807763401% 68.34249803613511%;background-size: 721.8390804597701% 634.8739495798319%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_moti_in_plane_6::after {max-width:261px; width:100%;height:0;padding: 0 0 91.18773946360153% 0;}
+.nt_ph_moti_in_plane_63_sol {max-width:320px; max-height:307px; }
+.nt_ph_moti_in_plane_63_sol::after {content: '\00a0';display: inline-block; width:320px; height:307px; background-position: 97.57033248081841% 49.08637873754153%;background-size: 588.75% 492.1824104234528%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_moti_in_plane_63_sol::after {max-width:320px; width:100%;height:0;padding: 0 0 95.9375% 0;}
+.nt_ph_moti_in_plane_6_sol {max-width:253px; max-height:250px; }
+.nt_ph_moti_in_plane_6_sol::after {content: '\00a0';display: inline-block; width:253px; height:250px; background-position: 91.72286940527285% 71.29262490087233%;background-size: 744.6640316205534% 604.4%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_moti_in_plane_6_sol::after {max-width:253px; width:100%;height:0;padding: 0 0 98.81422924901186% 0;}
+.nt_ph_motion_st_line_25_sol {max-width:153px; max-height:212px; }
+.nt_ph_motion_st_line_25_sol::after {content: '\00a0';display: inline-block; width:153px; height:212px; background-position: 77.52744078567302% 66.82063125481139%;background-size: 1231.3725490196077% 712.7358490566038%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_motion_st_line_25_sol::after {max-width:153px; width:100%;height:0;padding: 0 0 138.56209150326796% 0;}
+.nt_ph_motion_st_line_26_sol {max-width:251px; max-height:360px; }
+.nt_ph_motion_st_line_26_sol::after {content: '\00a0';display: inline-block; width:251px; height:360px; background-position: 95.40722596448255% 99.9131190269331%;background-size: 750.597609561753% 419.72222222222223%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_motion_st_line_26_sol::after {max-width:251px; width:100%;height:0;padding: 0 0 143.42629482071712% 0;}
+.nt_ph_motion_st_line_38 {max-width:571px; max-height:228px; }
+.nt_ph_motion_st_line_38::after {content: '\00a0';display: inline-block; width:571px; height:228px; background-position: 82.93983244478294% 0.0779423226812159%;background-size: 329.94746059544656% 662.719298245614%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_motion_st_line_38::after {max-width:571px; width:100%;height:0;padding: 0 0 39.92994746059545% 0;}
+.nt_ph_motion_st_line_38 {max-width:580px; max-height:233px; }
+.nt_ph_motion_st_line_38::after {content: '\00a0';display: inline-block; width:580px; height:233px; background-position: 38.95705521472393% 0.0782472613458529%;background-size: 324.82758620689657% 648.4978540772532%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_motion_st_line_38::after {max-width:580px; width:100%;height:0;padding: 0 0 40.172413793103445% 0;}
+.nt_ph_motion_st_line_40a {max-width:262px; max-height:203px; }
+.nt_ph_motion_st_line_40a::after {content: '\00a0';display: inline-block; width:262px; height:203px; background-position: 64.24167694204685% 84.78593272171254%;background-size: 719.0839694656488% 744.3349753694581%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_motion_st_line_40a::after {max-width:262px; width:100%;height:0;padding: 0 0 77.48091603053435% 0;}
+.nt_ph_motion_st_line_40b {max-width:265px; max-height:200px; }
+.nt_ph_motion_st_line_40b::after {content: '\00a0';display: inline-block; width:265px; height:200px; background-position: 47.93082149474984% 84.59191456903127%;background-size: 710.9433962264151% 755.5%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_motion_st_line_40b::after {max-width:265px; width:100%;height:0;padding: 0 0 75.47169811320755% 0;}
+.nt_ph_motion_st_line_40c {max-width:251px; max-height:197px; }
+.nt_ph_motion_st_line_40c::after {content: '\00a0';display: inline-block; width:251px; height:197px; background-position: 44.39681567666871% 99.69558599695586%;background-size: 750.597609561753% 767.005076142132%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_motion_st_line_40c::after {max-width:251px; width:100%;height:0;padding: 0 0 78.48605577689243% 0;}
+.nt_ph_motion_st_line_40d {max-width:252px; max-height:210px; }
+.nt_ph_motion_st_line_40d::after {content: '\00a0';display: inline-block; width:252px; height:210px; background-position: 79.96323529411765% 88.3935434281322%;background-size: 747.6190476190476% 719.5238095238095%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_motion_st_line_40d::after {max-width:252px; width:100%;height:0;padding: 0 0 83.33333333333333% 0;}
+.nt_ph_motion_st_line_46_sol {max-width:505px; max-height:147px; }
+.nt_ph_motion_st_line_46_sol::after {content: '\00a0';display: inline-block; width:505px; height:147px; background-position: 36.838288614938364% 17.228739002932553%;background-size: 373.0693069306931% 1027.891156462585%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_motion_st_line_46_sol::after {max-width:505px; width:100%;height:0;padding: 0 0 29.10891089108911% 0;}
+.nt_ph_motion_st_line_5_sol {max-width:262px; max-height:332px; }
+.nt_ph_motion_st_line_5_sol::after {content: '\00a0';display: inline-block; width:262px; height:332px; background-position: 77.86683107274969% 45.3774385072095%;background-size: 719.0839694656488% 455.12048192771084%;background-image: url(physics_ch_1_3.jpg);padding: 0; }
+div.nt_ph_motion_st_line_5_sol::after {max-width:262px; width:100%;height:0;padding: 0 0 126.7175572519084% 0;}
+
+/* $TexturePacker:SmartUpdate:8503349bca677a7b6d07310fb7b80852:96d440c08a48ca283794043649ac7804:a384b69254514a0909abef34abbbba96$ */
