@@ -7,146 +7,155 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
+.nt_ph_laws_motion_10 {max-width:320px; max-height:100px; }
+.nt_ph_laws_motion_10::after {content: '\00a0';display: inline-block; width:320px; height:100px; background-position: 78.80952380952381% 25.072212593876372%;background-size: 625% 1831%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_10::after {max-width:320px; width:100%;height:0;padding: 0 0 31.25% 0;}
+.nt_ph_laws_motion_10_sol {max-width:320px; max-height:75px; }
+.nt_ph_laws_motion_10_sol::after {content: '\00a0';display: inline-block; width:320px; height:75px; background-position: 27.321428571428573% 55.182232346241456%;background-size: 625% 2441.3333333333335%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_10_sol::after {max-width:320px; width:100%;height:0;padding: 0 0 23.4375% 0;}
 .nt_ph_laws_motion_11 {max-width:320px; max-height:196px; }
-.nt_ph_laws_motion_11::after {content: '\00a0';display: inline-block; width:320px; height:196px; background-position: 63.43956704750451% 76.79738562091504%;background-size: 619.6875% 1036.734693877551%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_11::after {content: '\00a0';display: inline-block; width:320px; height:196px; background-position: 21.547619047619047% 99.93883792048929%;background-size: 625% 934.1836734693877%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_11::after {max-width:320px; width:100%;height:0;padding: 0 0 61.25% 0;}
-.nt_ph_laws_motion_11_sol {max-width:360px; max-height:248px; }
-.nt_ph_laws_motion_11_sol::after {content: '\00a0';display: inline-block; width:360px; height:248px; background-position: 0.061614294516327786% 99.9439461883408%;background-size: 550.8333333333334% 819.3548387096774%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_11_sol::after {max-width:360px; width:100%;height:0;padding: 0 0 68.88888888888889% 0;}
+.nt_ph_laws_motion_11_sol {max-width:320px; max-height:220px; }
+.nt_ph_laws_motion_11_sol::after {content: '\00a0';display: inline-block; width:320px; height:220px; background-position: 58.095238095238095% 28.181253879577902%;background-size: 625% 832.2727272727273%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_11_sol::after {max-width:320px; width:100%;height:0;padding: 0 0 68.75% 0;}
+.nt_ph_laws_motion_12_sol {max-width:320px; max-height:172px; }
+.nt_ph_laws_motion_12_sol::after {content: '\00a0';display: inline-block; width:320px; height:172px; background-position: 77.20238095238095% 32.248342374924654%;background-size: 625% 1064.5348837209303%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_12_sol::after {max-width:320px; width:100%;height:0;padding: 0 0 53.75% 0;}
 .nt_ph_laws_motion_13 {max-width:320px; max-height:251px; }
-.nt_ph_laws_motion_13::after {content: '\00a0';display: inline-block; width:320px; height:251px; background-position: 83.1028262176789% 88.77035373385738%;background-size: 619.6875% 809.5617529880478%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_13::after {content: '\00a0';display: inline-block; width:320px; height:251px; background-position: 56.30952380952381% 42.721518987341774%;background-size: 625% 729.4820717131474%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_13::after {max-width:320px; width:100%;height:0;padding: 0 0 78.4375% 0;}
-.nt_ph_laws_motion_13_sol {max-width:397px; max-height:367px; }
-.nt_ph_laws_motion_13_sol::after {content: '\00a0';display: inline-block; width:397px; height:367px; background-position: 0.06305170239596469% 0.06006006006006006%;background-size: 499.4962216624685% 553.6784741144414%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_13_sol::after {max-width:397px; width:100%;height:0;padding: 0 0 92.44332493702771% 0;}
-.nt_ph_laws_motion_14 {max-width:360px; max-height:268px; }
-.nt_ph_laws_motion_14::after {content: '\00a0';display: inline-block; width:360px; height:268px; background-position: 49.291435613062234% 17.630385487528343%;background-size: 550.8333333333334% 758.2089552238806%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_14::after {max-width:360px; width:100%;height:0;padding: 0 0 74.44444444444444% 0;}
-.nt_ph_laws_motion_14_sol {max-width:360px; max-height:184px; }
-.nt_ph_laws_motion_14_sol::after {content: '\00a0';display: inline-block; width:360px; height:184px; background-position: 93.7769562538509% 24.18831168831169%;background-size: 550.8333333333334% 1104.3478260869565%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_14_sol::after {max-width:360px; width:100%;height:0;padding: 0 0 51.111111111111114% 0;}
-.nt_ph_laws_motion_15_sol {max-width:360px; max-height:262px; }
-.nt_ph_laws_motion_15_sol::after {content: '\00a0';display: inline-block; width:360px; height:262px; background-position: 71.53419593345656% 31.35593220338983%;background-size: 550.8333333333334% 775.5725190839695%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_15_sol::after {max-width:360px; width:100%;height:0;padding: 0 0 72.77777777777777% 0;}
+.nt_ph_laws_motion_13_sol {max-width:320px; max-height:296px; }
+.nt_ph_laws_motion_13_sol::after {content: '\00a0';display: inline-block; width:320px; height:296px; background-position: 14.404761904761905% 68.07817589576547%;background-size: 625% 618.581081081081%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_13_sol::after {max-width:320px; width:100%;height:0;padding: 0 0 92.5% 0;}
+.nt_ph_laws_motion_14 {max-width:320px; max-height:238px; }
+.nt_ph_laws_motion_14::after {content: '\00a0';display: inline-block; width:320px; height:238px; background-position: 75.41666666666667% 44.44444444444444%;background-size: 625% 769.3277310924369%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_14::after {max-width:320px; width:100%;height:0;padding: 0 0 74.375% 0;}
+.nt_ph_laws_motion_14_sol {max-width:320px; max-height:164px; }
+.nt_ph_laws_motion_14_sol::after {content: '\00a0';display: inline-block; width:320px; height:164px; background-position: 56.30952380952381% 55.60887822435513%;background-size: 625% 1116.4634146341464%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_14_sol::after {max-width:320px; width:100%;height:0;padding: 0 0 51.25% 0;}
+.nt_ph_laws_motion_15_sol {max-width:320px; max-height:233px; }
+.nt_ph_laws_motion_15_sol::after {content: '\00a0';display: inline-block; width:320px; height:233px; background-position: 52.61904761904762% 68.33541927409262%;background-size: 625% 785.8369098712446%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_15_sol::after {max-width:320px; width:100%;height:0;padding: 0 0 72.8125% 0;}
 .nt_ph_laws_motion_16 {max-width:127px; max-height:268px; }
-.nt_ph_laws_motion_16::after {content: '\00a0';display: inline-block; width:127px; height:268px; background-position: 91.05603448275862% 61.394557823129254%;background-size: 1561.4173228346456% 758.2089552238806%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_16::after {content: '\00a0';display: inline-block; width:127px; height:268px; background-position: 98.45168179391351% 87.77991042866283%;background-size: 1574.8031496062993% 683.2089552238806%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_16::after {max-width:127px; width:100%;height:0;padding: 0 0 211.0236220472441% 0;}
 .nt_ph_laws_motion_16_sol {max-width:150px; max-height:177px; }
-.nt_ph_laws_motion_16_sol::after {content: '\00a0';display: inline-block; width:150px; height:177px; background-position: 92.90780141843972% 96.8733153638814%;background-size: 1322% 1148.0225988700565%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_16_sol::after {content: '\00a0';display: inline-block; width:150px; height:177px; background-position: 99.67567567567568% 99.21402660217655%;background-size: 1333.3333333333333% 1034.4632768361582%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_16_sol::after {max-width:150px; width:100%;height:0;padding: 0 0 118% 0;}
 .nt_ph_laws_motion_16_sol_b {max-width:317px; max-height:315px; }
-.nt_ph_laws_motion_16_sol_b::after {content: '\00a0';display: inline-block; width:317px; height:315px; background-position: 63.32533013205282% 63.71578334304019%;background-size: 625.5520504731861% 645.0793650793651%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_16_sol_b::after {content: '\00a0';display: inline-block; width:317px; height:315px; background-position: 0.059417706476530004% 89.11609498680738%;background-size: 630.9148264984227% 581.2698412698413%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_16_sol_b::after {max-width:317px; width:100%;height:0;padding: 0 0 99.36908517350157% 0;}
 .nt_ph_laws_motion_16_sol_c {max-width:152px; max-height:190px; }
-.nt_ph_laws_motion_16_sol_c::after {content: '\00a0';display: inline-block; width:152px; height:190px; background-position: 99.29000546149645% 58.306188925081436%;background-size: 1304.6052631578948% 1069.4736842105262%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_16_sol_c::after {content: '\00a0';display: inline-block; width:152px; height:190px; background-position: 99.94588744588745% 70.20109689213893%;background-size: 1315.7894736842106% 963.6842105263158%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_16_sol_c::after {max-width:152px; width:100%;height:0;padding: 0 0 125% 0;}
-.nt_ph_laws_motion_17_sol_ {max-width:360px; max-height:302px; }
-.nt_ph_laws_motion_17_sol_::after {content: '\00a0';display: inline-block; width:360px; height:302px; background-position: 0.061614294516327786% 39.59537572254335%;background-size: 550.8333333333334% 672.8476821192053%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_17_sol_::after {max-width:360px; width:100%;height:0;padding: 0 0 83.88888888888889% 0;}
-.nt_ph_laws_motion_18_sol {max-width:360px; max-height:198px; }
-.nt_ph_laws_motion_18_sol::after {content: '\00a0';display: inline-block; width:360px; height:198px; background-position: 93.7769562538509% 34.46019629225736%;background-size: 550.8333333333334% 1026.2626262626263%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_18_sol::after {max-width:360px; width:100%;height:0;padding: 0 0 55% 0;}
+.nt_ph_laws_motion_17_sol_ {max-width:320px; max-height:268px; }
+.nt_ph_laws_motion_17_sol_::after {content: '\00a0';display: inline-block; width:320px; height:268px; background-position: 33.51190476190476% 66.85860524632118%;background-size: 625% 683.2089552238806%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_17_sol_::after {max-width:320px; width:100%;height:0;padding: 0 0 83.75% 0;}
+.nt_ph_laws_motion_18_sol {max-width:320px; max-height:176px; }
+.nt_ph_laws_motion_18_sol::after {content: '\00a0';display: inline-block; width:320px; height:176px; background-position: 75.41666666666667% 57.220543806646525%;background-size: 625% 1040.340909090909%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_18_sol::after {max-width:320px; width:100%;height:0;padding: 0 0 55% 0;}
 .nt_ph_laws_motion_1_sol {max-width:198px; max-height:345px; }
-.nt_ph_laws_motion_1_sol::after {content: '\00a0';display: inline-block; width:198px; height:345px; background-position: 14.2296918767507% 58.56550088915234%;background-size: 1001.5151515151515% 588.9855072463768%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_1_sol::after {content: '\00a0';display: inline-block; width:198px; height:345px; background-position: 14.428412874583795% 42.193808882907135%;background-size: 1010.10101010101% 530.7246376811594%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_1_sol::after {max-width:198px; width:100%;height:0;padding: 0 0 174.24242424242425% 0;}
-.nt_ph_laws_motion_2 {max-width:316px; max-height:295px; }
-.nt_ph_laws_motion_2::after {content: '\00a0';display: inline-block; width:316px; height:295px; background-position: 82.36352729454109% 62.98215313759355%;background-size: 627.5316455696203% 688.8135593220339%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_2::after {max-width:316px; width:100%;height:0;padding: 0 0 93.35443037974683% 0;}
+.nt_ph_laws_motion_2 {max-width:280px; max-height:261px; }
+.nt_ph_laws_motion_2::after {content: '\00a0';display: inline-block; width:280px; height:261px; background-position: 34.883720930232556% 83.69426751592357%;background-size: 714.2857142857143% 701.5325670498084%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_2::after {max-width:280px; width:100%;height:0;padding: 0 0 93.21428571428571% 0;}
 .nt_ph_laws_motion_24_sol {max-width:203px; max-height:202px; }
-.nt_ph_laws_motion_24_sol::after {content: '\00a0';display: inline-block; width:203px; height:202px; background-position: 95.33707865168539% 73.87978142076503%;background-size: 976.8472906403941% 1005.940594059406%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_24_sol::after {content: '\00a0';display: inline-block; width:203px; height:202px; background-position: 20.144685587089594% 25.10742786985881%;background-size: 985.2216748768473% 906.4356435643564%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_24_sol::after {max-width:203px; width:100%;height:0;padding: 0 0 99.50738916256158% 0;}
-.nt_ph_laws_motion_27 {max-width:323px; max-height:182px; }
-.nt_ph_laws_motion_27::after {content: '\00a0';display: inline-block; width:323px; height:182px; background-position: 61.86746987951807% 99.1891891891892%;background-size: 613.9318885448916% 1116.4835164835165%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_27::after {max-width:323px; width:100%;height:0;padding: 0 0 56.34674922600619% 0;}
-.nt_ph_laws_motion_27_sol {max-width:420px; max-height:222px; }
-.nt_ph_laws_motion_27_sol::after {content: '\00a0';display: inline-block; width:420px; height:222px; background-position: 99.9360204734485% 0.055248618784530384%;background-size: 472.14285714285717% 915.3153153153153%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_27_sol::after {max-width:420px; width:100%;height:0;padding: 0 0 52.857142857142854% 0;}
+.nt_ph_laws_motion_27 {max-width:280px; max-height:158px; }
+.nt_ph_laws_motion_27::after {content: '\00a0';display: inline-block; width:280px; height:158px; background-position: 92.32558139534883% 59.35445307830245%;background-size: 714.2857142857143% 1158.860759493671%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_27::after {max-width:280px; width:100%;height:0;padding: 0 0 56.42857142857143% 0;}
+.nt_ph_laws_motion_27_sol {max-width:360px; max-height:190px; }
+.nt_ph_laws_motion_27_sol::after {content: '\00a0';display: inline-block; width:360px; height:190px; background-position: 34.51219512195122% 28.762949421084706%;background-size: 555.5555555555555% 963.6842105263158%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_27_sol::after {max-width:360px; width:100%;height:0;padding: 0 0 52.77777777777778% 0;}
 .nt_ph_laws_motion_28_sol {max-width:277px; max-height:241px; }
-.nt_ph_laws_motion_28_sol::after {content: '\00a0';display: inline-block; width:277px; height:241px; background-position: 99.82415005861665% 86.82300390843105%;background-size: 715.884476534296% 843.1535269709543%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_28_sol::after {content: '\00a0';display: inline-block; width:277px; height:241px; background-position: 58.270458502611724% 99.937106918239%;background-size: 722.0216606498195% 759.7510373443984%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_28_sol::after {max-width:277px; width:100%;height:0;padding: 0 0 87.00361010830325% 0;}
-.nt_ph_laws_motion_2_sol {max-width:320px; max-height:332px; }
-.nt_ph_laws_motion_2_sol::after {content: '\00a0';display: inline-block; width:320px; height:332px; background-position: 21.767889356584487% 31.11764705882353%;background-size: 619.6875% 612.0481927710844%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_2_sol::after {max-width:320px; width:100%;height:0;padding: 0 0 103.75% 0;}
+.nt_ph_laws_motion_2_sol {max-width:280px; max-height:291px; }
+.nt_ph_laws_motion_2_sol::after {content: '\00a0';display: inline-block; width:280px; height:291px; background-position: 18.546511627906977% 87.14285714285714%;background-size: 714.2857142857143% 629.2096219931271%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_2_sol::after {max-width:280px; width:100%;height:0;padding: 0 0 103.92857142857143% 0;}
 .nt_ph_laws_motion_30_sol {max-width:177px; max-height:250px; }
-.nt_ph_laws_motion_30_sol::after {content: '\00a0';display: inline-block; width:177px; height:250px; background-position: 47.009966777408636% 98.76543209876543%;background-size: 1120.3389830508474% 812.8%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_30_sol::after {content: '\00a0';display: inline-block; width:177px; height:250px; background-position: 92.43006034009873% 20.55660974067046%;background-size: 1129.9435028248588% 732.4%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_30_sol::after {max-width:177px; width:100%;height:0;padding: 0 0 141.24293785310735% 0;}
-.nt_ph_laws_motion_31 {max-width:360px; max-height:276px; }
-.nt_ph_laws_motion_31::after {content: '\00a0';display: inline-block; width:360px; height:276px; background-position: 42.76032039433149% 70.78587699316628%;background-size: 550.8333333333334% 736.231884057971%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_31::after {max-width:360px; width:100%;height:0;padding: 0 0 76.66666666666667% 0;}
-.nt_ph_laws_motion_31_sol {max-width:360px; max-height:285px; }
-.nt_ph_laws_motion_31_sol::after {content: '\00a0';display: inline-block; width:360px; height:285px; background-position: 71.53419593345656% 15.397824842587292%;background-size: 550.8333333333334% 712.9824561403509%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_31_sol::after {max-width:360px; width:100%;height:0;padding: 0 0 79.16666666666667% 0;}
-.nt_ph_laws_motion_33 {max-width:320px; max-height:114px; }
-.nt_ph_laws_motion_33::after {content: '\00a0';display: inline-block; width:320px; height:114px; background-position: 21.767889356584487% 44.94264859228363%;background-size: 619.6875% 1782.4561403508771%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_33::after {max-width:320px; width:100%;height:0;padding: 0 0 35.625% 0;}
-.nt_ph_laws_motion_34_sol {max-width:231px; max-height:342px; }
-.nt_ph_laws_motion_34_sol::after {content: '\00a0';display: inline-block; width:231px; height:342px; background-position: 14.840182648401827% 78.93491124260355%;background-size: 858.4415584415584% 594.1520467836257%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_34_sol::after {max-width:231px; width:100%;height:0;padding: 0 0 148.05194805194805% 0;}
+.nt_ph_laws_motion_31 {max-width:320px; max-height:245px; }
+.nt_ph_laws_motion_31::after {content: '\00a0';display: inline-block; width:320px; height:245px; background-position: 52.44047619047619% 83.60655737704919%;background-size: 625% 747.3469387755102%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_31::after {max-width:320px; width:100%;height:0;padding: 0 0 76.5625% 0;}
+.nt_ph_laws_motion_31_sol {max-width:320px; max-height:253px; }
+.nt_ph_laws_motion_31_sol::after {content: '\00a0';display: inline-block; width:320px; height:253px; background-position: 40.654761904761905% 99.87325728770595%;background-size: 625% 723.7154150197629%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_31_sol::after {max-width:320px; width:100%;height:0;padding: 0 0 79.0625% 0;}
+.nt_ph_laws_motion_33 {max-width:280px; max-height:100px; }
+.nt_ph_laws_motion_33::after {content: '\00a0';display: inline-block; width:280px; height:100px; background-position: 90.87209302325581% 98.78682842287695%;background-size: 714.2857142857143% 1831%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_33::after {max-width:280px; width:100%;height:0;padding: 0 0 35.714285714285715% 0;}
+.nt_ph_laws_motion_34_sol {max-width:192px; max-height:284px; }
+.nt_ph_laws_motion_34_sol::after {content: '\00a0';display: inline-block; width:192px; height:284px; background-position: 87.83185840707965% 45.76599870717518%;background-size: 1041.6666666666667% 644.7183098591549%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_34_sol::after {max-width:192px; width:100%;height:0;padding: 0 0 147.91666666666666% 0;}
 .nt_ph_laws_motion_35_sol {max-width:360px; max-height:309px; }
-.nt_ph_laws_motion_35_sol::after {content: '\00a0';display: inline-block; width:360px; height:309px; background-position: 49.291435613062234% 0.05803830528148578%;background-size: 550.8333333333334% 657.6051779935275%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_35_sol::after {content: '\00a0';display: inline-block; width:360px; height:309px; background-position: 0.06097560975609756% 20.82785808147175%;background-size: 555.5555555555555% 592.5566343042071%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_35_sol::after {max-width:360px; width:100%;height:0;padding: 0 0 85.83333333333333% 0;}
-.nt_ph_laws_motion_36 {max-width:320px; max-height:251px; }
-.nt_ph_laws_motion_36::after {content: '\00a0';display: inline-block; width:320px; height:251px; background-position: 31.7498496692724% 98.82088714205503%;background-size: 619.6875% 809.5617529880478%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_36::after {max-width:320px; width:100%;height:0;padding: 0 0 78.4375% 0;}
-.nt_ph_laws_motion_36_sol {max-width:320px; max-height:190px; }
-.nt_ph_laws_motion_36_sol::after {content: '\00a0';display: inline-block; width:320px; height:190px; background-position: 82.74203247143716% 75.46145494028231%;background-size: 619.6875% 1069.4736842105262%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_36_sol::after {max-width:320px; width:100%;height:0;padding: 0 0 59.375% 0;}
-.nt_ph_laws_motion_36_sol_a {max-width:400px; max-height:212px; }
-.nt_ph_laws_motion_36_sol_a::after {content: '\00a0';display: inline-block; width:400px; height:212px; background-position: 25.205306380290587% 17.36263736263736%;background-size: 495.75% 958.4905660377359%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_36_sol_a::after {max-width:400px; width:100%;height:0;padding: 0 0 53% 0;}
-.nt_ph_laws_motion_40_sol {max-width:360px; max-height:239px; }
-.nt_ph_laws_motion_40_sol::after {content: '\00a0';display: inline-block; width:360px; height:239px; background-position: 42.39063462723352% 84.77412158393753%;background-size: 550.8333333333334% 850.2092050209205%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_40_sol::after {max-width:360px; width:100%;height:0;padding: 0 0 66.38888888888889% 0;}
-.nt_ph_laws_motion_42_sol {max-width:400px; max-height:154px; }
-.nt_ph_laws_motion_42_sol::after {content: '\00a0';display: inline-block; width:400px; height:154px; background-position: 43.145925457991154% 41.267305644302446%;background-size: 495.75% 1319.4805194805194%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_42_sol::after {max-width:400px; width:100%;height:0;padding: 0 0 38.5% 0;}
+.nt_ph_laws_motion_36 {max-width:280px; max-height:220px; }
+.nt_ph_laws_motion_36::after {content: '\00a0';display: inline-block; width:280px; height:220px; background-position: 74.53488372093024% 98.63438857852266%;background-size: 714.2857142857143% 832.2727272727273%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_36::after {max-width:280px; width:100%;height:0;padding: 0 0 78.57142857142857% 0;}
+.nt_ph_laws_motion_36_sol {max-width:280px; max-height:166px; }
+.nt_ph_laws_motion_36_sol::after {content: '\00a0';display: inline-block; width:280px; height:166px; background-position: 90.87209302325581% 92.67267267267268%;background-size: 714.2857142857143% 1103.012048192771%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_36_sol::after {max-width:280px; width:100%;height:0;padding: 0 0 59.285714285714285% 0;}
+.nt_ph_laws_motion_36_sol_a {max-width:360px; max-height:191px; }
+.nt_ph_laws_motion_36_sol_a::after {content: '\00a0';display: inline-block; width:360px; height:191px; background-position: 80.73170731707317% 14.75609756097561%;background-size: 555.5555555555555% 958.6387434554974%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_36_sol_a::after {max-width:360px; width:100%;height:0;padding: 0 0 53.05555555555556% 0;}
+.nt_ph_laws_motion_40_sol {max-width:320px; max-height:212px; }
+.nt_ph_laws_motion_40_sol::after {content: '\00a0';display: inline-block; width:320px; height:212px; background-position: 71.72619047619048% 69.42557134033353%;background-size: 625% 863.6792452830189%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_40_sol::after {max-width:320px; width:100%;height:0;padding: 0 0 66.25% 0;}
+.nt_ph_laws_motion_42_sol {max-width:360px; max-height:139px; }
+.nt_ph_laws_motion_42_sol::after {content: '\00a0';display: inline-block; width:360px; height:139px; background-position: 0.06097560975609756% 98.5224586288416%;background-size: 555.5555555555555% 1317.2661870503598%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_42_sol::after {max-width:360px; width:100%;height:0;padding: 0 0 38.611111111111114% 0;}
 .nt_ph_laws_motion_45 {max-width:152px; max-height:242px; }
-.nt_ph_laws_motion_45::after {content: '\00a0';display: inline-block; width:152px; height:242px; background-position: 97.92463134898962% 46.42458100558659%;background-size: 1304.6052631578948% 839.6694214876034%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_45::after {content: '\00a0';display: inline-block; width:152px; height:242px; background-position: 96.37445887445888% 36.24921334172436%;background-size: 1315.7894736842106% 756.6115702479339%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_45::after {max-width:152px; width:100%;height:0;padding: 0 0 159.21052631578948% 0;}
-.nt_ph_laws_motion_45_sol {max-width:400px; max-height:222px; }
-.nt_ph_laws_motion_45_sol::after {content: '\00a0';display: inline-block; width:400px; height:222px; background-position: 98.67340492735313% 12.375690607734807%;background-size: 495.75% 915.3153153153153%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_45_sol::after {max-width:400px; width:100%;height:0;padding: 0 0 55.5% 0;}
+.nt_ph_laws_motion_45_sol {max-width:360px; max-height:200px; }
+.nt_ph_laws_motion_45_sol::after {content: '\00a0';display: inline-block; width:360px; height:200px; background-position: 65.60975609756098% 0.061312078479460456%;background-size: 555.5555555555555% 915.5%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_45_sol::after {max-width:360px; width:100%;height:0;padding: 0 0 55.55555555555556% 0;}
 .nt_ph_laws_motion_46 {max-width:165px; max-height:320px; }
-.nt_ph_laws_motion_46::after {content: '\00a0';display: inline-block; width:165px; height:320px; background-position: 19.91199119911991% 97.95560747663552%;background-size: 1201.8181818181818% 635%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_46::after {content: '\00a0';display: inline-block; width:165px; height:320px; background-position: 42.50681198910082% 43.87822634017207%;background-size: 1212.121212121212% 572.1875%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_46::after {max-width:165px; width:100%;height:0;padding: 0 0 193.93939393939394% 0;}
 .nt_ph_laws_motion_46_sol {max-width:258px; max-height:386px; }
-.nt_ph_laws_motion_46_sol::after {content: '\00a0';display: inline-block; width:258px; height:386px; background-position: 0.057971014492753624% 84.81166464155528%;background-size: 768.6046511627907% 526.4248704663213%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_46_sol::after {content: '\00a0';display: inline-block; width:258px; height:386px; background-position: 0.0574052812858783% 43.391003460207614%;background-size: 775.1937984496124% 474.3523316062176%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_46_sol::after {max-width:258px; width:100%;height:0;padding: 0 0 149.6124031007752% 0;}
-.nt_ph_laws_motion_5 {max-width:332px; max-height:227px; }
-.nt_ph_laws_motion_5::after {content: '\00a0';display: inline-block; width:332px; height:227px; background-position: 63.53725015142338% 89.03047091412742%;background-size: 597.289156626506% 895.1541850220265%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_5::after {max-width:332px; width:100%;height:0;padding: 0 0 68.37349397590361% 0;}
+.nt_ph_laws_motion_5 {max-width:320px; max-height:219px; }
+.nt_ph_laws_motion_5::after {content: '\00a0';display: inline-block; width:320px; height:219px; background-position: 90.83333333333333% 71.46401985111663%;background-size: 625% 836.0730593607306%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_5::after {max-width:320px; width:100%;height:0;padding: 0 0 68.4375% 0;}
 .nt_ph_laws_motion_50 {max-width:320px; max-height:170px; }
-.nt_ph_laws_motion_50::after {content: '\00a0';display: inline-block; width:320px; height:170px; background-position: 83.1028262176789% 98.44253490870032%;background-size: 619.6875% 1195.2941176470588%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_50::after {content: '\00a0';display: inline-block; width:320px; height:170px; background-position: 90.6547619047619% 82.60084286574353%;background-size: 625% 1077.0588235294117%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_50::after {max-width:320px; width:100%;height:0;padding: 0 0 53.125% 0;}
 .nt_ph_laws_motion_50_sol {max-width:347px; max-height:251px; }
-.nt_ph_laws_motion_50_sol::after {content: '\00a0';display: inline-block; width:347px; height:251px; background-position: 88.32518337408312% 46.659180235822575%;background-size: 571.4697406340058% 809.5617529880478%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_50_sol::after {content: '\00a0';display: inline-block; width:347px; height:251px; background-position: 59.04416212946158% 12.784810126582279%;background-size: 576.3688760806916% 729.4820717131474%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_50_sol::after {max-width:347px; width:100%;height:0;padding: 0 0 72.3342939481268% 0;}
-.nt_ph_laws_motion_5_sol {max-width:400px; max-height:314px; }
-.nt_ph_laws_motion_5_sol::after {content: '\00a0';display: inline-block; width:400px; height:314px; background-position: 25.205306380290587% 0.05820721769499418%;background-size: 495.75% 647.1337579617834%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_5_sol::after {max-width:400px; width:100%;height:0;padding: 0 0 78.5% 0;}
+.nt_ph_laws_motion_5_sol {max-width:320px; max-height:251px; }
+.nt_ph_laws_motion_5_sol::after {content: '\00a0';display: inline-block; width:320px; height:251px; background-position: 71.54761904761905% 84.62025316455696%;background-size: 625% 729.4820717131474%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_5_sol::after {max-width:320px; width:100%;height:0;padding: 0 0 78.4375% 0;}
 .nt_ph_laws_motion_6 {max-width:195px; max-height:323px; }
-.nt_ph_laws_motion_6::after {content: '\00a0';display: inline-block; width:195px; height:323px; background-position: 27.516778523489933% 76.88706846108836%;background-size: 1016.9230769230769% 629.1021671826626%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_6::after {content: '\00a0';display: inline-block; width:195px; height:323px; background-position: 99.61218836565097% 0.06631299734748011%;background-size: 1025.6410256410256% 566.8730650154798%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_6::after {max-width:195px; width:100%;height:0;padding: 0 0 165.64102564102564% 0;}
 .nt_ph_laws_motion_61_sol {max-width:360px; max-height:275px; }
-.nt_ph_laws_motion_61_sol::after {content: '\00a0';display: inline-block; width:360px; height:275px; background-position: 66.78989525569932% 46.55663062037564%;background-size: 550.8333333333334% 738.9090909090909%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_61_sol::after {content: '\00a0';display: inline-block; width:360px; height:275px; background-position: 37.5% 12.596401028277635%;background-size: 555.5555555555555% 665.8181818181819%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_61_sol::after {max-width:360px; width:100%;height:0;padding: 0 0 76.38888888888889% 0;}
 .nt_ph_laws_motion_66_sol {max-width:360px; max-height:315px; }
-.nt_ph_laws_motion_66_sol::after {content: '\00a0';display: inline-block; width:360px; height:315px; background-position: 0.061614294516327786% 21.49097262667443%;background-size: 550.8333333333334% 645.0793650793651%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_66_sol::after {content: '\00a0';display: inline-block; width:360px; height:315px; background-position: 0.06097560975609756% 0.06596306068601583%;background-size: 555.5555555555555% 581.2698412698413%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_66_sol::after {max-width:360px; width:100%;height:0;padding: 0 0 87.5% 0;}
-.nt_ph_laws_motion_6_sol_a {max-width:327px; max-height:312px; }
-.nt_ph_laws_motion_6_sol_a::after {content: '\00a0';display: inline-block; width:327px; height:312px; background-position: 41.908212560386474% 54.06976744186046%;background-size: 606.4220183486239% 651.2820512820513%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_6_sol_a::after {max-width:327px; width:100%;height:0;padding: 0 0 95.41284403669725% 0;}
-.nt_ph_laws_motion_6_sol_b {max-width:400px; max-height:267px; }
-.nt_ph_laws_motion_6_sol_b::after {content: '\00a0';display: inline-block; width:400px; height:267px; background-position: 73.3417561591914% 0.056657223796033995%;background-size: 495.75% 761.0486891385768%;background-image: url(physics_ch_4.jpg);padding: 0; }
-div.nt_ph_laws_motion_6_sol_b::after {max-width:400px; width:100%;height:0;padding: 0 0 66.75% 0;}
+.nt_ph_laws_motion_6_sol_a {max-width:320px; max-height:305px; }
+.nt_ph_laws_motion_6_sol_a::after {content: '\00a0';display: inline-block; width:320px; height:305px; background-position: 27.321428571428573% 43.44692005242464%;background-size: 625% 600.327868852459%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_6_sol_a::after {max-width:320px; width:100%;height:0;padding: 0 0 95.3125% 0;}
+.nt_ph_laws_motion_6_sol_b {max-width:360px; max-height:240px; }
+.nt_ph_laws_motion_6_sol_b::after {content: '\00a0';display: inline-block; width:360px; height:240px; background-position: 87.6219512195122% 0.06285355122564425%;background-size: 555.5555555555555% 762.9166666666666%;background-image: url(physics_ch_4.jpg);padding: 0; }
+div.nt_ph_laws_motion_6_sol_b::after {max-width:360px; width:100%;height:0;padding: 0 0 66.66666666666667% 0;}
 .nt_ph_laws_motion_8 {max-width:240px; max-height:336px; }
-.nt_ph_laws_motion_8::after {content: '\00a0';display: inline-block; width:240px; height:336px; background-position: 25.989672977624785% 57.6061320754717%;background-size: 826.25% 604.7619047619048%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_8::after {content: '\00a0';display: inline-block; width:240px; height:336px; background-position: 0.056818181818181816% 67.82608695652173%;background-size: 833.3333333333334% 544.9404761904761%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_8::after {max-width:240px; width:100%;height:0;padding: 0 0 140% 0;}
 .nt_ph_laws_motion_8_sol {max-width:252px; max-height:407px; }
-.nt_ph_laws_motion_8_sol::after {content: '\00a0';display: inline-block; width:252px; height:407px; background-position: 0.057770075101097634% 60.8%;background-size: 786.9047619047619% 499.2628992628993%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_8_sol::after {content: '\00a0';display: inline-block; width:252px; height:407px; background-position: 20.709382151029747% 0.0702247191011236%;background-size: 793.6507936507936% 449.87714987714986%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_8_sol::after {max-width:252px; width:100%;height:0;padding: 0 0 161.5079365079365% 0;}
 .nt_ph_laws_motion_9_sol {max-width:460px; max-height:194px; }
-.nt_ph_laws_motion_9_sol::after {content: '\00a0';display: inline-block; width:460px; height:194px; background-position: 44.8456992777413% 31.556039173014145%;background-size: 431.0869565217391% 1047.4226804123712%;background-image: url(physics_ch_4.jpg);padding: 0; }
+.nt_ph_laws_motion_9_sol::after {content: '\00a0';display: inline-block; width:460px; height:194px; background-position: 39.935064935064936% 0.06108735491753207%;background-size: 434.7826086956522% 943.8144329896908%;background-image: url(physics_ch_4.jpg);padding: 0; }
 div.nt_ph_laws_motion_9_sol::after {max-width:460px; width:100%;height:0;padding: 0 0 42.17391304347826% 0;}
 
-/* $TexturePacker:SmartUpdate:c8acd1b2c2707a414b91b102b9c3b5a7:801c5b296beaaf9e8d338bc9597c7f6f:64666d8a067ae927ddbd7f1e7d8c8b0f$ */
+/* $TexturePacker:SmartUpdate:06ccaa8900a7908a50cdda4198810ead:050a3285e506df32cf4d851fee897e43:64666d8a067ae927ddbd7f1e7d8c8b0f$ */
