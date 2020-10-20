@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.snap_2015_26sol {max-width:179px; max-height:161px; }
+.snap_2015_26sol::after {content: '\00a0';display: inline-block; width:179px; height:161px; background-position: 89.96865203761756% 37.00516351118761%;background-size: 278.2122905027933% 460.8695652173913%;background-image: url(snap2015.png);padding: 0; }
+div.snap_2015_26sol::after {max-width:179px; width:100%;height:0;padding: 0 0 89.94413407821229% 0;}
+.snap_2015_34sol {max-width:209px; max-height:124px; }
+.snap_2015_34sol::after {content: '\00a0';display: inline-block; width:209px; height:124px; background-position: 99.30795847750865% 61.003236245954696%;background-size: 238.2775119617225% 598.3870967741935%;background-image: url(snap2015.png);padding: 0; }
+div.snap_2015_34sol::after {max-width:209px; width:100%;height:0;padding: 0 0 59.33014354066986% 0;}
+.snap_2015_35 {max-width:364px; max-height:213px; }
+.snap_2015_35::after {content: '\00a0';display: inline-block; width:364px; height:213px; background-position: 0.746268656716418% 0.1890359168241966%;background-size: 136.8131868131868% 348.3568075117371%;background-image: url(snap2015.png);padding: 0; }
+div.snap_2015_35::after {max-width:364px; width:100%;height:0;padding: 0 0 58.51648351648352% 0;}
+.snap_2015_41sol {max-width:122px; max-height:180px; }
+.snap_2015_41sol::after {content: '\00a0';display: inline-block; width:122px; height:180px; background-position: 97.34042553191489% 0.17793594306049823%;background-size: 408.1967213114754% 412.22222222222223%;background-image: url(snap2015.png);padding: 0; }
+div.snap_2015_41sol::after {max-width:122px; width:100%;height:0;padding: 0 0 147.54098360655738% 0;}
+.snap_2015_48sol {max-width:281px; max-height:143px; }
+.snap_2015_48sol::after {content: '\00a0';display: inline-block; width:281px; height:143px; background-position: 0.4608294930875576% 77.79632721202003%;background-size: 177.22419928825622% 518.8811188811189%;background-image: url(snap2015.png);padding: 0; }
+div.snap_2015_48sol::after {max-width:281px; width:100%;height:0;padding: 0 0 50.88967971530249% 0;}
+.snap_2015_49sol {max-width:259px; max-height:131px; }
+.snap_2015_49sol::after {content: '\00a0';display: inline-block; width:259px; height:131px; background-position: 0.41841004184100417% 99.83633387888707%;background-size: 192.27799227799227% 566.412213740458%;background-image: url(snap2015.png);padding: 0; }
+div.snap_2015_49sol::after {max-width:259px; width:100%;height:0;padding: 0 0 50.57915057915058% 0;}
+.snap_2015_54sol {max-width:137px; max-height:136px; }
+.snap_2015_54sol::after {content: '\00a0';display: inline-block; width:137px; height:136px; background-position: 78.39335180055402% 82.83828382838284%;background-size: 363.5036496350365% 545.5882352941177%;background-image: url(snap2015.png);padding: 0; }
+div.snap_2015_54sol::after {max-width:137px; width:100%;height:0;padding: 0 0 99.27007299270073% 0;}
+.snap_2015_59sol {max-width:236px; max-height:67px; }
+.snap_2015_59sol::after {content: '\00a0';display: inline-block; width:236px; height:67px; background-position: 99.61832061068702% 94.66666666666667%;background-size: 211.01694915254237% 1107.4626865671642%;background-image: url(snap2015.png);padding: 0; }
+div.snap_2015_59sol::after {max-width:236px; width:100%;height:0;padding: 0 0 28.389830508474578% 0;}
+.snap_2015_9sol {max-width:285px; max-height:250px; }
+.snap_2015_9sol::after {content: '\00a0';display: inline-block; width:285px; height:250px; background-position: 0.4694835680751174% 43.699186991869915%;background-size: 174.73684210526315% 296.8%;background-image: url(snap2015.png);padding: 0; }
+div.snap_2015_9sol::after {max-width:285px; width:100%;height:0;padding: 0 0 87.71929824561404% 0;}
+
+/* $TexturePacker:SmartUpdate:2ad051ad914b39f810e681538898f277:056299afaf962f93de3b9bded258c4ad:391bd5e0ee2ed3bbb9f7e688c5f698dd$ */

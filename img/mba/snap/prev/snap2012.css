@@ -1,0 +1,50 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.snap_2012_15sol {max-width:249px; max-height:48px; }
+.snap_2012_15sol::after {content: '\00a0';display: inline-block; width:249px; height:48px; background-position: 98.46153846153847% 85.01930501930502%;background-size: 204.41767068273091% 2797.9166666666665%;background-image: url(snap2012.png);padding: 0; }
+div.snap_2012_15sol::after {max-width:249px; width:100%;height:0;padding: 0 0 19.27710843373494% 0;}
+.snap_2012_16sol {max-width:300px; max-height:93px; }
+.snap_2012_16sol::after {content: '\00a0';display: inline-block; width:300px; height:93px; background-position: 0.4784688995215311% 75.44%;background-size: 169.66666666666666% 1444.0860215053763%;background-image: url(snap2012.png);padding: 0; }
+div.snap_2012_16sol::after {max-width:300px; width:100%;height:0;padding: 0 0 31% 0;}
+.snap_2012_22 {max-width:254px; max-height:96px; }
+.snap_2012_22::after {content: '\00a0';display: inline-block; width:254px; height:96px; background-position: 0.39215686274509803% 83.15958299919808%;background-size: 200.39370078740157% 1398.9583333333333%;background-image: url(snap2012.png);padding: 0; }
+div.snap_2012_22::after {max-width:254px; width:100%;height:0;padding: 0 0 37.79527559055118% 0;}
+.snap_2012_23sol {max-width:228px; max-height:192px; }
+.snap_2012_23sol::after {content: '\00a0';display: inline-block; width:228px; height:192px; background-position: 83.62989323843416% 99.9131190269331%;background-size: 223.24561403508773% 699.4791666666666%;background-image: url(snap2012.png);padding: 0; }
+div.snap_2012_23sol::after {max-width:228px; width:100%;height:0;padding: 0 0 84.21052631578948% 0;}
+.snap_2012_24sol {max-width:175px; max-height:169px; }
+.snap_2012_24sol::after {content: '\00a0';display: inline-block; width:175px; height:169px; background-position: 97.30538922155688% 53.66269165247019%;background-size: 290.85714285714283% 794.6745562130177%;background-image: url(snap2012.png);padding: 0; }
+div.snap_2012_24sol::after {max-width:175px; width:100%;height:0;padding: 0 0 96.57142857142857% 0;}
+.snap_2012_32 {max-width:152px; max-height:139px; }
+.snap_2012_32::after {content: '\00a0';display: inline-block; width:152px; height:139px; background-position: 90.47619047619048% 66.44518272425249%;background-size: 334.86842105263156% 966.1870503597122%;background-image: url(snap2012.png);padding: 0; }
+div.snap_2012_32::after {max-width:152px; width:100%;height:0;padding: 0 0 91.44736842105263% 0;}
+.snap_2012_32sol {max-width:183px; max-height:175px; }
+.snap_2012_32sol::after {content: '\00a0';display: inline-block; width:183px; height:175px; background-position: 99.69325153374233% 38.86986301369863%;background-size: 278.14207650273227% 767.4285714285714%;background-image: url(snap2012.png);padding: 0; }
+div.snap_2012_32sol::after {max-width:183px; width:100%;height:0;padding: 0 0 95.62841530054645% 0;}
+.snap_2012_37 {max-width:323px; max-height:321px; }
+.snap_2012_37::after {content: '\00a0';display: inline-block; width:323px; height:321px; background-position: 0.5376344086021505% 44.42270058708415%;background-size: 157.58513931888544% 418.38006230529595%;background-image: url(snap2012.png);padding: 0; }
+div.snap_2012_37::after {max-width:323px; width:100%;height:0;padding: 0 0 99.38080495356037% 0;}
+.snap_2012_41_para {max-width:233px; max-height:201px; }
+.snap_2012_41_para::after {content: '\00a0';display: inline-block; width:233px; height:201px; background-position: 0.36231884057971014% 99.29947460595447%;background-size: 218.4549356223176% 668.1592039800995%;background-image: url(snap2012.png);padding: 0; }
+div.snap_2012_41_para::after {max-width:233px; width:100%;height:0;padding: 0 0 86.26609442060087% 0;}
+.snap_2012_47_para {max-width:138px; max-height:160px; }
+.snap_2012_47_para::after {content: '\00a0';display: inline-block; width:138px; height:160px; background-position: 87.06199460916442% 79.4590025359256%;background-size: 368.84057971014494% 839.375%;background-image: url(snap2012.png);padding: 0; }
+div.snap_2012_47_para::after {max-width:138px; width:100%;height:0;padding: 0 0 115.94202898550725% 0;}
+.snap_2012_49sol {max-width:386px; max-height:220px; }
+.snap_2012_49sol::after {content: '\00a0';display: inline-block; width:386px; height:220px; background-position: 0.8130081300813008% 20.7479964381122%;background-size: 131.86528497409327% 610.4545454545455%;background-image: url(snap2012.png);padding: 0; }
+div.snap_2012_49sol::after {max-width:386px; width:100%;height:0;padding: 0 0 56.994818652849744% 0;}
+.snap_2012_52sol {max-width:503px; max-height:231px; }
+.snap_2012_52sol::after {content: '\00a0';display: inline-block; width:503px; height:231px; background-position: 16.666666666666668% 0.08992805755395683%;background-size: 101.19284294234592% 581.3852813852814%;background-image: url(snap2012.png);padding: 0; }
+div.snap_2012_52sol::after {max-width:503px; width:100%;height:0;padding: 0 0 45.92445328031809% 0;}
+.snap_2012_61sol {max-width:321px; max-height:166px; }
+.snap_2012_61sol::after {content: '\00a0';display: inline-block; width:321px; height:166px; background-position: 0.5319148936170213% 65.9303313508921%;background-size: 158.5669781931464% 809.0361445783133%;background-image: url(snap2012.png);padding: 0; }
+div.snap_2012_61sol::after {max-width:321px; width:100%;height:0;padding: 0 0 51.71339563862929% 0;}
+
+/* $TexturePacker:SmartUpdate:085509057619b7d5e7f27dc0766c3d00:82c63af69797ce2ac7bfdcc511a29767:ad2144707fd36d94b1fc320bf44e5b9c$ */

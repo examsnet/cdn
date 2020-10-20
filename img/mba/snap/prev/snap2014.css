@@ -1,0 +1,44 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.snap_2014_2 {max-width:162px; max-height:125px; }
+.snap_2014_2::after {content: '\00a0';display: inline-block; width:162px; height:125px; background-position: 99.13793103448276% 0.10893246187363835%;background-size: 314.81481481481484% 834.4%;background-image: url(snap2014.png);padding: 0; }
+div.snap_2014_2::after {max-width:162px; width:100%;height:0;padding: 0 0 77.1604938271605% 0;}
+.snap_2014_22 {max-width:176px; max-height:156px; }
+.snap_2014_22::after {content: '\00a0';display: inline-block; width:176px; height:156px; background-position: 70.95808383233533% 99.77452085682074%;background-size: 289.77272727272725% 668.5897435897435%;background-image: url(snap2014.png);padding: 0; }
+div.snap_2014_22::after {max-width:176px; width:100%;height:0;padding: 0 0 88.63636363636364% 0;}
+.snap_2014_36_para {max-width:235px; max-height:203px; }
+.snap_2014_36_para::after {content: '\00a0';display: inline-block; width:235px; height:203px; background-position: 0.36363636363636365% 99.88095238095238%;background-size: 217.0212765957447% 513.7931034482758%;background-image: url(snap2014.png);padding: 0; }
+div.snap_2014_36_para::after {max-width:235px; width:100%;height:0;padding: 0 0 86.38297872340425% 0;}
+.snap_2014_43sol_1 {max-width:314px; max-height:184px; }
+.snap_2014_43sol_1::after {content: '\00a0';display: inline-block; width:314px; height:184px; background-position: 0.5102040816326531% 27.939464493597207%;background-size: 162.4203821656051% 566.8478260869565%;background-image: url(snap2014.png);padding: 0; }
+div.snap_2014_43sol_1::after {max-width:314px; width:100%;height:0;padding: 0 0 58.59872611464968% 0;}
+.snap_2014_43sol_2 {max-width:226px; max-height:176px; }
+.snap_2014_43sol_2::after {content: '\00a0';display: inline-block; width:226px; height:176px; background-position: 88.02816901408451% 50.403690888119954%;background-size: 225.6637168141593% 592.6136363636364%;background-image: url(snap2014.png);padding: 0; }
+div.snap_2014_43sol_2::after {max-width:226px; width:100%;height:0;padding: 0 0 77.87610619469027% 0;}
+.snap_2014_43sol_3 {max-width:193px; max-height:196px; }
+.snap_2014_43sol_3::after {content: '\00a0';display: inline-block; width:193px; height:196px; background-position: 99.6845425867508% 28.33530106257379%;background-size: 264.24870466321244% 532.1428571428571%;background-image: url(snap2014.png);padding: 0; }
+div.snap_2014_43sol_3::after {max-width:193px; width:100%;height:0;padding: 0 0 101.55440414507773% 0;}
+.snap_2014_47sol_1 {max-width:248px; max-height:206px; }
+.snap_2014_47sol_1::after {content: '\00a0';display: inline-block; width:248px; height:206px; background-position: 0.3816793893129771% 50.77658303464755%;background-size: 205.6451612903226% 506.31067961165047%;background-image: url(snap2014.png);padding: 0; }
+div.snap_2014_47sol_1::after {max-width:248px; width:100%;height:0;padding: 0 0 83.06451612903226% 0;}
+.snap_2014_47sol_2 {max-width:242px; max-height:206px; }
+.snap_2014_47sol_2::after {content: '\00a0';display: inline-block; width:242px; height:206px; background-position: 0.373134328358209% 75.50776583034647%;background-size: 210.74380165289256% 506.31067961165047%;background-image: url(snap2014.png);padding: 0; }
+div.snap_2014_47sol_2::after {max-width:242px; width:100%;height:0;padding: 0 0 85.12396694214875% 0;}
+.snap_2014_5 {max-width:213px; max-height:138px; }
+.snap_2014_5::after {content: '\00a0';display: inline-block; width:213px; height:138px; background-position: 82.15488215488216% 82.43093922651934%;background-size: 239.43661971830986% 755.7971014492754%;background-image: url(snap2014.png);padding: 0; }
+div.snap_2014_5::after {max-width:213px; width:100%;height:0;padding: 0 0 64.78873239436619% 0;}
+.snap_2014_53sol {max-width:256px; max-height:131px; }
+.snap_2014_53sol::after {content: '\00a0';display: inline-block; width:256px; height:131px; background-position: 98.4251968503937% 67.32456140350877%;background-size: 199.21875% 796.1832061068702%;background-image: url(snap2014.png);padding: 0; }
+div.snap_2014_53sol::after {max-width:256px; width:100%;height:0;padding: 0 0 51.171875% 0;}
+.snap_2014_65sol {max-width:343px; max-height:238px; }
+.snap_2014_65sol::after {content: '\00a0';display: inline-block; width:343px; height:238px; background-position: 0.5988023952095808% 0.12422360248447205%;background-size: 148.68804664723032% 438.2352941176471%;background-image: url(snap2014.png);padding: 0; }
+div.snap_2014_65sol::after {max-width:343px; width:100%;height:0;padding: 0 0 69.38775510204081% 0;}
+
+/* $TexturePacker:SmartUpdate:106479208f4bfafc0e4526d6e67bb40f:c4dfb46e5ae9a692bdfb5a3138b828d2:15dbb5ab362f166bd9186e887c2de330$ */
