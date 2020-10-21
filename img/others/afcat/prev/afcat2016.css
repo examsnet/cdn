@@ -28,9 +28,9 @@ div.afcat_2016_p1_80::after {max-width:450px; width:100%;height:0;padding: 0 0 7
 .afcat_2016_p1_81 {max-width:335px; max-height:173px; }
 .afcat_2016_p1_81::after {content: '\00a0';display: inline-block; width:335px; height:173px; background-position: 96.68835008870491% 87.22345132743362%;background-size: 604.776119402985% 1145.086705202312%;background-image: url(afcat2016-0.png);padding: 0; }
 div.afcat_2016_p1_81::after {max-width:335px; width:100%;height:0;padding: 0 0 51.64179104477612% 0;}
-.afcat_2016_p1_81sol" {max-width:165px; max-height:68px; }
-.afcat_2016_p1_81sol"::after {content: '\00a0';display: inline-block; width:165px; height:68px; background-position: 86.24395486297689% 97.64767381076842%;background-size: 1227.878787878788% 2913.235294117647%;background-image: url(afcat2016-0.png);padding: 0; }
-div.afcat_2016_p1_81sol"::after {max-width:165px; width:100%;height:0;padding: 0 0 41.21212121212121% 0;}
+.afcat_2016_p1_81sol_ {max-width:165px; max-height:68px; }
+.afcat_2016_p1_81sol_::after {content: '\00a0';display: inline-block; width:165px; height:68px; background-position: 86.24395486297689% 97.64767381076842%;background-size: 1227.878787878788% 2913.235294117647%;background-image: url(afcat2016-0.png);padding: 0; }
+div.afcat_2016_p1_81sol_::after {max-width:165px; width:100%;height:0;padding: 0 0 41.21212121212121% 0;}
 .afcat_2016_p1_82 {max-width:350px; max-height:171px; }
 .afcat_2016_p1_82::after {content: '\00a0';display: inline-block; width:350px; height:171px; background-position: 99.94033412887828% 59.226519337016576%;background-size: 578.8571428571429% 1158.4795321637428%;background-image: url(afcat2016-0.png);padding: 0; }
 div.afcat_2016_p1_82::after {max-width:350px; width:100%;height:0;padding: 0 0 48.857142857142854% 0;}
@@ -185,4 +185,4 @@ div.afcat_2016_p2_94::after {max-width:400px; width:100%;height:0;padding: 0 0 6
 .afcat_2016_p2_95::after {content: '\00a0';display: inline-block; width:400px; height:300px; background-position: 80.19680196801968% 0.0594883997620464%;background-size: 506.5% 660.3333333333334%;background-image: url(afcat2016-0.png);padding: 0; }
 div.afcat_2016_p2_95::after {max-width:400px; width:100%;height:0;padding: 0 0 75% 0;}
 
-/* $TexturePacker:SmartUpdate:9659255f0e020d94f8773110b50dc1c6:dda0af8c22b76e084a9b45e543b771eb:f1850da067e916c8c885b12e60c8cee8$ */
+/* $TexturePacker:SmartUpdate:b33dd641b69fe3939d9b590e0559fb56:dda0af8c22b76e084a9b45e543b771eb:f1850da067e916c8c885b12e60c8cee8$ */
