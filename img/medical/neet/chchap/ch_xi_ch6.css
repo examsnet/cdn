@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.nc6_12sol {max-width:269px; max-height:141px; }
+.nc6_12sol::after {content: '\00a0';display: inline-block; width:269px; height:141px; background-position: 50% 50%;background-size: 100.74349442379182% 101.41843971631205%;background-image: url(ch_xi_ch6.jpg);padding: 0; }
+div.nc6_12sol::after {max-width:269px; width:100%;height:0;padding: 0 0 52.41635687732342% 0;}
+
+/* $TexturePacker:SmartUpdate:7f584e66f2324449b2790d8c97ac8ffc:6e6a5aa2d6b6c02539c5e17bda1e9929:6d0edfde80c1c237633e25405ea187e9$ */

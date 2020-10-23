@@ -1,0 +1,41 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.nc7_10sola {max-width:322px; max-height:114px; }
+.nc7_10sola::after {content: '\00a0';display: inline-block; width:322px; height:114px; background-position: 92.55643685173887% 79.25925925925925%;background-size: 609.0062111801242% 218.42105263157896%;background-image: url(ch_xii_ch7.jpg);padding: 0; }
+div.nc7_10sola::after {max-width:322px; width:100%;height:0;padding: 0 0 35.40372670807454% 0;}
+.nc7_10solb {max-width:325px; max-height:105px; }
+.nc7_10solb::after {content: '\00a0';display: inline-block; width:325px; height:105px; background-position: 92.72616136919315% 0.6944444444444444%;background-size: 603.3846153846154% 237.14285714285714%;background-image: url(ch_xii_ch7.jpg);padding: 0; }
+div.nc7_10solb::after {max-width:325px; width:100%;height:0;padding: 0 0 32.30769230769231% 0;}
+.nc7_11sol {max-width:259px; max-height:247px; }
+.nc7_11sol::after {content: '\00a0';display: inline-block; width:259px; height:247px; background-position: 0.05875440658049354% 50%;background-size: 757.1428571428571% 100.80971659919028%;background-image: url(ch_xii_ch7.jpg);padding: 0; }
+div.nc7_11sol::after {max-width:259px; width:100%;height:0;padding: 0 0 95.36679536679537% 0;}
+.nc7_12sol {max-width:120px; max-height:101px; }
+.nc7_12sol::after {content: '\00a0';display: inline-block; width:120px; height:101px; background-position: 99.94568169473112% 72.29729729729729%;background-size: 1634.1666666666667% 246.53465346534654%;background-image: url(ch_xii_ch7.jpg);padding: 0; }
+div.nc7_12sol::after {max-width:120px; width:100%;height:0;padding: 0 0 84.16666666666667% 0;}
+.nc7_17sol {max-width:86px; max-height:54px; }
+.nc7_17sol::after {content: '\00a0';display: inline-block; width:86px; height:54px; background-position: 39.626666666666665% 93.33333333333333%;background-size: 2280.232558139535% 461.1111111111111%;background-image: url(ch_xii_ch7.jpg);padding: 0; }
+div.nc7_17sol::after {max-width:86px; width:100%;height:0;padding: 0 0 62.7906976744186% 0;}
+.nc7_20sol {max-width:104px; max-height:93px; }
+.nc7_20sol::after {content: '\00a0';display: inline-block; width:104px; height:93px; background-position: 99.2460958535272% 0.6410256410256411%;background-size: 1885.576923076923% 267.741935483871%;background-image: url(ch_xii_ch7.jpg);padding: 0; }
+div.nc7_20sol::after {max-width:104px; width:100%;height:0;padding: 0 0 89.42307692307692% 0;}
+.nc7_2sol {max-width:417px; max-height:180px; }
+.nc7_2sol::after {content: '\00a0';display: inline-block; width:417px; height:180px; background-position: 48.12176165803109% 1.4492753623188406%;background-size: 470.26378896882494% 138.33333333333334%;background-image: url(ch_xii_ch7.jpg);padding: 0; }
+div.nc7_2sol::after {max-width:417px; width:100%;height:0;padding: 0 0 43.16546762589928% 0;}
+.nc7_5sol {max-width:481px; max-height:215px; }
+.nc7_5sol::after {content: '\00a0';display: inline-block; width:481px; height:215px; background-position: 17.635135135135137% 2.9411764705882355%;background-size: 407.6923076923077% 115.81395348837209%;background-image: url(ch_xii_ch7.jpg);padding: 0; }
+div.nc7_5sol::after {max-width:481px; width:100%;height:0;padding: 0 0 44.6985446985447% 0;}
+.nc7_6sola {max-width:355px; max-height:154px; }
+.nc7_6sola::after {content: '\00a0';display: inline-block; width:355px; height:154px; background-position: 72.29140722291407% 1.0526315789473684%;background-size: 552.3943661971831% 161.6883116883117%;background-image: url(ch_xii_ch7.jpg);padding: 0; }
+div.nc7_6sola::after {max-width:355px; width:100%;height:0;padding: 0 0 43.38028169014085% 0;}
+.nc7_6solb {max-width:327px; max-height:90px; }
+.nc7_6solb::after {content: '\00a0';display: inline-block; width:327px; height:90px; background-position: 71.05263157894737% 98.11320754716981%;background-size: 599.6941896024465% 276.6666666666667%;background-image: url(ch_xii_ch7.jpg);padding: 0; }
+div.nc7_6solb::after {max-width:327px; width:100%;height:0;padding: 0 0 27.522935779816514% 0;}
+
+/* $TexturePacker:SmartUpdate:7f961573a6eecdf660c99f3057bbabb5:c28ea4eb7a1d82bb1643231d9fdbfc3e:8ae31c22449077183946c35aa7ccfb71$ */
