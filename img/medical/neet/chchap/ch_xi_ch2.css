@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.NEET_Che_C2_5c {max-width:165px; max-height:51px; }
+.NEET_Che_C2_5c::after {content: '\00a0';display: inline-block; width:165px; height:51px; background-position: 99.64912280701755% 2.4390243902439024%;background-size: 272.72727272727275% 180.3921568627451%;background-image: url(ch_xi_ch2.jpg);padding: 0; }
+div.NEET_Che_C2_5c::after {max-width:165px; width:100%;height:0;padding: 0 0 30.90909090909091% 0;}
+.NEET_Che_C2_5sol {max-width:282px; max-height:90px; }
+.NEET_Che_C2_5sol::after {content: '\00a0';display: inline-block; width:282px; height:90px; background-position: 0.5952380952380952% 50%;background-size: 159.5744680851064% 102.22222222222223%;background-image: url(ch_xi_ch2.jpg);padding: 0; }
+div.NEET_Che_C2_5sol::after {max-width:282px; width:100%;height:0;padding: 0 0 31.914893617021278% 0;}
+
+/* $TexturePacker:SmartUpdate:c1a8c7aca8aa3758bf7ceab994daa95c:d374e95939c16d9b77fa45b4cfe30d6a:9c0099d5c0cab0c5befe0565e4d57a31$ */
