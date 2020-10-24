@@ -1,0 +1,92 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.MHT_2019_12_PHY {max-width:370px; max-height:229px; }
+.MHT_2019_12_PHY::after {content: '\00a0';display: inline-block; width:370px; height:229px; background-position: 48.32935560859188% 69.21241050119332%;background-size: 552.972972972973% 465.93886462882097%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_12_PHY::after {max-width:370px; width:100%;height:0;padding: 0 0 61.891891891891895% 0;}
+.MHT_2019_13_PHY {max-width:402px; max-height:80px; }
+.MHT_2019_13_PHY::after {content: '\00a0';display: inline-block; width:402px; height:80px; background-position: 56.56934306569343% 39.61499493414387%;background-size: 508.95522388059703% 1333.75%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_13_PHY::after {max-width:402px; width:100%;height:0;padding: 0 0 19.90049751243781% 0;}
+.MHT_2019_1_PHY_sol {max-width:255px; max-height:186px; }
+.MHT_2019_1_PHY_sol::after {content: '\00a0';display: inline-block; width:255px; height:186px; background-position: 83.97543271915131% 84.90351872871737%;background-size: 802.3529411764706% 573.6559139784946%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_1_PHY_sol::after {max-width:255px; width:100%;height:0;padding: 0 0 72.94117647058823% 0;}
+.MHT_2019_20_MATH_sol {max-width:299px; max-height:203px; }
+.MHT_2019_20_MATH_sol::after {content: '\00a0';display: inline-block; width:299px; height:203px; background-position: 67.60160274756726% 67.12962962962963%;background-size: 684.2809364548496% 525.615763546798%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_20_MATH_sol::after {max-width:299px; width:100%;height:0;padding: 0 0 67.89297658862876% 0;}
+.MHT_2019_24_PHY_sol {max-width:380px; max-height:107px; }
+.MHT_2019_24_PHY_sol::after {content: '\00a0';display: inline-block; width:380px; height:107px; background-position: 55.82232893157263% 49.166666666666664%;background-size: 538.421052631579% 997.196261682243%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_24_PHY_sol::after {max-width:380px; width:100%;height:0;padding: 0 0 28.157894736842106% 0;}
+.MHT_2019_25_CHE_sol {max-width:452px; max-height:160px; }
+.MHT_2019_25_CHE_sol::after {content: '\00a0';display: inline-block; width:452px; height:160px; background-position: 0.06273525721455459% 99.0077177508269%;background-size: 452.65486725663715% 666.875%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_25_CHE_sol::after {max-width:452px; width:100%;height:0;padding: 0 0 35.39823008849557% 0;}
+.MHT_2019_27_PHY {max-width:378px; max-height:131px; }
+.MHT_2019_27_PHY::after {content: '\00a0';display: inline-block; width:378px; height:131px; background-position: 48.56115107913669% 86.53846153846153%;background-size: 541.2698412698413% 814.5038167938932%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_27_PHY::after {max-width:378px; width:100%;height:0;padding: 0 0 34.65608465608466% 0;}
+.MHT_2019_29_CHE_sol {max-width:464px; max-height:102px; }
+.MHT_2019_29_CHE_sol::after {content: '\00a0';display: inline-block; width:464px; height:102px; background-position: 61.314791403286975% 29.844559585492227%;background-size: 440.94827586206895% 1046.078431372549%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_29_CHE_sol::after {max-width:464px; width:100%;height:0;padding: 0 0 21.982758620689655% 0;}
+.MHT_2019_32_CHE_sol {max-width:216px; max-height:94px; }
+.MHT_2019_32_CHE_sol::after {content: '\00a0';display: inline-block; width:216px; height:94px; background-position: 70% 99.38335046248716%;background-size: 947.2222222222222% 1135.1063829787233%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_32_CHE_sol::after {max-width:216px; width:100%;height:0;padding: 0 0 43.51851851851852% 0;}
+.MHT_2019_32_PHY {max-width:403px; max-height:199px; }
+.MHT_2019_32_PHY::after {content: '\00a0';display: inline-block; width:403px; height:199px; background-position: 87.34023128423615% 32.94930875576037%;background-size: 507.6923076923077% 536.1809045226131%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_32_PHY::after {max-width:403px; width:100%;height:0;padding: 0 0 49.37965260545906% 0;}
+.MHT_2019_34_PHY {max-width:352px; max-height:129px; }
+.MHT_2019_34_PHY::after {content: '\00a0';display: inline-block; width:352px; height:129px; background-position: 88.78394332939787% 99.68017057569297%;background-size: 581.25% 827.1317829457364%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_34_PHY::after {max-width:352px; width:100%;height:0;padding: 0 0 36.64772727272727% 0;}
+.MHT_2019_36_MATH_sol {max-width:432px; max-height:286px; }
+.MHT_2019_36_MATH_sol::after {content: '\00a0';display: inline-block; width:432px; height:286px; background-position: 60.09913258983891% 0.12804097311139565%;background-size: 473.6111111111111% 373.0769230769231%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_36_MATH_sol::after {max-width:432px; width:100%;height:0;padding: 0 0 66.20370370370371% 0;}
+.MHT_2019_38_MATH_sol {max-width:470px; max-height:419px; }
+.MHT_2019_38_MATH_sol::after {content: '\00a0';display: inline-block; width:470px; height:419px; background-position: 0.06345177664974619% 73.76543209876543%;background-size: 435.3191489361702% 254.65393794749403%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_38_MATH_sol::after {max-width:470px; width:100%;height:0;padding: 0 0 89.14893617021276% 0;}
+.MHT_2019_38_PHY_sol {max-width:206px; max-height:197px; }
+.MHT_2019_38_PHY_sol::after {content: '\00a0';display: inline-block; width:206px; height:197px; background-position: 99.94565217391305% 32.87356321839081%;background-size: 993.2038834951456% 541.6243654822335%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_38_PHY_sol::after {max-width:206px; width:100%;height:0;padding: 0 0 95.63106796116504% 0;}
+.MHT_2019_39_PHY_sol {max-width:317px; max-height:261px; }
+.MHT_2019_39_PHY_sol::after {content: '\00a0';display: inline-block; width:317px; height:261px; background-position: 85.65644881434355% 60.297766749379655%;background-size: 645.4258675078864% 408.81226053639847%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_39_PHY_sol::after {max-width:317px; width:100%;height:0;padding: 0 0 82.33438485804416% 0;}
+.MHT_2019_3_CHE_sol {max-width:405px; max-height:154px; }
+.MHT_2019_3_CHE_sol::after {content: '\00a0';display: inline-block; width:405px; height:154px; background-position: 31.931748933577087% 35.92552026286966%;background-size: 505.18518518518516% 692.8571428571429%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_3_CHE_sol::after {max-width:405px; width:100%;height:0;padding: 0 0 38.02469135802469% 0;}
+.MHT_2019_43_MATH_sol {max-width:522px; max-height:476px; }
+.MHT_2019_43_MATH_sol::after {content: '\00a0';display: inline-block; width:522px; height:476px; background-position: 0.06561679790026247% 0.1692047377326565%;background-size: 391.95402298850576% 224.1596638655462%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_43_MATH_sol::after {max-width:522px; width:100%;height:0;padding: 0 0 91.18773946360153% 0;}
+.MHT_2019_44_PHY_sol {max-width:314px; max-height:182px; }
+.MHT_2019_44_PHY_sol::after {content: '\00a0';display: inline-block; width:314px; height:182px; background-position: 68.64896073903002% 88.58757062146893%;background-size: 651.5923566878981% 586.2637362637363%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_44_PHY_sol::after {max-width:314px; width:100%;height:0;padding: 0 0 57.961783439490446% 0;}
+.MHT_2019_46_CHE_sol {max-width:324px; max-height:193px; }
+.MHT_2019_46_CHE_sol::after {content: '\00a0';display: inline-block; width:324px; height:193px; background-position: 27.40998838559814% 99.77116704805492%;background-size: 631.4814814814815% 552.8497409326425%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_46_CHE_sol::after {max-width:324px; width:100%;height:0;padding: 0 0 59.5679012345679% 0;}
+.MHT_2019_46a_CHE {max-width:249px; max-height:124px; }
+.MHT_2019_46a_CHE::after {content: '\00a0';display: inline-block; width:249px; height:124px; background-position: 44.351697273233164% 99.89395546129374%;background-size: 821.6867469879518% 860.483870967742%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_46a_CHE::after {max-width:249px; width:100%;height:0;padding: 0 0 49.799196787148595% 0;}
+.MHT_2019_46b_CHE {max-width:256px; max-height:132px; }
+.MHT_2019_46b_CHE::after {content: '\00a0';display: inline-block; width:256px; height:132px; background-position: 98.32402234636872% 80%;background-size: 799.21875% 808.3333333333334%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_46b_CHE::after {max-width:256px; width:100%;height:0;padding: 0 0 51.5625% 0;}
+.MHT_2019_46c_CHE {max-width:233px; max-height:96px; }
+.MHT_2019_46c_CHE::after {content: '\00a0';display: inline-block; width:233px; height:96px; background-position: 57.749586321014895% 99.58805355303811%;background-size: 878.1115879828326% 1111.4583333333333%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_46c_CHE::after {max-width:233px; width:100%;height:0;padding: 0 0 41.201716738197426% 0;}
+.MHT_2019_46d_CHE {max-width:232px; max-height:120px; }
+.MHT_2019_46d_CHE::after {content: '\00a0';display: inline-block; width:232px; height:120px; background-position: 99.17309812568908% 51.31995776135164%;background-size: 881.8965517241379% 889.1666666666666%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_46d_CHE::after {max-width:232px; width:100%;height:0;padding: 0 0 51.724137931034484% 0;}
+.MHT_2019_47_CHE_sol {max-width:519px; max-height:121px; }
+.MHT_2019_47_CHE_sol::after {content: '\00a0';display: inline-block; width:519px; height:121px; background-position: 91.87950229207597% 0.10570824524312897%;background-size: 394.21965317919074% 881.8181818181819%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_47_CHE_sol::after {max-width:519px; width:100%;height:0;padding: 0 0 23.314065510597302% 0;}
+.MHT_2019_4_CHE_sol {max-width:445px; max-height:162px; }
+.MHT_2019_4_CHE_sol::after {content: '\00a0';display: inline-block; width:445px; height:162px; background-position: 87.63272954403497% 13.591160220994475%;background-size: 459.7752808988764% 658.641975308642%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_4_CHE_sol::after {max-width:445px; width:100%;height:0;padding: 0 0 36.40449438202247% 0;}
+.MHT_2019_8_MATH_sol {max-width:445px; max-height:326px; }
+.MHT_2019_8_MATH_sol::after {content: '\00a0';display: inline-block; width:445px; height:326px; background-position: 32.72954403497814% 0.1349527665317139%;background-size: 459.7752808988764% 327.3006134969325%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_8_MATH_sol::after {max-width:445px; width:100%;height:0;padding: 0 0 73.25842696629213% 0;}
+.MHT_2019_8_PHY_sol {max-width:337px; max-height:388px; }
+.MHT_2019_8_PHY_sol::after {content: '\00a0';display: inline-block; width:337px; height:388px; background-position: 27.61849034523113% 71.1340206185567%;background-size: 607.1216617210682% 275%;background-image: url(mht_2019.png);padding: 0; }
+div.MHT_2019_8_PHY_sol::after {max-width:337px; width:100%;height:0;padding: 0 0 115.13353115727003% 0;}
+
+/* $TexturePacker:SmartUpdate:fe4674c64bcde08d665c2b4c0cf44f7e:ec594556622c8bdc599f87fea6cca505:0ff91d18bba0e7b7d2791c9b1bf16aad$ */
