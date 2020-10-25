@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Waves_20_s {max-width:320px; max-height:116px; }
+.Waves_20_s::after {content: '\00a0';display: inline-block; width:320px; height:116px; background-position: 4.761904761904762% 46.2962962962963%;background-size: 106.5625% 612.0689655172414%;background-image: url(ph_xi_ch11.jpg);padding: 0; }
+div.Waves_20_s::after {max-width:320px; width:100%;height:0;padding: 0 0 36.25% 0;}
+.Waves_21_s {max-width:217px; max-height:97px; }
+.Waves_21_s::after {content: '\00a0';display: inline-block; width:217px; height:97px; background-position: 0.8064516129032258% 99.836867862969%;background-size: 157.14285714285714% 731.9587628865979%;background-image: url(ph_xi_ch11.jpg);padding: 0; }
+div.Waves_21_s::after {max-width:217px; width:100%;height:0;padding: 0 0 44.70046082949309% 0;}
+.Waves_30_s {max-width:339px; max-height:191px; }
+.Waves_30_s::after {content: '\00a0';display: inline-block; width:339px; height:191px; background-position: 50% 0.1926782273603083%;background-size: 100.58997050147492% 371.72774869109946%;background-image: url(ph_xi_ch11.jpg);padding: 0; }
+div.Waves_30_s::after {max-width:339px; width:100%;height:0;padding: 0 0 56.342182890855455% 0;}
+.Waves_46_s {max-width:302px; max-height:155px; }
+.Waves_46_s::after {content: '\00a0';display: inline-block; width:302px; height:155px; background-position: 2.5641025641025643% 82.16216216216216%;background-size: 112.91390728476821% 458.06451612903226%;background-image: url(ph_xi_ch11.jpg);padding: 0; }
+div.Waves_46_s::after {max-width:302px; width:100%;height:0;padding: 0 0 51.324503311258276% 0;}
+.Waves_57_s {max-width:304px; max-height:63px; }
+.Waves_57_s::after {content: '\00a0';display: inline-block; width:304px; height:63px; background-position: 2.7027027027027026% 60.58732612055641%;background-size: 112.17105263157895% 1126.984126984127%;background-image: url(ph_xi_ch11.jpg);padding: 0; }
+div.Waves_57_s::after {max-width:304px; width:100%;height:0;padding: 0 0 20.723684210526315% 0;}
+.Waves_78_s {max-width:328px; max-height:81px; }
+.Waves_78_s::after {content: '\00a0';display: inline-block; width:328px; height:81px; background-position: 7.6923076923076925% 30.68362480127186%;background-size: 103.96341463414635% 876.5432098765432%;background-image: url(ph_xi_ch11.jpg);padding: 0; }
+div.Waves_78_s::after {max-width:328px; width:100%;height:0;padding: 0 0 24.695121951219512% 0;}
+
+/* $TexturePacker:SmartUpdate:c583a4da3b174f4df6182ca4eea09d03:32db255787d37ca04e8fbbaf8c5faae7:fddcba017602f243a456008707ccd317$ */
