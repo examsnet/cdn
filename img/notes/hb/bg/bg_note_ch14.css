@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.bg_note_ch14_1 {max-width:700px; max-height:378px; }
+.bg_note_ch14_1::after {content: '\00a0';display: inline-block; width:700px; height:378px; background-position: 0.13550135501355012% 0.08944543828264759%;background-size: 205.42857142857142% 395.76719576719574%;background-image: url(bg_note_ch14.jpg);padding: 0; }
+div.bg_note_ch14_1::after {max-width:700px; width:100%;height:0;padding: 0 0 54% 0;}
+.bg_note_ch14_2 {max-width:463px; max-height:676px; }
+.bg_note_ch14_2::after {content: '\00a0';display: inline-block; width:463px; height:676px; background-position: 59.48717948717949% 54.390243902439025%;background-size: 310.5831533477322% 221.301775147929%;background-image: url(bg_note_ch14.jpg);padding: 0; }
+div.bg_note_ch14_2::after {max-width:463px; width:100%;height:0;padding: 0 0 146.00431965442763% 0;}
+.bg_note_ch14_3 {max-width:578px; max-height:745px; }
+.bg_note_ch14_3::after {content: '\00a0';display: inline-block; width:578px; height:745px; background-position: 0.11627906976744186% 50.59920106524634%;background-size: 248.78892733564012% 200.80536912751677%;background-image: url(bg_note_ch14.jpg);padding: 0; }
+div.bg_note_ch14_3::after {max-width:578px; width:100%;height:0;padding: 0 0 128.89273356401384% 0;}
+.bg_note_ch14_4 {max-width:546px; max-height:369px; }
+.bg_note_ch14_4::after {content: '\00a0';display: inline-block; width:546px; height:369px; background-position: 0.11210762331838565% 99.91126885536823%;background-size: 263.3699633699634% 405.420054200542%;background-image: url(bg_note_ch14.jpg);padding: 0; }
+div.bg_note_ch14_4::after {max-width:546px; width:100%;height:0;padding: 0 0 67.58241758241758% 0;}
+.bg_note_ch14_5 {max-width:383px; max-height:457px; }
+.bg_note_ch14_5::after {content: '\00a0';display: inline-block; width:383px; height:457px; background-position: 98.95734597156398% 82.67564966313763%;background-size: 375.4569190600522% 327.3522975929978%;background-image: url(bg_note_ch14.jpg);padding: 0; }
+div.bg_note_ch14_5::after {max-width:383px; width:100%;height:0;padding: 0 0 119.32114882506528% 0;}
+.bg_note_ch14_6 {max-width:610px; max-height:136px; }
+.bg_note_ch14_6::after {content: '\00a0';display: inline-block; width:610px; height:136px; background-position: 84.78260869565217% 0.07352941176470588%;background-size: 235.7377049180328% 1100%;background-image: url(bg_note_ch14.jpg);padding: 0; }
+div.bg_note_ch14_6::after {max-width:610px; width:100%;height:0;padding: 0 0 22.295081967213115% 0;}
+.bg_note_ch14_7 {max-width:603px; max-height:307px; }
+.bg_note_ch14_7::after {content: '\00a0';display: inline-block; width:603px; height:307px; background-position: 84.07185628742515% 11.606391925988225%;background-size: 238.4742951907131% 487.2964169381107%;background-image: url(bg_note_ch14.jpg);padding: 0; }
+div.bg_note_ch14_7::after {max-width:603px; width:100%;height:0;padding: 0 0 50.91210613598673% 0;}
+.bg_note_ch14_8 {max-width:393px; max-height:412px; }
+.bg_note_ch14_8::after {content: '\00a0';display: inline-block; width:393px; height:412px; background-position: 99.90430622009569% 41.14391143911439%;background-size: 365.90330788804073% 363.1067961165049%;background-image: url(bg_note_ch14.jpg);padding: 0; }
+div.bg_note_ch14_8::after {max-width:393px; width:100%;height:0;padding: 0 0 104.83460559796438% 0;}
+.bg_note_ch14_9 {max-width:397px; max-height:177px; }
+.bg_note_ch14_9::after {content: '\00a0';display: inline-block; width:397px; height:177px; background-position: 52.641690682036504% 85.36770280515542%;background-size: 362.2166246851385% 845.1977401129943%;background-image: url(bg_note_ch14.jpg);padding: 0; }
+div.bg_note_ch14_9::after {max-width:397px; width:100%;height:0;padding: 0 0 44.584382871536526% 0;}
+
+/* $TexturePacker:SmartUpdate:4b15f85a80eccbcbd179ed40238e57ae:ebe10e5787cdaa5cc749684946ba3a1e:850e5c8a53e2c43d7a5aa40973dbf51c$ */
