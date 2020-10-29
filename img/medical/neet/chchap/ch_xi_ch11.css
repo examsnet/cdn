@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.NEET_Che_C11_6sol {max-width:424px; max-height:62px; }
+.NEET_Che_C11_6sol::after {content: '\00a0';display: inline-block; width:424px; height:62px; background-position: 50% 50%;background-size: 100.47169811320755% 103.2258064516129%;background-image: url(ch_xi_ch11.jpg);padding: 0; }
+div.NEET_Che_C11_6sol::after {max-width:424px; width:100%;height:0;padding: 0 0 14.622641509433961% 0;}
+
+/* $TexturePacker:SmartUpdate:7a30e5496a89d6eaf3c3ecc35b9a03bb:1c61ac9498edbfb5dbbe4c2b19df4d05:b0cdb9b4a80736f9e24c6c9c73221462$ */
