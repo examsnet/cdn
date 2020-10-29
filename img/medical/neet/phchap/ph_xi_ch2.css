@@ -7,35 +7,38 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
+.Motion_2020_1_s {max-width:282px; max-height:278px; }
+.Motion_2020_1_s::after {content: '\00a0';display: inline-block; width:282px; height:278px; background-position: 0.4444444444444444% 29.949874686716793%;background-size: 179.7872340425532% 387.0503597122302%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
+div.Motion_2020_1_s::after {max-width:282px; width:100%;height:0;padding: 0 0 98.58156028368795% 0;}
 .Motion_25_s {max-width:92px; max-height:120px; }
-.Motion_25_s::after {content: '\00a0';display: inline-block; width:92px; height:120px; background-position: 91.32530120481928% 96.08391608391608%;background-size: 551.0869565217391% 695.8333333333334%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
+.Motion_25_s::after {content: '\00a0';display: inline-block; width:92px; height:120px; background-position: 63.6144578313253% 99.89539748953975%;background-size: 551.0869565217391% 896.6666666666666%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
 div.Motion_25_s::after {max-width:92px; width:100%;height:0;padding: 0 0 130.43478260869566% 0;}
 .Motion_26_s {max-width:159px; max-height:204px; }
-.Motion_26_s::after {content: '\00a0';display: inline-block; width:159px; height:204px; background-position: 0.28735632183908044% 52.931854199683045%;background-size: 318.8679245283019% 409.3137254901961%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
+.Motion_26_s::after {content: '\00a0';display: inline-block; width:159px; height:204px; background-position: 93.39080459770115% 17.087155963302752%;background-size: 318.8679245283019% 527.4509803921569%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
 div.Motion_26_s::after {max-width:159px; width:100%;height:0;padding: 0 0 128.30188679245282% 0;}
 .Motion_38_q {max-width:264px; max-height:108px; }
-.Motion_38_q::after {content: '\00a0';display: inline-block; width:264px; height:108px; background-position: 66.2551440329218% 45.94222833562586%;background-size: 192.04545454545453% 773.1481481481482%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
+.Motion_38_q::after {content: '\00a0';display: inline-block; width:264px; height:108px; background-position: 0.411522633744856% 53.51239669421488%;background-size: 192.04545454545453% 996.2962962962963%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
 div.Motion_38_q::after {max-width:264px; width:100%;height:0;padding: 0 0 40.90909090909091% 0;}
 .Motion_40_o_1 {max-width:194px; max-height:149px; }
-.Motion_40_o_1::after {content: '\00a0';display: inline-block; width:194px; height:149px; background-position: 84.34504792332268% 22.886297376093296%;background-size: 261.340206185567% 560.4026845637584%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
+.Motion_40_o_1::after {content: '\00a0';display: inline-block; width:194px; height:149px; background-position: 90.73482428115015% 38.18770226537217%;background-size: 261.340206185567% 722.1476510067114%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
 div.Motion_40_o_1::after {max-width:194px; width:100%;height:0;padding: 0 0 76.80412371134021% 0;}
 .Motion_40_o_2 {max-width:187px; max-height:147px; }
-.Motion_40_o_2::after {content: '\00a0';display: inline-block; width:187px; height:147px; background-position: 59.6875% 99.8546511627907%;background-size: 271.1229946524064% 568.0272108843537%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
+.Motion_40_o_2::after {content: '\00a0';display: inline-block; width:187px; height:147px; background-position: 82.5% 70.07534983853606%;background-size: 271.1229946524064% 731.9727891156463%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
 div.Motion_40_o_2::after {max-width:187px; width:100%;height:0;padding: 0 0 78.6096256684492% 0;}
 .Motion_40_o_3 {max-width:189px; max-height:146px; }
-.Motion_40_o_3::after {content: '\00a0';display: inline-block; width:189px; height:146px; background-position: 0.31446540880503143% 99.70972423802613%;background-size: 268.25396825396825% 571.917808219178%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
+.Motion_40_o_3::after {content: '\00a0';display: inline-block; width:189px; height:146px; background-position: 89.30817610062893% 54.193548387096776%;background-size: 268.25396825396825% 736.986301369863%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
 div.Motion_40_o_3::after {max-width:189px; width:100%;height:0;padding: 0 0 77.24867724867725% 0;}
 .Motion_40_o_4 {max-width:186px; max-height:155px; }
-.Motion_40_o_4::after {content: '\00a0';display: inline-block; width:186px; height:155px; background-position: 82.24299065420561% 0.14705882352941177%;background-size: 272.5806451612903% 538.7096774193549%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
+.Motion_40_o_4::after {content: '\00a0';display: inline-block; width:186px; height:155px; background-position: 82.24299065420561% 86.75352877307274%;background-size: 272.5806451612903% 694.1935483870968%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
 div.Motion_40_o_4::after {max-width:186px; width:100%;height:0;padding: 0 0 83.33333333333333% 0;}
 .Motion_46_s {max-width:323px; max-height:89px; }
-.Motion_46_s::after {content: '\00a0';display: inline-block; width:323px; height:89px; background-position: 87.5% 59.38337801608579%;background-size: 156.96594427244582% 938.2022471910112%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
+.Motion_46_s::after {content: '\00a0';display: inline-block; width:323px; height:89px; background-position: 0.5434782608695652% 15.096251266464032%;background-size: 156.96594427244582% 1208.9887640449438%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
 div.Motion_46_s::after {max-width:323px; width:100%;height:0;padding: 0 0 27.554179566563466% 0;}
 .nt_ph_motion_st_line_46_sol {max-width:505px; max-height:147px; }
-.nt_ph_motion_st_line_46_sol::after {content: '\00a0';display: inline-block; width:505px; height:147px; background-position: 50% 78.34302325581395%;background-size: 100.39603960396039% 568.0272108843537%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
+.nt_ph_motion_st_line_46_sol::after {content: '\00a0';display: inline-block; width:505px; height:147px; background-position: 50% 0.10764262648008611%;background-size: 100.39603960396039% 731.9727891156463%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
 div.nt_ph_motion_st_line_46_sol::after {max-width:505px; width:100%;height:0;padding: 0 0 29.10891089108911% 0;}
 .nt_ph_motion_st_line_5_sol {max-width:262px; max-height:332px; }
-.nt_ph_motion_st_line_5_sol::after {content: '\00a0';display: inline-block; width:262px; height:332px; background-position: 0.40816326530612246% 0.1988071570576541%;background-size: 193.5114503816794% 251.50602409638554%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
+.nt_ph_motion_st_line_5_sol::after {content: '\00a0';display: inline-block; width:262px; height:332px; background-position: 0.40816326530612246% 84.2741935483871%;background-size: 193.5114503816794% 324.09638554216866%;background-image: url(ph_xi_ch2.jpg);padding: 0; }
 div.nt_ph_motion_st_line_5_sol::after {max-width:262px; width:100%;height:0;padding: 0 0 126.7175572519084% 0;}
 
-/* $TexturePacker:SmartUpdate:d092007fec3a5157eb4198f362ba2bf8:0ffa509362b93fcb9bacee65d492324d:a4e7a5108dd367dc79bd36e4f36cb453$ */
+/* $TexturePacker:SmartUpdate:2fc0f1d9c93603524ea81c33173a8ae6:b52158fd517469456108f193b1864359:a4e7a5108dd367dc79bd36e4f36cb453$ */
