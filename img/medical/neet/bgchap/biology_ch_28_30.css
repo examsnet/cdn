@@ -8,28 +8,34 @@ Responsive: <div class="yourspritesname"></div>
 
 
 .nt_bg_human_health_15 {max-width:285px; max-height:281px; }
-.nt_bg_human_health_15::after {content: '\00a0';display: inline-block; width:285px; height:281px; background-position: 0.5649717514124294% 99.92743105950653%;background-size: 162.10526315789474% 590.3914590747331%;background-image: url(biology_ch_28_30.jpg);padding: 0; }
+.nt_bg_human_health_15::after {content: '\00a0';display: inline-block; width:285px; height:281px; background-position: 99.93975903614458% 0.5076142131979695%;background-size: 682.4561403508771% 170.1067615658363%;background-image: url(biology_ch_28_30.jpg);padding: 0; }
 div.nt_bg_human_health_15::after {max-width:285px; width:100%;height:0;padding: 0 0 98.59649122807018% 0;}
 .nt_bg_human_health_26a {max-width:460px; max-height:314px; }
-.nt_bg_human_health_26a::after {content: '\00a0';display: inline-block; width:460px; height:314px; background-position: 50% 0.07434944237918216%;background-size: 100.43478260869566% 528.343949044586%;background-image: url(biology_ch_28_30.jpg);padding: 0; }
+.nt_bg_human_health_26a::after {content: '\00a0';display: inline-block; width:460px; height:314px; background-position: 0.06734006734006734% 0.6097560975609756%;background-size: 422.82608695652175% 152.22929936305732%;background-image: url(biology_ch_28_30.jpg);padding: 0; }
 div.nt_bg_human_health_26a::after {max-width:460px; width:100%;height:0;padding: 0 0 68.26086956521739% 0;}
 .nt_bg_human_health_26b {max-width:320px; max-height:121px; }
-.nt_bg_human_health_26b::after {content: '\00a0';display: inline-block; width:320px; height:121px; background-position: 0.704225352112676% 81.59947984395319%;background-size: 144.375% 1371.0743801652893%;background-image: url(biology_ch_28_30.jpg);padding: 0; }
+.nt_bg_human_health_26b::after {content: '\00a0';display: inline-block; width:320px; height:121px; background-position: 28.43076923076923% 98.31932773109244%;background-size: 607.8125% 395.0413223140496%;background-image: url(biology_ch_28_30.jpg);padding: 0; }
 div.nt_bg_human_health_26b::after {max-width:320px; width:100%;height:0;padding: 0 0 37.8125% 0;}
 .nt_bg_mole_basis_inheri_123_sol {max-width:460px; max-height:254px; }
-.nt_bg_mole_basis_inheri_123_sol::after {content: '\00a0';display: inline-block; width:460px; height:254px; background-position: 50% 22.491103202846976%;background-size: 100.43478260869566% 653.1496062992126%;background-image: url(biology_ch_28_30.jpg);padding: 0; }
+.nt_bg_mole_basis_inheri_123_sol::after {content: '\00a0';display: inline-block; width:460px; height:254px; background-position: 56.76767676767677% 0.44642857142857145%;background-size: 422.82608695652175% 188.18897637795277%;background-image: url(biology_ch_28_30.jpg);padding: 0; }
 div.nt_bg_mole_basis_inheri_123_sol::after {max-width:460px; width:100%;height:0;padding: 0 0 55.21739130434783% 0;}
-.nt_bg_mole_basis_inheri_25 {max-width:460px; max-height:58px; }
-.nt_bg_mole_basis_inheri_25::after {content: '\00a0';display: inline-block; width:460px; height:58px; background-position: 50% 49.219237976264836%;background-size: 100.43478260869566% 2860.344827586207%;background-image: url(biology_ch_28_30.jpg);padding: 0; }
-div.nt_bg_mole_basis_inheri_25::after {max-width:460px; width:100%;height:0;padding: 0 0 12.608695652173912% 0;}
+.nt_bg_mole_basis_inheri_1_sol {max-width:354px; max-height:280px; }
+.nt_bg_mole_basis_inheri_1_sol::after {content: '\00a0';display: inline-block; width:354px; height:280px; background-position: 81.9610307982401% 0.5050505050505051%;background-size: 549.4350282485875% 170.71428571428572%;background-image: url(biology_ch_28_30.jpg);padding: 0; }
+div.nt_bg_mole_basis_inheri_1_sol::after {max-width:354px; width:100%;height:0;padding: 0 0 79.09604519774011% 0;}
+.nt_bg_mole_basis_inheri_25 {max-width:450px; max-height:88px; }
+.nt_bg_mole_basis_inheri_25::after {content: '\00a0';display: inline-block; width:450px; height:88px; background-position: 0.06688963210702341% 81.02564102564102%;background-size: 432.22222222222223% 543.1818181818181%;background-image: url(biology_ch_28_30.jpg);padding: 0; }
+div.nt_bg_mole_basis_inheri_25::after {max-width:450px; width:100%;height:0;padding: 0 0 19.555555555555557% 0;}
 .nt_bg_mole_basis_inheri_27 {max-width:460px; max-height:57px; }
-.nt_bg_mole_basis_inheri_27::after {content: '\00a0';display: inline-block; width:460px; height:57px; background-position: 50% 52.87141073657928%;background-size: 100.43478260869566% 2910.5263157894738%;background-image: url(biology_ch_28_30.jpg);padding: 0; }
+.nt_bg_mole_basis_inheri_27::after {content: '\00a0';display: inline-block; width:460px; height:57px; background-position: 0.06734006734006734% 96.19952494061758%;background-size: 422.82608695652175% 838.5964912280701%;background-image: url(biology_ch_28_30.jpg);padding: 0; }
 div.nt_bg_mole_basis_inheri_27::after {max-width:460px; width:100%;height:0;padding: 0 0 12.391304347826088% 0;}
+.nt_bg_mole_basis_inheri_45_sol {max-width:370px; max-height:194px; }
+.nt_bg_mole_basis_inheri_45_sol::after {content: '\00a0';display: inline-block; width:370px; height:194px; background-position: 82.7936507936508% 99.64788732394366%;background-size: 525.6756756756756% 246.39175257731958%;background-image: url(biology_ch_28_30.jpg);padding: 0; }
+div.nt_bg_mole_basis_inheri_45_sol::after {max-width:370px; width:100%;height:0;padding: 0 0 52.432432432432435% 0;}
 .nt_bg_mole_basis_inheri_69_sol {max-width:380px; max-height:349px; }
-.nt_bg_mole_basis_inheri_69_sol::after {content: '\00a0';display: inline-block; width:380px; height:349px; background-position: 1.2195121951219512% 69.08396946564885%;background-size: 121.57894736842105% 475.3581661891117%;background-image: url(biology_ch_28_30.jpg);padding: 0; }
+.nt_bg_mole_basis_inheri_69_sol::after {content: '\00a0';display: inline-block; width:380px; height:349px; background-position: 29.52076677316294% 0.7751937984496124%;background-size: 511.8421052631579% 136.96275071633238%;background-image: url(biology_ch_28_30.jpg);padding: 0; }
 div.nt_bg_mole_basis_inheri_69_sol::after {max-width:380px; width:100%;height:0;padding: 0 0 91.84210526315789% 0;}
 .nt_bg_mole_basis_inheri_83_sol {max-width:460px; max-height:216px; }
-.nt_bg_mole_basis_inheri_83_sol::after {content: '\00a0';display: inline-block; width:460px; height:216px; background-position: 50% 39.57033957033957%;background-size: 100.43478260869566% 768.0555555555555%;background-image: url(biology_ch_28_30.jpg);padding: 0; }
+.nt_bg_mole_basis_inheri_83_sol::after {content: '\00a0';display: inline-block; width:460px; height:216px; background-position: 56.76767676767677% 97.70992366412214%;background-size: 422.82608695652175% 221.2962962962963%;background-image: url(biology_ch_28_30.jpg);padding: 0; }
 div.nt_bg_mole_basis_inheri_83_sol::after {max-width:460px; width:100%;height:0;padding: 0 0 46.95652173913044% 0;}
 
-/* $TexturePacker:SmartUpdate:a752a17874bc5e6240acb09dcf09e2d6:da29d3ca15e8ac0d48f0d5d0b651e4f3:6cf36d95da68feb3078425e8b31ca2d2$ */
+/* $TexturePacker:SmartUpdate:104e4c76da058ed6987dc56a8285b7e9:e500ba8bbc7386820d6b2cbc1ed41eb6:6cf36d95da68feb3078425e8b31ca2d2$ */
