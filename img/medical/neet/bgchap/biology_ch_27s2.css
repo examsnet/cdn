@@ -8,82 +8,88 @@ Responsive: <div class="yourspritesname"></div>
 
 
 .nt_bg_prin_inheri_10_sol {max-width:460px; max-height:287px; }
-.nt_bg_prin_inheri_10_sol::after {content: '\00a0';display: inline-block; width:460px; height:287px; background-position: 41.537324464153734% 50.17041581458759%;background-size: 394.1304347826087% 611.1498257839721%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_10_sol::after {content: '\00a0';display: inline-block; width:460px; height:287px; background-position: 71.33891213389121% 21.99197860962567%;background-size: 411.7391304347826% 621.2543554006969%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_10_sol::after {max-width:460px; width:100%;height:0;padding: 0 0 62.391304347826086% 0;}
 .nt_bg_prin_inheri_16_sol_a {max-width:392px; max-height:277px; }
-.nt_bg_prin_inheri_16_sol_a::after {content: '\00a0';display: inline-block; width:392px; height:277px; background-position: 97.39619985925404% 77.79282329045363%;background-size: 462.5% 633.2129963898917%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_16_sol_a::after {content: '\00a0';display: inline-block; width:392px; height:277px; background-position: 98.80159786950732% 38.844621513944226%;background-size: 483.16326530612247% 643.6823104693141%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_16_sol_a::after {max-width:392px; width:100%;height:0;padding: 0 0 70.66326530612245% 0;}
 .nt_bg_prin_inheri_16_sol_b {max-width:441px; max-height:327px; }
-.nt_bg_prin_inheri_16_sol_b::after {content: '\00a0';display: inline-block; width:441px; height:327px; background-position: 74.56268221574344% 0.0700770847932726%;background-size: 411.1111111111111% 536.3914373088685%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_16_sol_b::after {content: '\00a0';display: inline-block; width:441px; height:327px; background-position: 70.40605643496215% 0.06868131868131869%;background-size: 429.4784580498866% 545.2599388379205%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_16_sol_b::after {max-width:441px; width:100%;height:0;padding: 0 0 74.14965986394557% 0;}
 .nt_bg_prin_inheri_18 {max-width:460px; max-height:262px; }
-.nt_bg_prin_inheri_18::after {content: '\00a0';display: inline-block; width:460px; height:262px; background-position: 0.07390983000739099% 99.93297587131367%;background-size: 394.1304347826087% 669.4656488549618%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_18::after {content: '\00a0';display: inline-block; width:460px; height:262px; background-position: 39.19107391910739% 48.38921761998685%;background-size: 411.7391304347826% 680.5343511450382%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_18::after {max-width:460px; width:100%;height:0;padding: 0 0 56.95652173913044% 0;}
 .nt_bg_prin_inheri_18_sol {max-width:460px; max-height:240px; }
-.nt_bg_prin_inheri_18_sol::after {content: '\00a0';display: inline-block; width:460px; height:240px; background-position: 75.60975609756098% 59.90752972258917%;background-size: 394.1304347826087% 730.8333333333334%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_18_sol::after {content: '\00a0';display: inline-block; width:460px; height:240px; background-position: 71.33891213389121% 58.52235904082955%;background-size: 411.7391304347826% 742.9166666666666%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_18_sol::after {max-width:460px; width:100%;height:0;padding: 0 0 52.17391304347826% 0;}
+.nt_bg_prin_inheri_2019_1_sol {max-width:381px; max-height:305px; }
+.nt_bg_prin_inheri_2019_1_sol::after {content: '\00a0';display: inline-block; width:381px; height:305px; background-position: 98.08327825512228% 18.876860622462786%;background-size: 497.1128608923884% 584.5901639344262%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+div.nt_bg_prin_inheri_2019_1_sol::after {max-width:381px; width:100%;height:0;padding: 0 0 80.05249343832021% 0;}
+.nt_bg_prin_inheri_2019_2_sol {max-width:381px; max-height:110px; }
+.nt_bg_prin_inheri_2019_2_sol::after {content: '\00a0';display: inline-block; width:381px; height:110px; background-position: 98.08327825512228% 66.34787806335923%;background-size: 497.1128608923884% 1620.909090909091%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+div.nt_bg_prin_inheri_2019_2_sol::after {max-width:381px; width:100%;height:0;padding: 0 0 28.871391076115486% 0;}
 .nt_bg_prin_inheri_20_sol {max-width:320px; max-height:218px; }
-.nt_bg_prin_inheri_20_sol::after {content: '\00a0';display: inline-block; width:320px; height:218px; background-position: 99.39718687206965% 16.145833333333332%;background-size: 566.5625% 804.5871559633027%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_20_sol::after {content: '\00a0';display: inline-block; width:320px; height:218px; background-position: 58.64040660736976% 97.06070287539936%;background-size: 591.875% 817.8899082568807%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_20_sol::after {max-width:320px; width:100%;height:0;padding: 0 0 68.125% 0;}
 .nt_bg_prin_inheri_27_sol {max-width:460px; max-height:291px; }
-.nt_bg_prin_inheri_27_sol::after {content: '\00a0';display: inline-block; width:460px; height:291px; background-position: 75.60975609756098% 22.48803827751196%;background-size: 394.1304347826087% 602.7491408934708%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_27_sol::after {content: '\00a0';display: inline-block; width:460px; height:291px; background-position: 0.0697350069735007% 99.93297587131367%;background-size: 411.7391304347826% 612.7147766323025%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_27_sol::after {max-width:460px; width:100%;height:0;padding: 0 0 63.26086956521739% 0;}
 .nt_bg_prin_inheri_2_sol {max-width:460px; max-height:249px; }
-.nt_bg_prin_inheri_2_sol::after {content: '\00a0';display: inline-block; width:460px; height:249px; background-position: 68.21877309682188% 76.27906976744185%;background-size: 394.1304347826087% 704.4176706827309%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_2_sol::after {content: '\00a0';display: inline-block; width:460px; height:249px; background-position: 32.21757322175732% 99.9348109517601%;background-size: 411.7391304347826% 716.0642570281125%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_2_sol::after {max-width:460px; width:100%;height:0;padding: 0 0 54.130434782608695% 0;}
 .nt_bg_prin_inheri_31_sol {max-width:460px; max-height:190px; }
-.nt_bg_prin_inheri_31_sol::after {content: '\00a0';display: inline-block; width:460px; height:190px; background-position: 34.146341463414636% 99.61636828644501%;background-size: 394.1304347826087% 923.1578947368421%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_31_sol::after {content: '\00a0';display: inline-block; width:460px; height:190px; background-position: 64.36541143654114% 71.81418706842436%;background-size: 411.7391304347826% 938.421052631579%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_31_sol::after {max-width:460px; width:100%;height:0;padding: 0 0 41.30434782608695% 0;}
 .nt_bg_prin_inheri_36_sol {max-width:460px; max-height:329px; }
-.nt_bg_prin_inheri_36_sol::after {content: '\00a0';display: inline-block; width:460px; height:329px; background-position: 0.07390983000739099% 60.91228070175438%;background-size: 394.1304347826087% 533.1306990881459%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_36_sol::after {content: '\00a0';display: inline-block; width:460px; height:329px; background-position: 0.0697350069735007% 59.69738651994498%;background-size: 411.7391304347826% 541.9452887537994%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_36_sol::after {max-width:460px; width:100%;height:0;padding: 0 0 71.52173913043478% 0;}
 .nt_bg_prin_inheri_38 {max-width:257px; max-height:240px; }
-.nt_bg_prin_inheri_38::after {content: '\00a0';display: inline-block; width:257px; height:240px; background-position: 95.37275064267352% 30.84544253632761%;background-size: 705.4474708171206% 730.8333333333334%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_38::after {content: '\00a0';display: inline-block; width:257px; height:240px; background-position: 75.9926695174099% 98.44458846403111%;background-size: 736.964980544747% 742.9166666666666%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_38::after {max-width:257px; width:100%;height:0;padding: 0 0 93.3852140077821% 0;}
 .nt_bg_prin_inheri_39_sol {max-width:560px; max-height:505px; }
-.nt_bg_prin_inheri_39_sol::after {content: '\00a0';display: inline-block; width:560px; height:505px; background-position: 0.07980845969672785% 0.08006405124099279%;background-size: 323.75% 347.3267326732673%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_39_sol::after {content: '\00a0';display: inline-block; width:560px; height:505px; background-position: 0.07496251874062969% 0.0782472613458529%;background-size: 338.2142857142857% 353.0693069306931%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_39_sol::after {max-width:560px; width:100%;height:0;padding: 0 0 90.17857142857143% 0;}
 .nt_bg_prin_inheri_41_sol {max-width:460px; max-height:292px; }
-.nt_bg_prin_inheri_41_sol::after {content: '\00a0';display: inline-block; width:460px; height:292px; background-position: 0.07390983000739099% 81.94254445964432%;background-size: 394.1304347826087% 600.6849315068494%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_41_sol::after {content: '\00a0';display: inline-block; width:460px; height:292px; background-position: 0.0697350069735007% 80.34875922199866%;background-size: 411.7391304347826% 610.6164383561644%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_41_sol::after {max-width:460px; width:100%;height:0;padding: 0 0 63.47826086956522% 0;}
 .nt_bg_prin_inheri_44 {max-width:320px; max-height:120px; }
-.nt_bg_prin_inheri_44::after {content: '\00a0';display: inline-block; width:320px; height:120px; background-position: 90.55592766242465% 98.59241126070991%;background-size: 566.5625% 1461.6666666666667%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_44::after {content: '\00a0';display: inline-block; width:320px; height:120px; background-position: 95.42566709021601% 99.93986770895971%;background-size: 591.875% 1485.8333333333333%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_44::after {max-width:320px; width:100%;height:0;padding: 0 0 37.5% 0;}
 .nt_bg_prin_inheri_45_sol {max-width:320px; max-height:246px; }
-.nt_bg_prin_inheri_45_sol::after {content: '\00a0';display: inline-block; width:320px; height:246px; background-position: 98.12458137977227% 0.06631299734748011%;background-size: 566.5625% 713.0081300813008%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_45_sol::after {content: '\00a0';display: inline-block; width:320px; height:246px; background-position: 94.28208386277001% 56.14834092387768%;background-size: 591.875% 724.7967479674796%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_45_sol::after {max-width:320px; width:100%;height:0;padding: 0 0 76.875% 0;}
 .nt_bg_prin_inheri_49_sol {max-width:460px; max-height:285px; }
-.nt_bg_prin_inheri_49_sol::after {content: '\00a0';display: inline-block; width:460px; height:285px; background-position: 75.60975609756098% 42.27365554799183%;background-size: 394.1304347826087% 615.438596491228%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_49_sol::after {content: '\00a0';display: inline-block; width:460px; height:285px; background-position: 71.33891213389121% 41.18825100133511%;background-size: 411.7391304347826% 625.6140350877193%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_49_sol::after {max-width:460px; width:100%;height:0;padding: 0 0 61.95652173913044% 0;}
 .nt_bg_prin_inheri_50 {max-width:320px; max-height:139px; }
-.nt_bg_prin_inheri_50::after {content: '\00a0';display: inline-block; width:320px; height:139px; background-position: 99.39718687206965% 62.476780185758514%;background-size: 566.5625% 1261.8705035971223%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_50::after {content: '\00a0';display: inline-block; width:320px; height:139px; background-position: 87.92884371029226% 83.63746958637469%;background-size: 591.875% 1282.7338129496402%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_50::after {max-width:320px; width:100%;height:0;padding: 0 0 43.4375% 0;}
 .nt_bg_prin_inheri_52_sol {max-width:460px; max-height:419px; }
-.nt_bg_prin_inheri_52_sol::after {content: '\00a0';display: inline-block; width:460px; height:419px; background-position: 41.537324464153734% 0.0749063670411985%;background-size: 394.1304347826087% 418.6157517899761%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_52_sol::after {content: '\00a0';display: inline-block; width:460px; height:419px; background-position: 39.19107391910739% 0.07331378299120235%;background-size: 411.7391304347826% 425.5369928400955%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_52_sol::after {max-width:460px; width:100%;height:0;padding: 0 0 91.08695652173913% 0;}
 .nt_bg_prin_inheri_57 {max-width:320px; max-height:153px; }
-.nt_bg_prin_inheri_57::after {content: '\00a0';display: inline-block; width:320px; height:153px; background-position: 99.39718687206965% 44.22236102435978%;background-size: 566.5625% 1146.4052287581699%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_57::after {content: '\00a0';display: inline-block; width:320px; height:153px; background-position: 87.92884371029226% 74.9079754601227%;background-size: 591.875% 1165.359477124183%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_57::after {max-width:320px; width:100%;height:0;padding: 0 0 47.8125% 0;}
 .nt_bg_prin_inheri_60_sol {max-width:460px; max-height:278px; }
-.nt_bg_prin_inheri_60_sol::after {content: '\00a0';display: inline-block; width:460px; height:278px; background-position: 34.146341463414636% 69.37669376693766%;background-size: 394.1304347826087% 630.9352517985611%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_60_sol::after {content: '\00a0';display: inline-block; width:460px; height:278px; background-position: 32.21757322175732% 66.37873754152824%;background-size: 411.7391304347826% 641.3669064748201%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_60_sol::after {max-width:460px; width:100%;height:0;padding: 0 0 60.43478260869565% 0;}
 .nt_bg_prin_inheri_64_sol {max-width:320px; max-height:146px; }
-.nt_bg_prin_inheri_64_sol::after {content: '\00a0';display: inline-block; width:320px; height:146px; background-position: 99.39718687206965% 53.60696517412935%;background-size: 566.5625% 1201.3698630136987%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_64_sol::after {content: '\00a0';display: inline-block; width:320px; height:146px; background-position: 95.42566709021601% 92.5473427000611%;background-size: 591.875% 1221.2328767123288%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_64_sol::after {max-width:320px; width:100%;height:0;padding: 0 0 45.625% 0;}
 .nt_bg_prin_inheri_66_sol {max-width:460px; max-height:314px; }
-.nt_bg_prin_inheri_66_sol::after {content: '\00a0';display: inline-block; width:460px; height:314px; background-position: 41.537324464153734% 29.23611111111111%;background-size: 394.1304347826087% 558.5987261146497%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_66_sol::after {content: '\00a0';display: inline-block; width:460px; height:314px; background-position: 39.19107391910739% 28.658951667801226%;background-size: 411.7391304347826% 567.8343949044586%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_66_sol::after {max-width:460px; width:100%;height:0;padding: 0 0 68.26086956521739% 0;}
 .nt_bg_prin_inheri_75_sol {max-width:560px; max-height:360px; }
-.nt_bg_prin_inheri_75_sol::after {content: '\00a0';display: inline-block; width:560px; height:360px; background-position: 0.07980845969672785% 36.37015781922525%;background-size: 323.75% 487.22222222222223%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_75_sol::after {content: '\00a0';display: inline-block; width:560px; height:360px; background-position: 0.07496251874062969% 35.628952916373855%;background-size: 338.2142857142857% 495.27777777777777%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_75_sol::after {max-width:560px; width:100%;height:0;padding: 0 0 64.28571428571429% 0;}
 .nt_bg_prin_inheri_79_sol {max-width:460px; max-height:183px; }
-.nt_bg_prin_inheri_79_sol::after {content: '\00a0';display: inline-block; width:460px; height:183px; background-position: 99.9260901699926% 90.83386378103118%;background-size: 394.1304347826087% 958.4699453551913%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_79_sol::after {content: '\00a0';display: inline-block; width:460px; height:183px; background-position: 64.36541143654114% 83.4375%;background-size: 411.7391304347826% 974.3169398907104%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_79_sol::after {max-width:460px; width:100%;height:0;padding: 0 0 39.78260869565217% 0;}
 .nt_bg_prin_inheri_7_sol {max-width:428px; max-height:277px; }
-.nt_bg_prin_inheri_7_sol::after {content: '\00a0';display: inline-block; width:428px; height:277px; background-position: 66.64259927797833% 94.6513202437373%;background-size: 423.5981308411215% 633.2129963898917%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_7_sol::after {content: '\00a0';display: inline-block; width:428px; height:277px; background-position: 99.93178717598909% 0.06640106241699867%;background-size: 442.5233644859813% 643.6823104693141%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_7_sol::after {max-width:428px; width:100%;height:0;padding: 0 0 64.7196261682243% 0;}
 .nt_bg_prin_inheri_80_sol {max-width:460px; max-height:254px; }
-.nt_bg_prin_inheri_80_sol::after {content: '\00a0';display: inline-block; width:460px; height:254px; background-position: 34.146341463414636% 86.86666666666666%;background-size: 394.1304347826087% 690.5511811023622%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
+.nt_bg_prin_inheri_80_sol::after {content: '\00a0';display: inline-block; width:460px; height:254px; background-position: 32.21757322175732% 83.58404185742316%;background-size: 411.7391304347826% 701.9685039370079%;background-image: url(biology_ch_27s2.jpg);padding: 0; }
 div.nt_bg_prin_inheri_80_sol::after {max-width:460px; width:100%;height:0;padding: 0 0 55.21739130434783% 0;}
 
-/* $TexturePacker:SmartUpdate:23866e91262fa1679787550627d9732a:9ca9df8369697e671e5f0b37e3e93854:e19ce29bf94abcca14d977675cac6c6d$ */
+/* $TexturePacker:SmartUpdate:72c0e6a6eb834f5d9f926ae209124d9a:e884ef3cbd6f66250edd1f5392a402cb:e19ce29bf94abcca14d977675cac6c6d$ */
