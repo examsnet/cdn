@@ -7,212 +7,446 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
+.Aldehydes_1 {max-width:439px; max-height:108px; }
+.Aldehydes_1::after {content: '\00a0';display: inline-block; width:439px; height:108px; background-position: 84.82260183968462% 29.912280701754387%;background-size: 446.69703872437356% 1155.5555555555557%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_1::after {max-width:439px; width:100%;height:0;padding: 0 0 24.60136674259681% 0;}
+.Aldehydes_10 {max-width:371px; max-height:98px; }
+.Aldehydes_10::after {content: '\00a0';display: inline-block; width:371px; height:98px; background-position: 77.54716981132076% 49.91304347826087%;background-size: 528.5714285714286% 1273.469387755102%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_10::after {max-width:371px; width:100%;height:0;padding: 0 0 26.41509433962264% 0;}
+.Aldehydes_1_o_1 {max-width:155px; max-height:122px; }
+.Aldehydes_1_o_1::after {content: '\00a0';display: inline-block; width:155px; height:122px; background-position: 41.91583610188261% 88.80994671403197%;background-size: 1265.1612903225807% 1022.9508196721312%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_1_o_1::after {max-width:155px; width:100%;height:0;padding: 0 0 78.70967741935483% 0;}
+.Aldehydes_1_o_2 {max-width:182px; max-height:117px; }
+.Aldehydes_1_o_2::after {content: '\00a0';display: inline-block; width:182px; height:117px; background-position: 72.4396782841823% 85.18902123252201%;background-size: 1124.7252747252746% 1750.4273504273503%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_1_o_2::after {max-width:182px; width:100%;height:0;padding: 0 0 64.28571428571429% 0;}
+.Aldehydes_1_o_3 {max-width:157px; max-height:153px; }
+.Aldehydes_1_o_3::after {content: '\00a0';display: inline-block; width:157px; height:153px; background-position: 90.68783068783068% 59.261213720316626%;background-size: 1303.8216560509554% 1338.562091503268%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_1_o_3::after {max-width:157px; width:100%;height:0;padding: 0 0 97.45222929936305% 0;}
+.Aldehydes_1_o_4 {max-width:178px; max-height:115px; }
+.Aldehydes_1_o_4::after {content: '\00a0';display: inline-block; width:178px; height:115px; background-position: 51.318003365114976% 98.67608120035304%;background-size: 1101.685393258427% 1085.2173913043478%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_1_o_4::after {max-width:178px; width:100%;height:0;padding: 0 0 64.6067415730337% 0;}
+.Aldehydes_1_s {max-width:320px; max-height:107px; }
+.Aldehydes_1_s::after {content: '\00a0';display: inline-block; width:320px; height:107px; background-position: 31.992687385740403% 17.5284837861525%;background-size: 612.8125% 1166.3551401869158%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_1_s::after {max-width:320px; width:100%;height:0;padding: 0 0 33.4375% 0;}
+.Aldehydes_1_s_1 {max-width:520px; max-height:215px; }
+.Aldehydes_1_s_1::after {content: '\00a0';display: inline-block; width:520px; height:215px; background-position: 55.14079895219385% 70.75831969448991%;background-size: 393.65384615384613% 952.5581395348837%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_1_s_1::after {max-width:520px; width:100%;height:0;padding: 0 0 41.34615384615385% 0;}
+.Aldehydes_2_o_1 {max-width:305px; max-height:92px; }
+.Aldehydes_2_o_1::after {content: '\00a0';display: inline-block; width:305px; height:92px; background-position: 99.93961352657004% 73.96193771626298%;background-size: 642.9508196721312% 1356.5217391304348%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_2_o_1::after {max-width:305px; width:100%;height:0;padding: 0 0 30.16393442622951% 0;}
+.Aldehydes_2_o_2 {max-width:299px; max-height:95px; }
+.Aldehydes_2_o_2::after {content: '\00a0';display: inline-block; width:299px; height:95px; background-position: 77.19614921780986% 93.84215091066783%;background-size: 655.8528428093646% 1313.6842105263158%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_2_o_2::after {max-width:299px; width:100%;height:0;padding: 0 0 31.77257525083612% 0;}
+.Aldehydes_2_o_3 {max-width:342px; max-height:100px; }
+.Aldehydes_2_o_3::after {content: '\00a0';display: inline-block; width:342px; height:100px; background-position: 0.06176652254478073% 75.78397212543554%;background-size: 573.3918128654971% 1248%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_2_o_3::after {max-width:342px; width:100%;height:0;padding: 0 0 29.239766081871345% 0;}
+.Aldehydes_2_o_4 {max-width:339px; max-height:89px; }
+.Aldehydes_2_o_4::after {content: '\00a0';display: inline-block; width:339px; height:89px; background-position: 66.52281134401973% 68.24849007765314%;background-size: 578.4660766961651% 1402.247191011236%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_2_o_4::after {max-width:339px; width:100%;height:0;padding: 0 0 26.253687315634217% 0;}
+.Aldehydes_3 {max-width:317px; max-height:96px; }
+.Aldehydes_3::after {content: '\00a0';display: inline-block; width:317px; height:96px; background-position: 63.13868613138686% 76.47569444444444%;background-size: 618.6119873817034% 1300%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_3::after {max-width:317px; width:100%;height:0;padding: 0 0 30.28391167192429% 0;}
+.Aldehydes_4 {max-width:467px; max-height:153px; }
+.Aldehydes_4::after {content: '\00a0';display: inline-block; width:467px; height:153px; background-position: 0.06329113924050633% 76.46437994722955%;background-size: 438.32976445396145% 1338.562091503268%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_4::after {max-width:467px; width:100%;height:0;padding: 0 0 32.76231263383298% 0;}
+.Aldehydes_47 {max-width:401px; max-height:79px; }
+.Aldehydes_47::after {content: '\00a0';display: inline-block; width:401px; height:79px; background-position: 53.26923076923077% 48.16082121471343%;background-size: 489.0274314214464% 1579.746835443038%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_47::after {max-width:401px; width:100%;height:0;padding: 0 0 19.700748129675812% 0;}
+.Aldehydes_47_o_1 {max-width:190px; max-height:69px; }
+.Aldehydes_47_o_1::after {content: '\00a0';display: inline-block; width:190px; height:69px; background-position: 99.32241671372107% 28.159457167090753%;background-size: 1032.1052631578948% 1808.695652173913%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_47_o_1::after {max-width:190px; width:100%;height:0;padding: 0 0 36.31578947368421% 0;}
+.Aldehydes_47_o_2 {max-width:146px; max-height:83px; }
+.Aldehydes_47_o_2::after {content: '\00a0';display: inline-block; width:146px; height:83px; background-position: 25.013774104683197% 90.21459227467811%;background-size: 1343.150684931507% 1503.6144578313254%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_47_o_2::after {max-width:146px; width:100%;height:0;padding: 0 0 56.84931506849315% 0;}
+.Aldehydes_47_o_3 {max-width:155px; max-height:81px; }
+.Aldehydes_47_o_3::after {content: '\00a0';display: inline-block; width:155px; height:81px; background-position: 33.27796234772979% 90.05998286203942%;background-size: 1265.1612903225807% 1540.7407407407406%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_47_o_3::after {max-width:155px; width:100%;height:0;padding: 0 0 52.25806451612903% 0;}
+.Aldehydes_47_o_4 {max-width:144px; max-height:95px; }
+.Aldehydes_47_o_4::after {content: '\00a0';display: inline-block; width:144px; height:95px; background-position: 71.38139790864062% 84.82220294882914%;background-size: 1361.8055555555557% 1313.6842105263158%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_47_o_4::after {max-width:144px; width:100%;height:0;padding: 0 0 65.97222222222223% 0;}
+.Aldehydes_47_s {max-width:498px; max-height:185px; }
+.Aldehydes_47_s::after {content: '\00a0';display: inline-block; width:498px; height:185px; background-position: 52.5500322788896% 92.64626945786367%;background-size: 411.04417670682733% 1107.027027027027%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_47_s::after {max-width:498px; width:100%;height:0;padding: 0 0 37.14859437751004% 0;}
+.Aldehydes_48_o_1 {max-width:237px; max-height:117px; }
+.Aldehydes_48_o_1::after {content: '\00a0';display: inline-block; width:237px; height:117px; background-position: 75.30386740331491% 67.16727084412221%;background-size: 863.7130801687764% 1750.4273504273503%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_48_o_1::after {max-width:237px; width:100%;height:0;padding: 0 0 49.36708860759494% 0;}
+.Aldehydes_48_o_2 {max-width:177px; max-height:117px; }
+.Aldehydes_48_o_2::after {content: '\00a0';display: inline-block; width:177px; height:117px; background-position: 51.17713004484305% 88.41732979664015%;background-size: 1107.9096045197741% 1066.6666666666667%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_48_o_2::after {max-width:177px; width:100%;height:0;padding: 0 0 66.10169491525424% 0;}
+.Aldehydes_48_o_3 {max-width:236px; max-height:110px; }
+.Aldehydes_48_o_3::after {content: '\00a0';display: inline-block; width:236px; height:110px; background-position: 75.26228602981779% 73.01341589267285%;background-size: 867.3728813559322% 1861.8181818181818%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_48_o_3::after {max-width:236px; width:100%;height:0;padding: 0 0 46.610169491525426% 0;}
+.Aldehydes_48_o_4 {max-width:196px; max-height:118px; }
+.Aldehydes_48_o_4::after {content: '\00a0';display: inline-block; width:196px; height:118px; background-position: 72.98757428417072% 79.06735751295336%;background-size: 1044.3877551020407% 1735.593220338983%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_48_o_4::after {max-width:196px; width:100%;height:0;padding: 0 0 60.204081632653065% 0;}
+.Aldehydes_48_s {max-width:509px; max-height:497px; }
+.Aldehydes_48_s::after {content: '\00a0';display: inline-block; width:509px; height:497px; background-position: 0.06501950585175553% 36.170212765957444%;background-size: 402.1611001964637% 412.0724346076459%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_48_s::after {max-width:509px; width:100%;height:0;padding: 0 0 97.64243614931237% 0;}
+.Aldehydes_49 {max-width:383px; max-height:90px; }
+.Aldehydes_49::after {content: '\00a0';display: inline-block; width:383px; height:90px; background-position: 28.833967046894802% 26.597582037996546%;background-size: 512.0104438642297% 1386.6666666666667%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_49::after {max-width:383px; width:100%;height:0;padding: 0 0 23.49869451697128% 0;}
+.Aldehydes_4_s {max-width:500px; max-height:559px; }
+.Aldehydes_4_s::after {content: '\00a0';display: inline-block; width:500px; height:559px; background-position: 0.06464124111182935% 0.0671591672263264%;background-size: 409.4% 366.3685152057245%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_4_s::after {max-width:500px; width:100%;height:0;padding: 0 0 111.8% 0;}
+.Aldehydes_51_o_1 {max-width:356px; max-height:120px; }
+.Aldehydes_51_o_1::after {content: '\00a0';display: inline-block; width:356px; height:120px; background-position: 23.302180685358255% 62.854609929078016%;background-size: 550.8426966292135% 1040%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_51_o_1::after {max-width:356px; width:100%;height:0;padding: 0 0 33.70786516853933% 0;}
+.Aldehydes_51_o_2 {max-width:354px; max-height:117px; }
+.Aldehydes_51_o_2::after {content: '\00a0';display: inline-block; width:354px; height:117px; background-position: 72.55756067205974% 59.50486295313882%;background-size: 553.9548022598871% 1066.6666666666667%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_51_o_2::after {max-width:354px; width:100%;height:0;padding: 0 0 33.05084745762712% 0;}
+.Aldehydes_51_o_3 {max-width:269px; max-height:161px; }
+.Aldehydes_51_o_3::after {content: '\00a0';display: inline-block; width:269px; height:161px; background-position: 87.06411698537683% 82.08797032326444%;background-size: 760.9665427509294% 1272.0496894409937%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_51_o_3::after {max-width:269px; width:100%;height:0;padding: 0 0 59.85130111524163% 0;}
+.Aldehydes_51_o_4 {max-width:275px; max-height:146px; }
+.Aldehydes_51_o_4::after {content: '\00a0';display: inline-block; width:275px; height:146px; background-position: 86.56884875846501% 89.95793901156676%;background-size: 744.3636363636364% 1402.7397260273972%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_51_o_4::after {max-width:275px; width:100%;height:0;padding: 0 0 53.09090909090909% 0;}
+.Aldehydes_51_s {max-width:450px; max-height:300px; }
+.Aldehydes_51_s::after {content: '\00a0';display: inline-block; width:450px; height:300px; background-position: 91.85973700688791% 0.057208237986270026%;background-size: 454.8888888888889% 682.6666666666666%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_51_s::after {max-width:450px; width:100%;height:0;padding: 0 0 66.66666666666667% 0;}
+.Aldehydes_52 {max-width:434px; max-height:91px; }
+.Aldehydes_52::after {content: '\00a0';display: inline-block; width:434px; height:91px; background-position: 54.94433529796988% 29.732065687121867%;background-size: 451.84331797235023% 1371.4285714285713%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_52::after {max-width:434px; width:100%;height:0;padding: 0 0 20.967741935483872% 0;}
+.Aldehydes_52_o_1 {max-width:333px; max-height:59px; }
+.Aldehydes_52_o_1::after {content: '\00a0';display: inline-block; width:333px; height:59px; background-position: 43.24324324324324% 73.6753574432296%;background-size: 588.8888888888889% 2115.2542372881358%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_52_o_1::after {max-width:333px; width:100%;height:0;padding: 0 0 17.71771771771772% 0;}
+.Aldehydes_52_o_2 {max-width:312px; max-height:63px; }
+.Aldehydes_52_o_2::after {content: '\00a0';display: inline-block; width:312px; height:63px; background-position: 42.69254093389933% 78.9873417721519%;background-size: 628.525641025641% 1980.952380952381%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_52_o_2::after {max-width:312px; width:100%;height:0;padding: 0 0 20.192307692307693% 0;}
+.Aldehydes_52_o_4 {max-width:323px; max-height:62px; }
+.Aldehydes_52_o_4::after {content: '\00a0';display: inline-block; width:323px; height:62px; background-position: 32.05128205128205% 11.551433389544687%;background-size: 607.1207430340557% 2012.9032258064517%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_52_o_4::after {max-width:323px; width:100%;height:0;padding: 0 0 19.195046439628484% 0;}
+.Aldehydes_52_s {max-width:407px; max-height:282px; }
+.Aldehydes_52_s::after {content: '\00a0';display: inline-block; width:407px; height:282px; background-position: 57.98780487804878% 46.54586636466591%;background-size: 502.94840294840293% 726.2411347517731%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_52_s::after {max-width:407px; width:100%;height:0;padding: 0 0 69.28746928746929% 0;}
+.Aldehydes_54 {max-width:410px; max-height:88px; }
+.Aldehydes_54::after {content: '\00a0';display: inline-block; width:410px; height:88px; background-position: 0.06447453255963895% 50%;background-size: 478.2926829268293% 1418.1818181818182%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_54::after {max-width:410px; width:100%;height:0;padding: 0 0 21.463414634146343% 0;}
+.Aldehydes_54_s {max-width:499px; max-height:129px; }
+.Aldehydes_54_s::after {content: '\00a0';display: inline-block; width:499px; height:129px; background-position: 0.06459948320413436% 99.6352266805628%;background-size: 410.2204408817635% 1587.5968992248063%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_54_s::after {max-width:499px; width:100%;height:0;padding: 0 0 25.851703406813627% 0;}
+.Aldehydes_56 {max-width:225px; max-height:114px; }
+.Aldehydes_56::after {content: '\00a0';display: inline-block; width:225px; height:114px; background-position: 87.81558726673984% 74.14684591520165%;background-size: 909.7777777777778% 1796.4912280701753%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_56::after {max-width:225px; width:100%;height:0;padding: 0 0 50.666666666666664% 0;}
+.Aldehydes_56_o_1 {max-width:96px; max-height:102px; }
+.Aldehydes_56_o_1::after {content: '\00a0';display: inline-block; width:96px; height:102px; background-position: 99.74372116863147% 29.393627954779035%;background-size: 2132.2916666666665% 2007.8431372549019%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_56_o_1::after {max-width:96px; width:100%;height:0;padding: 0 0 106.25% 0;}
+.Aldehydes_56_o_2 {max-width:115px; max-height:108px; }
+.Aldehydes_56_o_2::after {content: '\00a0';display: inline-block; width:115px; height:108px; background-position: 99.37888198757764% 34.79381443298969%;background-size: 1780% 1896.2962962962963%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_56_o_2::after {max-width:115px; width:100%;height:0;padding: 0 0 93.91304347826087% 0;}
+.Aldehydes_56_o_3 {max-width:85px; max-height:109px; }
+.Aldehydes_56_o_3::after {content: '\00a0';display: inline-block; width:85px; height:109px; background-position: 93.47604485219163% 32.23310985043837%;background-size: 2408.235294117647% 1878.8990825688074%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_56_o_3::after {max-width:85px; width:100%;height:0;padding: 0 0 128.23529411764707% 0;}
+.Aldehydes_56_s {max-width:439px; max-height:297px; }
+.Aldehydes_56_s::after {content: '\00a0';display: inline-block; width:439px; height:297px; background-position: 31.77860696517413% 31.75328383780697%;background-size: 466.2870159453303% 689.5622895622896%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_56_s::after {max-width:439px; width:100%;height:0;padding: 0 0 67.65375854214123% 0;}
+.Aldehydes_57_s {max-width:505px; max-height:120px; }
+.Aldehydes_57_s::after {content: '\00a0';display: inline-block; width:505px; height:120px; background-position: 58.85989010989011% 0.08865248226950355%;background-size: 388.3168316831683% 1040%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_57_s::after {max-width:505px; width:100%;height:0;padding: 0 0 23.762376237623762% 0;}
+.Aldehydes_57_s_1 {max-width:502px; max-height:112px; }
+.Aldehydes_57_s_1::after {content: '\00a0';display: inline-block; width:502px; height:112px; background-position: 93.4201507882111% 0.0880281690140845%;background-size: 390.6374501992032% 1114.2857142857142%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_57_s_1::after {max-width:502px; width:100%;height:0;padding: 0 0 22.310756972111555% 0;}
+.Aldehydes_59 {max-width:453px; max-height:106px; }
+.Aldehydes_59::after {content: '\00a0';display: inline-block; width:453px; height:106px; background-position: 0.06631299734748011% 25.83187390542907%;background-size: 432.8918322295806% 1177.3584905660377%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_59::after {max-width:453px; width:100%;height:0;padding: 0 0 23.399558498896248% 0;}
+.Aldehydes_5_o_1 {max-width:168px; max-height:123px; }
+.Aldehydes_5_o_1::after {content: '\00a0';display: inline-block; width:168px; height:123px; background-position: 99.62746141564662% 65.35064935064935%;background-size: 1218.452380952381% 1665.040650406504%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_5_o_1::after {max-width:168px; width:100%;height:0;padding: 0 0 73.21428571428571% 0;}
+.Aldehydes_5_o_2 {max-width:172px; max-height:114px; }
+.Aldehydes_5_o_2::after {content: '\00a0';display: inline-block; width:172px; height:114px; background-position: 41.47568474007826% 99.91181657848324%;background-size: 1140.1162790697674% 1094.7368421052631%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_5_o_2::after {max-width:172px; width:100%;height:0;padding: 0 0 66.27906976744185% 0;}
+.Aldehydes_5_o_3 {max-width:168px; max-height:124px; }
+.Aldehydes_5_o_3::after {content: '\00a0';display: inline-block; width:168px; height:124px; background-position: 99.62746141564662% 58.88773388773389%;background-size: 1218.452380952381% 1651.6129032258063%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_5_o_3::after {max-width:168px; width:100%;height:0;padding: 0 0 73.80952380952381% 0;}
+.Aldehydes_5_o_4 {max-width:176px; max-height:154px; }
+.Aldehydes_5_o_4::after {content: '\00a0';display: inline-block; width:176px; height:154px; background-position: 91.60876536611438% 51.10876451953538%;background-size: 1163.0681818181818% 1329.8701298701299%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_5_o_4::after {max-width:176px; width:100%;height:0;padding: 0 0 87.5% 0;}
+.Aldehydes_5_s {max-width:446px; max-height:491px; }
+.Aldehydes_5_s::after {content: '\00a0';display: inline-block; width:446px; height:491px; background-position: 31.35540287320425% 0.06422607578676943%;background-size: 458.96860986547085% 417.10794297352345%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_5_s::after {max-width:446px; width:100%;height:0;padding: 0 0 110.08968609865471% 0;}
+.Aldehydes_6 {max-width:346px; max-height:118px; }
+.Aldehydes_6::after {content: '\00a0';display: inline-block; width:346px; height:118px; background-position: 22.105263157894736% 73.45132743362832%;background-size: 566.7630057803468% 1057.6271186440679%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_6::after {max-width:346px; width:100%;height:0;padding: 0 0 34.104046242774565% 0;}
+.Aldehydes_60 {max-width:516px; max-height:62px; }
+.Aldehydes_60::after {content: '\00a0';display: inline-block; width:516px; height:62px; background-position: 32.78902677988243% 24.82376636455186%;background-size: 396.70542635658916% 3303.2258064516127%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_60::after {max-width:516px; width:100%;height:0;padding: 0 0 12.015503875968992% 0;}
+.Aldehydes_67 {max-width:411px; max-height:200px; }
+.Aldehydes_67::after {content: '\00a0';display: inline-block; width:411px; height:200px; background-position: 30.25672371638142% 58.92857142857143%;background-size: 498.0535279805353% 1024%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_67::after {max-width:411px; width:100%;height:0;padding: 0 0 48.661800486618006% 0;}
+.Aldehydes_67_1 {max-width:517px; max-height:330px; }
+.Aldehydes_67_1::after {content: '\00a0';display: inline-block; width:517px; height:330px; background-position: 62.02614379084967% 0.05820721769499418%;background-size: 395.93810444874276% 620.6060606060606%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_67_1::after {max-width:517px; width:100%;height:0;padding: 0 0 63.829787234042556% 0;}
+.Aldehydes_6_o_1 {max-width:81px; max-height:122px; }
+.Aldehydes_6_o_1::after {content: '\00a0';display: inline-block; width:81px; height:122px; background-position: 98.98270600203459% 23.312564901349948%;background-size: 2527.1604938271603% 1678.688524590164%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_6_o_1::after {max-width:81px; width:100%;height:0;padding: 0 0 150.6172839506173% 0;}
+.Aldehydes_6_o_2 {max-width:71px; max-height:114px; }
+.Aldehydes_6_o_2::after {content: '\00a0';display: inline-block; width:71px; height:114px; background-position: 20.748987854251013% 64.52947259565667%;background-size: 2883.0985915492956% 1796.4912280701753%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_6_o_2::after {max-width:71px; width:100%;height:0;padding: 0 0 160.56338028169014% 0;}
+.Aldehydes_6_o_3 {max-width:73px; max-height:117px; }
+.Aldehydes_6_o_3::after {content: '\00a0';display: inline-block; width:73px; height:117px; background-position: 92.90780141843972% 44.01864319005696%;background-size: 2804.109589041096% 1750.4273504273503%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_6_o_3::after {max-width:73px; width:100%;height:0;padding: 0 0 160.27397260273972% 0;}
+.Aldehydes_6_o_4 {max-width:77px; max-height:114px; }
+.Aldehydes_6_o_4::after {content: '\00a0';display: inline-block; width:77px; height:114px; background-position: 93.09644670050761% 38.004136504653566%;background-size: 2658.4415584415583% 1796.4912280701753%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_6_o_4::after {max-width:77px; width:100%;height:0;padding: 0 0 148.05194805194805% 0;}
+.Aldehydes_6_s {max-width:296px; max-height:117px; }
+.Aldehydes_6_s::after {content: '\00a0';display: inline-block; width:296px; height:117px; background-position: 28.61222158766419% 98.75712066286899%;background-size: 691.5540540540541% 1750.4273504273503%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_6_s::after {max-width:296px; width:100%;height:0;padding: 0 0 39.527027027027025% 0;}
+.Aldehydes_7 {max-width:490px; max-height:113px; }
+.Aldehydes_7::after {content: '\00a0';display: inline-block; width:490px; height:113px; background-position: 92.65805574439158% 10.044052863436123%;background-size: 400.2040816326531% 1104.424778761062%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_7::after {max-width:490px; width:100%;height:0;padding: 0 0 23.06122448979592% 0;}
+.Aldehydes_74 {max-width:205px; max-height:103px; }
+.Aldehydes_74::after {content: '\00a0';display: inline-block; width:205px; height:103px; background-position: 62.12984054669704% 85.41484716157206%;background-size: 956.5853658536586% 1211.6504854368932%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_74::after {max-width:205px; width:100%;height:0;padding: 0 0 50.24390243902439% 0;}
+.Aldehydes_74_o_2 {max-width:197px; max-height:99px; }
+.Aldehydes_74_o_2::after {content: '\00a0';display: inline-block; width:197px; height:99px; background-position: 97.4054054054054% 99.94869163673678%;background-size: 1039.0862944162436% 2068.686868686869%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_74_o_2::after {max-width:197px; width:100%;height:0;padding: 0 0 50.253807106598984% 0;}
+.Aldehydes_74_o_3 {max-width:216px; max-height:98px; }
+.Aldehydes_74_o_3::after {content: '\00a0';display: inline-block; width:216px; height:98px; background-position: 98.85308574549427% 94.82051282051282%;background-size: 947.6851851851852% 2089.795918367347%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_74_o_3::after {max-width:216px; width:100%;height:0;padding: 0 0 45.370370370370374% 0;}
+.Aldehydes_74_o_4 {max-width:259px; max-height:100px; }
+.Aldehydes_74_o_4::after {content: '\00a0';display: inline-block; width:259px; height:100px; background-position: 98.70740305522914% 49.91289198606272%;background-size: 757.1428571428571% 1248%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_74_o_4::after {max-width:259px; width:100%;height:0;padding: 0 0 38.61003861003861% 0;}
+.Aldehydes_74_s {max-width:515px; max-height:212px; }
+.Aldehydes_74_s::after {content: '\00a0';display: inline-block; width:515px; height:212px; background-position: 54.50391644908616% 82.4074074074074%;background-size: 397.4757281553398% 966.0377358490566%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_74_s::after {max-width:515px; width:100%;height:0;padding: 0 0 41.16504854368932% 0;}
+.Aldehydes_75 {max-width:393px; max-height:332px; }
+.Aldehydes_75::after {content: '\00a0';display: inline-block; width:393px; height:332px; background-position: 61.60822249093108% 28.496503496503497%;background-size: 520.8651399491094% 616.8674698795181%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_75::after {max-width:393px; width:100%;height:0;padding: 0 0 84.47837150127226% 0;}
+.Aldehydes_8 {max-width:493px; max-height:188px; }
+.Aldehydes_8::after {content: '\00a0';display: inline-block; width:493px; height:188px; background-position: 0.06435006435006435% 56.935483870967744%;background-size: 415.2129817444219% 1089.3617021276596%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_8::after {max-width:493px; width:100%;height:0;padding: 0 0 38.13387423935091% 0;}
+.Aldehydes_81 {max-width:381px; max-height:111px; }
+.Aldehydes_81::after {content: '\00a0';display: inline-block; width:381px; height:111px; background-position: 28.79746835443038% 35.09234828496042%;background-size: 514.6981627296587% 1124.3243243243244%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_81::after {max-width:381px; width:100%;height:0;padding: 0 0 29.133858267716537% 0;}
+.Aldehydes_86 {max-width:359px; max-height:160px; }
+.Aldehydes_86::after {content: '\00a0';display: inline-block; width:359px; height:160px; background-position: 28.554502369668246% 68.32627118644068%;background-size: 570.1949860724234% 1280%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_86::after {max-width:359px; width:100%;height:0;padding: 0 0 44.56824512534819% 0;}
+.Aldehydes_86_s {max-width:393px; max-height:120px; }
+.Aldehydes_86_s::after {content: '\00a0';display: inline-block; width:393px; height:120px; background-position: 26.275510204081634% 52.12765957446808%;background-size: 498.9821882951654% 1040%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_86_s::after {max-width:393px; width:100%;height:0;padding: 0 0 30.53435114503817% 0;}
+.Aldehydes_88 {max-width:250px; max-height:97px; }
+.Aldehydes_88::after {content: '\00a0';display: inline-block; width:250px; height:97px; background-position: 98.07130333138515% 58.55777584708949%;background-size: 784.4% 1286.5979381443299%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
+div.Aldehydes_88::after {max-width:250px; width:100%;height:0;padding: 0 0 38.8% 0;}
+.Aldehydes_88_s {max-width:365px; max-height:152px; }
+.Aldehydes_88_s::after {content: '\00a0';display: inline-block; width:365px; height:152px; background-position: 27.88347205707491% 76.5295358649789%;background-size: 560.8219178082192% 1347.3684210526317%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_88_s::after {max-width:365px; width:100%;height:0;padding: 0 0 41.64383561643836% 0;}
+.Aldehydes_89 {max-width:151px; max-height:132px; }
+.Aldehydes_89::after {content: '\00a0';display: inline-block; width:151px; height:132px; background-position: 99.73628691983123% 52.19206680584551%;background-size: 1355.6291390728477% 1551.5151515151515%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_89::after {max-width:151px; width:100%;height:0;padding: 0 0 87.41721854304636% 0;}
+.Aldehydes_9 {max-width:306px; max-height:148px; }
+.Aldehydes_9::after {content: '\00a0';display: inline-block; width:306px; height:148px; background-position: 28.77656519241815% 92.52631578947368%;background-size: 668.9542483660131% 1383.7837837837837%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_9::after {max-width:306px; width:100%;height:0;padding: 0 0 48.36601307189542% 0;}
+.Aldehydes_90 {max-width:494px; max-height:292px; }
+.Aldehydes_90::after {content: '\00a0';display: inline-block; width:494px; height:292px; background-position: 93.43206696716034% 18.906605922551254%;background-size: 414.3724696356275% 701.3698630136986%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_90::after {max-width:494px; width:100%;height:0;padding: 0 0 59.10931174089069% 0;}
+.Aldehydes_91 {max-width:408px; max-height:200px; }
+.Aldehydes_91::after {content: '\00a0';display: inline-block; width:408px; height:200px; background-position: 0.06101281269066504% 67.53246753246754%;background-size: 501.7156862745098% 1024%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
+div.Aldehydes_91::after {max-width:408px; width:100%;height:0;padding: 0 0 49.01960784313726% 0;}
 .nc12_10a {max-width:188px; max-height:97px; }
-.nc12_10a::after {content: '\00a0';display: inline-block; width:188px; height:97px; background-position: 64.43804034582132% 81.00358422939068%;background-size: 1022.8723404255319% 1250.5154639175257%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_10a::after {content: '\00a0';display: inline-block; width:188px; height:97px; background-position: 61.70332769317541% 94.00521285838401%;background-size: 1043.0851063829787% 1286.5979381443299%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_10a::after {max-width:188px; width:100%;height:0;padding: 0 0 51.59574468085106% 0;}
 .nc12_10b {max-width:207px; max-height:73px; }
-.nc12_10b::after {content: '\00a0';display: inline-block; width:207px; height:73px; background-position: 64.1025641025641% 87.89473684210526%;background-size: 928.9855072463768% 1661.6438356164383%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_10b::after {content: '\00a0';display: inline-block; width:207px; height:73px; background-position: 80.90079817559864% 73.70212765957447%;background-size: 947.3429951690821% 1709.5890410958905%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_10b::after {max-width:207px; width:100%;height:0;padding: 0 0 35.265700483091784% 0;}
 .nc12_10c {max-width:235px; max-height:66px; }
-.nc12_10c::after {content: '\00a0';display: inline-block; width:235px; height:66px; background-position: 70.20142180094787% 66.95727986050566%;background-size: 818.2978723404256% 1837.878787878788%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_10c::after {content: '\00a0';display: inline-block; width:235px; height:66px; background-position: 82.21320973348783% 67.59729272419628%;background-size: 834.468085106383% 1890.909090909091%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_10c::after {max-width:235px; width:100%;height:0;padding: 0 0 28.085106382978722% 0;}
 .nc12_10d {max-width:248px; max-height:82px; }
-.nc12_10d::after {content: '\00a0';display: inline-block; width:248px; height:82px; background-position: 50.80597014925373% 88.59416445623341%;background-size: 775.4032258064516% 1479.2682926829268%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_10d::after {content: '\00a0';display: inline-block; width:248px; height:82px; background-position: 97.95680093403386% 66.20926243567753%;background-size: 790.7258064516129% 1521.9512195121952%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_10d::after {max-width:248px; width:100%;height:0;padding: 0 0 33.064516129032256% 0;}
 .nc12_10sola {max-width:447px; max-height:112px; }
-.nc12_10sola::after {content: '\00a0';display: inline-block; width:447px; height:112px; background-position: 91.59891598915989% 14.350590372388737%;background-size: 430.2013422818792% 1083.0357142857142%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_10sola::after {content: '\00a0';display: inline-block; width:447px; height:112px; background-position: 86.59180977542933% 20.070422535211268%;background-size: 438.70246085011183% 1114.2857142857142%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_10sola::after {max-width:447px; width:100%;height:0;padding: 0 0 25.05592841163311% 0;}
 .nc12_10solb {max-width:453px; max-height:108px; }
-.nc12_10solb::after {content: '\00a0';display: inline-block; width:453px; height:108px; background-position: 58.63945578231292% 25.15837104072398%;background-size: 424.50331125827813% 1123.148148148148%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_10solb::after {content: '\00a0';display: inline-block; width:453px; height:108px; background-position: 56.83023872679045% 10.701754385964913%;background-size: 432.8918322295806% 1155.5555555555557%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_10solb::after {max-width:453px; width:100%;height:0;padding: 0 0 23.841059602649008% 0;}
 .nc12_10solc {max-width:444px; max-height:112px; }
-.nc12_10solc::after {content: '\00a0';display: inline-block; width:444px; height:112px; background-position: 58.28262339418526% 35.14986376021798%;background-size: 433.1081081081081% 1083.0357142857142%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_10solc::after {content: '\00a0';display: inline-block; width:444px; height:112px; background-position: 55.76796308503626% 20.33450704225352%;background-size: 441.6666666666667% 1114.2857142857142%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_10solc::after {max-width:444px; width:100%;height:0;padding: 0 0 25.225225225225227% 0;}
 .nc12_12sola {max-width:433px; max-height:126px; }
-.nc12_12sola::after {content: '\00a0';display: inline-block; width:433px; height:126px; background-position: 90.73825503355705% 24.931002759889605%;background-size: 444.1108545034642% 962.6984126984127%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_12sola::after {content: '\00a0';display: inline-block; width:433px; height:126px; background-position: 54.77748691099477% 38.859180035650624%;background-size: 452.8868360277136% 990.4761904761905%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_12sola::after {max-width:433px; width:100%;height:0;padding: 0 0 29.099307159353348% 0;}
 .nc12_12solb {max-width:488px; max-height:156px; }
-.nc12_12solb::after {content: '\00a0';display: inline-block; width:488px; height:156px; background-position: 0.06968641114982578% 26.679280983916744%;background-size: 394.05737704918033% 777.5641025641025%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_12solb::after {content: '\00a0';display: inline-block; width:488px; height:156px; background-position: 84.22065426555484% 98.2029598308668%;background-size: 419.4672131147541% 1312.820512820513%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_12solb::after {max-width:488px; width:100%;height:0;padding: 0 0 31.9672131147541% 0;}
 .nc12_13a {max-width:220px; max-height:156px; }
-.nc12_13a::after {content: '\00a0';display: inline-block; width:220px; height:156px; background-position: 36.9935408103347% 86.75496688741723%;background-size: 874.0909090909091% 777.5641025641025%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_13a::after {content: '\00a0';display: inline-block; width:220px; height:156px; background-position: 89.32676518883416% 67.49471458773785%;background-size: 930.4545454545455% 1312.820512820513%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_13a::after {max-width:220px; width:100%;height:0;padding: 0 0 70.9090909090909% 0;}
 .nc12_13b {max-width:228px; max-height:101px; }
-.nc12_13b::after {content: '\00a0';display: inline-block; width:228px; height:101px; background-position: 49.38053097345133% 97.57194244604317%;background-size: 843.421052631579% 1200.990099009901%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_13b::after {content: '\00a0';display: inline-block; width:228px; height:101px; background-position: 99.50522264980759% 89.72778633795583%;background-size: 897.8070175438596% 2027.7227722772277%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_13b::after {max-width:228px; width:100%;height:0;padding: 0 0 44.29824561403509% 0;}
 .nc12_13c {max-width:229px; max-height:74px; }
-.nc12_13c::after {content: '\00a0';display: inline-block; width:229px; height:74px; background-position: 96.57615112160566% 60.14047410008779%;background-size: 839.7379912663755% 1639.1891891891892%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_13c::after {content: '\00a0';display: inline-block; width:229px; height:74px; background-position: 99.94226327944573% 34.24190800681431%;background-size: 856.3318777292576% 1686.4864864864865%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_13c::after {max-width:229px; width:100%;height:0;padding: 0 0 32.314410480349345% 0;}
 .nc12_13d {max-width:226px; max-height:102px; }
-.nc12_13d::after {content: '\00a0';display: inline-block; width:226px; height:102px; background-position: 99.88214496169711% 52.38523852385239%;background-size: 850.8849557522124% 1189.2156862745098%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_13d::after {content: '\00a0';display: inline-block; width:226px; height:102px; background-position: 99.83525535420098% 84.48098663926002%;background-size: 905.7522123893805% 2007.8431372549019%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_13d::after {max-width:226px; width:100%;height:0;padding: 0 0 45.13274336283186% 0;}
 .nc12_13sol {max-width:478px; max-height:134px; }
-.nc12_13sol::after {content: '\00a0';display: inline-block; width:478px; height:134px; background-position: 0.06920415224913495% 40.68582020389249%;background-size: 402.30125523012555% 905.223880597015%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_13sol::after {content: '\00a0';display: inline-block; width:478px; height:134px; background-position: 50.860420650095605% 99.89550679205851%;background-size: 428.2426778242678% 1528.358208955224%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_13sol::after {max-width:478px; width:100%;height:0;padding: 0 0 28.03347280334728% 0;}
 .nc12_15sola {max-width:418px; max-height:135px; }
-.nc12_15sola::after {content: '\00a0';display: inline-block; width:418px; height:135px; background-position: 86.84385382059801% 36.92022263450835%;background-size: 460.04784688995215% 898.5185185185185%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_15sola::after {content: '\00a0';display: inline-block; width:418px; height:135px; background-position: 28.386260531432274% 0.08984725965858041%;background-size: 469.1387559808612% 924.4444444444445%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_15sola::after {max-width:418px; width:100%;height:0;padding: 0 0 32.29665071770335% 0;}
 .nc12_15solb {max-width:427px; max-height:83px; }
-.nc12_15solb::after {content: '\00a0';display: inline-block; width:427px; height:83px; background-position: 56.95187165775401% 44.24778761061947%;background-size: 450.3512880562061% 1461.44578313253%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_15solb::after {content: '\00a0';display: inline-block; width:427px; height:83px; background-position: 0.0651890482398957% 34.506437768240346%;background-size: 459.25058548009366% 1503.6144578313254%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_15solb::after {max-width:427px; width:100%;height:0;padding: 0 0 19.437939110070257% 0;}
 .nc12_18a {max-width:161px; max-height:94px; }
-.nc12_18a::after {content: '\00a0';display: inline-block; width:161px; height:94px; background-position: 74.17707150964813% 80.33958891867739%;background-size: 1194.4099378881988% 1290.4255319148936%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_18a::after {content: '\00a0';display: inline-block; width:161px; height:94px; background-position: 87.94444444444444% 93.32755632582322%;background-size: 1218.0124223602484% 1327.659574468085%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_18a::after {max-width:161px; width:100%;height:0;padding: 0 0 58.38509316770186% 0;}
 .nc12_18b {max-width:147px; max-height:109px; }
-.nc12_18b::after {content: '\00a0';display: inline-block; width:147px; height:109px; background-position: 82.82657657657657% 87.8623188405797%;background-size: 1308.1632653061224% 1112.8440366972477%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_18b::after {content: '\00a0';display: inline-block; width:147px; height:109px; background-position: 0.05512679162072767% 99.82440737489026%;background-size: 1334.0136054421769% 1144.954128440367%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_18b::after {max-width:147px; width:100%;height:0;padding: 0 0 74.14965986394557% 0;}
 .nc12_18c {max-width:148px; max-height:84px; }
-.nc12_18c::after {content: '\00a0';display: inline-block; width:148px; height:84px; background-position: 91.21126760563381% 92.02834366696192%;background-size: 1299.3243243243244% 1444.047619047619%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_18c::after {content: '\00a0';display: inline-block; width:148px; height:84px; background-position: 16.822945394373967% 90.29209621993127%;background-size: 1325% 1485.7142857142858%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_18c::after {max-width:148px; width:100%;height:0;padding: 0 0 56.75675675675676% 0;}
 .nc12_18d {max-width:162px; max-height:91px; }
-.nc12_18d::after {content: '\00a0';display: inline-block; width:162px; height:91px; background-position: 74.27597955706985% 88.59180035650624%;background-size: 1187.037037037037% 1332.967032967033%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_18d::after {content: '\00a0';display: inline-block; width:162px; height:91px; background-position: 99.77765425236242% 88.76404494382022%;background-size: 1210.4938271604938% 1371.4285714285713%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_18d::after {max-width:162px; width:100%;height:0;padding: 0 0 56.17283950617284% 0;}
 .nc12_18sola {max-width:523px; max-height:136px; }
-.nc12_18sola::after {content: '\00a0';display: inline-block; width:523px; height:136px; background-position: 61.57142857142857% 0.09285051067780872%;background-size: 367.6864244741874% 891.9117647058823%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_18sola::after {content: '\00a0';display: inline-block; width:523px; height:136px; background-position: 0.06954102920723226% 14.20863309352518%;background-size: 374.9521988527725% 917.6470588235294%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_18sola::after {max-width:523px; width:100%;height:0;padding: 0 0 26.003824091778203% 0;}
 .nc12_18solb {max-width:179px; max-height:135px; }
-.nc12_18solb::after {content: '\00a0';display: inline-block; width:179px; height:135px; background-position: 37.67201834862385% 99.62894248608535%;background-size: 1074.3016759776535% 898.5185185185185%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_18solb::after {content: '\00a0';display: inline-block; width:179px; height:135px; background-position: 99.19700214132763% 72.24255096706743%;background-size: 1143.5754189944134% 1517.037037037037%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_18solb::after {max-width:179px; width:100%;height:0;padding: 0 0 75.41899441340782% 0;}
 .nc12_19sol {max-width:310px; max-height:62px; }
-.nc12_19sol::after {content: '\00a0';display: inline-block; width:310px; height:62px; background-position: 75.69745815251085% 61.251086012163334%;background-size: 620.3225806451613% 1956.4516129032259%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_19sol::after {content: '\00a0';display: inline-block; width:310px; height:62px; background-position: 0.06056935190793458% 81.87183811129849%;background-size: 632.5806451612904% 2012.9032258064517%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_19sol::after {max-width:310px; width:100%;height:0;padding: 0 0 20% 0;}
 .nc12_1sol {max-width:414px; max-height:93px; }
-.nc12_1sol::after {content: '\00a0';display: inline-block; width:414px; height:93px; background-position: 84.82438701126574% 47.67857142857143%;background-size: 464.4927536231884% 1304.3010752688172%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_1sol::after {content: '\00a0';display: inline-block; width:414px; height:93px; background-position: 0.06464124111182935% 42.077922077922075%;background-size: 473.67149758454104% 1341.9354838709678%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_1sol::after {max-width:414px; width:100%;height:0;padding: 0 0 22.463768115942027% 0;}
 .nc12_20 {max-width:359px; max-height:131px; }
-.nc12_20::after {content: '\00a0';display: inline-block; width:359px; height:131px; background-position: 28.900255754475705% 53.78927911275416%;background-size: 535.6545961002786% 925.9541984732824%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_20::after {content: '\00a0';display: inline-block; width:359px; height:131px; background-position: 50.31210986267166% 57.56490599820949%;background-size: 546.2395543175487% 952.6717557251908%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_20::after {max-width:359px; width:100%;height:0;padding: 0 0 36.49025069637883% 0;}
 .nc12_20a {max-width:156px; max-height:125px; }
-.nc12_20a::after {content: '\00a0';display: inline-block; width:156px; height:125px; background-position: 83.13525749858518% 77.57352941176471%;background-size: 1232.6923076923076% 970.4%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_20a::after {content: '\00a0';display: inline-block; width:156px; height:125px; background-position: 84.26592797783934% 59.92876224398931%;background-size: 1257.051282051282% 998.4%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_20a::after {max-width:156px; width:100%;height:0;padding: 0 0 80.12820512820512% 0;}
 .nc12_20b {max-width:143px; max-height:112px; }
-.nc12_20b::after {content: '\00a0';display: inline-block; width:143px; height:112px; background-position: 82.64044943820225% 98.09264305177112%;background-size: 1344.7552447552448% 1083.0357142857142%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_20b::after {content: '\00a0';display: inline-block; width:143px; height:112px; background-position: 32.893289328932894% 99.91197183098592%;background-size: 1371.3286713286714% 1114.2857142857142%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_20b::after {max-width:143px; width:100%;height:0;padding: 0 0 78.32167832167832% 0;}
 .nc12_20c {max-width:127px; max-height:108px; }
-.nc12_20c::after {content: '\00a0';display: inline-block; width:127px; height:108px; background-position: 99.44320712694878% 25.97285067873303%;background-size: 1514.1732283464567% 1123.148148148148%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_20c::after {content: '\00a0';display: inline-block; width:127px; height:108px; background-position: 99.89583333333333% 7.216494845360825%;background-size: 1611.8110236220473% 1896.2962962962963%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_20c::after {max-width:127px; width:100%;height:0;padding: 0 0 85.03937007874016% 0;}
 .nc12_20d {max-width:148px; max-height:106px; }
-.nc12_20d::after {content: '\00a0';display: inline-block; width:148px; height:106px; background-position: 99.6056338028169% 99.9096657633243%;background-size: 1299.3243243243244% 1144.3396226415093%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_20d::after {content: '\00a0';display: inline-block; width:148px; height:106px; background-position: 24.765581908439053% 99.47460595446584%;background-size: 1325% 1177.3584905660377%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_20d::after {max-width:148px; width:100%;height:0;padding: 0 0 71.62162162162163% 0;}
 .nc12_20sola {max-width:354px; max-height:219px; }
-.nc12_20sola::after {content: '\00a0';display: inline-block; width:354px; height:219px; background-position: 0.06373486297004462% 89.13480885311871%;background-size: 543.2203389830509% 553.8812785388128%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_20sola::after {content: '\00a0';display: inline-block; width:354px; height:219px; background-position: 80.2717070289427% 49.53526517222526%;background-size: 578.2485875706215% 935.1598173515981%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_20sola::after {max-width:354px; width:100%;height:0;padding: 0 0 61.86440677966102% 0;}
 .nc12_20solb {max-width:371px; max-height:191px; }
-.nc12_20solb::after {content: '\00a0';display: inline-block; width:371px; height:191px; background-position: 31.572164948453608% 23.091976516634052%;background-size: 518.3288409703504% 635.0785340314136%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_20solb::after {content: '\00a0';display: inline-block; width:371px; height:191px; background-position: 54.11694510739857% 59.504577275175016%;background-size: 551.7520215633423% 1072.2513089005236%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_20solb::after {max-width:371px; width:100%;height:0;padding: 0 0 51.482479784366575% 0;}
 .nc12_21 {max-width:414px; max-height:76px; }
-.nc12_21::after {content: '\00a0';display: inline-block; width:414px; height:76px; background-position: 80.9145129224652% 55.23306948109059%;background-size: 464.4927536231884% 1596.0526315789473%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_21::after {content: '\00a0';display: inline-block; width:414px; height:76px; background-position: 26.89075630252101% 43.600682593856654%;background-size: 473.67149758454104% 1642.1052631578948%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_21::after {max-width:414px; width:100%;height:0;padding: 0 0 18.357487922705314% 0;}
 .nc12_24 {max-width:198px; max-height:125px; }
-.nc12_24::after {content: '\00a0';display: inline-block; width:198px; height:125px; background-position: 94.84057971014492% 69.8529411764706%;background-size: 971.2121212121212% 970.4%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_24::after {content: '\00a0';display: inline-block; width:198px; height:125px; background-position: 98.7560843699297% 78.93915756630265%;background-size: 1033.8383838383838% 1638.4%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_24::after {max-width:198px; width:100%;height:0;padding: 0 0 63.13131313131313% 0;}
 .nc12_24a {max-width:347px; max-height:100px; }
-.nc12_24a::after {content: '\00a0';display: inline-block; width:347px; height:100px; background-position: 28.68020304568528% 64.15094339622641%;background-size: 554.178674351585% 1213%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_24a::after {content: '\00a0';display: inline-block; width:347px; height:100px; background-position: 45.2912019826518% 67.50871080139373%;background-size: 565.1296829971182% 1248%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_24a::after {max-width:347px; width:100%;height:0;padding: 0 0 28.818443804034583% 0;}
 .nc12_24b {max-width:299px; max-height:108px; }
-.nc12_24b::after {content: '\00a0';display: inline-block; width:299px; height:108px; background-position: 21.982758620689655% 98.46153846153847%;background-size: 643.14381270903% 1123.148148148148%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_24b::after {content: '\00a0';display: inline-block; width:299px; height:108px; background-position: 8.965102286401926% 99.73684210526316%;background-size: 655.8528428093646% 1155.5555555555557%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_24b::after {max-width:299px; width:100%;height:0;padding: 0 0 36.12040133779264% 0;}
 .nc12_24c {max-width:303px; max-height:102px; }
-.nc12_24c::after {content: '\00a0';display: inline-block; width:303px; height:102px; background-position: 49.382716049382715% 72.27722772277228%;background-size: 634.6534653465346% 1189.2156862745098%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_24c::after {content: '\00a0';display: inline-block; width:303px; height:102px; background-position: 0.06031363088057901% 90.22687609075044%;background-size: 647.1947194719472% 1223.5294117647059%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_24c::after {max-width:303px; width:100%;height:0;padding: 0 0 33.663366336633665% 0;}
 .nc12_24d {max-width:311px; max-height:101px; }
-.nc12_24d::after {content: '\00a0';display: inline-block; width:311px; height:101px; background-position: 27.1712158808933% 73.29136690647482%;background-size: 618.3279742765274% 1200.990099009901%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_24d::after {content: '\00a0';display: inline-block; width:311px; height:101px; background-position: 20.848484848484848% 82.73757628596339%;background-size: 630.5466237942122% 1235.6435643564357%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_24d::after {max-width:311px; width:100%;height:0;padding: 0 0 32.47588424437299% 0;}
 .nc12_24sol {max-width:439px; max-height:234px; }
-.nc12_24sol::after {content: '\00a0';display: inline-block; width:439px; height:234px; background-position: 28.4366576819407% 0.10214504596527069%;background-size: 438.04100227790434% 518.3760683760684%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_24sol::after {content: '\00a0';display: inline-block; width:439px; height:234px; background-position: 31.77860696517413% 47.07828004410143%;background-size: 466.2870159453303% 875.2136752136752%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_24sol::after {max-width:439px; width:100%;height:0;padding: 0 0 53.30296127562642% 0;}
 .nc12_25a {max-width:171px; max-height:68px; }
-.nc12_25a::after {content: '\00a0';display: inline-block; width:171px; height:68px; background-position: 63.013698630136986% 72.92576419213974%;background-size: 1124.561403508772% 1783.8235294117646%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_25a::after {content: '\00a0';display: inline-block; width:171px; height:68px; background-position: 80.72625698324022% 99.83050847457628%;background-size: 1146.7836257309941% 1835.2941176470588%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_25a::after {max-width:171px; width:100%;height:0;padding: 0 0 39.76608187134503% 0;}
 .nc12_25b {max-width:174px; max-height:63px; }
-.nc12_25b::after {content: '\00a0';display: inline-block; width:174px; height:63px; background-position: 72.95597484276729% 72.6086956521739%;background-size: 1105.1724137931035% 1925.3968253968253%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_25b::after {content: '\00a0';display: inline-block; width:174px; height:63px; background-position: 61.21992165640739% 99.57805907172995%;background-size: 1127.0114942528735% 1980.952380952381%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_25b::after {max-width:174px; width:100%;height:0;padding: 0 0 36.206896551724135% 0;}
 .nc12_25sola {max-width:372px; max-height:94px; }
-.nc12_25sola::after {content: '\00a0';display: inline-block; width:372px; height:94px; background-position: 52.35332043842682% 63.270777479892764%;background-size: 516.9354838709677% 1290.4255319148936%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_25sola::after {content: '\00a0';display: inline-block; width:372px; height:94px; background-position: 0.06293266205160478% 57.97227036395147%;background-size: 527.1505376344086% 1327.659574468085%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_25sola::after {max-width:372px; width:100%;height:0;padding: 0 0 25.268817204301076% 0;}
 .nc12_25solb {max-width:191px; max-height:103px; }
-.nc12_25solb::after {content: '\00a0';display: inline-block; width:191px; height:103px; background-position: 99.65357967667437% 43.06306306306306%;background-size: 1006.8062827225131% 1177.6699029126214%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_25solb::after {content: '\00a0';display: inline-block; width:191px; height:103px; background-position: 99.37853107344633% 19.912663755458514%;background-size: 1026.7015706806283% 1211.6504854368932%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_25solb::after {max-width:191px; width:100%;height:0;padding: 0 0 53.92670157068063% 0;}
 .nc12_28 {max-width:266px; max-height:95px; }
-.nc12_28::after {content: '\00a0';display: inline-block; width:266px; height:95px; background-position: 51.35787567893784% 81.03756708407872%;background-size: 722.9323308270676% 1276.842105263158%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_28::after {content: '\00a0';display: inline-block; width:266px; height:95px; background-position: 99.11504424778761% 41.37033824804857%;background-size: 737.218045112782% 1313.6842105263158%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_28::after {max-width:266px; width:100%;height:0;padding: 0 0 35.714285714285715% 0;}
 .nc12_28sol {max-width:355px; max-height:105px; }
-.nc12_28sol::after {content: '\00a0';display: inline-block; width:355px; height:105px; background-position: 0.06377551020408163% 99.81949458483754%;background-size: 541.6901408450705% 1155.2380952380952%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_28sol::after {content: '\00a0';display: inline-block; width:355px; height:105px; background-position: 0.062266500622665005% 66.8416447944007%;background-size: 552.3943661971831% 1188.5714285714287%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_28sol::after {max-width:355px; width:100%;height:0;padding: 0 0 29.577464788732396% 0;}
 .nc12_30sola {max-width:408px; max-height:123px; }
-.nc12_30sola::after {content: '\00a0';display: inline-block; width:408px; height:123px; background-position: 53.5973597359736% 53.57798165137615%;background-size: 471.3235294117647% 986.1788617886178%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_30sola::after {content: '\00a0';display: inline-block; width:408px; height:123px; background-position: 81.84159690920798% 40%;background-size: 480.6372549019608% 1014.6341463414634%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_30sola::after {max-width:408px; width:100%;height:0;padding: 0 0 30.147058823529413% 0;}
 .nc12_30solb {max-width:361px; max-height:153px; }
-.nc12_30solb::after {content: '\00a0';display: inline-block; width:361px; height:153px; background-position: 31.370038412291933% 40.37735849056604%;background-size: 532.6869806094182% 792.8104575163399%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_30solb::after {content: '\00a0';display: inline-block; width:361px; height:153px; background-position: 26.809015421115067% 84.64379947229551%;background-size: 567.0360110803324% 1338.562091503268%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_30solb::after {max-width:361px; width:100%;height:0;padding: 0 0 42.38227146814405% 0;}
 .nc12_31sol {max-width:273px; max-height:170px; }
-.nc12_31sol::after {content: '\00a0';display: inline-block; width:273px; height:170px; background-position: 21.575757575757574% 87.91946308724832%;background-size: 704.3956043956044% 713.5294117647059%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_31sol::after {content: '\00a0';display: inline-block; width:273px; height:170px; background-position: 76.55016910935738% 59.95740149094782%;background-size: 749.8168498168499% 1204.7058823529412%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_31sol::after {max-width:273px; width:100%;height:0;padding: 0 0 62.27106227106227% 0;}
 .nc12_32a {max-width:57px; max-height:53px; }
-.nc12_32a::after {content: '\00a0';display: inline-block; width:57px; height:53px; background-position: 87.67416934619507% 54.13793103448276%;background-size: 3373.684210526316% 2288.6792452830186%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_32a::after {content: '\00a0';display: inline-block; width:57px; height:53px; background-position: 47.78894472361809% 27.86967418546366%;background-size: 3591.2280701754385% 3864.1509433962265%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_32a::after {max-width:57px; width:100%;height:0;padding: 0 0 92.98245614035088% 0;}
 .nc12_32b {max-width:125px; max-height:70px; }
-.nc12_32b::after {content: '\00a0';display: inline-block; width:125px; height:70px; background-position: 99.6662958843159% 84.07699037620297%;background-size: 1538.4% 1732.857142857143%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_32b::after {content: '\00a0';display: inline-block; width:125px; height:70px; background-position: 99.79188345473464% 12.588473205257836%;background-size: 1637.6% 2925.714285714286%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_32b::after {max-width:125px; width:100%;height:0;padding: 0 0 56% 0;}
 .nc12_32c {max-width:92px; max-height:61px; }
-.nc12_32c::after {content: '\00a0';display: inline-block; width:92px; height:61px; background-position: 77.60786455488804% 66.66666666666667%;background-size: 2090.217391304348% 1988.5245901639344%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_32c::after {content: '\00a0';display: inline-block; width:92px; height:61px; background-position: 87.67263427109974% 45.596376446904884%;background-size: 2225% 3357.377049180328%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_32c::after {max-width:92px; width:100%;height:0;padding: 0 0 66.30434782608695% 0;}
 .nc12_32d {max-width:112px; max-height:74px; }
-.nc12_32d::after {content: '\00a0';display: inline-block; width:112px; height:74px; background-position: 98.95085588072888% 77.7875329236172%;background-size: 1716.9642857142858% 1639.1891891891892%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_32d::after {content: '\00a0';display: inline-block; width:112px; height:74px; background-position: 98.6046511627907% 46.85916919959473%;background-size: 1827.6785714285713% 2767.5675675675675%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_32d::after {max-width:112px; width:100%;height:0;padding: 0 0 66.07142857142857% 0;}
 .nc12_33a {max-width:129px; max-height:73px; }
-.nc12_33a::after {content: '\00a0';display: inline-block; width:129px; height:73px; background-position: 99.38684503901895% 90.52631578947368%;background-size: 1490.6976744186047% 1661.6438356164383%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_33a::after {content: '\00a0';display: inline-block; width:129px; height:73px; background-position: 99.68717413972888% 39.69620253164557%;background-size: 1586.8217054263566% 2805.4794520547944%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_33a::after {max-width:129px; width:100%;height:0;padding: 0 0 56.58914728682171% 0;}
 .nc12_33b {max-width:156px; max-height:73px; }
-.nc12_33b::after {content: '\00a0';display: inline-block; width:156px; height:73px; background-position: 92.02037351443124% 84.64912280701755%;background-size: 1232.6923076923076% 1661.6438356164383%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_33b::after {content: '\00a0';display: inline-block; width:156px; height:73px; background-position: 89.58448753462604% 99.74468085106383%;background-size: 1257.051282051282% 1709.5890410958905%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_33b::after {max-width:156px; width:100%;height:0;padding: 0 0 46.794871794871796% 0;}
 .nc12_33c {max-width:90px; max-height:128px; }
-.nc12_33c::after {content: '\00a0';display: inline-block; width:90px; height:128px; background-position: 98.19967266775778% 14.56221198156682%;background-size: 2136.6666666666665% 947.65625%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_33c::after {content: '\00a0';display: inline-block; width:90px; height:128px; background-position: 99.43791517629025% 16.666666666666668%;background-size: 2274.4444444444443% 1600%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_33c::after {max-width:90px; width:100%;height:0;padding: 0 0 142.22222222222223% 0;}
 .nc12_33d {max-width:103px; max-height:138px; }
-.nc12_33d::after {content: '\00a0';display: inline-block; width:103px; height:138px; background-position: 84.17582417582418% 65.5813953488372%;background-size: 1866.990291262136% 878.9855072463768%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_33d::after {content: '\00a0';display: inline-block; width:103px; height:138px; background-position: 98.66255144032922% 0.05235602094240838%;background-size: 1987.378640776699% 1484.0579710144928%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_33d::after {max-width:103px; width:100%;height:0;padding: 0 0 133.98058252427185% 0;}
 .nc12_33sol {max-width:436px; max-height:156px; }
-.nc12_33sol::after {content: '\00a0';display: inline-block; width:436px; height:156px; background-position: 0.06724949562878278% 68.96877956480606%;background-size: 441.0550458715596% 777.5641025641025%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_33sol::after {content: '\00a0';display: inline-block; width:436px; height:156px; background-position: 0.06557377049180328% 0.09157509157509157%;background-size: 449.77064220183485% 800%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_33sol::after {max-width:436px; width:100%;height:0;padding: 0 0 35.77981651376147% 0;}
 .nc12_34sol {max-width:501px; max-height:156px; }
-.nc12_34sol::after {content: '\00a0';display: inline-block; width:501px; height:156px; background-position: 97.46835443037975% 0.0946073793755913%;background-size: 383.83233532934133% 777.5641025641025%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_34sol::after {content: '\00a0';display: inline-block; width:501px; height:156px; background-position: 61.38421733505822% 17.547568710359407%;background-size: 408.5828343313373% 1312.820512820513%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_34sol::after {max-width:501px; width:100%;height:0;padding: 0 0 31.137724550898202% 0;}
 .nc12_35sol {max-width:420px; max-height:280px; }
-.nc12_35sol::after {content: '\00a0';display: inline-block; width:420px; height:280px; background-position: 0.0665335994677312% 0.10718113612004287%;background-size: 457.85714285714283% 433.2142857142857%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_35sol::after {content: '\00a0';display: inline-block; width:420px; height:280px; background-position: 86.84695759065765% 35.35067873303167%;background-size: 487.3809523809524% 731.4285714285714%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_35sol::after {max-width:420px; width:100%;height:0;padding: 0 0 66.66666666666667% 0;}
 .nc12_36sol {max-width:489px; max-height:139px; }
-.nc12_36sol::after {content: '\00a0';display: inline-block; width:489px; height:139px; background-position: 60.1115760111576% 12.849162011173185%;background-size: 393.2515337423313% 872.6618705035971%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_36sol::after {content: '\00a0';display: inline-block; width:489px; height:139px; background-position: 0.06418485237483953% 92.09009952854898%;background-size: 418.60940695296523% 1473.3812949640287%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_36sol::after {max-width:489px; width:100%;height:0;padding: 0 0 28.425357873210633% 0;}
 .nc12_37a {max-width:196px; max-height:79px; }
-.nc12_37a::after {content: '\00a0';display: inline-block; width:196px; height:79px; background-position: 99.94209612044007% 35.09700176366843%;background-size: 981.1224489795918% 1535.4430379746836%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_37a::after {content: '\00a0';display: inline-block; width:196px; height:79px; background-position: 70.9346299297677% 89.53783646521077%;background-size: 1044.3877551020407% 2592.4050632911394%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_37a::after {max-width:196px; width:100%;height:0;padding: 0 0 40.30612244897959% 0;}
 .nc12_37b {max-width:138px; max-height:66px; }
-.nc12_37b::after {content: '\00a0';display: inline-block; width:138px; height:66px; background-position: 90.47619047619048% 97.9947689625109%;background-size: 1393.4782608695652% 1837.878787878788%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_37b::after {content: '\00a0';display: inline-block; width:138px; height:66px; background-position: 99.9476165531692% 43.28960645812311%;background-size: 1483.3333333333333% 3103.030303030303%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_37b::after {max-width:138px; width:100%;height:0;padding: 0 0 47.82608695652174% 0;}
 .nc12_37c {max-width:165px; max-height:78px; }
-.nc12_37c::after {content: '\00a0';display: inline-block; width:165px; height:78px; background-position: 92.4914675767918% 78.06167400881057%;background-size: 1165.4545454545455% 1555.128205128205%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_37c::after {content: '\00a0';display: inline-block; width:165px; height:78px; background-position: 99.94432071269487% 81.02564102564102%;background-size: 1188.4848484848485% 1600%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_37c::after {max-width:165px; width:100%;height:0;padding: 0 0 47.27272727272727% 0;}
 .nc12_37d {max-width:182px; max-height:75px; }
-.nc12_37d::after {content: '\00a0';display: inline-block; width:182px; height:75px; background-position: 63.18207926479035% 94.5518453427065%;background-size: 1056.5934065934066% 1617.3333333333333%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_37d::after {content: '\00a0';display: inline-block; width:182px; height:75px; background-position: 81.05677346824058% 80.13640238704177%;background-size: 1077.4725274725274% 1664%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_37d::after {max-width:182px; width:100%;height:0;padding: 0 0 41.20879120879121% 0;}
 .nc12_5sola {max-width:78px; max-height:51px; }
-.nc12_5sola::after {content: '\00a0';display: inline-block; width:78px; height:51px; background-position: 99.4579945799458% 65.40447504302927%;background-size: 2465.3846153846152% 2378.4313725490197%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_5sola::after {content: '\00a0';display: inline-block; width:78px; height:51px; background-position: 64.95683087861859% 55.33299949924887%;background-size: 2624.358974358974% 4015.6862745098038%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_5sola::after {max-width:78px; width:100%;height:0;padding: 0 0 65.38461538461539% 0;}
 .nc12_5solb {max-width:83px; max-height:43px; }
-.nc12_5solb::after {content: '\00a0';display: inline-block; width:83px; height:43px; background-position: 99.72826086956522% 69.4017094017094%;background-size: 2316.867469879518% 2820.9302325581393%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_5solb::after {content: '\00a0';display: inline-block; width:83px; height:43px; background-position: 99.36102236421725% 0.08298755186721991%;background-size: 2362.6506024096384% 2902.3255813953488%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_5solb::after {max-width:83px; width:100%;height:0;padding: 0 0 51.80722891566265% 0;}
 .nc12_8img_a {max-width:175px; max-height:62px; }
-.nc12_8img_a::after {content: '\00a0';display: inline-block; width:175px; height:62px; background-position: 73.39816933638444% 99.65247610773241%;background-size: 1098.857142857143% 1956.4516129032259%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_8img_a::after {content: '\00a0';display: inline-block; width:175px; height:62px; background-position: 71.05263157894737% 99.49409780775717%;background-size: 1120.5714285714287% 2012.9032258064517%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_8img_a::after {max-width:175px; width:100%;height:0;padding: 0 0 35.42857142857143% 0;}
 .nc12_8img_b {max-width:173px; max-height:56px; }
-.nc12_8img_b::after {content: '\00a0';display: inline-block; width:173px; height:56px; background-position: 60.91428571428571% 99.56784788245463%;background-size: 1111.5606936416184% 2166.0714285714284%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_8img_b::after {content: '\00a0';display: inline-block; width:173px; height:56px; background-position: 90.6599552572707% 85.23489932885906%;background-size: 1133.5260115606936% 2228.5714285714284%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_8img_b::after {max-width:173px; width:100%;height:0;padding: 0 0 32.369942196531795% 0;}
 .nc12_8img_c {max-width:178px; max-height:60px; }
-.nc12_8img_c::after {content: '\00a0';display: inline-block; width:178px; height:60px; background-position: 73.5243553008596% 94.18907198612315%;background-size: 1080.3370786516855% 2021.6666666666667%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_8img_c::after {content: '\00a0';display: inline-block; width:178px; height:60px; background-position: 80.87492989343802% 85.52188552188552%;background-size: 1101.685393258427% 2080%;background-image: url(ch_xii_ch12-1.jpg);padding: 0; }
 div.nc12_8img_c::after {max-width:178px; width:100%;height:0;padding: 0 0 33.70786516853933% 0;}
 .nc12_8sol {max-width:450px; max-height:154px; }
-.nc12_8sol::after {content: '\00a0';display: inline-block; width:450px; height:154px; background-position: 0.06788866259334692% 54.20207743153919%;background-size: 427.3333333333333% 787.6623376623377%;background-image: url(ch_xii_ch12.jpg);padding: 0; }
+.nc12_8sol::after {content: '\00a0';display: inline-block; width:450px; height:154px; background-position: 0.06261740763932373% 84.63569165786694%;background-size: 454.8888888888889% 1329.8701298701299%;background-image: url(ch_xii_ch12-0.jpg);padding: 0; }
 div.nc12_8sol::after {max-width:450px; width:100%;height:0;padding: 0 0 34.22222222222222% 0;}
 
-/* $TexturePacker:SmartUpdate:0369ed013502938d49e93d36d7658152:2d54da351a0db0cf3c95e06cc8ede1c1:ed007b14f8934a772476bfc306b9d5a2$ */
+/* $TexturePacker:SmartUpdate:40e9b6cce46c2cb6bd673da946ffbce2:b9a7e964c7e0e5b467c1b4224d205822:9d5bb7281b29b1c40f2c2c2e90cbf809$ */

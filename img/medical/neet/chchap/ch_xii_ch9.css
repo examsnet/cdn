@@ -7,74 +7,149 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
+.Coordinate_1 {max-width:304px; max-height:63px; }
+.Coordinate_1::after {content: '\00a0';display: inline-block; width:304px; height:63px; background-position: 51.3353115727003% 99.93098688750862%;background-size: 654.2763157894736% 2400%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_1::after {max-width:304px; width:100%;height:0;padding: 0 0 20.723684210526315% 0;}
+.Coordinate_10 {max-width:485px; max-height:109px; }
+.Coordinate_10::after {content: '\00a0';display: inline-block; width:485px; height:109px; background-position: 65.75797872340425% 17.248752672843906%;background-size: 410.10309278350513% 1387.1559633027523%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_10::after {max-width:485px; width:100%;height:0;padding: 0 0 22.47422680412371% 0;}
+.Coordinate_11 {max-width:465px; max-height:95px; }
+.Coordinate_11::after {content: '\00a0';display: inline-block; width:465px; height:95px; background-position: 99.08136482939632% 21.877205363443895%;background-size: 427.741935483871% 1591.578947368421%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_11::after {max-width:465px; width:100%;height:0;padding: 0 0 20.43010752688172% 0;}
+.Coordinate_27 {max-width:460px; max-height:84px; }
+.Coordinate_27::after {content: '\00a0';display: inline-block; width:460px; height:84px; background-position: 98.75735775016351% 28.431372549019606%;background-size: 432.39130434782606% 1800%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_27::after {max-width:460px; width:100%;height:0;padding: 0 0 18.26086956521739% 0;}
+.Coordinate_4 {max-width:452px; max-height:226px; }
+.Coordinate_4::after {content: '\00a0';display: inline-block; width:452px; height:226px; background-position: 99.86987638256343% 0.07776049766718507%;background-size: 440.04424778761063% 669.0265486725664%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_4::after {max-width:452px; width:100%;height:0;padding: 0 0 50% 0;}
+.Coordinate_5 {max-width:413px; max-height:158px; }
+.Coordinate_5::after {content: '\00a0';display: inline-block; width:413px; height:158px; background-position: 54.88578680203046% 95.19940915805022%;background-size: 481.59806295399517% 956.9620253164557%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_5::after {max-width:413px; width:100%;height:0;padding: 0 0 38.256658595641646% 0;}
+.Coordinate_50 {max-width:335px; max-height:73px; }
+.Coordinate_50::after {content: '\00a0';display: inline-block; width:335px; height:73px; background-position: 93.83313180169287% 62.821403752605974%;background-size: 593.7313432835821% 2071.2328767123286%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_50::after {max-width:335px; width:100%;height:0;padding: 0 0 21.791044776119403% 0;}
+.Coordinate_50_1 {max-width:336px; max-height:121px; }
+.Coordinate_50_1::after {content: '\00a0';display: inline-block; width:336px; height:121px; background-position: 93.88989715668481% 56.218547807332854%;background-size: 591.9642857142857% 1249.5867768595042%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_50_1::after {max-width:336px; width:100%;height:0;padding: 0 0 36.01190476190476% 0;}
+.Coordinate_51 {max-width:350px; max-height:233px; }
+.Coordinate_51::after {content: '\00a0';display: inline-block; width:350px; height:233px; background-position: 73.27638804148872% 79.82799061767005%;background-size: 568.2857142857143% 648.9270386266095%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_51::after {max-width:350px; width:100%;height:0;padding: 0 0 66.57142857142857% 0;}
+.Coordinate_51_1 {max-width:497px; max-height:263px; }
+.Coordinate_51_1::after {content: '\00a0';display: inline-block; width:497px; height:263px; background-position: 0.06702412868632708% 30.66453162530024%;background-size: 400.2012072434608% 574.9049429657795%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_51_1::after {max-width:497px; width:100%;height:0;padding: 0 0 52.91750503018109% 0;}
+.Coordinate_52_o_1 {max-width:190px; max-height:124px; }
+.Coordinate_52_o_1::after {content: '\00a0';display: inline-block; width:190px; height:124px; background-position: 96.10894941634241% 91.21037463976946%;background-size: 1046.842105263158% 1219.3548387096773%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_52_o_1::after {max-width:190px; width:100%;height:0;padding: 0 0 65.26315789473684% 0;}
+.Coordinate_52_o_2 {max-width:158px; max-height:121px; }
+.Coordinate_52_o_2::after {content: '\00a0';display: inline-block; width:158px; height:121px; background-position: 73.89404696886947% 48.81380301941049%;background-size: 1258.860759493671% 1249.5867768595042%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_52_o_2::after {max-width:158px; width:100%;height:0;padding: 0 0 76.58227848101266% 0;}
+.Coordinate_52_o_3 {max-width:184px; max-height:119px; }
+.Coordinate_52_o_3::after {content: '\00a0';display: inline-block; width:184px; height:119px; background-position: 99.00277008310249% 75.73582196697775%;background-size: 1080.9782608695652% 1270.5882352941176%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_52_o_3::after {max-width:184px; width:100%;height:0;padding: 0 0 64.67391304347827% 0;}
+.Coordinate_52_o_4 {max-width:210px; max-height:119px; }
+.Coordinate_52_o_4::after {content: '\00a0';display: inline-block; width:210px; height:119px; background-position: 97.18943226531759% 99.85642498205313%;background-size: 947.1428571428571% 1270.5882352941176%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_52_o_4::after {max-width:210px; width:100%;height:0;padding: 0 0 56.666666666666664% 0;}
+.Coordinate_53 {max-width:485px; max-height:221px; }
+.Coordinate_53::after {content: '\00a0';display: inline-block; width:485px; height:221px; background-position: 0.06648936170212766% 68.3965917893106%;background-size: 410.10309278350513% 684.1628959276018%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_53::after {max-width:485px; width:100%;height:0;padding: 0 0 45.56701030927835% 0;}
+.Coordinate_54 {max-width:478px; max-height:381px; }
+.Coordinate_54::after {content: '\00a0';display: inline-block; width:478px; height:381px; background-position: 0.06618133686300463% 0.08841732979664015%;background-size: 416.10878661087867% 396.8503937007874%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_54::after {max-width:478px; width:100%;height:0;padding: 0 0 79.7071129707113% 0;}
+.Coordinate_56 {max-width:326px; max-height:76px; }
+.Coordinate_56::after {content: '\00a0';display: inline-block; width:326px; height:76px; background-position: 93.32531569452796% 68.1058495821727%;background-size: 610.1226993865031% 1989.4736842105262%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_56::after {max-width:326px; width:100%;height:0;padding: 0 0 23.312883435582823% 0;}
+.Coordinate_59 {max-width:541px; max-height:228px; }
+.Coordinate_59::after {content: '\00a0';display: inline-block; width:541px; height:228px; background-position: 33.149171270718234% 0.0778816199376947%;background-size: 367.65249537892794% 663.1578947368421%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_59::after {max-width:541px; width:100%;height:0;padding: 0 0 42.144177449168204% 0;}
+.Coordinate_5_1 {max-width:210px; max-height:145px; }
+.Coordinate_5_1::after {content: '\00a0';display: inline-block; width:210px; height:145px; background-position: 85.32883642495784% 92.61155815654719%;background-size: 947.1428571428571% 1042.7586206896551%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_5_1::after {max-width:210px; width:100%;height:0;padding: 0 0 69.04761904761905% 0;}
+.Coordinate_68 {max-width:491px; max-height:128px; }
+.Coordinate_68::after {content: '\00a0';display: inline-block; width:491px; height:128px; background-position: 33.31108144192256% 37.933526011560694%;background-size: 405.09164969450103% 1181.25%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_68::after {max-width:491px; width:100%;height:0;padding: 0 0 26.069246435845216% 0;}
+.Coordinate_70 {max-width:343px; max-height:267px; }
+.Coordinate_70::after {content: '\00a0';display: inline-block; width:343px; height:267px; background-position: 52.06561360874848% 82.00803212851406%;background-size: 579.8833819241983% 566.2921348314607%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_70::after {max-width:343px; width:100%;height:0;padding: 0 0 77.84256559766764% 0;}
+.Coordinate_76 {max-width:467px; max-height:193px; }
+.Coordinate_76::after {content: '\00a0';display: inline-block; width:467px; height:193px; background-position: 0.0657030223390276% 99.16603487490524%;background-size: 425.91006423982867% 783.419689119171%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_76::after {max-width:467px; width:100%;height:0;padding: 0 0 41.32762312633833% 0;}
+.Coordinate_77 {max-width:384px; max-height:136px; }
+.Coordinate_77::after {content: '\00a0';display: inline-block; width:384px; height:136px; background-position: 94.45482866043614% 46.875%;background-size: 517.96875% 1111.764705882353%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_77::after {max-width:384px; width:100%;height:0;padding: 0 0 35.416666666666664% 0;}
+.Coordinate_78 {max-width:344px; max-height:295px; }
+.Coordinate_78::after {content: '\00a0';display: inline-block; width:344px; height:295px; background-position: 31.124620060790274% 83.40180772391126%;background-size: 578.1976744186046% 512.542372881356%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_78::after {max-width:344px; width:100%;height:0;padding: 0 0 85.75581395348837% 0;}
+.Coordinate_80 {max-width:151px; max-height:92px; }
+.Coordinate_80::after {content: '\00a0';display: inline-block; width:151px; height:92px; background-position: 74.26550598476605% 59.647887323943664%;background-size: 1317.2185430463576% 1643.4782608695652%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+div.Coordinate_80::after {max-width:151px; width:100%;height:0;padding: 0 0 60.9271523178808% 0;}
 .nc9_10sol {max-width:444px; max-height:186px; }
-.nc9_10sol::after {content: '\00a0';display: inline-block; width:444px; height:186px; background-position: 97.71863117870723% 0.08517887563884156%;background-size: 218.46846846846847% 731.1827956989247%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_10sol::after {content: '\00a0';display: inline-block; width:444px; height:186px; background-position: 31.521035598705502% 62.44343891402715%;background-size: 447.97297297297297% 812.9032258064516%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_10sol::after {max-width:444px; width:100%;height:0;padding: 0 0 41.891891891891895% 0;}
 .nc9_11sol {max-width:418px; max-height:209px; }
-.nc9_11sol::after {content: '\00a0';display: inline-block; width:418px; height:209px; background-position: 0.18115942028985507% 88.44483058210253%;background-size: 232.05741626794259% 650.7177033492823%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_11sol::after {content: '\00a0';display: inline-block; width:418px; height:209px; background-position: 59.452577975811586% 52.1105141980046%;background-size: 475.8373205741627% 723.444976076555%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_11sol::after {max-width:418px; width:100%;height:0;padding: 0 0 50% 0;}
 .nc9_14sola {max-width:425px; max-height:82px; }
-.nc9_14sola::after {content: '\00a0';display: inline-block; width:425px; height:82px; background-position: 86.97247706422019% 49.68701095461659%;background-size: 228.23529411764707% 1658.5365853658536%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_14sola::after {content: '\00a0';display: inline-block; width:425px; height:82px; background-position: 96.9309462915601% 39.3006993006993%;background-size: 468% 1843.9024390243903%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_14sola::after {max-width:425px; width:100%;height:0;padding: 0 0 19.294117647058822% 0;}
 .nc9_14solb {max-width:453px; max-height:81px; }
-.nc9_14solb::after {content: '\00a0';display: inline-block; width:453px; height:81px; background-position: 99.41972920696325% 14.698983580922595%;background-size: 214.1280353200883% 1679.0123456790122%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_14solb::after {content: '\00a0';display: inline-block; width:453px; height:81px; background-position: 99.93489583333333% 15.932914046121594%;background-size: 439.07284768211923% 1866.6666666666667%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_14solb::after {max-width:453px; width:100%;height:0;padding: 0 0 17.880794701986755% 0;}
 .nc9_14solc {max-width:449px; max-height:70px; }
-.nc9_14solc::after {content: '\00a0';display: inline-block; width:449px; height:70px; background-position: 90.978886756238% 43.72093023255814%;background-size: 216.03563474387528% 1942.857142857143%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_14solc::after {content: '\00a0';display: inline-block; width:449px; height:70px; background-position: 97.33766233766234% 34.0499306518724%;background-size: 442.98440979955456% 2160%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_14solc::after {max-width:449px; width:100%;height:0;padding: 0 0 15.590200445434299% 0;}
 .nc9_14sold {max-width:468px; max-height:110px; }
-.nc9_14sold::after {content: '\00a0';display: inline-block; width:468px; height:110px; background-position: 94.42231075697211% 36.24%;background-size: 207.26495726495727% 1236.3636363636363%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_14sold::after {content: '\00a0';display: inline-block; width:468px; height:110px; background-position: 65.15450361604208% 36.73323823109843%;background-size: 425% 1374.5454545454545%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_14sold::after {max-width:468px; width:100%;height:0;padding: 0 0 23.504273504273506% 0;}
 .nc9_16sola {max-width:472px; max-height:162px; }
-.nc9_16sola::after {content: '\00a0';display: inline-block; width:472px; height:162px; background-position: 0.20080321285140562% 56.84474123539232%;background-size: 205.5084745762712% 839.5061728395061%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_16sola::after {content: '\00a0';display: inline-block; width:472px; height:162px; background-position: 32.893869479235335% 26.814814814814813%;background-size: 421.39830508474574% 933.3333333333334%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_16sola::after {max-width:472px; width:100%;height:0;padding: 0 0 34.32203389830509% 0;}
 .nc9_16solb {max-width:234px; max-height:140px; }
-.nc9_16solb::after {content: '\00a0';display: inline-block; width:234px; height:140px; background-position: 96.875% 64.59016393442623%;background-size: 414.52991452991455% 971.4285714285714%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_16solb::after {content: '\00a0';display: inline-block; width:234px; height:140px; background-position: 88.43304843304843% 76.89504373177843%;background-size: 850% 1080%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_16solb::after {max-width:234px; width:100%;height:0;padding: 0 0 59.82905982905983% 0;}
 .nc9_1sol {max-width:175px; max-height:57px; }
-.nc9_1sol::after {content: '\00a0';display: inline-block; width:175px; height:57px; background-position: 89.68553459119497% 71.29700690713737%;background-size: 554.2857142857143% 2385.964912280702%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_1sol::after {content: '\00a0';display: inline-block; width:175px; height:57px; background-position: 83.6824696802646% 97.0446735395189%;background-size: 1136.5714285714287% 2652.6315789473683%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_1sol::after {max-width:175px; width:100%;height:0;padding: 0 0 32.57142857142857% 0;}
 .nc9_21 {max-width:432px; max-height:131px; }
-.nc9_21::after {content: '\00a0';display: inline-block; width:432px; height:131px; background-position: 0.18587360594795538% 99.91863303498779%;background-size: 224.53703703703704% 1038.1679389312976%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_21::after {content: '\00a0';display: inline-block; width:432px; height:131px; background-position: 59.858702633269104% 64.37364228819696%;background-size: 460.4166666666667% 1154.1984732824428%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_21::after {max-width:432px; width:100%;height:0;padding: 0 0 30.324074074074073% 0;}
 .nc9_23sol {max-width:151px; max-height:45px; }
-.nc9_23sol::after {content: '\00a0';display: inline-block; width:151px; height:45px; background-position: 94.993894993895% 54.60076045627376%;background-size: 642.384105960265% 3022.222222222222%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_23sol::after {content: '\00a0';display: inline-block; width:151px; height:45px; background-position: 73.61262241566921% 54.60122699386503%;background-size: 1317.2185430463576% 3360%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_23sol::after {max-width:151px; width:100%;height:0;padding: 0 0 29.801324503311257% 0;}
 .nc9_29sola {max-width:303px; max-height:69px; }
-.nc9_29sola::after {content: '\00a0';display: inline-block; width:303px; height:69px; background-position: 71.06446776611695% 55.615801704105344%;background-size: 320.13201320132015% 1971.0144927536232%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_29sola::after {content: '\00a0';display: inline-block; width:303px; height:69px; background-position: 92.05219454329774% 82.88288288288288%;background-size: 656.4356435643564% 2191.304347826087%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_29sola::after {max-width:303px; width:100%;height:0;padding: 0 0 22.77227722772277% 0;}
 .nc9_29solb {max-width:459px; max-height:173px; }
-.nc9_29solb::after {content: '\00a0';display: inline-block; width:459px; height:173px; background-position: 0.19569471624266144% 71.10362257792755%;background-size: 211.32897603485839% 786.1271676300578%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_29solb::after {content: '\00a0';display: inline-block; width:459px; height:173px; background-position: 30.980392156862745% 48.84241971620612%;background-size: 433.3333333333333% 873.9884393063584%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_29solb::after {max-width:459px; width:100%;height:0;padding: 0 0 37.690631808278866% 0;}
 .nc9_2sol {max-width:512px; max-height:240px; }
-.nc9_2sol::after {content: '\00a0';display: inline-block; width:512px; height:240px; background-position: 0.2183406113537118% 0.08928571428571429%;background-size: 189.453125% 566.6666666666666%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_2sol::after {content: '\00a0';display: inline-block; width:512px; height:240px; background-position: 69.19431279620854% 0.07861635220125786%;background-size: 388.4765625% 630%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_2sol::after {max-width:512px; width:100%;height:0;padding: 0 0 46.875% 0;}
 .nc9_32sola {max-width:472px; max-height:235px; }
-.nc9_32sola::after {content: '\00a0';display: inline-block; width:472px; height:235px; background-position: 0.20080321285140562% 39.55555555555556%;background-size: 205.5084745762712% 578.7234042553191%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_32sola::after {content: '\00a0';display: inline-block; width:472px; height:235px; background-position: 0.06591957811470006% 50.66562255285826%;background-size: 421.39830508474574% 643.4042553191489%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_32sola::after {max-width:472px; width:100%;height:0;padding: 0 0 49.78813559322034% 0;}
 .nc9_32solb {max-width:238px; max-height:219px; }
-.nc9_32solb::after {content: '\00a0';display: inline-block; width:238px; height:219px; background-position: 64.75409836065573% 69.06222611744084%;background-size: 407.56302521008405% 621.0045662100457%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_32solb::after {content: '\00a0';display: inline-block; width:238px; height:219px; background-position: 73.043974871502% 97.06109822119103%;background-size: 835.7142857142857% 690.4109589041096%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_32solb::after {max-width:238px; width:100%;height:0;padding: 0 0 92.01680672268908% 0;}
 .nc9_3sol {max-width:510px; max-height:202px; }
-.nc9_3sol::after {content: '\00a0';display: inline-block; width:510px; height:202px; background-position: 0.21739130434782608% 20.898100172711572%;background-size: 190.19607843137254% 673.2673267326733%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_3sol::after {content: '\00a0';display: inline-block; width:510px; height:202px; background-position: 0.0676132521974307% 84.35114503816794%;background-size: 390% 748.5148514851485%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_3sol::after {max-width:510px; width:100%;height:0;padding: 0 0 39.6078431372549% 0;}
 .nc9_4sola {max-width:520px; max-height:56px; }
-.nc9_4sola::after {content: '\00a0';display: inline-block; width:520px; height:56px; background-position: 96.44444444444444% 91.64110429447852%;background-size: 186.53846153846155% 2428.5714285714284%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_4sola::after {content: '\00a0';display: inline-block; width:520px; height:56px; background-position: 67.32471068754255% 24.175824175824175%;background-size: 382.5% 2700%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_4sola::after {max-width:520px; width:100%;height:0;padding: 0 0 10.76923076923077% 0;}
 .nc9_4solb {max-width:526px; max-height:50px; }
-.nc9_4solb::after {content: '\00a0';display: inline-block; width:526px; height:50px; background-position: 97.74774774774775% 99.61832061068702%;background-size: 184.4106463878327% 2720%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_4solb::after {content: '\00a0';display: inline-block; width:526px; height:50px; background-position: 66.43882433356117% 31.73734610123119%;background-size: 378.1368821292776% 3024%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_4solb::after {max-width:526px; width:100%;height:0;padding: 0 0 9.505703422053232% 0;}
 .nc9_4solc {max-width:524px; max-height:52px; }
-.nc9_4solc::after {content: '\00a0';display: inline-block; width:524px; height:52px; background-position: 97.30941704035874% 95.71865443425077%;background-size: 185.1145038167939% 2615.3846153846152%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_4solc::after {content: '\00a0';display: inline-block; width:524px; height:52px; background-position: 67.64505119453925% 42.87671232876713%;background-size: 379.58015267175574% 2907.6923076923076%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_4solc::after {max-width:524px; width:100%;height:0;padding: 0 0 9.923664122137405% 0;}
 .nc9_4sold {max-width:527px; max-height:54px; }
-.nc9_4sold::after {content: '\00a0';display: inline-block; width:527px; height:54px; background-position: 94.80812641083521% 87.28943338437979%;background-size: 184.0607210626186% 2518.5185185185187%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_4sold::after {content: '\00a0';display: inline-block; width:527px; height:54px; background-position: 66.484268125855% 28.052126200274348%;background-size: 377.4193548387097% 2800%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_4sold::after {max-width:527px; width:100%;height:0;padding: 0 0 10.246679316888045% 0;}
 .nc9_6sol {max-width:508px; max-height:131px; }
-.nc9_6sol::after {content: '\00a0';display: inline-block; width:508px; height:131px; background-position: 99.78354978354979% 82.01790073230268%;background-size: 190.9448818897638% 1038.1679389312976%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_6sol::after {content: '\00a0';display: inline-block; width:508px; height:131px; background-position: 32.410533423362594% 16.6545981173063%;background-size: 391.53543307086613% 1154.1984732824428%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_6sol::after {max-width:508px; width:100%;height:0;padding: 0 0 25.787401574803148% 0;}
 .nc9_8sol {max-width:395px; max-height:182px; }
-.nc9_8sol::after {content: '\00a0';display: inline-block; width:395px; height:182px; background-position: 89.04347826086956% 22.920203735144312%;background-size: 245.56962025316454% 747.2527472527472%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
+.nc9_8sol::after {content: '\00a0';display: inline-block; width:395px; height:182px; background-position: 29.422835633626097% 98.57142857142857%;background-size: 503.54430379746833% 830.7692307692307%;background-image: url(ch_xii_ch9.jpg);padding: 0; }
 div.nc9_8sol::after {max-width:395px; width:100%;height:0;padding: 0 0 46.075949367088604% 0;}
 
-/* $TexturePacker:SmartUpdate:60a2d98482d7184061d6da1a73b0ff0f:95f705bca11d6ea4088b7081bd6ce935:a53e8e871c86345191e1bbb994043ffc$ */
+/* $TexturePacker:SmartUpdate:a82edc7d999efce89766eccf2bb92404:eb49eb9041ca038433d506697343e0d2:a53e8e871c86345191e1bbb994043ffc$ */
