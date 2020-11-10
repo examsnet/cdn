@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.EverydayLife_16 {max-width:215px; max-height:209px; }
+.EverydayLife_16::after {content: '\00a0';display: inline-block; width:215px; height:209px; background-position: 0.20040080160320642% 2.6315789473684212%;background-size: 332.09302325581393% 118.18181818181819%;background-image: url(ch_xii_ch16.jpg);padding: 0; }
+div.EverydayLife_16::after {max-width:215px; width:100%;height:0;padding: 0 0 97.20930232558139% 0;}
+.EverydayLife_18 {max-width:496px; max-height:132px; }
+.EverydayLife_18::after {content: '\00a0';display: inline-block; width:496px; height:132px; background-position: 99.54128440366972% 0.8695652173913043%;background-size: 143.9516129032258% 187.12121212121212%;background-image: url(ch_xii_ch16.jpg);padding: 0; }
+div.EverydayLife_18::after {max-width:496px; width:100%;height:0;padding: 0 0 26.612903225806452% 0;}
+.EverydayLife_20 {max-width:340px; max-height:112px; }
+.EverydayLife_20::after {content: '\00a0';display: inline-block; width:340px; height:112px; background-position: 58.02139037433155% 99.25925925925925%;background-size: 210% 220.53571428571428%;background-image: url(ch_xii_ch16.jpg);padding: 0; }
+div.EverydayLife_20::after {max-width:340px; width:100%;height:0;padding: 0 0 32.94117647058823% 0;}
+
+/* $TexturePacker:SmartUpdate:4cd3f9a21051e04c3a8ae61969e69185:53df10cd187866941aa11ba4eefb9b5b:64fd2c749481a010eff83abadf3bf871$ */
