@@ -1,0 +1,77 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.KEAM_2015_mat_100sol {max-width:288px; max-height:137px; }
+.KEAM_2015_mat_100sol::after {content: '\00a0';display: inline-block; width:288px; height:137px; background-position: 50.35765379113018% 27.742616033755276%;background-size: 342.7083333333333% 791.970802919708%;background-image: url(keam2015.png);padding: 0; }
+div.KEAM_2015_mat_100sol::after {max-width:288px; width:100%;height:0;padding: 0 0 47.56944444444444% 0;}
+.KEAM_2015_mat_15sol {max-width:311px; max-height:202px; }
+.KEAM_2015_mat_15sol::after {content: '\00a0';display: inline-block; width:311px; height:202px; background-position: 95.26627218934911% 0.11325028312570781%;background-size: 317.363344051447% 537.1287128712871%;background-image: url(keam2015.png);padding: 0; }
+div.KEAM_2015_mat_15sol::after {max-width:311px; width:100%;height:0;padding: 0 0 64.95176848874598% 0;}
+.KEAM_2015_mat_71sol {max-width:274px; max-height:213px; }
+.KEAM_2015_mat_71sol::after {content: '\00a0';display: inline-block; width:274px; height:213px; background-position: 0.1402524544179523% 91.39908256880734%;background-size: 360.2189781021898% 509.38967136150234%;background-image: url(keam2015.png);padding: 0; }
+div.KEAM_2015_mat_71sol::after {max-width:274px; width:100%;height:0;padding: 0 0 77.73722627737226% 0;}
+.KEAM_2015_mat_77sol {max-width:309px; max-height:242px; }
+.KEAM_2015_mat_77sol::after {content: '\00a0';display: inline-block; width:309px; height:242px; background-position: 0.14749262536873156% 65.717674970344%;background-size: 319.41747572815535% 448.3471074380165%;background-image: url(keam2015.png);padding: 0; }
+div.KEAM_2015_mat_77sol::after {max-width:309px; width:100%;height:0;padding: 0 0 78.31715210355988% 0;}
+.KEAM_2015_mat_80sol {max-width:348px; max-height:215px; }
+.KEAM_2015_mat_80sol::after {content: '\00a0';display: inline-block; width:348px; height:215px; background-position: 0.1564945226917058% 38.85057471264368%;background-size: 283.62068965517244% 504.6511627906977%;background-image: url(keam2015.png);padding: 0; }
+div.KEAM_2015_mat_80sol::after {max-width:348px; width:100%;height:0;padding: 0 0 61.7816091954023% 0;}
+.KEAM_2015_mat_82sol {max-width:270px; max-height:105px; }
+.KEAM_2015_mat_82sol::after {content: '\00a0';display: inline-block; width:270px; height:105px; background-position: 98.04741980474198% 48.46938775510204%;background-size: 365.55555555555554% 1033.3333333333333%;background-image: url(keam2015.png);padding: 0; }
+div.KEAM_2015_mat_82sol::after {max-width:270px; width:100%;height:0;padding: 0 0 38.888888888888886% 0;}
+.KEAM_2015_mat_91sol {max-width:214px; max-height:108px; }
+.KEAM_2015_mat_91sol::after {content: '\00a0';display: inline-block; width:214px; height:108px; background-position: 86.15782664941786% 86.18219037871033%;background-size: 461.21495327102804% 1004.6296296296297%;background-image: url(keam2015.png);padding: 0; }
+div.KEAM_2015_mat_91sol::after {max-width:214px; width:100%;height:0;padding: 0 0 50.467289719626166% 0;}
+.KEAM_2015_mat_94sol {max-width:265px; max-height:174px; }
+.KEAM_2015_mat_94sol::after {content: '\00a0';display: inline-block; width:265px; height:174px; background-position: 97.36842105263158% 32.93084522502744%;background-size: 372.45283018867923% 623.5632183908046%;background-image: url(keam2015.png);padding: 0; }
+div.KEAM_2015_mat_94sol::after {max-width:265px; width:100%;height:0;padding: 0 0 65.66037735849056% 0;}
+.KEAM_2015_phy_101sol {max-width:164px; max-height:126px; }
+.KEAM_2015_phy_101sol::after {content: '\00a0';display: inline-block; width:164px; height:126px; background-position: 98.78493317132443% 60.583941605839414%;background-size: 601.829268292683% 861.1111111111111%;background-image: url(keam2015.png);padding: 0; }
+div.KEAM_2015_phy_101sol::after {max-width:164px; width:100%;height:0;padding: 0 0 76.82926829268293% 0;}
+.KEAM_2015_phy_115sol {max-width:352px; max-height:175px; }
+.KEAM_2015_phy_115sol::after {content: '\00a0';display: inline-block; width:352px; height:175px; background-position: 55.118110236220474% 44.065934065934066%;background-size: 280.39772727272725% 620%;background-image: url(keam2015.png);padding: 0; }
+div.KEAM_2015_phy_115sol::after {max-width:352px; width:100%;height:0;padding: 0 0 49.71590909090909% 0;}
+.KEAM_2015_phy_27sol {max-width:301px; max-height:184px; }
+.KEAM_2015_phy_27sol::after {content: '\00a0';display: inline-block; width:301px; height:184px; background-position: 45.33527696793003% 64.03995560488346%;background-size: 327.90697674418607% 589.6739130434783%;background-image: url(keam2015.png);padding: 0; }
+div.KEAM_2015_phy_27sol::after {max-width:301px; width:100%;height:0;padding: 0 0 61.12956810631229% 0;}
+.KEAM_2015_phy_52sol {max-width:226px; max-height:197px; }
+.KEAM_2015_phy_52sol::after {content: '\00a0';display: inline-block; width:226px; height:197px; background-position: 36.26806833114323% 98.76126126126127%;background-size: 436.72566371681415% 550.7614213197969%;background-image: url(keam2015.png);padding: 0; }
+div.KEAM_2015_phy_52sol::after {max-width:226px; width:100%;height:0;padding: 0 0 87.16814159292035% 0;}
+.KEAM_2015_phy_55sol {max-width:291px; max-height:261px; }
+.KEAM_2015_phy_55sol::after {content: '\00a0';display: inline-block; width:291px; height:261px; background-position: 50.57471264367816% 0.12135922330097088%;background-size: 339.17525773195877% 415.7088122605364%;background-image: url(keam2015.png);padding: 0; }
+div.KEAM_2015_phy_55sol::after {max-width:291px; width:100%;height:0;padding: 0 0 89.69072164948453% 0;}
+.KEAM_2015_phy_65sol {max-width:150px; max-height:133px; }
+.KEAM_2015_phy_65sol::after {content: '\00a0';display: inline-block; width:150px; height:133px; background-position: 97.1326164874552% 74.36974789915966%;background-size: 658% 815.7894736842105%;background-image: url(keam2015.png);padding: 0; }
+div.KEAM_2015_phy_65sol::after {max-width:150px; width:100%;height:0;padding: 0 0 88.66666666666667% 0;}
+.KEAM_2015_phy_6sol {max-width:305px; max-height:114px; }
+.KEAM_2015_phy_6sol::after {content: '\00a0';display: inline-block; width:305px; height:114px; background-position: 45.60117302052786% 78.47579814624099%;background-size: 323.60655737704917% 951.7543859649123%;background-image: url(keam2015.png);padding: 0; }
+div.KEAM_2015_phy_6sol::after {max-width:305px; width:100%;height:0;padding: 0 0 37.377049180327866% 0;}
+.KEAM_2015_phy_70sol {max-width:350px; max-height:336px; }
+.KEAM_2015_phy_70sol::after {content: '\00a0';display: inline-block; width:350px; height:336px; background-position: 0.15698587127158556% 0.13351134846461948%;background-size: 282% 322.9166666666667%;background-image: url(keam2015.png);padding: 0; }
+div.KEAM_2015_phy_70sol::after {max-width:350px; width:100%;height:0;padding: 0 0 96% 0;}
+.KEAM_2015_phy_77sol {max-width:342px; max-height:95px; }
+.KEAM_2015_phy_77sol::after {content: '\00a0';display: inline-block; width:342px; height:95px; background-position: 99.84496124031008% 20.606060606060606%;background-size: 288.5964912280702% 1142.1052631578948%;background-image: url(keam2015.png);padding: 0; }
+div.KEAM_2015_phy_77sol::after {max-width:342px; width:100%;height:0;padding: 0 0 27.77777777777778% 0;}
+.KEAM_2015_phy_99sol {max-width:195px; max-height:122px; }
+.KEAM_2015_phy_99sol::after {content: '\00a0';display: inline-block; width:195px; height:122px; background-position: 77.9040404040404% 74.24714434060229%;background-size: 506.15384615384613% 889.344262295082%;background-image: url(keam2015.png);padding: 0; }
+div.KEAM_2015_phy_99sol::after {max-width:195px; width:100%;height:0;padding: 0 0 62.56410256410256% 0;}
+.ke2015_ph_27 {max-width:199px; max-height:133px; }
+.ke2015_ph_27::after {content: '\00a0';display: inline-block; width:199px; height:133px; background-position: 77.79187817258884% 61.029411764705884%;background-size: 495.97989949748745% 815.7894736842105%;background-image: url(keam2015.png);padding: 0; }
+div.ke2015_ph_27::after {max-width:199px; width:100%;height:0;padding: 0 0 66.83417085427136% 0;}
+.ke2015_ph_55 {max-width:162px; max-height:145px; }
+.ke2015_ph_55::after {content: '\00a0';display: inline-block; width:162px; height:145px; background-position: 60.96969696969697% 93.29787234042553%;background-size: 609.2592592592592% 748.2758620689655%;background-image: url(keam2015.png);padding: 0; }
+div.ke2015_ph_55::after {max-width:162px; width:100%;height:0;padding: 0 0 89.50617283950618% 0;}
+.ke2015_ph_58 {max-width:215px; max-height:106px; }
+.ke2015_ph_58::after {content: '\00a0';display: inline-block; width:215px; height:106px; background-position: 86.26943005181347% 97.13993871297242%;background-size: 459.06976744186045% 1023.5849056603773%;background-image: url(keam2015.png);padding: 0; }
+div.ke2015_ph_58::after {max-width:215px; width:100%;height:0;padding: 0 0 49.30232558139535% 0;}
+.ke2015_ph_6 {max-width:230px; max-height:73px; }
+.ke2015_ph_6::after {content: '\00a0';display: inline-block; width:230px; height:73px; background-position: 0.13210039630118892% 99.90118577075098%;background-size: 429.1304347826087% 1486.3013698630136%;background-image: url(keam2015.png);padding: 0; }
+div.ke2015_ph_6::after {max-width:230px; width:100%;height:0;padding: 0 0 31.73913043478261% 0;}
+
+/* $TexturePacker:SmartUpdate:fc8275f5e0dda71166e6dfe72b9749ec:408460f7a2a9f4b03bf7af9a4d84a4eb:4688de5508d562469607c0103c0bf848$ */
