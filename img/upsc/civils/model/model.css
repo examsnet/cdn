@@ -8,10 +8,10 @@ Responsive: <div class="yourspritesname"></div>
 
 
 .upsc_prelims_md_5_56 {max-width:268px; max-height:281px; }
-.upsc_prelims_md_5_56::after {content: '\00a0';display: inline-block; width:268px; height:281px; background-position: 50% 0.9090909090909091%;background-size: 100.74626865671642% 139.14590747330962%;background-image: url(model.png);padding: 0; }
+.upsc_prelims_md_5_56::after {content: '\00a0';display: inline-block; width:268px; height:281px; background-position: 50% 0.9090909090909091%;background-size: 100.74626865671642% 139.14590747330962%;background-image: url(model.jpg);padding: 0; }
 div.upsc_prelims_md_5_56::after {max-width:268px; width:100%;height:0;padding: 0 0 104.85074626865672% 0;}
 .upsc_prelims_md_5_77 {max-width:196px; max-height:107px; }
-.upsc_prelims_md_5_77::after {content: '\00a0';display: inline-block; width:196px; height:107px; background-position: 1.3513513513513513% 99.64788732394366%;background-size: 137.75510204081633% 365.42056074766356%;background-image: url(model.png);padding: 0; }
+.upsc_prelims_md_5_77::after {content: '\00a0';display: inline-block; width:196px; height:107px; background-position: 1.3513513513513513% 99.64788732394366%;background-size: 137.75510204081633% 365.42056074766356%;background-image: url(model.jpg);padding: 0; }
 div.upsc_prelims_md_5_77::after {max-width:196px; width:100%;height:0;padding: 0 0 54.59183673469388% 0;}
 
-/* $TexturePacker:SmartUpdate:ba4ffbc3e0d456b491fe16e9b1f9afae:98f25b67894063505151f850f4e947ef:4be4b756ce59be36eb41907bca3db49b$ */
+/* $TexturePacker:SmartUpdate:46ffbe55f47db3883e2d2169f1c26c24:98f25b67894063505151f850f4e947ef:63480b86098c04d1f97f5adc3e71d61d$ */
