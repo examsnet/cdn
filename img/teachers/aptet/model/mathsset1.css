@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.TET_PAPER_3_125_2 {max-width:148px; max-height:93px; }
+.TET_PAPER_3_125_2::after {content: '\00a0';display: inline-block; width:148px; height:93px; background-position: 57.142857142857146% 99.56140350877193%;background-size: 530.4054054054054% 345.16129032258067%;background-image: url(mathsset1.png);padding: 0; }
+div.TET_PAPER_3_125_2::after {max-width:148px; width:100%;height:0;padding: 0 0 62.83783783783784% 0;}
+.TET_PAPER_3_125_3 {max-width:108px; max-height:94px; }
+.TET_PAPER_3_125_3::after {content: '\00a0';display: inline-block; width:108px; height:94px; background-position: 93.205317577548% 64.75770925110132%;background-size: 726.8518518518518% 341.48936170212767%;background-image: url(mathsset1.png);padding: 0; }
+div.TET_PAPER_3_125_3::after {max-width:108px; width:100%;height:0;padding: 0 0 87.03703703703704% 0;}
+.TET_PAPER_3_125_4 {max-width:153px; max-height:145px; }
+.TET_PAPER_3_125_4::after {content: '\00a0';display: inline-block; width:153px; height:145px; background-position: 99.84177215189874% 0.5681818181818182%;background-size: 513.0718954248366% 221.3793103448276%;background-image: url(mathsset1.png);padding: 0; }
+div.TET_PAPER_3_125_4::after {max-width:153px; width:100%;height:0;padding: 0 0 94.77124183006536% 0;}
+.TET_PAPER_4_107 {max-width:266px; max-height:225px; }
+.TET_PAPER_4_107::after {content: '\00a0';display: inline-block; width:266px; height:225px; background-position: 70.13487475915221% 1.0416666666666667%;background-size: 295.1127819548872% 142.66666666666666%;background-image: url(mathsset1.png);padding: 0; }
+div.TET_PAPER_4_107::after {max-width:266px; width:100%;height:0;padding: 0 0 84.58646616541354% 0;}
+.TET_PAPER_4_99 {max-width:362px; max-height:317px; }
+.TET_PAPER_4_99::after {content: '\00a0';display: inline-block; width:362px; height:317px; background-position: 0.2364066193853428% 25%;background-size: 216.85082872928177% 101.26182965299685%;background-image: url(mathsset1.png);padding: 0; }
+div.TET_PAPER_4_99::after {max-width:362px; width:100%;height:0;padding: 0 0 87.56906077348066% 0;}
+
+/* $TexturePacker:SmartUpdate:f0013e4798d645f1a670d7a843663599:9f12531593974572a50aedac5821f1f2:4c8594af78ee0ebf2d8918ccf6a54bf2$ */
