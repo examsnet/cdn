@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.venn_1 {max-width:262px; max-height:111px; }
+.venn_1::after {content: '\00a0';display: inline-block; width:262px; height:111px; background-position: 0.423728813559322% 31.68831168831169%;background-size: 190.0763358778626% 446.84684684684686%;background-image: url(afcat2020p2.png);padding: 0; }
+div.venn_1::after {max-width:262px; width:100%;height:0;padding: 0 0 42.36641221374046% 0;}
+.venn_2 {max-width:186px; max-height:147px; }
+.venn_2::after {content: '\00a0';display: inline-block; width:186px; height:147px; background-position: 0.32051282051282054% 67.0487106017192%;background-size: 267.741935483871% 337.4149659863946%;background-image: url(afcat2020p2.png);padding: 0; }
+div.venn_2::after {max-width:186px; width:100%;height:0;padding: 0 0 79.03225806451613% 0;}
+.venn_3 {max-width:135px; max-height:121px; }
+.venn_3::after {content: '\00a0';display: inline-block; width:135px; height:121px; background-position: 99.72451790633609% 66.66666666666667%;background-size: 368.8888888888889% 409.91735537190084%;background-image: url(afcat2020p2.png);padding: 0; }
+div.venn_3::after {max-width:135px; width:100%;height:0;padding: 0 0 89.62962962962963% 0;}
+.venn_4 {max-width:201px; max-height:138px; }
+.venn_4::after {content: '\00a0';display: inline-block; width:201px; height:138px; background-position: 89.22558922558923% 0.27932960893854747%;background-size: 247.76119402985074% 359.42028985507244%;background-image: url(afcat2020p2.png);padding: 0; }
+div.venn_4::after {max-width:201px; width:100%;height:0;padding: 0 0 68.65671641791045% 0;}
+.venn_5 {max-width:173px; max-height:149px; }
+.venn_5::after {content: '\00a0';display: inline-block; width:173px; height:149px; background-position: 57.84615384615385% 72.04610951008645%;background-size: 287.8612716763006% 332.8859060402685%;background-image: url(afcat2020p2.png);padding: 0; }
+div.venn_5::after {max-width:173px; width:100%;height:0;padding: 0 0 86.1271676300578% 0;}
+.venn_6 {max-width:263px; max-height:120px; }
+.venn_6::after {content: '\00a0';display: inline-block; width:263px; height:120px; background-position: 0.425531914893617% 0.26595744680851063%;background-size: 189.35361216730038% 413.3333333333333%;background-image: url(afcat2020p2.png);padding: 0; }
+div.venn_6::after {max-width:263px; width:100%;height:0;padding: 0 0 45.627376425855516% 0;}
+.venn_7 {max-width:134px; max-height:121px; }
+.venn_7::after {content: '\00a0';display: inline-block; width:134px; height:121px; background-position: 99.45054945054945% 99.2%;background-size: 371.64179104477614% 409.91735537190084%;background-image: url(afcat2020p2.png);padding: 0; }
+div.venn_7::after {max-width:134px; width:100%;height:0;padding: 0 0 90.29850746268657% 0;}
+.venn_8 {max-width:169px; max-height:113px; }
+.venn_8::after {content: '\00a0';display: inline-block; width:169px; height:113px; background-position: 0.303951367781155% 99.73890339425587%;background-size: 294.67455621301775% 438.9380530973451%;background-image: url(afcat2020p2.png);padding: 0; }
+div.venn_8::after {max-width:169px; width:100%;height:0;padding: 0 0 66.86390532544378% 0;}
+.venn_9 {max-width:187px; max-height:109px; }
+.venn_9::after {content: '\00a0';display: inline-block; width:187px; height:109px; background-position: 84.88745980707395% 36.17571059431525%;background-size: 266.3101604278075% 455.04587155963304%;background-image: url(afcat2020p2.png);padding: 0; }
+div.venn_9::after {max-width:187px; width:100%;height:0;padding: 0 0 58.288770053475936% 0;}
+
+/* $TexturePacker:SmartUpdate:b744fbb56c2d5ed0c4fcc7144e4d8fe6:10c222a9b6632b3764f358ad5d1724a4:33c0765daccc1a722f561560ccbf4544$ */
