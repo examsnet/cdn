@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.CTET_2_SOCIAL_jan_2012_59_q {max-width:321px; max-height:244px; }
+.CTET_2_SOCIAL_jan_2012_59_q::after {content: '\00a0';display: inline-block; width:321px; height:244px; background-position: 0.18148820326678766% 50%;background-size: 271.65109034267914% 100.81967213114754%;background-image: url(ctet2soc2011_15_hin.png);padding: 0; }
+div.CTET_2_SOCIAL_jan_2012_59_q::after {max-width:321px; width:100%;height:0;padding: 0 0 76.01246105919003% 0;}
+.CTET_2_SOCIAL_jan_2012_60_q {max-width:310px; max-height:161px; }
+.CTET_2_SOCIAL_jan_2012_60_q::after {content: '\00a0';display: inline-block; width:310px; height:161px; background-position: 99.8220640569395% 1.1764705882352942%;background-size: 281.2903225806452% 152.7950310559006%;background-image: url(ctet2soc2011_15_hin.png);padding: 0; }
+div.CTET_2_SOCIAL_jan_2012_60_q::after {max-width:310px; width:100%;height:0;padding: 0 0 51.935483870967744% 0;}
+.CTET_2_SOCIAL_june_2011_38_q {max-width:237px; max-height:212px; }
+.CTET_2_SOCIAL_june_2011_38_q::after {content: '\00a0';display: inline-block; width:237px; height:212px; background-position: 50.86614173228347% 2.9411764705882355%;background-size: 367.9324894514768% 116.0377358490566%;background-image: url(ctet2soc2011_15_hin.png);padding: 0; }
+div.CTET_2_SOCIAL_june_2011_38_q::after {max-width:237px; width:100%;height:0;padding: 0 0 89.45147679324894% 0;}
+
+/* $TexturePacker:SmartUpdate:fe0b8c30ea6c90d22dba02ef167a5b1d:e30e32ce31965c71321b3f3b1a10fce4:f29d568171771d30b57457fde82632f5$ */
