@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.RBI_Assistant_model_paper_2_66_S_1 {max-width:232px; max-height:64px; }
+.RBI_Assistant_model_paper_2_66_S_1::after {content: '\00a0';display: inline-block; width:232px; height:64px; background-position: 0.4444444444444444% 64.15094339622641%;background-size: 196.98275862068965% 596.875%;background-image: url(rbiasstmod2.png);padding: 0; }
+div.RBI_Assistant_model_paper_2_66_S_1::after {max-width:232px; width:100%;height:0;padding: 0 0 27.586206896551722% 0;}
+.RBI_Assistant_model_paper_2_66_S_2 {max-width:186px; max-height:78px; }
+.RBI_Assistant_model_paper_2_66_S_2::after {content: '\00a0';display: inline-block; width:186px; height:78px; background-position: 0.36900369003690037% 88.48684210526316%;background-size: 245.69892473118279% 489.7435897435897%;background-image: url(rbiasstmod2.png);padding: 0; }
+div.RBI_Assistant_model_paper_2_66_S_2::after {max-width:186px; width:100%;height:0;padding: 0 0 41.935483870967744% 0;}
+.RBI_Assistant_model_paper_2_75_S {max-width:222px; max-height:177px; }
+.RBI_Assistant_model_paper_2_75_S::after {content: '\00a0';display: inline-block; width:222px; height:177px; background-position: 99.57446808510639% 99.51219512195122%;background-size: 205.85585585585585% 215.819209039548%;background-image: url(rbiasstmod2.png);padding: 0; }
+div.RBI_Assistant_model_paper_2_75_S::after {max-width:222px; width:100%;height:0;padding: 0 0 79.72972972972973% 0;}
+.RBI_Assistant_model_paper_2_93_S {max-width:406px; max-height:202px; }
+.RBI_Assistant_model_paper_2_93_S::after {content: '\00a0';display: inline-block; width:406px; height:202px; background-position: 1.9607843137254901% 0.5555555555555556%;background-size: 112.5615763546798% 189.1089108910891%;background-image: url(rbiasstmod2.png);padding: 0; }
+div.RBI_Assistant_model_paper_2_93_S::after {max-width:406px; width:100%;height:0;padding: 0 0 49.75369458128079% 0;}
+
+/* $TexturePacker:SmartUpdate:a032b80a537005ba949681f16fee3652:02a6eac33ffc801e36780cc2cd5e6338:9e2eb63797b396ddd5962cf6fa3f1773$ */
