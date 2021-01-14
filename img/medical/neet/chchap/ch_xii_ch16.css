@@ -8,13 +8,16 @@ Responsive: <div class="yourspritesname"></div>
 
 
 .EverydayLife_16 {max-width:215px; max-height:209px; }
-.EverydayLife_16::after {content: '\00a0';display: inline-block; width:215px; height:209px; background-position: 0.20040080160320642% 2.6315789473684212%;background-size: 332.09302325581393% 118.18181818181819%;background-image: url(ch_xii_ch16.jpg);padding: 0; }
+.EverydayLife_16::after {content: '\00a0';display: inline-block; width:215px; height:209px; background-position: 99.79959919839679% 0.8695652173913043%;background-size: 332.09302325581393% 155.02392344497608%;background-image: url(ch_xii_ch16.jpg);padding: 0; }
 div.EverydayLife_16::after {max-width:215px; width:100%;height:0;padding: 0 0 97.20930232558139% 0;}
 .EverydayLife_18 {max-width:496px; max-height:132px; }
-.EverydayLife_18::after {content: '\00a0';display: inline-block; width:496px; height:132px; background-position: 99.54128440366972% 0.8695652173913043%;background-size: 143.9516129032258% 187.12121212121212%;background-image: url(ch_xii_ch16.jpg);padding: 0; }
+.EverydayLife_18::after {content: '\00a0';display: inline-block; width:496px; height:132px; background-position: 0.45871559633027525% 0.5208333333333334%;background-size: 143.9516129032258% 245.45454545454547%;background-image: url(ch_xii_ch16.jpg);padding: 0; }
 div.EverydayLife_18::after {max-width:496px; width:100%;height:0;padding: 0 0 26.612903225806452% 0;}
 .EverydayLife_20 {max-width:340px; max-height:112px; }
-.EverydayLife_20::after {content: '\00a0';display: inline-block; width:340px; height:112px; background-position: 58.02139037433155% 99.25925925925925%;background-size: 210% 220.53571428571428%;background-image: url(ch_xii_ch16.jpg);padding: 0; }
+.EverydayLife_20::after {content: '\00a0';display: inline-block; width:340px; height:112px; background-position: 84.75935828877006% 99.52830188679245%;background-size: 210% 289.2857142857143%;background-image: url(ch_xii_ch16.jpg);padding: 0; }
 div.EverydayLife_20::after {max-width:340px; width:100%;height:0;padding: 0 0 32.94117647058823% 0;}
+.EverydayLife_2020_1_sol {max-width:315px; max-height:157px; }
+.EverydayLife_2020_1_sol::after {content: '\00a0';display: inline-block; width:315px; height:157px; background-position: 0.2506265664160401% 80.23952095808383%;background-size: 226.66666666666666% 206.36942675159236%;background-image: url(ch_xii_ch16.jpg);padding: 0; }
+div.EverydayLife_2020_1_sol::after {max-width:315px; width:100%;height:0;padding: 0 0 49.84126984126984% 0;}
 
-/* $TexturePacker:SmartUpdate:4cd3f9a21051e04c3a8ae61969e69185:53df10cd187866941aa11ba4eefb9b5b:64fd2c749481a010eff83abadf3bf871$ */
+/* $TexturePacker:SmartUpdate:f83f2c043cda5190413a301b81afd706:755ada0541f20a2d4ad72484e389f6a6:64fd2c749481a010eff83abadf3bf871$ */
