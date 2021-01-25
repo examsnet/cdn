@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.NIFT_2019_PG_15sol {max-width:196px; max-height:188px; }
+.NIFT_2019_PG_15sol::after {content: '\00a0';display: inline-block; width:196px; height:188px; background-position: 90.49531459170014% 39.48339483394834%;background-size: 481.1224489795918% 244.14893617021278%;background-image: url(pg_2019.png);padding: 0; }
+div.NIFT_2019_PG_15sol::after {max-width:196px; width:100%;height:0;padding: 0 0 95.91836734693878% 0;}
+.NIFT_2019_PG_76sol {max-width:243px; max-height:77px; }
+.NIFT_2019_PG_76sol::after {content: '\00a0';display: inline-block; width:243px; height:77px; background-position: 0.14285714285714285% 0.2617801047120419%;background-size: 388.06584362139915% 596.1038961038961%;background-image: url(pg_2019.png);padding: 0; }
+div.NIFT_2019_PG_76sol::after {max-width:243px; width:100%;height:0;padding: 0 0 31.68724279835391% 0;}
+.NIFT_2019_PG_77sol {max-width:333px; max-height:151px; }
+.NIFT_2019_PG_77sol::after {content: '\00a0';display: inline-block; width:333px; height:151px; background-position: 56.0655737704918% 34.74025974025974%;background-size: 283.1831831831832% 303.97350993377484%;background-image: url(pg_2019.png);padding: 0; }
+div.NIFT_2019_PG_77sol::after {max-width:333px; width:100%;height:0;padding: 0 0 45.34534534534534% 0;}
+.NIFT_2019_PG_77sola {max-width:351px; max-height:162px; }
+.NIFT_2019_PG_77sola::after {content: '\00a0';display: inline-block; width:351px; height:162px; background-position: 99.83108108108108% 99.66329966329967%;background-size: 268.66096866096865% 283.3333333333333%;background-image: url(pg_2019.png);padding: 0; }
+div.NIFT_2019_PG_77sola::after {max-width:351px; width:100%;height:0;padding: 0 0 46.15384615384615% 0;}
+.NIFT_2019_PG_78sol {max-width:333px; max-height:164px; }
+.NIFT_2019_PG_78sol::after {content: '\00a0';display: inline-block; width:333px; height:164px; background-position: 0.16393442622950818% 82.71186440677967%;background-size: 283.1831831831832% 279.8780487804878%;background-image: url(pg_2019.png);padding: 0; }
+div.NIFT_2019_PG_78sol::after {max-width:333px; width:100%;height:0;padding: 0 0 49.249249249249246% 0;}
+.NIFT_2019_PG_87sol {max-width:255px; max-height:194px; }
+.NIFT_2019_PG_87sol::after {content: '\00a0';display: inline-block; width:255px; height:194px; background-position: 48.69186046511628% 97.73584905660377%;background-size: 369.80392156862746% 236.5979381443299%;background-image: url(pg_2019.png);padding: 0; }
+div.NIFT_2019_PG_87sol::after {max-width:255px; width:100%;height:0;padding: 0 0 76.07843137254902% 0;}
+.NIFT_2019_PG_93sol {max-width:222px; max-height:96px; }
+.NIFT_2019_PG_93sol::after {content: '\00a0';display: inline-block; width:222px; height:96px; background-position: 33.980582524271846% 0.27548209366391185%;background-size: 424.77477477477476% 478.125%;background-image: url(pg_2019.png);padding: 0; }
+div.NIFT_2019_PG_93sol::after {max-width:222px; width:100%;height:0;padding: 0 0 43.24324324324324% 0;}
+.NIFT_2019_PG_94sol {max-width:340px; max-height:145px; }
+.NIFT_2019_PG_94sol::after {content: '\00a0';display: inline-block; width:340px; height:145px; background-position: 0.16583747927031509% 31.21019108280255%;background-size: 277.3529411764706% 316.55172413793105%;background-image: url(pg_2019.png);padding: 0; }
+div.NIFT_2019_PG_94sol::after {max-width:340px; width:100%;height:0;padding: 0 0 42.64705882352941% 0;}
+.NIFT_2019_PG_96sol {max-width:370px; max-height:105px; }
+.NIFT_2019_PG_96sol::after {content: '\00a0';display: inline-block; width:370px; height:105px; background-position: 81.67539267015707% 0.2824858757062147%;background-size: 254.86486486486487% 437.14285714285717%;background-image: url(pg_2019.png);padding: 0; }
+div.NIFT_2019_PG_96sol::after {max-width:370px; width:100%;height:0;padding: 0 0 28.37837837837838% 0;}
+
+/* $TexturePacker:SmartUpdate:9964424b28a1f5a35803e0555ce8433d:4b64f68be04b563ab46a2ab0f116fd5e:57fd5899fa820c370a37dcf676c239c8$ */
