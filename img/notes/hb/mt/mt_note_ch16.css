@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.class11_maths_straight_line_3_1 {max-width:310px; max-height:221px; }
+.class11_maths_straight_line_3_1::after {content: '\00a0';display: inline-block; width:310px; height:221px; background-position: 99.87775061124694% 5.2631578947368425%;background-size: 363.8709677419355% 108.5972850678733%;background-image: url(mt_note_ch16.png);padding: 0; }
+div.class11_maths_straight_line_3_1::after {max-width:310px; width:100%;height:0;padding: 0 0 71.29032258064517% 0;}
+.class11_maths_straight_line_3_2 {max-width:381px; max-height:238px; }
+.class11_maths_straight_line_3_2::after {content: '\00a0';display: inline-block; width:381px; height:238px; background-position: 0.13386880856760375% 50%;background-size: 296.06299212598424% 100.84033613445378%;background-image: url(mt_note_ch16.png);padding: 0; }
+div.class11_maths_straight_line_3_2::after {max-width:381px; width:100%;height:0;padding: 0 0 62.46719160104987% 0;}
+.class11_maths_straight_line_6_1 {max-width:433px; max-height:234px; }
+.class11_maths_straight_line_6_1::after {content: '\00a0';display: inline-block; width:433px; height:234px; background-position: 55.10791366906475% 16.666666666666668%;background-size: 260.5080831408776% 102.56410256410257%;background-image: url(mt_note_ch16.png);padding: 0; }
+div.class11_maths_straight_line_6_1::after {max-width:433px; width:100%;height:0;padding: 0 0 54.04157043879908% 0;}
+
+/* $TexturePacker:SmartUpdate:0cca35bbb00973e35bd98f07ebba031b:ce3df661e8c79d4ac97264f4f5426c16:6ab907c1d75c07f9cb50eefa1cfc65e0$ */
