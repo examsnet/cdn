@@ -8,16 +8,37 @@ Responsive: <div class="yourspritesname"></div>
 
 
 .BPSC_CCE_45TH_121 {max-width:304px; max-height:158px; }
-.BPSC_CCE_45TH_121::after {content: '\00a0';display: inline-block; width:304px; height:158px; background-position: 3.0303030303030303% 99.88151658767772%;background-size: 110.85526315789474% 634.1772151898734%;background-image: url(bpsc1.png);padding: 0; }
+.BPSC_CCE_45TH_121::after {content: '\00a0';display: inline-block; width:304px; height:158px; background-position: 96.44067796610169% 71.27371273712737%;background-size: 294.07894736842104% 567.0886075949367%;background-image: url(bpsc1.png);padding: 0; }
 div.BPSC_CCE_45TH_121::after {max-width:304px; width:100%;height:0;padding: 0 0 51.973684210526315% 0;}
+.BPSC_CCE_45TH_121sol {max-width:224px; max-height:154px; }
+.BPSC_CCE_45TH_121sol::after {content: '\00a0';display: inline-block; width:224px; height:154px; background-position: 50.298507462686565% 76.68463611859838%;background-size: 399.10714285714283% 581.8181818181819%;background-image: url(bpsc1.png);padding: 0; }
+div.BPSC_CCE_45TH_121sol::after {max-width:224px; width:100%;height:0;padding: 0 0 68.75% 0;}
+.BPSC_CCE_56th-59TH_127sol {max-width:246px; max-height:146px; }
+.BPSC_CCE_56th-59TH_127sol::after {content: '\00a0';display: inline-block; width:246px; height:146px; background-position: 91.82098765432099% 91.33333333333333%;background-size: 363.4146341463415% 613.6986301369863%;background-image: url(bpsc1.png);padding: 0; }
+div.BPSC_CCE_56th-59TH_127sol::after {max-width:246px; width:100%;height:0;padding: 0 0 59.34959349593496% 0;}
 .BPSC_CCE_60TH-62ND_54 {max-width:335px; max-height:239px; }
-.BPSC_CCE_60TH-62ND_54::after {content: '\00a0';display: inline-block; width:335px; height:239px; background-position: 50% 0.1310615989515072%;background-size: 100.59701492537313% 419.2468619246862%;background-image: url(bpsc1.png);padding: 0; }
+.BPSC_CCE_60TH-62ND_54::after {content: '\00a0';display: inline-block; width:335px; height:239px; background-position: 0.17889087656529518% 99.84779299847793%;background-size: 266.86567164179104% 374.89539748953973%;background-image: url(bpsc1.png);padding: 0; }
 div.BPSC_CCE_60TH-62ND_54::after {max-width:335px; width:100%;height:0;padding: 0 0 71.34328358208955% 0;}
 .BPSC_CCE_60TH-62ND_60 {max-width:311px; max-height:300px; }
-.BPSC_CCE_60TH-62ND_60::after {content: '\00a0';display: inline-block; width:311px; height:300px; background-position: 3.8461538461538463% 34.33048433048433%;background-size: 108.36012861736334% 334%;background-image: url(bpsc1.png);padding: 0; }
+.BPSC_CCE_60TH-62ND_60::after {content: '\00a0';display: inline-block; width:311px; height:300px; background-position: 0.17152658662092624% 59.56375838926174%;background-size: 287.459807073955% 298.6666666666667%;background-image: url(bpsc1.png);padding: 0; }
 div.BPSC_CCE_60TH-62ND_60::after {max-width:311px; width:100%;height:0;padding: 0 0 96.46302250803859% 0;}
+.BPSC_CCE_60th-62nd_53sol {max-width:257px; max-height:160px; }
+.BPSC_CCE_60th-62nd_53sol::after {content: '\00a0';display: inline-block; width:257px; height:160px; background-position: 52.90423861852433% 98.3695652173913%;background-size: 347.8599221789883% 560%;background-image: url(bpsc1.png);padding: 0; }
+div.BPSC_CCE_60th-62nd_53sol::after {max-width:257px; width:100%;height:0;padding: 0 0 62.2568093385214% 0;}
+.BPSC_CCE_60th-62nd_55sol {max-width:324px; max-height:170px; }
+.BPSC_CCE_60th-62nd_55sol::after {content: '\00a0';display: inline-block; width:324px; height:170px; background-position: 99.82456140350877% 48.89807162534435%;background-size: 275.9259259259259% 527.0588235294117%;background-image: url(bpsc1.png);padding: 0; }
+div.BPSC_CCE_60th-62nd_55sol::after {max-width:324px; width:100%;height:0;padding: 0 0 52.46913580246913% 0;}
 .BPSC_CCE_63RD_149 {max-width:294px; max-height:300px; }
-.BPSC_CCE_63RD_149::after {content: '\00a0';display: inline-block; width:294px; height:300px; background-position: 2.3255813953488373% 77.20797720797721%;background-size: 114.62585034013605% 334%;background-image: url(bpsc1.png);padding: 0; }
+.BPSC_CCE_63RD_149::after {content: '\00a0';display: inline-block; width:294px; height:300px; background-position: 97.83333333333333% 0.16778523489932887%;background-size: 304.0816326530612% 298.6666666666667%;background-image: url(bpsc1.png);padding: 0; }
 div.BPSC_CCE_63RD_149::after {max-width:294px; width:100%;height:0;padding: 0 0 102.04081632653062% 0;}
+.BPSC_CCE_64th_66sol {max-width:585px; max-height:353px; }
+.BPSC_CCE_64th_66sol::after {content: '\00a0';display: inline-block; width:585px; height:353px; background-position: 0.32362459546925565% 0.1841620626151013%;background-size: 152.82051282051282% 253.82436260623228%;background-image: url(bpsc1.png);padding: 0; }
+div.BPSC_CCE_64th_66sol::after {max-width:585px; width:100%;height:0;padding: 0 0 60.34188034188034% 0;}
+.BPSC_CCE_65TH-Re_15sol {max-width:255px; max-height:213px; }
+.BPSC_CCE_65TH-Re_15sol::after {content: '\00a0';display: inline-block; width:255px; height:213px; background-position: 48.98278560250391% 51.97657393850659%;background-size: 350.5882352941176% 420.65727699530515%;background-image: url(bpsc1.png);padding: 0; }
+div.BPSC_CCE_65TH-Re_15sol::after {max-width:255px; width:100%;height:0;padding: 0 0 83.52941176470588% 0;}
+.BPSC_CCE_65TH_21sol {max-width:234px; max-height:48px; }
+.BPSC_CCE_65TH_21sol::after {content: '\00a0';display: inline-block; width:234px; height:48px; background-position: 88.93939393939394% 35.613207547169814%;background-size: 382.05128205128204% 1866.6666666666667%;background-image: url(bpsc1.png);padding: 0; }
+div.BPSC_CCE_65TH_21sol::after {max-width:234px; width:100%;height:0;padding: 0 0 20.512820512820515% 0;}
 
-/* $TexturePacker:SmartUpdate:b24922b5aa9ca01fd1f7c2621296ceab:ca09c65d2e920c1f2a70f079aa1ef53d:c2e56b8041a665b283f6ec35bb343fef$ */
+/* $TexturePacker:SmartUpdate:9c0327947d729067d9473f11e2960820:5bdc63c9b91fc67a5a035aad02f15f31:c2e56b8041a665b283f6ec35bb343fef$ */
