@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.APPOLICE_CONSTABLE_MP2_188 {max-width:441px; max-height:98px; }
+.APPOLICE_CONSTABLE_MP2_188::after {content: '\00a0';display: inline-block; width:441px; height:98px; background-position: 50% 98.9247311827957%;background-size: 100.45351473922902% 194.89795918367346%;background-image: url(ap_cons_mp2.png);padding: 0; }
+div.APPOLICE_CONSTABLE_MP2_188::after {max-width:441px; width:100%;height:0;padding: 0 0 22.22222222222222% 0;}
+.APPOLICE_CONSTABLE_MP2_194 {max-width:94px; max-height:84px; }
+.APPOLICE_CONSTABLE_MP2_194::after {content: '\00a0';display: inline-block; width:94px; height:84px; background-position: 38.68194842406877% 0.9345794392523364%;background-size: 471.27659574468083% 227.38095238095238%;background-image: url(ap_cons_mp2.png);padding: 0; }
+div.APPOLICE_CONSTABLE_MP2_194::after {max-width:94px; width:100%;height:0;padding: 0 0 89.36170212765957% 0;}
+.APPOLICE_CONSTABLE_MP2_194_1 {max-width:115px; max-height:86px; }
+.APPOLICE_CONSTABLE_MP2_194_1::after {content: '\00a0';display: inline-block; width:115px; height:86px; background-position: 70.1219512195122% 0.9523809523809523%;background-size: 385.2173913043478% 222.09302325581396%;background-image: url(ap_cons_mp2.png);padding: 0; }
+div.APPOLICE_CONSTABLE_MP2_194_1::after {max-width:115px; width:100%;height:0;padding: 0 0 74.78260869565217% 0;}
+.APPOLICE_CONSTABLE_MP2_194_2 {max-width:133px; max-height:70px; }
+.APPOLICE_CONSTABLE_MP2_194_2::after {content: '\00a0';display: inline-block; width:133px; height:70px; background-position: 0.3225806451612903% 0.8264462809917356%;background-size: 333.0827067669173% 272.85714285714283%;background-image: url(ap_cons_mp2.png);padding: 0; }
+div.APPOLICE_CONSTABLE_MP2_194_2::after {max-width:133px; width:100%;height:0;padding: 0 0 52.63157894736842% 0;}
+.APPOLICE_CONSTABLE_MP2_194_3 {max-width:94px; max-height:90px; }
+.APPOLICE_CONSTABLE_MP2_194_3::after {content: '\00a0';display: inline-block; width:94px; height:90px; background-position: 99.14040114613181% 0.9900990099009901%;background-size: 471.27659574468083% 212.22222222222223%;background-image: url(ap_cons_mp2.png);padding: 0; }
+div.APPOLICE_CONSTABLE_MP2_194_3::after {max-width:94px; width:100%;height:0;padding: 0 0 95.74468085106383% 0;}
+
+/* $TexturePacker:SmartUpdate:11538a45b8032d7301e20214c02fa22b:4c2d02acec47952d737a983b877e2b40:a82c77497cfd58d4746a6535db7f72fe$ */
