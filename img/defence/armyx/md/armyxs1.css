@@ -1,0 +1,47 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.ARMYGROUPX_SET_1_SOL_35 {max-width:340px; max-height:174px; }
+.ARMYGROUPX_SET_1_SOL_35::after {content: '\00a0';display: inline-block; width:340px; height:174px; background-position: 90.2439024390244% 82.93556085918854%;background-size: 148.23529411764707% 581.6091954022988%;background-image: url(armyxs1.png);padding: 0; }
+div.ARMYGROUPX_SET_1_SOL_35::after {max-width:340px; width:100%;height:0;padding: 0 0 51.1764705882353% 0;}
+.ARMYGROUPX_SET_1_SOL_42 {max-width:295px; max-height:141px; }
+.ARMYGROUPX_SET_1_SOL_42::after {content: '\00a0';display: inline-block; width:295px; height:141px; background-position: 0.4784688995215311% 99.88518943742824%;background-size: 170.84745762711864% 717.7304964539007%;background-image: url(armyxs1.png);padding: 0; }
+div.ARMYGROUPX_SET_1_SOL_42::after {max-width:295px; width:100%;height:0;padding: 0 0 47.79661016949152% 0;}
+.ARMYGROUPX_SET_1_SOL_66 {max-width:195px; max-height:143px; }
+.ARMYGROUPX_SET_1_SOL_66::after {content: '\00a0';display: inline-block; width:195px; height:143px; background-position: 0.32362459546925565% 51.32336018411968%;background-size: 258.46153846153845% 707.6923076923077%;background-image: url(armyxs1.png);padding: 0; }
+div.ARMYGROUPX_SET_1_SOL_66::after {max-width:195px; width:100%;height:0;padding: 0 0 73.33333333333333% 0;}
+.ARMYGROUPX_SET_2_SOL_30 {max-width:179px; max-height:145px; }
+.ARMYGROUPX_SET_2_SOL_30::after {content: '\00a0';display: inline-block; width:179px; height:145px; background-position: 97.53846153846153% 0.11534025374855825%;background-size: 281.56424581005587% 697.9310344827586%;background-image: url(armyxs1.png);padding: 0; }
+div.ARMYGROUPX_SET_2_SOL_30::after {max-width:179px; width:100%;height:0;padding: 0 0 81.00558659217877% 0;}
+.ARMYGROUPX_SET_2_SOL_51 {max-width:256px; max-height:226px; }
+.ARMYGROUPX_SET_2_SOL_51::after {content: '\00a0';display: inline-block; width:256px; height:226px; background-position: 0.4032258064516129% 27.862595419847327%;background-size: 196.875% 447.78761061946904%;background-image: url(armyxs1.png);padding: 0; }
+div.ARMYGROUPX_SET_2_SOL_51::after {max-width:256px; width:100%;height:0;padding: 0 0 88.28125% 0;}
+.ARMYGROUPX_SET_2_SOL_57 {max-width:306px; max-height:186px; }
+.ARMYGROUPX_SET_2_SOL_57::after {content: '\00a0';display: inline-block; width:306px; height:186px; background-position: 99.4949494949495% 61.50121065375303%;background-size: 164.7058823529412% 544.0860215053764%;background-image: url(armyxs1.png);padding: 0; }
+div.ARMYGROUPX_SET_2_SOL_57::after {max-width:306px; width:100%;height:0;padding: 0 0 60.78431372549019% 0;}
+.ARMYGROUP_PRACTICE_SET3_SOL_23 {max-width:131px; max-height:120px; }
+.ARMYGROUP_PRACTICE_SET3_SOL_23::after {content: '\00a0';display: inline-block; width:131px; height:120px; background-position: 0.2680965147453083% 83.6322869955157%;background-size: 384.7328244274809% 843.3333333333334%;background-image: url(armyxs1.png);padding: 0; }
+div.ARMYGROUP_PRACTICE_SET3_SOL_23::after {max-width:131px; width:100%;height:0;padding: 0 0 91.6030534351145% 0;}
+.ARMYGROUP_PRACTICE_SET3_SOL_52 {max-width:147px; max-height:138px; }
+.ARMYGROUP_PRACTICE_SET3_SOL_52::after {content: '\00a0';display: inline-block; width:147px; height:138px; background-position: 83.19327731092437% 99.54233409610984%;background-size: 342.85714285714283% 733.3333333333334%;background-image: url(armyxs1.png);padding: 0; }
+div.ARMYGROUP_PRACTICE_SET3_SOL_52::after {max-width:147px; width:100%;height:0;padding: 0 0 93.87755102040816% 0;}
+.armygroup_practice_set4_Ques36 {max-width:161px; max-height:160px; }
+.armygroup_practice_set4_Ques36::after {content: '\00a0';display: inline-block; width:161px; height:160px; background-position: 92.4198250728863% 17.253521126760564%;background-size: 313.04347826086956% 632.5%;background-image: url(armyxs1.png);padding: 0; }
+div.armygroup_practice_set4_Ques36::after {max-width:161px; width:100%;height:0;padding: 0 0 99.37888198757764% 0;}
+.armygroup_practice_set4_Sol36 {max-width:146px; max-height:155px; }
+.armygroup_practice_set4_Sol36::after {content: '\00a0';display: inline-block; width:146px; height:155px; background-position: 0.27932960893854747% 68.84480746791132%;background-size: 345.2054794520548% 652.9032258064516%;background-image: url(armyxs1.png);padding: 0; }
+div.armygroup_practice_set4_Sol36::after {max-width:146px; width:100%;height:0;padding: 0 0 106.16438356164383% 0;}
+.armygroup_practice_set4_sol62 {max-width:315px; max-height:217px; }
+.armygroup_practice_set4_sol62::after {content: '\00a0';display: inline-block; width:315px; height:217px; background-position: 0.5291005291005291% 0.12578616352201258%;background-size: 160% 466.3594470046083%;background-image: url(armyxs1.png);padding: 0; }
+div.armygroup_practice_set4_sol62::after {max-width:315px; width:100%;height:0;padding: 0 0 68.88888888888889% 0;}
+.armygroup_practice_set_4_sol65 {max-width:215px; max-height:199px; }
+.armygroup_practice_set_4_sol65::after {content: '\00a0';display: inline-block; width:215px; height:199px; background-position: 89.27335640138408% 37.88437884378844%;background-size: 234.41860465116278% 508.5427135678392%;background-image: url(armyxs1.png);padding: 0; }
+div.armygroup_practice_set_4_sol65::after {max-width:215px; width:100%;height:0;padding: 0 0 92.55813953488372% 0;}
+
+/* $TexturePacker:SmartUpdate:2048f4ea6f42e08e1682116c7794f93b:670c4a950d30874f29649146cb5ec14b:40a52c6baea01fff74a10d07e5a389df$ */
