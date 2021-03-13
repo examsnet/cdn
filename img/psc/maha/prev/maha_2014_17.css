@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.MPSC_2014_Eng_53Sol {max-width:392px; max-height:289px; }
+.MPSC_2014_Eng_53Sol::after {content: '\00a0';display: inline-block; width:392px; height:289px; background-position: 0.17123287671232876% 99.85315712187959%;background-size: 248.9795918367347% 335.6401384083045%;background-image: url(maha_2014_17.png);padding: 0; }
+div.MPSC_2014_Eng_53Sol::after {max-width:392px; width:100%;height:0;padding: 0 0 73.72448979591837% 0;}
+.MPSC_2015_Eng_17Sol {max-width:540px; max-height:412px; }
+.MPSC_2015_Eng_17Sol::after {content: '\00a0';display: inline-block; width:540px; height:412px; background-position: 0.22935779816513763% 0.17921146953405018%;background-size: 180.74074074074073% 235.4368932038835%;background-image: url(maha_2014_17.png);padding: 0; }
+div.MPSC_2015_Eng_17Sol::after {max-width:540px; width:100%;height:0;padding: 0 0 76.29629629629629% 0;}
+.MPSC_2015_Eng_20Sol {max-width:484px; max-height:265px; }
+.MPSC_2015_Eng_20Sol::after {content: '\00a0';display: inline-block; width:484px; height:265px; background-position: 0.2032520325203252% 58.723404255319146%;background-size: 201.65289256198346% 366.0377358490566%;background-image: url(maha_2014_17.png);padding: 0; }
+div.MPSC_2015_Eng_20Sol::after {max-width:484px; width:100%;height:0;padding: 0 0 54.752066115702476% 0;}
+.MPSC_20165_Eng_62Sol {max-width:280px; max-height:192px; }
+.MPSC_20165_Eng_62Sol::after {content: '\00a0';display: inline-block; width:280px; height:192px; background-position: 56.60919540229885% 87.40359897172236%;background-size: 348.57142857142856% 505.2083333333333%;background-image: url(maha_2014_17.png);padding: 0; }
+div.MPSC_20165_Eng_62Sol::after {max-width:280px; width:100%;height:0;padding: 0 0 68.57142857142857% 0;}
+.MPSC_2017_Eng_20 {max-width:279px; max-height:294px; }
+.MPSC_2017_Eng_20::after {content: '\00a0';display: inline-block; width:279px; height:294px; background-position: 96.84361549497848% 99.11242603550296%;background-size: 349.82078853046596% 329.93197278911566%;background-image: url(maha_2014_17.png);padding: 0; }
+div.MPSC_2017_Eng_20::after {max-width:279px; width:100%;height:0;padding: 0 0 105.3763440860215% 0;}
+.MPSC_2017_Eng_21Sol {max-width:433px; max-height:361px; }
+.MPSC_2017_Eng_21Sol::after {content: '\00a0';display: inline-block; width:433px; height:361px; background-position: 99.8158379373849% 0.16420361247947454%;background-size: 225.4041570438799% 268.69806094182826%;background-image: url(maha_2014_17.png);padding: 0; }
+div.MPSC_2017_Eng_21Sol::after {max-width:433px; width:100%;height:0;padding: 0 0 83.37182448036951% 0;}
+.MPSC_2017_Eng_30 {max-width:297px; max-height:306px; }
+.MPSC_2017_Eng_30::after {content: '\00a0';display: inline-block; width:297px; height:306px; background-position: 79.82326951399116% 54.66867469879518%;background-size: 328.61952861952864% 316.9934640522876%;background-image: url(maha_2014_17.png);padding: 0; }
+div.MPSC_2017_Eng_30::after {max-width:297px; width:100%;height:0;padding: 0 0 103.03030303030303% 0;}
+
+/* $TexturePacker:SmartUpdate:00423668b80f1e85c64d64582d48bc10:8499c6fe52e2c3e087ba87c0bbce63bc:0a9ee180b222db22eb68fb3ce4c78582$ */
