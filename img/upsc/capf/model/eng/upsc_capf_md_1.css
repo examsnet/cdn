@@ -7,29 +7,29 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
-.UPSC_CAPF_AC_Model-paper1_Ques2 {max-width:395px; max-height:109px; }
-.UPSC_CAPF_AC_Model-paper1_Ques2::after {content: '\00a0';display: inline-block; width:395px; height:109px; background-position: 72.48576850094877% 34.73684210526316%;background-size: 233.41772151898735% 448.6238532110092%;background-image: url(upsc_capf_md_1.png);padding: 0; }
-div.UPSC_CAPF_AC_Model-paper1_Ques2::after {max-width:395px; width:100%;height:0;padding: 0 0 27.59493670886076% 0;}
-.UPSC_CAPF_AC_Model-paper1_Sol1 {max-width:287px; max-height:97px; }
-.UPSC_CAPF_AC_Model-paper1_Sol1::after {content: '\00a0';display: inline-block; width:287px; height:97px; background-position: 60.15748031496063% 61.734693877551024%;background-size: 321.25435540069685% 504.12371134020617%;background-image: url(upsc_capf_md_1.png);padding: 0; }
-div.UPSC_CAPF_AC_Model-paper1_Sol1::after {max-width:287px; width:100%;height:0;padding: 0 0 33.79790940766551% 0;}
-.UPSC_CAPF_AC_Model-paper1_Sol10 {max-width:380px; max-height:359px; }
-.UPSC_CAPF_AC_Model-paper1_Sol10::after {content: '\00a0';display: inline-block; width:380px; height:359px; background-position: 0.18450184501845018% 0.7692307692307693%;background-size: 242.6315789473684% 136.2116991643454%;background-image: url(upsc_capf_md_1.png);padding: 0; }
-div.UPSC_CAPF_AC_Model-paper1_Sol10::after {max-width:380px; width:100%;height:0;padding: 0 0 94.47368421052632% 0;}
-.UPSC_CAPF_AC_Model-paper1_Sol3 {max-width:539px; max-height:130px; }
-.UPSC_CAPF_AC_Model-paper1_Sol3::after {content: '\00a0';display: inline-block; width:539px; height:130px; background-position: 99.73890339425587% 0.2785515320334262%;background-size: 171.05751391465677% 376.15384615384613%;background-image: url(upsc_capf_md_1.png);padding: 0; }
-div.UPSC_CAPF_AC_Model-paper1_Sol3::after {max-width:539px; width:100%;height:0;padding: 0 0 24.11873840445269% 0;}
-.UPSC_CAPF_AC_Model-paper1_Sol3.1 {max-width:218px; max-height:120px; }
-.UPSC_CAPF_AC_Model-paper1_Sol3.1::after {content: '\00a0';display: inline-block; width:218px; height:120px; background-position: 95.17045454545455% 65.58265582655827%;background-size: 422.9357798165138% 407.5%;background-image: url(upsc_capf_md_1.png);padding: 0; }
-div.UPSC_CAPF_AC_Model-paper1_Sol3.1::after {max-width:218px; width:100%;height:0;padding: 0 0 55.04587155963303% 0;}
-.UPSC_CAPF_AC_Model-paper1_Sol6 {max-width:468px; max-height:122px; }
-.UPSC_CAPF_AC_Model-paper1_Sol6::after {content: '\00a0';display: inline-block; width:468px; height:122px; background-position: 0.22026431718061673% 98.36512261580381%;background-size: 197.008547008547% 400.8196721311475%;background-image: url(upsc_capf_md_1.png);padding: 0; }
-div.UPSC_CAPF_AC_Model-paper1_Sol6::after {max-width:468px; width:100%;height:0;padding: 0 0 26.068376068376068% 0;}
-.UPSC_CAPF_AC_Model-paper1_Sol6.1 {max-width:192px; max-height:126px; }
-.UPSC_CAPF_AC_Model-paper1_Sol6.1::after {content: '\00a0';display: inline-block; width:192px; height:126px; background-position: 64.38356164383562% 93.66391184573003%;background-size: 480.2083333333333% 388.0952380952381%;background-image: url(upsc_capf_md_1.png);padding: 0; }
-div.UPSC_CAPF_AC_Model-paper1_Sol6.1::after {max-width:192px; width:100%;height:0;padding: 0 0 65.625% 0;}
-.UPSC_CAPF_AC_Model-paper1_Sol6.2 {max-width:192px; max-height:125px; }
-.UPSC_CAPF_AC_Model-paper1_Sol6.2::after {content: '\00a0';display: inline-block; width:192px; height:125px; background-position: 90.82191780821918% 99.72527472527473%;background-size: 480.2083333333333% 391.2%;background-image: url(upsc_capf_md_1.png);padding: 0; }
-div.UPSC_CAPF_AC_Model-paper1_Sol6.2::after {max-width:192px; width:100%;height:0;padding: 0 0 65.10416666666667% 0;}
+.UPSC_CAPF_AC_Model_paper1_Ques2 {max-width:395px; max-height:109px; }
+.UPSC_CAPF_AC_Model_paper1_Ques2::after {content: '\00a0';display: inline-block; width:395px; height:109px; background-position: 72.48576850094877% 34.73684210526316%;background-size: 233.41772151898735% 448.6238532110092%;background-image: url(upsc_capf_md_1.png);padding: 0; }
+div.UPSC_CAPF_AC_Model_paper1_Ques2::after {max-width:395px; width:100%;height:0;padding: 0 0 27.59493670886076% 0;}
+.UPSC_CAPF_AC_Model_paper1_Sol1 {max-width:287px; max-height:97px; }
+.UPSC_CAPF_AC_Model_paper1_Sol1::after {content: '\00a0';display: inline-block; width:287px; height:97px; background-position: 60.15748031496063% 61.734693877551024%;background-size: 321.25435540069685% 504.12371134020617%;background-image: url(upsc_capf_md_1.png);padding: 0; }
+div.UPSC_CAPF_AC_Model_paper1_Sol1::after {max-width:287px; width:100%;height:0;padding: 0 0 33.79790940766551% 0;}
+.UPSC_CAPF_AC_Model_paper1_Sol10 {max-width:380px; max-height:359px; }
+.UPSC_CAPF_AC_Model_paper1_Sol10::after {content: '\00a0';display: inline-block; width:380px; height:359px; background-position: 0.18450184501845018% 0.7692307692307693%;background-size: 242.6315789473684% 136.2116991643454%;background-image: url(upsc_capf_md_1.png);padding: 0; }
+div.UPSC_CAPF_AC_Model_paper1_Sol10::after {max-width:380px; width:100%;height:0;padding: 0 0 94.47368421052632% 0;}
+.UPSC_CAPF_AC_Model_paper1_Sol3 {max-width:539px; max-height:130px; }
+.UPSC_CAPF_AC_Model_paper1_Sol3::after {content: '\00a0';display: inline-block; width:539px; height:130px; background-position: 99.73890339425587% 0.2785515320334262%;background-size: 171.05751391465677% 376.15384615384613%;background-image: url(upsc_capf_md_1.png);padding: 0; }
+div.UPSC_CAPF_AC_Model_paper1_Sol3::after {max-width:539px; width:100%;height:0;padding: 0 0 24.11873840445269% 0;}
+.UPSC_CAPF_AC_Model_paper1_Sol3.1 {max-width:218px; max-height:120px; }
+.UPSC_CAPF_AC_Model_paper1_Sol3.1::after {content: '\00a0';display: inline-block; width:218px; height:120px; background-position: 95.17045454545455% 65.58265582655827%;background-size: 422.9357798165138% 407.5%;background-image: url(upsc_capf_md_1.png);padding: 0; }
+div.UPSC_CAPF_AC_Model_paper1_Sol3.1::after {max-width:218px; width:100%;height:0;padding: 0 0 55.04587155963303% 0;}
+.UPSC_CAPF_AC_Model_paper1_Sol6 {max-width:468px; max-height:122px; }
+.UPSC_CAPF_AC_Model_paper1_Sol6::after {content: '\00a0';display: inline-block; width:468px; height:122px; background-position: 0.22026431718061673% 98.36512261580381%;background-size: 197.008547008547% 400.8196721311475%;background-image: url(upsc_capf_md_1.png);padding: 0; }
+div.UPSC_CAPF_AC_Model_paper1_Sol6::after {max-width:468px; width:100%;height:0;padding: 0 0 26.068376068376068% 0;}
+.UPSC_CAPF_AC_Model_paper1_Sol6.1 {max-width:192px; max-height:126px; }
+.UPSC_CAPF_AC_Model_paper1_Sol6.1::after {content: '\00a0';display: inline-block; width:192px; height:126px; background-position: 64.38356164383562% 93.66391184573003%;background-size: 480.2083333333333% 388.0952380952381%;background-image: url(upsc_capf_md_1.png);padding: 0; }
+div.UPSC_CAPF_AC_Model_paper1_Sol6.1::after {max-width:192px; width:100%;height:0;padding: 0 0 65.625% 0;}
+.UPSC_CAPF_AC_Model_paper1_Sol6.2 {max-width:192px; max-height:125px; }
+.UPSC_CAPF_AC_Model_paper1_Sol6.2::after {content: '\00a0';display: inline-block; width:192px; height:125px; background-position: 90.82191780821918% 99.72527472527473%;background-size: 480.2083333333333% 391.2%;background-image: url(upsc_capf_md_1.png);padding: 0; }
+div.UPSC_CAPF_AC_Model_paper1_Sol6.2::after {max-width:192px; width:100%;height:0;padding: 0 0 65.10416666666667% 0;}
 
-/* $TexturePacker:SmartUpdate:ad51f9bbc11de74de5a97aaa57a43af6:8e672884b81816364efba9bb715c3b91:68b872774b73b80df3476a62e894dd04$ */
+/* $TexturePacker:SmartUpdate:7e4f5cac9202c2082f425af136b2a59a:8e672884b81816364efba9bb715c3b91:68b872774b73b80df3476a62e894dd04$ */
