@@ -1,0 +1,71 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.NIMCET_2020_18_solu {max-width:366px; max-height:264px; }
+.NIMCET_2020_18_solu::after {content: '\00a0';display: inline-block; width:366px; height:264px; background-position: 0.1557632398753894% 71.81164159581425%;background-size: 275.40983606557376% 679.1666666666666%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_18_solu::after {max-width:366px; width:100%;height:0;padding: 0 0 72.1311475409836% 0;}
+.NIMCET_2020_22_sol {max-width:539px; max-height:253px; }
+.NIMCET_2020_22_sol::after {content: '\00a0';display: inline-block; width:539px; height:253px; background-position: 0.21321961620469082% 0.06493506493506493%;background-size: 187.01298701298703% 708.695652173913%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_22_sol::after {max-width:539px; width:100%;height:0;padding: 0 0 46.93877551020408% 0;}
+.NIMCET_2020_24_sol {max-width:371px; max-height:69px; }
+.NIMCET_2020_24_sol::after {content: '\00a0';display: inline-block; width:371px; height:69px; background-position: 0.15698587127158556% 59.62877030162413%;background-size: 271.6981132075472% 2598.550724637681%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_24_sol::after {max-width:371px; width:100%;height:0;padding: 0 0 18.598382749326145% 0;}
+.NIMCET_2020_29_sol {max-width:466px; max-height:267px; }
+.NIMCET_2020_29_sol::after {content: '\00a0';display: inline-block; width:466px; height:267px; background-position: 99.81549815498155% 0.0655307994757536%;background-size: 216.30901287553647% 671.5355805243446%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_29_sol::after {max-width:466px; width:100%;height:0;padding: 0 0 57.2961373390558% 0;}
+.NIMCET_2020_45_sol {max-width:397px; max-height:221px; }
+.NIMCET_2020_45_sol::after {content: '\00a0';display: inline-block; width:397px; height:221px; background-position: 0.16366612111292964% 51.27226463104326%;background-size: 253.90428211586902% 811.3122171945702%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_45_sol::after {max-width:397px; width:100%;height:0;padding: 0 0 55.66750629722922% 0;}
+.NIMCET_2020_46_sol {max-width:352px; max-height:204px; }
+.NIMCET_2020_46_sol::after {content: '\00a0';display: inline-block; width:352px; height:204px; background-position: 56.09756097560975% 73.88294524858402%;background-size: 286.3636363636364% 878.9215686274509%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_46_sol::after {max-width:352px; width:100%;height:0;padding: 0 0 57.95454545454545% 0;}
+.NIMCET_2020_60_sol {max-width:334px; max-height:261px; }
+.NIMCET_2020_60_sol::after {content: '\00a0';display: inline-block; width:334px; height:261px; background-position: 50.445103857566764% 90.0130548302872%;background-size: 301.79640718562877% 686.9731800766283%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_60_sol::after {max-width:334px; width:100%;height:0;padding: 0 0 78.1437125748503% 0;}
+.NIMCET_2020_67_sol {max-width:254px; max-height:278px; }
+.NIMCET_2020_67_sol::after {content: '\00a0';display: inline-block; width:254px; height:278px; background-position: 95.62334217506631% 82.77227722772277%;background-size: 396.8503937007874% 644.9640287769785%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_67_sol::after {max-width:254px; width:100%;height:0;padding: 0 0 109.44881889763779% 0;}
+.NIMCET_2020_70_sol {max-width:505px; max-height:227px; }
+.NIMCET_2020_70_sol::after {content: '\00a0';display: inline-block; width:505px; height:227px; background-position: 0.1988071570576541% 16.28352490421456%;background-size: 199.6039603960396% 789.8678414096917%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_70_sol::after {max-width:505px; width:100%;height:0;padding: 0 0 44.95049504950495% 0;}
+.NIMCET_2020_71 {max-width:450px; max-height:322px; }
+.NIMCET_2020_71::after {content: '\00a0';display: inline-block; width:450px; height:322px; background-position: 0.17921146953405018% 32.83480625424881%;background-size: 224% 556.8322981366459%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_71::after {max-width:450px; width:100%;height:0;padding: 0 0 71.55555555555556% 0;}
+.NIMCET_2020_74_sol {max-width:176px; max-height:173px; }
+.NIMCET_2020_74_sol::after {content: '\00a0';display: inline-block; width:176px; height:173px; background-position: 94.23076923076923% 56.851851851851855%;background-size: 572.7272727272727% 1036.4161849710983%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_74_sol::after {max-width:176px; width:100%;height:0;padding: 0 0 98.29545454545455% 0;}
+.NIMCET_2020_75_sol {max-width:384px; max-height:252px; }
+.NIMCET_2020_75_sol::after {content: '\00a0';display: inline-block; width:384px; height:252px; background-position: 63.94230769230769% 59.76638546398443%;background-size: 262.5% 711.5079365079365%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_75_sol::after {max-width:384px; width:100%;height:0;padding: 0 0 65.625% 0;}
+.NIMCET_2020_78_sol {max-width:490px; max-height:252px; }
+.NIMCET_2020_78_sol::after {content: '\00a0';display: inline-block; width:490px; height:252px; background-position: 97.87644787644787% 25.502920181700194%;background-size: 205.71428571428572% 711.5079365079365%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_78_sol::after {max-width:490px; width:100%;height:0;padding: 0 0 51.42857142857143% 0;}
+.NIMCET_2020_82 {max-width:432px; max-height:119px; }
+.NIMCET_2020_82::after {content: '\00a0';display: inline-block; width:432px; height:119px; background-position: 78.47222222222223% 47.8494623655914%;background-size: 233.33333333333334% 1506.7226890756303%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_82::after {max-width:432px; width:100%;height:0;padding: 0 0 27.546296296296298% 0;}
+.NIMCET_2020_82_sol {max-width:441px; max-height:154px; }
+.NIMCET_2020_82_sol::after {content: '\00a0';display: inline-block; width:441px; height:154px; background-position: 79.71781305114638% 39.41427699816962%;background-size: 228.57142857142858% 1164.2857142857142%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_82_sol::after {max-width:441px; width:100%;height:0;padding: 0 0 34.92063492063492% 0;}
+.NIMCET_2020_84 {max-width:329px; max-height:120px; }
+.NIMCET_2020_84::after {content: '\00a0';display: inline-block; width:329px; height:120px; background-position: 0.14727540500736377% 94.26180514046622%;background-size: 306.3829787234043% 1494.1666666666667%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_84::after {max-width:329px; width:100%;height:0;padding: 0 0 36.474164133738604% 0;}
+.NIMCET_2020_85 {max-width:494px; max-height:123px; }
+.NIMCET_2020_85::after {content: '\00a0';display: inline-block; width:494px; height:123px; background-position: 98.63813229571984% 16.107784431137723%;background-size: 204.04858299595142% 1457.7235772357724%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_85::after {max-width:494px; width:100%;height:0;padding: 0 0 24.898785425101213% 0;}
+.NIMCET_2020_94_sol {max-width:325px; max-height:259px; }
+.NIMCET_2020_94_sol::after {content: '\00a0';display: inline-block; width:325px; height:259px; background-position: 98.82869692532942% 99.9348109517601%;background-size: 310.15384615384613% 692.2779922779923%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_94_sol::after {max-width:325px; width:100%;height:0;padding: 0 0 79.6923076923077% 0;}
+.NIMCET_2020_95_sol {max-width:338px; max-height:213px; }
+.NIMCET_2020_95_sol::after {content: '\00a0';display: inline-block; width:338px; height:213px; background-position: 0.14925373134328357% 86.26582278481013%;background-size: 298.2248520710059% 841.7840375586854%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_95_sol::after {max-width:338px; width:100%;height:0;padding: 0 0 63.01775147928994% 0;}
+.NIMCET_2020_97 {max-width:277px; max-height:79px; }
+.NIMCET_2020_97::after {content: '\00a0';display: inline-block; width:277px; height:79px; background-position: 98.63201094391245% 68.49474912485414%;background-size: 363.898916967509% 2269.6202531645567%;background-image: url(nimcet2020.png);padding: 0; }
+div.NIMCET_2020_97::after {max-width:277px; width:100%;height:0;padding: 0 0 28.51985559566787% 0;}
+
+/* $TexturePacker:SmartUpdate:33e7a145e22611b4f1d029e435362dec:062e089c307515771ef810d80fbf0876:7f177ad8bb2ed7457bb74c86113ddb54$ */
