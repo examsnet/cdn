@@ -115,9 +115,9 @@ div.DRDO_MTS_Model_paper4_Sol16::after {max-width:194px; width:100%;height:0;pad
 .DRDO_MTS_Model_paper4_Sol17 {max-width:390px; max-height:196px; }
 .DRDO_MTS_Model_paper4_Sol17::after {content: '\00a0';display: inline-block; width:390px; height:196px; background-position: 36.925515055467514% 38.12636165577342%;background-size: 261.79487179487177% 802.5510204081633%;background-image: url(drdo_eng_md_4.png);padding: 0; }
 div.DRDO_MTS_Model_paper4_Sol17::after {max-width:390px; width:100%;height:0;padding: 0 0 50.256410256410255% 0;}
-.DRDO_MTS_Model_paper4_Sol17.1 {max-width:197px; max-height:338px; }
-.DRDO_MTS_Model_paper4_Sol17.1::after {content: '\00a0';display: inline-block; width:197px; height:338px; background-position: 0.12135922330097088% 77.00404858299595%;background-size: 518.274111675127% 465.38461538461536%;background-image: url(drdo_eng_md_4.png);padding: 0; }
-div.DRDO_MTS_Model_paper4_Sol17.1::after {max-width:197px; width:100%;height:0;padding: 0 0 171.5736040609137% 0;}
+.DRDO_MTS_Model_paper4_Sol17_1 {max-width:197px; max-height:338px; }
+.DRDO_MTS_Model_paper4_Sol17_1::after {content: '\00a0';display: inline-block; width:197px; height:338px; background-position: 0.12135922330097088% 77.00404858299595%;background-size: 518.274111675127% 465.38461538461536%;background-image: url(drdo_eng_md_4.png);padding: 0; }
+div.DRDO_MTS_Model_paper4_Sol17_1::after {max-width:197px; width:100%;height:0;padding: 0 0 171.5736040609137% 0;}
 .DRDO_MTS_Model_paper4_Sol23 {max-width:190px; max-height:100px; }
 .DRDO_MTS_Model_paper4_Sol23::after {content: '\00a0';display: inline-block; width:190px; height:100px; background-position: 64.74127557160048% 80.85539714867618%;background-size: 537.3684210526316% 1573%;background-image: url(drdo_eng_md_4.png);padding: 0; }
 div.DRDO_MTS_Model_paper4_Sol23::after {max-width:190px; width:100%;height:0;padding: 0 0 52.63157894736842% 0;}
@@ -130,15 +130,15 @@ div.DRDO_MTS_Model_paper4_Sol26::after {max-width:299px; width:100%;height:0;pad
 .DRDO_MTS_Model_paper4_Sol29 {max-width:126px; max-height:123px; }
 .DRDO_MTS_Model_paper4_Sol29::after {content: '\00a0';display: inline-block; width:126px; height:123px; background-position: 82.01117318435755% 76.34482758620689%;background-size: 810.3174603174604% 1278.861788617886%;background-image: url(drdo_eng_md_4.png);padding: 0; }
 div.DRDO_MTS_Model_paper4_Sol29::after {max-width:126px; width:100%;height:0;padding: 0 0 97.61904761904762% 0;}
-.DRDO_MTS_Model_paper4_Sol29.1 {max-width:132px; max-height:132px; }
-.DRDO_MTS_Model_paper4_Sol29.1::after {content: '\00a0';display: inline-block; width:132px; height:132px; background-position: 56.467941507311586% 93.75433726578764%;background-size: 773.4848484848485% 1191.6666666666667%;background-image: url(drdo_eng_md_4.png);padding: 0; }
-div.DRDO_MTS_Model_paper4_Sol29.1::after {max-width:132px; width:100%;height:0;padding: 0 0 100% 0;}
-.DRDO_MTS_Model_paper4_Sol29.2 {max-width:149px; max-height:133px; }
-.DRDO_MTS_Model_paper4_Sol29.2::after {content: '\00a0';display: inline-block; width:149px; height:133px; background-position: 40.137614678899084% 99.93055555555556%;background-size: 685.2348993288591% 1182.7067669172932%;background-image: url(drdo_eng_md_4.png);padding: 0; }
-div.DRDO_MTS_Model_paper4_Sol29.2::after {max-width:149px; width:100%;height:0;padding: 0 0 89.26174496644295% 0;}
-.DRDO_MTS_Model_paper4_Sol29.3 {max-width:151px; max-height:138px; }
-.DRDO_MTS_Model_paper4_Sol29.3::after {content: '\00a0';display: inline-block; width:151px; height:138px; background-position: 40.229885057471265% 90.59233449477352%;background-size: 676.158940397351% 1139.855072463768%;background-image: url(drdo_eng_md_4.png);padding: 0; }
-div.DRDO_MTS_Model_paper4_Sol29.3::after {max-width:151px; width:100%;height:0;padding: 0 0 91.3907284768212% 0;}
+.DRDO_MTS_Model_paper4_Sol29_1 {max-width:132px; max-height:132px; }
+.DRDO_MTS_Model_paper4_Sol29_1::after {content: '\00a0';display: inline-block; width:132px; height:132px; background-position: 56.467941507311586% 93.75433726578764%;background-size: 773.4848484848485% 1191.6666666666667%;background-image: url(drdo_eng_md_4.png);padding: 0; }
+div.DRDO_MTS_Model_paper4_Sol29_1::after {max-width:132px; width:100%;height:0;padding: 0 0 100% 0;}
+.DRDO_MTS_Model_paper4_Sol29_2 {max-width:149px; max-height:133px; }
+.DRDO_MTS_Model_paper4_Sol29_2::after {content: '\00a0';display: inline-block; width:149px; height:133px; background-position: 40.137614678899084% 99.93055555555556%;background-size: 685.2348993288591% 1182.7067669172932%;background-image: url(drdo_eng_md_4.png);padding: 0; }
+div.DRDO_MTS_Model_paper4_Sol29_2::after {max-width:149px; width:100%;height:0;padding: 0 0 89.26174496644295% 0;}
+.DRDO_MTS_Model_paper4_Sol29_3 {max-width:151px; max-height:138px; }
+.DRDO_MTS_Model_paper4_Sol29_3::after {content: '\00a0';display: inline-block; width:151px; height:138px; background-position: 40.229885057471265% 90.59233449477352%;background-size: 676.158940397351% 1139.855072463768%;background-image: url(drdo_eng_md_4.png);padding: 0; }
+div.DRDO_MTS_Model_paper4_Sol29_3::after {max-width:151px; width:100%;height:0;padding: 0 0 91.3907284768212% 0;}
 .DRDO_MTS_Model_paper4_Sol30 {max-width:95px; max-height:170px; }
 .DRDO_MTS_Model_paper4_Sol30::after {content: '\00a0';display: inline-block; width:95px; height:170px; background-position: 95.24838012958963% 52.601568068424804%;background-size: 1074.7368421052631% 925.2941176470588%;background-image: url(drdo_eng_md_4.png);padding: 0; }
 div.DRDO_MTS_Model_paper4_Sol30::after {max-width:95px; width:100%;height:0;padding: 0 0 178.94736842105263% 0;}
@@ -155,4 +155,4 @@ div.DRDO_MTS_Model_paper4_Sol34::after {max-width:190px; width:100%;height:0;pad
 .DRDO_MTS_Model_paper4_Sol5::after {content: '\00a0';display: inline-block; width:103px; height:223px; background-position: 98.80174291938998% 0.07407407407407407%;background-size: 991.2621359223301% 705.3811659192825%;background-image: url(drdo_eng_md_4.png);padding: 0; }
 div.DRDO_MTS_Model_paper4_Sol5::after {max-width:103px; width:100%;height:0;padding: 0 0 216.50485436893203% 0;}
 
-/* $TexturePacker:SmartUpdate:dbafb7dd50fe9f7db144a948ac2b8607:cc824fd97b36a5a4860503f6cedcfca9:df9c8641d86cc1bafabacbb6dc5b1f2d$ */
+/* $TexturePacker:SmartUpdate:17f87018b52e8011a1aab6c1b035ef75:a0a54889adf78fd4470b38c0bac2cb2f:df9c8641d86cc1bafabacbb6dc5b1f2d$ */
