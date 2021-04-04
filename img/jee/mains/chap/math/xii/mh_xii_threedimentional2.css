@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.TDG_18_s {max-width:219px; max-height:227px; }
+.TDG_18_s::after {content: '\00a0';display: inline-block; width:219px; height:227px; background-position: 25.17680339462518% 83.09859154929578%;background-size: 422.8310502283105% 225.11013215859032%;background-image: url(mh_xii_threedimentional2.png);padding: 0; }
+div.TDG_18_s::after {max-width:219px; width:100%;height:0;padding: 0 0 103.65296803652969% 0;}
+.TDG_19_s {max-width:282px; max-height:155px; }
+.TDG_19_s::after {content: '\00a0';display: inline-block; width:282px; height:155px; background-position: 61.80124223602485% 99.15730337078652%;background-size: 328.36879432624113% 329.6774193548387%;background-image: url(mh_xii_threedimentional2.png);padding: 0; }
+div.TDG_19_s::after {max-width:282px; width:100%;height:0;padding: 0 0 54.9645390070922% 0;}
+.TDG_22_s {max-width:269px; max-height:173px; }
+.TDG_22_s::after {content: '\00a0';display: inline-block; width:269px; height:173px; background-position: 96.80365296803653% 0.2958579881656805%;background-size: 344.2379182156134% 295.3757225433526%;background-image: url(mh_xii_threedimentional2.png);padding: 0; }
+div.TDG_22_s::after {max-width:269px; width:100%;height:0;padding: 0 0 64.31226765799256% 0;}
+.TDG_23_s {max-width:305px; max-height:234px; }
+.TDG_23_s::after {content: '\00a0';display: inline-block; width:305px; height:234px; background-position: 0.1610305958132045% 0.36101083032490977%;background-size: 303.60655737704917% 218.3760683760684%;background-image: url(mh_xii_threedimentional2.png);padding: 0; }
+div.TDG_23_s::after {max-width:305px; width:100%;height:0;padding: 0 0 76.72131147540983% 0;}
+.TDG_24_s {max-width:264px; max-height:149px; }
+.TDG_24_s::after {content: '\00a0';display: inline-block; width:264px; height:149px; background-position: 99.8489425981873% 48.34254143646409%;background-size: 350.75757575757575% 342.9530201342282%;background-image: url(mh_xii_threedimentional2.png);padding: 0; }
+div.TDG_24_s::after {max-width:264px; width:100%;height:0;padding: 0 0 56.43939393939394% 0;}
+.TDG_25_s {max-width:218px; max-height:124px; }
+.TDG_25_s::after {content: '\00a0';display: inline-block; width:218px; height:124px; background-position: 96.1864406779661% 83.97932816537468%;background-size: 424.77064220183485% 412.0967741935484%;background-image: url(mh_xii_threedimentional2.png);padding: 0; }
+div.TDG_25_s::after {max-width:218px; width:100%;height:0;padding: 0 0 56.88073394495413% 0;}
+.TDG_2_s {max-width:262px; max-height:173px; }
+.TDG_2_s::after {content: '\00a0';display: inline-block; width:262px; height:173px; background-position: 59.93975903614458% 52.9585798816568%;background-size: 353.4351145038168% 295.3757225433526%;background-image: url(mh_xii_threedimentional2.png);padding: 0; }
+div.TDG_2_s::after {max-width:262px; width:100%;height:0;padding: 0 0 66.03053435114504% 0;}
+.TDG_52_s {max-width:328px; max-height:177px; }
+.TDG_52_s::after {content: '\00a0';display: inline-block; width:328px; height:177px; background-position: 51.33779264214047% 0.2994011976047904%;background-size: 282.3170731707317% 288.7005649717514%;background-image: url(mh_xii_threedimentional2.png);padding: 0; }
+div.TDG_52_s::after {max-width:328px; width:100%;height:0;padding: 0 0 53.96341463414634% 0;}
+.TDG_59_s {max-width:176px; max-height:274px; }
+.TDG_59_s::after {content: '\00a0';display: inline-block; width:176px; height:274px; background-position: 0.13333333333333333% 99.57805907172995%;background-size: 526.1363636363636% 186.4963503649635%;background-image: url(mh_xii_threedimentional2.png);padding: 0; }
+div.TDG_59_s::after {max-width:176px; width:100%;height:0;padding: 0 0 155.6818181818182% 0;}
+
+/* $TexturePacker:SmartUpdate:31eb8e01eea83bab0ee422ffbd58f93e:f1822142a2e2df5fc06849781dd6cd1d:62aa89d2d08e555d7ef492a13f638c3e$ */

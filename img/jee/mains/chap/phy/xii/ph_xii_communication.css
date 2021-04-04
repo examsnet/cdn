@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Communication_Systems_10_s {max-width:357px; max-height:236px; }
+.Communication_Systems_10_s::after {content: '\00a0';display: inline-block; width:357px; height:236px; background-position: 31.98198198198198% 0.43103448275862066%;background-size: 286.5546218487395% 198.3050847457627%;background-image: url(ph_xii_communication.png);padding: 0; }
+div.Communication_Systems_10_s::after {max-width:357px; width:100%;height:0;padding: 0 0 66.10644257703082% 0;}
+.Communication_Systems_11_q {max-width:451px; max-height:228px; }
+.Communication_Systems_11_q::after {content: '\00a0';display: inline-block; width:451px; height:228px; background-position: 99.82517482517483% 0.4166666666666667%;background-size: 226.82926829268294% 205.26315789473685%;background-image: url(ph_xii_communication.png);padding: 0; }
+div.Communication_Systems_11_q::after {max-width:451px; width:100%;height:0;padding: 0 0 50.55432372505543% 0;}
+.Communication_Systems_22_s {max-width:511px; max-height:229px; }
+.Communication_Systems_22_s::after {content: '\00a0';display: inline-block; width:511px; height:229px; background-position: 67.1875% 99.581589958159%;background-size: 200.19569471624266% 204.36681222707423%;background-image: url(ph_xii_communication.png);padding: 0; }
+div.Communication_Systems_22_s::after {max-width:511px; width:100%;height:0;padding: 0 0 44.81409001956947% 0;}
+.Communication_Systems_29_q {max-width:342px; max-height:165px; }
+.Communication_Systems_29_q::after {content: '\00a0';display: inline-block; width:342px; height:165px; background-position: 0.14684287812041116% 93.72937293729373%;background-size: 299.12280701754383% 283.6363636363636%;background-image: url(ph_xii_communication.png);padding: 0; }
+div.Communication_Systems_29_q::after {max-width:342px; width:100%;height:0;padding: 0 0 48.24561403508772% 0;}
+.Communication_Systems_34_s {max-width:211px; max-height:282px; }
+.Communication_Systems_34_s::after {content: '\00a0';display: inline-block; width:211px; height:282px; background-position: 0.12315270935960591% 0.5376344086021505%;background-size: 484.8341232227488% 165.95744680851064%;background-image: url(ph_xii_communication.png);padding: 0; }
+div.Communication_Systems_34_s::after {max-width:211px; width:100%;height:0;padding: 0 0 133.64928909952607% 0;}
+
+/* $TexturePacker:SmartUpdate:93bae26c8cf6f4e408f5e11e30fe5ac6:362979c4fd4e75ed60523a8e629ea91d:489c591eee40e4c2ec63e0598a18cb9e$ */

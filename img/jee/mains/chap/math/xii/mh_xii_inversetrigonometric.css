@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Inverse_Trigonometric_Functions_16_s {max-width:270px; max-height:186px; }
+.Inverse_Trigonometric_Functions_16_s::after {content: '\00a0';display: inline-block; width:270px; height:186px; background-position: 2.9411764705882355% 99.25925925925925%;background-size: 112.5925925925926% 172.58064516129033%;background-image: url(mh_xii_inversetrigonometric.png);padding: 0; }
+div.Inverse_Trigonometric_Functions_16_s::after {max-width:270px; width:100%;height:0;padding: 0 0 68.88888888888889% 0;}
+.Inverse_Trigonometric_Functions_2_s {max-width:302px; max-height:132px; }
+.Inverse_Trigonometric_Functions_2_s::after {content: '\00a0';display: inline-block; width:302px; height:132px; background-position: 50% 0.5291005291005291%;background-size: 100.66225165562913% 243.1818181818182%;background-image: url(mh_xii_inversetrigonometric.png);padding: 0; }
+div.Inverse_Trigonometric_Functions_2_s::after {max-width:302px; width:100%;height:0;padding: 0 0 43.70860927152318% 0;}
+
+/* $TexturePacker:SmartUpdate:b7e44b7a88809e95f6415aebfe390cf8:4936e2913a2b4e5ae98d6b45e8ef1932:429fab0c6a2748996254a5f428d26501$ */

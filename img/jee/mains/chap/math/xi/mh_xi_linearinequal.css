@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.JEE_LINEARINEQUALITIES_SOL_2 {max-width:301px; max-height:63px; }
+.JEE_LINEARINEQUALITIES_SOL_2::after {content: '\00a0';display: inline-block; width:301px; height:63px; background-position: 50% 50%;background-size: 100.66445182724253% 103.17460317460318%;background-image: url(mh_xi_linearinequal.png);padding: 0; }
+div.JEE_LINEARINEQUALITIES_SOL_2::after {max-width:301px; width:100%;height:0;padding: 0 0 20.930232558139537% 0;}
+
+/* $TexturePacker:SmartUpdate:e672e6b5d78c75da1afd4d5e14f1d3ca:d39182f2fdcd8a8579e55ed78ea734ed:6984573d469c3dcf693b516802355432$ */
