@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.UPSC_CAPF_AC_HINDI_Model_paper1_Ques2 {max-width:443px; max-height:115px; }
+.UPSC_CAPF_AC_HINDI_Model_paper1_Ques2::after {content: '\00a0';display: inline-block; width:443px; height:115px; background-position: 10% 59.02578796561605%;background-size: 102.25733634311513% 706.9565217391304%;background-image: url(upsc_capf_h_md_1.png);padding: 0; }
+div.UPSC_CAPF_AC_HINDI_Model_paper1_Ques2::after {max-width:443px; width:100%;height:0;padding: 0 0 25.959367945823928% 0;}
+.UPSC_CAPF_AC_HINDI_Model_paper1_Sol1 {max-width:337px; max-height:130px; }
+.UPSC_CAPF_AC_HINDI_Model_paper1_Sol1::after {content: '\00a0';display: inline-block; width:337px; height:130px; background-position: 0.8620689655172413% 77.30600292825768%;background-size: 134.4213649851632% 625.3846153846154%;background-image: url(upsc_capf_h_md_1.png);padding: 0; }
+div.UPSC_CAPF_AC_HINDI_Model_paper1_Sol1::after {max-width:337px; width:100%;height:0;padding: 0 0 38.57566765578635% 0;}
+.UPSC_CAPF_AC_HINDI_Model_paper1_Sol10 {max-width:451px; max-height:410px; }
+.UPSC_CAPF_AC_HINDI_Model_paper1_Sol10::after {content: '\00a0';display: inline-block; width:451px; height:410px; background-position: 50% 0.24813895781637718%;background-size: 100.44345898004434% 198.29268292682926%;background-image: url(upsc_capf_h_md_1.png);padding: 0; }
+div.UPSC_CAPF_AC_HINDI_Model_paper1_Sol10::after {max-width:451px; width:100%;height:0;padding: 0 0 90.9090909090909% 0;}
+.UPSC_CAPF_AC_HINDI_Model_paper1_Sol3 {max-width:256px; max-height:153px; }
+.UPSC_CAPF_AC_HINDI_Model_paper1_Sol3::after {content: '\00a0';display: inline-block; width:256px; height:153px; background-position: 0.5076142131979695% 99.84848484848484%;background-size: 176.953125% 531.3725490196078%;background-image: url(upsc_capf_h_md_1.png);padding: 0; }
+div.UPSC_CAPF_AC_HINDI_Model_paper1_Sol3::after {max-width:256px; width:100%;height:0;padding: 0 0 59.765625% 0;}
+
+/* $TexturePacker:SmartUpdate:e3651e00bf9274f614a1e9f96bcea6b0:68bba6ec64d31d38e6a61499e6cb87da:418b5a88b3b467bc7b0720426de6f451$ */
