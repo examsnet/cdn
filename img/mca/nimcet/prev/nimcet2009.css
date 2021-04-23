@@ -1,0 +1,62 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.NIMCET_100_solu {max-width:272px; max-height:189px; }
+.NIMCET_100_solu::after {content: '\00a0';display: inline-block; width:272px; height:189px; background-position: 98.47009735744089% 67.90890269151139%;background-size: 364.3382352941176% 611.1111111111111%;background-image: url(nimcet2009.png);padding: 0; }
+div.NIMCET_100_solu::after {max-width:272px; width:100%;height:0;padding: 0 0 69.48529411764706% 0;}
+.NIMCET_10_solu {max-width:261px; max-height:121px; }
+.NIMCET_10_solu::after {content: '\00a0';display: inline-block; width:261px; height:121px; background-position: 90% 81.81818181818181%;background-size: 379.69348659003833% 954.5454545454545%;background-image: url(nimcet2009.png);padding: 0; }
+div.NIMCET_10_solu::after {max-width:261px; width:100%;height:0;padding: 0 0 46.36015325670498% 0;}
+.NIMCET_19_solu {max-width:232px; max-height:158px; }
+.NIMCET_19_solu::after {content: '\00a0';display: inline-block; width:232px; height:158px; background-position: 99.47299077733861% 34.60381143430291%;background-size: 427.1551724137931% 731.0126582278481%;background-image: url(nimcet2009.png);padding: 0; }
+div.NIMCET_19_solu::after {max-width:232px; width:100%;height:0;padding: 0 0 68.10344827586206% 0;}
+.NIMCET_33_solu {max-width:387px; max-height:226px; }
+.NIMCET_33_solu::after {content: '\00a0';display: inline-block; width:387px; height:226px; background-position: 0.16556291390728478% 98.38536060279871%;background-size: 256.0723514211886% 511.0619469026549%;background-image: url(nimcet2009.png);padding: 0; }
+div.NIMCET_33_solu::after {max-width:387px; width:100%;height:0;padding: 0 0 58.39793281653747% 0;}
+.NIMCET_36_solu {max-width:318px; max-height:156px; }
+.NIMCET_36_solu::after {content: '\00a0';display: inline-block; width:318px; height:156px; background-position: 57.800891530460625% 55.85585585585586%;background-size: 311.6352201257862% 740.3846153846154%;background-image: url(nimcet2009.png);padding: 0; }
+div.NIMCET_36_solu::after {max-width:318px; width:100%;height:0;padding: 0 0 49.056603773584904% 0;}
+.NIMCET_38_solu {max-width:266px; max-height:182px; }
+.NIMCET_38_solu::after {content: '\00a0';display: inline-block; width:266px; height:182px; background-position: 53.6551724137931% 99.89722507708119%;background-size: 372.5563909774436% 634.6153846153846%;background-image: url(nimcet2009.png);padding: 0; }
+div.NIMCET_38_solu::after {max-width:266px; width:100%;height:0;padding: 0 0 68.42105263157895% 0;}
+.NIMCET_45_solu {max-width:303px; max-height:102px; }
+.NIMCET_45_solu::after {content: '\00a0';display: inline-block; width:303px; height:102px; background-position: 56.5406976744186% 67.90123456790124%;background-size: 327.0627062706271% 1132.3529411764705%;background-image: url(nimcet2009.png);padding: 0; }
+div.NIMCET_45_solu::after {max-width:303px; width:100%;height:0;padding: 0 0 33.663366336633665% 0;}
+.NIMCET_4_solu {max-width:228px; max-height:151px; }
+.NIMCET_4_solu::after {content: '\00a0';display: inline-block; width:228px; height:151px; background-position: 98.95150720838794% 50.199203187250994%;background-size: 434.64912280701753% 764.9006622516556%;background-image: url(nimcet2009.png);padding: 0; }
+div.NIMCET_4_solu::after {max-width:228px; width:100%;height:0;padding: 0 0 66.2280701754386% 0;}
+.NIMCET_56 {max-width:365px; max-height:212px; }
+.NIMCET_56::after {content: '\00a0';display: inline-block; width:365px; height:212px; background-position: 62.14057507987221% 36.58536585365854%;background-size: 271.5068493150685% 544.811320754717%;background-image: url(nimcet2009.png);padding: 0; }
+div.NIMCET_56::after {max-width:365px; width:100%;height:0;padding: 0 0 58.082191780821915% 0;}
+.NIMCET_60_solu {max-width:402px; max-height:79px; }
+.NIMCET_60_solu::after {content: '\00a0';display: inline-block; width:402px; height:79px; background-position: 89.30390492359932% 13.568773234200744%;background-size: 246.5174129353234% 1462.0253164556962%;background-image: url(nimcet2009.png);padding: 0; }
+div.NIMCET_60_solu::after {max-width:402px; width:100%;height:0;padding: 0 0 19.65174129353234% 0;}
+.NIMCET_64 {max-width:208px; max-height:160px; }
+.NIMCET_64::after {content: '\00a0';display: inline-block; width:208px; height:160px; background-position: 83.78033205619413% 97.68844221105527%;background-size: 476.4423076923077% 721.875%;background-image: url(nimcet2009.png);padding: 0; }
+div.NIMCET_64::after {max-width:208px; width:100%;height:0;padding: 0 0 76.92307692307692% 0;}
+.NIMCET_77 {max-width:387px; max-height:620px; }
+.NIMCET_77::after {content: '\00a0';display: inline-block; width:387px; height:620px; background-position: 0.16556291390728478% 54.76635514018692%;background-size: 256.0723514211886% 186.29032258064515%;background-image: url(nimcet2009.png);padding: 0; }
+div.NIMCET_77::after {max-width:387px; width:100%;height:0;padding: 0 0 160.20671834625324% 0;}
+.NIMCET_86_solu {max-width:476px; max-height:118px; }
+.NIMCET_86_solu::after {content: '\00a0';display: inline-block; width:476px; height:118px; background-position: 99.22330097087378% 21.793635486981678%;background-size: 208.19327731092437% 978.8135593220339%;background-image: url(nimcet2009.png);padding: 0; }
+div.NIMCET_86_solu::after {max-width:476px; width:100%;height:0;padding: 0 0 24.789915966386555% 0;}
+.NIMCET_87_solu {max-width:509px; max-height:137px; }
+.NIMCET_87_solu::after {content: '\00a0';display: inline-block; width:509px; height:137px; background-position: 0.2074688796680498% 15.225933202357563%;background-size: 194.69548133595285% 843.0656934306569%;background-image: url(nimcet2009.png);padding: 0; }
+div.NIMCET_87_solu::after {max-width:509px; width:100%;height:0;padding: 0 0 26.915520628683694% 0;}
+.NIMCET_88_solu {max-width:524px; max-height:153px; }
+.NIMCET_88_solu::after {content: '\00a0';display: inline-block; width:524px; height:153px; background-position: 0.21413276231263384% 0.0998003992015968%;background-size: 189.12213740458014% 754.9019607843137%;background-image: url(nimcet2009.png);padding: 0; }
+div.NIMCET_88_solu::after {max-width:524px; width:100%;height:0;padding: 0 0 29.198473282442748% 0;}
+.NIMCET_89_solu {max-width:464px; max-height:144px; }
+.NIMCET_89_solu::after {content: '\00a0';display: inline-block; width:464px; height:144px; background-position: 99.81024667931689% 0.09891196834817013%;background-size: 213.57758620689654% 802.0833333333334%;background-image: url(nimcet2009.png);padding: 0; }
+div.NIMCET_89_solu::after {max-width:464px; width:100%;height:0;padding: 0 0 31.03448275862069% 0;}
+.NIMCET_9_solu {max-width:267px; max-height:153px; }
+.NIMCET_9_solu::after {content: '\00a0';display: inline-block; width:267px; height:153px; background-position: 53.729281767955804% 81.63672654690619%;background-size: 371.16104868913857% 754.9019607843137%;background-image: url(nimcet2009.png);padding: 0; }
+div.NIMCET_9_solu::after {max-width:267px; width:100%;height:0;padding: 0 0 57.30337078651685% 0;}
+
+/* $TexturePacker:SmartUpdate:8f815e6d367ec0dcb7fb0697a24fe437:d3871440bd92b85cc185d777ad45bdd7:f097b320439aca969a6e773bdfd38541$ */
