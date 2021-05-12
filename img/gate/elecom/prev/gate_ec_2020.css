@@ -1,0 +1,191 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.GATE_ECE_2020_10 {max-width:378px; max-height:260px; }
+.GATE_ECE_2020_10::after {content: '\00a0';display: inline-block; width:378px; height:260px; background-position: 87.07006369426752% 0.056338028169014086%;background-size: 515.3439153439153% 782.6923076923077%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_10::after {max-width:378px; width:100%;height:0;padding: 0 0 68.78306878306879% 0;}
+.GATE_ECE_2020_12 {max-width:514px; max-height:194px; }
+.GATE_ECE_2020_12::after {content: '\00a0';display: inline-block; width:514px; height:194px; background-position: 30.2649930264993% 0.054318305268875614%;background-size: 378.988326848249% 1048.9690721649486%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_12::after {max-width:514px; width:100%;height:0;padding: 0 0 37.7431906614786% 0;}
+.GATE_ECE_2020_12sol {max-width:351px; max-height:163px; }
+.GATE_ECE_2020_12sol::after {content: '\00a0';display: inline-block; width:351px; height:163px; background-position: 20.288040075140888% 53.36538461538461%;background-size: 554.985754985755% 1248.4662576687117%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_12sol::after {max-width:351px; width:100%;height:0;padding: 0 0 46.43874643874644% 0;}
+.GATE_ECE_2020_12sol_a {max-width:110px; max-height:176px; }
+.GATE_ECE_2020_12sol_a::after {content: '\00a0';display: inline-block; width:110px; height:176px; background-position: 99.18389553862895% 70.19903173749327%;background-size: 1770.909090909091% 1156.25%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_12sol_a::after {max-width:110px; width:100%;height:0;padding: 0 0 160% 0;}
+.GATE_ECE_2020_14 {max-width:476px; max-height:164px; }
+.GATE_ECE_2020_14::after {content: '\00a0';display: inline-block; width:476px; height:164px; background-position: 29.483695652173914% 10.475681453768038%;background-size: 409.2436974789916% 1240.8536585365853%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_14::after {max-width:476px; width:100%;height:0;padding: 0 0 34.45378151260504% 0;}
+.GATE_ECE_2020_14sol {max-width:416px; max-height:174px; }
+.GATE_ECE_2020_14sol::after {content: '\00a0';display: inline-block; width:416px; height:174px; background-position: 88.38120104438643% 14.078452444922085%;background-size: 468.2692307692308% 1169.5402298850574%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_14sol::after {max-width:416px; width:100%;height:0;padding: 0 0 41.82692307692308% 0;}
+.GATE_ECE_2020_18 {max-width:333px; max-height:262px; }
+.GATE_ECE_2020_18::after {content: '\00a0';display: inline-block; width:333px; height:262px; background-position: 78.20433436532508% 32.374506486181616%;background-size: 584.984984984985% 776.7175572519084%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_18::after {max-width:333px; width:100%;height:0;padding: 0 0 78.67867867867868% 0;}
+.GATE_ECE_2020_18sol {max-width:260px; max-height:158px; }
+.GATE_ECE_2020_18sol::after {content: '\00a0';display: inline-block; width:260px; height:158px; background-position: 21.386255924170616% 99.20085242408098%;background-size: 749.2307692307693% 1287.9746835443038%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_18sol::after {max-width:260px; width:100%;height:0;padding: 0 0 60.76923076923077% 0;}
+.GATE_ECE_2020_20sol {max-width:195px; max-height:146px; }
+.GATE_ECE_2020_20sol::after {content: '\00a0';display: inline-block; width:195px; height:146px; background-position: 99.88590986879635% 85.07146638433034%;background-size: 998.974358974359% 1393.835616438356%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_20sol::after {max-width:195px; width:100%;height:0;padding: 0 0 74.87179487179488% 0;}
+.GATE_ECE_2020_21 {max-width:381px; max-height:136px; }
+.GATE_ECE_2020_21::after {content: '\00a0';display: inline-block; width:381px; height:136px; background-position: 81.4932992980217% 23.012111637704056%;background-size: 511.28608923884514% 1496.3235294117646%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_21::after {max-width:381px; width:100%;height:0;padding: 0 0 35.69553805774278% 0;}
+.GATE_ECE_2020_21sol {max-width:355px; max-height:176px; }
+.GATE_ECE_2020_21sol::after {content: '\00a0';display: inline-block; width:355px; height:176px; background-position: 44.695543000627744% 30.76923076923077%;background-size: 548.7323943661971% 1156.25%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_21sol::after {max-width:355px; width:100%;height:0;padding: 0 0 49.57746478873239% 0;}
+.GATE_ECE_2020_23_a {max-width:322px; max-height:297px; }
+.GATE_ECE_2020_23_a::after {content: '\00a0';display: inline-block; width:322px; height:297px; background-position: 0.06150061500615006% 41.77215189873418%;background-size: 604.9689440993789% 685.1851851851852%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_23_a::after {max-width:322px; width:100%;height:0;padding: 0 0 92.2360248447205% 0;}
+.GATE_ECE_2020_23_b {max-width:302px; max-height:285px; }
+.GATE_ECE_2020_23_b::after {content: '\00a0';display: inline-block; width:302px; height:285px; background-position: 38.76063183475091% 90.34285714285714%;background-size: 645.0331125827814% 714.0350877192982%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_23_b::after {max-width:302px; width:100%;height:0;padding: 0 0 94.37086092715232% 0;}
+.GATE_ECE_2020_23_c {max-width:294px; max-height:294px; }
+.GATE_ECE_2020_23_c::after {content: '\00a0';display: inline-block; width:294px; height:294px; background-position: 96.55380894800484% 32.96955772544515%;background-size: 662.5850340136054% 692.1768707482993%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_23_c::after {max-width:294px; width:100%;height:0;padding: 0 0 100% 0;}
+.GATE_ECE_2020_23_d {max-width:283px; max-height:268px; }
+.GATE_ECE_2020_23_d::after {content: '\00a0';display: inline-block; width:283px; height:268px; background-position: 20.18018018018018% 75.04244482173175%;background-size: 688.339222614841% 759.3283582089553%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_23_d::after {max-width:283px; width:100%;height:0;padding: 0 0 94.69964664310955% 0;}
+.GATE_ECE_2020_26 {max-width:306px; max-height:189px; }
+.GATE_ECE_2020_26::after {content: '\00a0';display: inline-block; width:306px; height:189px; background-position: 57.247259439707676% 73.8353196099675%;background-size: 636.6013071895425% 1076.7195767195767%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_26::after {max-width:306px; width:100%;height:0;padding: 0 0 61.76470588235294% 0;}
+.GATE_ECE_2020_27 {max-width:308px; max-height:228px; }
+.GATE_ECE_2020_27::after {content: '\00a0';display: inline-block; width:308px; height:228px; background-position: 92.3170731707317% 72.2191477587161%;background-size: 632.4675324675325% 892.5438596491229%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_27::after {max-width:308px; width:100%;height:0;padding: 0 0 74.02597402597402% 0;}
+.GATE_ECE_2020_27sol {max-width:293px; max-height:179px; }
+.GATE_ECE_2020_27sol::after {content: '\00a0';display: inline-block; width:293px; height:179px; background-position: 56.858006042296076% 99.94612068965517%;background-size: 664.8464163822525% 1136.8715083798882%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_27sol::after {max-width:293px; width:100%;height:0;padding: 0 0 61.092150170648466% 0;}
+.GATE_ECE_2020_29sol {max-width:410px; max-height:80px; }
+.GATE_ECE_2020_29sol::after {content: '\00a0';display: inline-block; width:410px; height:80px; background-position: 59.23276983094929% 17.34015345268542%;background-size: 475.1219512195122% 2543.75%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_29sol::after {max-width:410px; width:100%;height:0;padding: 0 0 19.51219512195122% 0;}
+.GATE_ECE_2020_30 {max-width:355px; max-height:267px; }
+.GATE_ECE_2020_30::after {content: '\00a0';display: inline-block; width:355px; height:267px; background-position: 0.06277463904582549% 91.0633484162896%;background-size: 548.7323943661971% 762.1722846441947%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_30::after {max-width:355px; width:100%;height:0;padding: 0 0 75.21126760563381% 0;}
+.GATE_ECE_2020_34 {max-width:442px; max-height:121px; }
+.GATE_ECE_2020_34::after {content: '\00a0';display: inline-block; width:442px; height:121px; background-position: 60.49136786188579% 11.337513061650993%;background-size: 440.7239819004525% 1681.8181818181818%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_34::after {max-width:442px; width:100%;height:0;padding: 0 0 27.375565610859727% 0;}
+.GATE_ECE_2020_36sol {max-width:233px; max-height:103px; }
+.GATE_ECE_2020_36sol::after {content: '\00a0';display: inline-block; width:233px; height:103px; background-position: 72.01166180758017% 99.74120082815735%;background-size: 836.0515021459228% 1975.7281553398059%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_36sol::after {max-width:233px; width:100%;height:0;padding: 0 0 44.20600858369099% 0;}
+.GATE_ECE_2020_36sol_a {max-width:230px; max-height:94px; }
+.GATE_ECE_2020_36sol_a::after {content: '\00a0';display: inline-block; width:230px; height:94px; background-position: 85.62281722933643% 96.70273055126223%;background-size: 846.9565217391304% 2164.8936170212764%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_36sol_a::after {max-width:230px; width:100%;height:0;padding: 0 0 40.869565217391305% 0;}
+.GATE_ECE_2020_36sol_b {max-width:238px; max-height:99px; }
+.GATE_ECE_2020_36sol_b::after {content: '\00a0';display: inline-block; width:238px; height:99px; background-position: 99.53216374269006% 95.86776859504133%;background-size: 818.4873949579832% 2055.5555555555557%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_36sol_b::after {max-width:238px; width:100%;height:0;padding: 0 0 41.596638655462186% 0;}
+.GATE_ECE_2020_36sol_c {max-width:238px; max-height:101px; }
+.GATE_ECE_2020_36sol_c::after {content: '\00a0';display: inline-block; width:238px; height:101px; background-position: 98.71345029239767% 90.6928645294726%;background-size: 818.4873949579832% 2014.851485148515%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_36sol_c::after {max-width:238px; width:100%;height:0;padding: 0 0 42.436974789915965% 0;}
+.GATE_ECE_2020_37sol {max-width:352px; max-height:221px; }
+.GATE_ECE_2020_37sol::after {content: '\00a0';display: inline-block; width:352px; height:221px; background-position: 41.97994987468672% 41.28996692392503%;background-size: 553.4090909090909% 920.8144796380091%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_37sol::after {max-width:352px; width:100%;height:0;padding: 0 0 62.78409090909091% 0;}
+.GATE_ECE_2020_38 {max-width:403px; max-height:151px; }
+.GATE_ECE_2020_38::after {content: '\00a0';display: inline-block; width:403px; height:151px; background-position: 56.50485436893204% 22.29299363057325%;background-size: 483.37468982630276% 1347.682119205298%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_38::after {max-width:403px; width:100%;height:0;padding: 0 0 37.468982630272954% 0;}
+.GATE_ECE_2020_39 {max-width:216px; max-height:327px; }
+.GATE_ECE_2020_39::after {content: '\00a0';display: inline-block; width:216px; height:327px; background-position: 59.06466512702079% 43.85245901639344%;background-size: 901.8518518518518% 622.3241590214067%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_39::after {max-width:216px; width:100%;height:0;padding: 0 0 151.38888888888889% 0;}
+.GATE_ECE_2020_42 {max-width:323px; max-height:216px; }
+.GATE_ECE_2020_42::after {content: '\00a0';display: inline-block; width:323px; height:216px; background-position: 95.93846153846154% 47.77350192413414%;background-size: 603.0959752321982% 942.1296296296297%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_42::after {max-width:323px; width:100%;height:0;padding: 0 0 66.87306501547988% 0;}
+.GATE_ECE_2020_43 {max-width:417px; max-height:215px; }
+.GATE_ECE_2020_43::after {content: '\00a0';display: inline-block; width:417px; height:215px; background-position: 61.985630306988895% 0.054945054945054944%;background-size: 467.1462829736211% 946.5116279069767%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_43::after {max-width:417px; width:100%;height:0;padding: 0 0 51.55875299760192% 0;}
+.GATE_ECE_2020_43sol {max-width:302px; max-height:123px; }
+.GATE_ECE_2020_43sol::after {content: '\00a0';display: inline-block; width:302px; height:123px; background-position: 87.97083839611179% 84.04811715481172%;background-size: 645.0331125827814% 1654.4715447154472%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_43sol::after {max-width:302px; width:100%;height:0;padding: 0 0 40.728476821192054% 0;}
+.GATE_ECE_2020_45 {max-width:359px; max-height:154px; }
+.GATE_ECE_2020_45::after {content: '\00a0';display: inline-block; width:359px; height:154px; background-position: 0.06293266205160478% 99.84051036682615%;background-size: 542.6183844011142% 1321.4285714285713%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_45::after {max-width:359px; width:100%;height:0;padding: 0 0 42.89693593314763% 0;}
+.GATE_ECE_2020_47 {max-width:319px; max-height:226px; }
+.GATE_ECE_2020_47::after {content: '\00a0';display: inline-block; width:319px; height:226px; background-position: 38.06015960712093% 74.84798231066888%;background-size: 610.6583072100314% 900.4424778761062%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_47::after {max-width:319px; width:100%;height:0;padding: 0 0 70.84639498432603% 0;}
+.GATE_ECE_2020_47sol {max-width:309px; max-height:162px; }
+.GATE_ECE_2020_47sol::after {content: '\00a0';display: inline-block; width:309px; height:162px; background-position: 19.219035997559487% 62.09289909236519%;background-size: 630.4207119741101% 1256.1728395061727%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_47sol::after {max-width:309px; width:100%;height:0;padding: 0 0 52.42718446601942% 0;}
+.GATE_ECE_2020_48 {max-width:338px; max-height:207px; }
+.GATE_ECE_2020_48::after {content: '\00a0';display: inline-block; width:338px; height:207px; background-position: 41.98757763975155% 53.118161925601754%;background-size: 576.3313609467456% 983.0917874396135%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_48::after {max-width:338px; width:100%;height:0;padding: 0 0 61.24260355029586% 0;}
+.GATE_ECE_2020_48sol {max-width:357px; max-height:261px; }
+.GATE_ECE_2020_48sol::after {content: '\00a0';display: inline-block; width:357px; height:261px; background-position: 22.250157133878066% 27.22660653889515%;background-size: 545.6582633053222% 779.6934865900383%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_48sol::after {max-width:357px; width:100%;height:0;padding: 0 0 73.10924369747899% 0;}
+.GATE_ECE_2020_50 {max-width:345px; max-height:253px; }
+.GATE_ECE_2020_50::after {content: '\00a0';display: inline-block; width:345px; height:253px; background-position: 20.212102308172177% 41.80695847362514%;background-size: 564.6376811594203% 804.3478260869565%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_50::after {max-width:345px; width:100%;height:0;padding: 0 0 73.33333333333333% 0;}
+.GATE_ECE_2020_50sol {max-width:235px; max-height:152px; }
+.GATE_ECE_2020_50sol::after {content: '\00a0';display: inline-block; width:235px; height:152px; background-position: 72.09573847051955% 94.2113648433351%;background-size: 828.936170212766% 1338.8157894736842%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_50sol::after {max-width:235px; width:100%;height:0;padding: 0 0 64.68085106382979% 0;}
+.GATE_ECE_2020_51 {max-width:318px; max-height:226px; }
+.GATE_ECE_2020_51::after {content: '\00a0';display: inline-block; width:318px; height:226px; background-position: 76.07361963190183% 46.26865671641791%;background-size: 612.5786163522013% 900.4424778761062%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_51::after {max-width:318px; width:100%;height:0;padding: 0 0 71.06918238993711% 0;}
+.GATE_ECE_2020_52sol {max-width:145px; max-height:123px; }
+.GATE_ECE_2020_52sol::after {content: '\00a0';display: inline-block; width:145px; height:123px; background-position: 98.22518025513034% 16.317991631799163%;background-size: 1343.448275862069% 1654.4715447154472%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_52sol::after {max-width:145px; width:100%;height:0;padding: 0 0 84.82758620689656% 0;}
+.GATE_ECE_2020_54 {max-width:242px; max-height:301px; }
+.GATE_ECE_2020_54::after {content: '\00a0';display: inline-block; width:242px; height:301px; background-position: 55.158264947245016% 89.56170703575548%;background-size: 804.9586776859504% 676.0797342192691%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_54::after {max-width:242px; width:100%;height:0;padding: 0 0 124.3801652892562% 0;}
+.GATE_ECE_2020_54sol {max-width:280px; max-height:266px; }
+.GATE_ECE_2020_54sol::after {content: '\00a0';display: inline-block; width:280px; height:266px; background-position: 21.402877697841728% 90.1639344262295%;background-size: 695.7142857142857% 765.0375939849624%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_54sol::after {max-width:280px; width:100%;height:0;padding: 0 0 95% 0;}
+.GATE_ECE_2020_55 {max-width:352px; max-height:334px; }
+.GATE_ECE_2020_55::after {content: '\00a0';display: inline-block; width:352px; height:334px; background-position: 0.06265664160401002% 22.9864785420341%;background-size: 553.4090909090909% 609.2814371257485%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_55::after {max-width:352px; width:100%;height:0;padding: 0 0 94.88636363636364% 0;}
+.GATE_ECE_2020_56 {max-width:309px; max-height:232px; }
+.GATE_ECE_2020_56::after {content: '\00a0';display: inline-block; width:309px; height:232px; background-position: 75.65588773642465% 59.01275651691625%;background-size: 630.4207119741101% 877.1551724137931%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_56::after {max-width:309px; width:100%;height:0;padding: 0 0 75.08090614886731% 0;}
+.GATE_ECE_2020_57 {max-width:313px; max-height:305px; }
+.GATE_ECE_2020_57::after {content: '\00a0';display: inline-block; width:313px; height:305px; background-position: 0.06116207951070336% 59.190751445086704%;background-size: 622.3642172523962% 667.2131147540983%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_57::after {max-width:313px; width:100%;height:0;padding: 0 0 97.44408945686901% 0;}
+.GATE_ECE_2020_57sol {max-width:266px; max-height:251px; }
+.GATE_ECE_2020_57sol::after {content: '\00a0';display: inline-block; width:266px; height:251px; background-position: 74.13793103448276% 72.70179372197309%;background-size: 732.3308270676691% 810.7569721115538%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_57sol::after {max-width:266px; width:100%;height:0;padding: 0 0 94.3609022556391% 0;}
+.GATE_ECE_2020_58sol {max-width:365px; max-height:72px; }
+.GATE_ECE_2020_58sol::after {content: '\00a0';display: inline-block; width:365px; height:72px; background-position: 95.64118761844598% 78.1456953642384%;background-size: 533.6986301369863% 2826.3888888888887%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_58sol::after {max-width:365px; width:100%;height:0;padding: 0 0 19.726027397260275% 0;}
+.GATE_ECE_2020_59 {max-width:309px; max-height:218px; }
+.GATE_ECE_2020_59::after {content: '\00a0';display: inline-block; width:309px; height:218px; background-position: 94.56985967053082% 59.76884975233902%;background-size: 630.4207119741101% 933.4862385321101%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_59::after {max-width:309px; width:100%;height:0;padding: 0 0 70.55016181229773% 0;}
+.GATE_ECE_2020_5sol {max-width:263px; max-height:220px; }
+.GATE_ECE_2020_5sol::after {content: '\00a0';display: inline-block; width:263px; height:220px; background-position: 70.26706231454006% 85.56473829201101%;background-size: 740.6844106463878% 925%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_5sol::after {max-width:263px; width:100%;height:0;padding: 0 0 83.65019011406844% 0;}
+.GATE_ECE_2020_60 {max-width:432px; max-height:389px; }
+.GATE_ECE_2020_60::after {content: '\00a0';display: inline-block; width:432px; height:389px; background-position: 0.06596306068601583% 0.060753341433778855%;background-size: 450.9259259259259% 523.1362467866323%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_60::after {max-width:432px; width:100%;height:0;padding: 0 0 90.04629629629629% 0;}
+.GATE_ECE_2020_61 {max-width:334px; max-height:279px; }
+.GATE_ECE_2020_61::after {content: '\00a0';display: inline-block; width:334px; height:279px; background-position: 0.061957868649318466% 75.74031890660592%;background-size: 583.2335329341317% 729.3906810035842%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_61::after {max-width:334px; width:100%;height:0;padding: 0 0 83.53293413173652% 0;}
+.GATE_ECE_2020_61sol {max-width:268px; max-height:183px; }
+.GATE_ECE_2020_61sol::after {content: '\00a0';display: inline-block; width:268px; height:183px; background-position: 57.79761904761905% 63.66090712742981%;background-size: 726.8656716417911% 1112.0218579234972%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_61sol::after {max-width:268px; width:100%;height:0;padding: 0 0 68.28358208955224% 0;}
+.GATE_ECE_2020_62 {max-width:345px; max-height:174px; }
+.GATE_ECE_2020_62::after {content: '\00a0';display: inline-block; width:345px; height:174px; background-position: 38.98939488459139% 63.35303600214938%;background-size: 564.6376811594203% 1169.5402298850574%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_62::after {max-width:345px; width:100%;height:0;padding: 0 0 50.43478260869565% 0;}
+.GATE_ECE_2020_62sol {max-width:291px; max-height:142px; }
+.GATE_ECE_2020_62sol::after {content: '\00a0';display: inline-block; width:291px; height:142px; background-position: 37.537718768859385% 98.62651875330164%;background-size: 669.4158075601374% 1433.0985915492959%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_62sol::after {max-width:291px; width:100%;height:0;padding: 0 0 48.797250859106526% 0;}
+.GATE_ECE_2020_63 {max-width:216px; max-height:145px; }
+.GATE_ECE_2020_63::after {content: '\00a0';display: inline-block; width:216px; height:145px; background-position: 84.93071593533487% 91.58730158730158%;background-size: 901.8518518518518% 1403.448275862069%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_63::after {max-width:216px; width:100%;height:0;padding: 0 0 67.12962962962963% 0;}
+.GATE_ECE_2020_63sol {max-width:165px; max-height:142px; }
+.GATE_ECE_2020_63sol::after {content: '\00a0';display: inline-block; width:165px; height:142px; background-position: 99.32697700504767% 8.927628103539355%;background-size: 1180.6060606060605% 1433.0985915492959%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_63sol::after {max-width:165px; width:100%;height:0;padding: 0 0 86.06060606060606% 0;}
+.GATE_ECE_2020_64sol {max-width:210px; max-height:136px; }
+.GATE_ECE_2020_64sol::after {content: '\00a0';display: inline-block; width:210px; height:136px; background-position: 95.45454545454545% 23.012111637704056%;background-size: 927.6190476190476% 1496.3235294117646%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_64sol::after {max-width:210px; width:100%;height:0;padding: 0 0 64.76190476190476% 0;}
+.GATE_ECE_2020_65 {max-width:438px; max-height:121px; }
+.GATE_ECE_2020_65::after {content: '\00a0';display: inline-block; width:438px; height:121px; background-position: 28.741721854304636% 18.861024033437825%;background-size: 444.7488584474886% 1681.8181818181818%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_65::after {max-width:438px; width:100%;height:0;padding: 0 0 27.625570776255707% 0;}
+.GATE_ECE_2020_8 {max-width:201px; max-height:167px; }
+.GATE_ECE_2020_8::after {content: '\00a0';display: inline-block; width:201px; height:167px; background-position: 99.94275901545507% 0.05353319057815846%;background-size: 969.1542288557214% 1218.562874251497%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_8::after {max-width:201px; width:100%;height:0;padding: 0 0 83.08457711442786% 0;}
+.GATE_ECE_2020_8sol {max-width:194px; max-height:153px; }
+.GATE_ECE_2020_8sol::after {content: '\00a0';display: inline-block; width:194px; height:153px; background-position: 60.88939566704675% 30.393198724760893%;background-size: 1004.1237113402062% 1330.0653594771243%;background-image: url(gate_ec_2020.png);padding: 0; }
+div.GATE_ECE_2020_8sol::after {max-width:194px; width:100%;height:0;padding: 0 0 78.8659793814433% 0;}
+
+/* $TexturePacker:SmartUpdate:57e09ba3ac5972e2fbc7c5fe9a9ca11c:810e2cab8d99a8d668481a0c821d2672:e28d8fa6e67d50aad8e91ec2c7703aab$ */
