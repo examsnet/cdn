@@ -7,53 +7,62 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
+.KEAM_2020_math_101_sol {max-width:330px; max-height:66px; }
+.KEAM_2020_math_101_sol::after {content: '\00a0';display: inline-block; width:330px; height:66px; background-position: 64.9334945586457% 68.74340021119325%;background-size: 350.6060606060606% 1534.8484848484848%;background-image: url(keam2020.png);padding: 0; }
+div.KEAM_2020_math_101_sol::after {max-width:330px; width:100%;height:0;padding: 0 0 20% 0;}
 .KEAM_2020_math_10_sol {max-width:277px; max-height:318px; }
-.KEAM_2020_math_10_sol::after {content: '\00a0';display: inline-block; width:277px; height:318px; background-position: 0.13717421124828533% 58.035714285714285%;background-size: 363.1768953068592% 381.76100628930817%;background-image: url(keam2020.png);padding: 0; }
+.KEAM_2020_math_10_sol::after {content: '\00a0';display: inline-block; width:277px; height:318px; background-position: 0.11363636363636363% 74.82014388489209%;background-size: 417.6895306859206% 318.55345911949684%;background-image: url(keam2020.png);padding: 0; }
 div.KEAM_2020_math_10_sol::after {max-width:277px; width:100%;height:0;padding: 0 0 114.8014440433213% 0;}
 .KEAM_2020_math_114_sol {max-width:241px; max-height:132px; }
-.KEAM_2020_math_114_sol::after {content: '\00a0';display: inline-block; width:241px; height:132px; background-position: 33.8562091503268% 87.52310536044362%;background-size: 417.4273858921162% 919.6969696969697%;background-image: url(keam2020.png);padding: 0; }
+.KEAM_2020_math_114_sol::after {content: '\00a0';display: inline-block; width:241px; height:132px; background-position: 99.0174672489083% 98.5244040862656%;background-size: 480.08298755186723% 767.4242424242424%;background-image: url(keam2020.png);padding: 0; }
 div.KEAM_2020_math_114_sol::after {max-width:241px; width:100%;height:0;padding: 0 0 54.77178423236514% 0;}
 .KEAM_2020_math_116_sol {max-width:326px; max-height:207px; }
-.KEAM_2020_math_116_sol::after {content: '\00a0';display: inline-block; width:326px; height:207px; background-position: 63.088235294117645% 23.038728897715988%;background-size: 308.58895705521473% 586.4734299516908%;background-image: url(keam2020.png);padding: 0; }
+.KEAM_2020_math_116_sol::after {content: '\00a0';display: inline-block; width:326px; height:207px; background-position: 37.785800240673886% 99.37965260545906%;background-size: 354.9079754601227% 489.3719806763285%;background-image: url(keam2020.png);padding: 0; }
 div.KEAM_2020_math_116_sol::after {max-width:326px; width:100%;height:0;padding: 0 0 63.49693251533742% 0;}
+.KEAM_2020_math_38_sol {max-width:253px; max-height:61px; }
+.KEAM_2020_math_38_sol::after {content: '\00a0';display: inline-block; width:253px; height:61px; background-position: 70.90707964601769% 95.27310924369748%;background-size: 457.3122529644269% 1660.655737704918%;background-image: url(keam2020.png);padding: 0; }
+div.KEAM_2020_math_38_sol::after {max-width:253px; width:100%;height:0;padding: 0 0 24.110671936758894% 0;}
 .KEAM_2020_math_3_sol {max-width:265px; max-height:188px; }
-.KEAM_2020_math_3_sol::after {content: '\00a0';display: inline-block; width:265px; height:188px; background-position: 99.86504723346829% 0.09746588693957114%;background-size: 379.62264150943395% 645.7446808510638%;background-image: url(keam2020.png);padding: 0; }
+.KEAM_2020_math_3_sol::after {content: '\00a0';display: inline-block; width:265px; height:188px; background-position: 71.8609865470852% 87.03030303030303%;background-size: 436.60377358490564% 538.8297872340426%;background-image: url(keam2020.png);padding: 0; }
 div.KEAM_2020_math_3_sol::after {max-width:265px; width:100%;height:0;padding: 0 0 70.94339622641509% 0;}
 .KEAM_2020_math_4_sol {max-width:247px; max-height:182px; }
-.KEAM_2020_math_4_sol::after {content: '\00a0';display: inline-block; width:247px; height:182px; background-position: 99.60474308300395% 18.410852713178294%;background-size: 407.2874493927126% 667.032967032967%;background-image: url(keam2020.png);padding: 0; }
+.KEAM_2020_math_4_sol::after {content: '\00a0';display: inline-block; width:247px; height:182px; background-position: 99.67032967032966% 82.43080625752106%;background-size: 468.42105263157896% 556.5934065934066%;background-image: url(keam2020.png);padding: 0; }
 div.KEAM_2020_math_4_sol::after {max-width:247px; width:100%;height:0;padding: 0 0 73.6842105263158% 0;}
 .KEAM_2020_math_54_sol {max-width:366px; max-height:257px; }
-.KEAM_2020_math_54_sol::after {content: '\00a0';display: inline-block; width:366px; height:257px; background-position: 0.15625% 27.377220480668758%;background-size: 274.8633879781421% 472.3735408560311%;background-image: url(keam2020.png);padding: 0; }
+.KEAM_2020_math_54_sol::after {content: '\00a0';display: inline-block; width:366px; height:257px; background-position: 0.1264222503160556% 34.65608465608466%;background-size: 316.120218579235% 394.1634241245136%;background-image: url(keam2020.png);padding: 0; }
 div.KEAM_2020_math_54_sol::after {max-width:366px; width:100%;height:0;padding: 0 0 70.21857923497268% 0;}
 .KEAM_2020_math_58_sol {max-width:257px; max-height:280px; }
-.KEAM_2020_math_58_sol::after {content: '\00a0';display: inline-block; width:257px; height:280px; background-position: 0.13351134846461948% 89.8286937901499%;background-size: 391.4396887159533% 433.57142857142856%;background-image: url(keam2020.png);padding: 0; }
+.KEAM_2020_math_58_sol::after {content: '\00a0';display: inline-block; width:257px; height:280px; background-position: 31% 70.94133697135061%;background-size: 450.1945525291829% 361.7857142857143%;background-image: url(keam2020.png);padding: 0; }
 div.KEAM_2020_math_58_sol::after {max-width:257px; width:100%;height:0;padding: 0 0 108.94941634241245% 0;}
+.KEAM_2020_math_99_sol {max-width:355px; max-height:48px; }
+.KEAM_2020_math_99_sol::after {content: '\00a0';display: inline-block; width:355px; height:48px; background-position: 92.26932668329177% 19.89637305699482%;background-size: 325.9154929577465% 2110.4166666666665%;background-image: url(keam2020.png);padding: 0; }
+div.KEAM_2020_math_99_sol::after {max-width:355px; width:100%;height:0;padding: 0 0 13.52112676056338% 0;}
 .KEAM_2020_phy_and_che_100_s {max-width:427px; max-height:260px; }
-.KEAM_2020_phy_and_che_100_s::after {content: '\00a0';display: inline-block; width:427px; height:260px; background-position: 0.17271157167530224% 0.10482180293501048%;background-size: 235.59718969555036% 466.9230769230769%;background-image: url(keam2020.png);padding: 0; }
+.KEAM_2020_phy_and_che_100_s::after {content: '\00a0';display: inline-block; width:427px; height:260px; background-position: 0.136986301369863% 0.13280212483399734%;background-size: 270.96018735363% 389.61538461538464%;background-image: url(keam2020.png);padding: 0; }
 div.KEAM_2020_phy_and_che_100_s::after {max-width:427px; width:100%;height:0;padding: 0 0 60.88992974238876% 0;}
 .KEAM_2020_phy_and_che_29_q {max-width:310px; max-height:230px; }
-.KEAM_2020_phy_and_che_29_q::after {content: '\00a0';display: inline-block; width:310px; height:230px; background-position: 61.63793103448276% 0.1016260162601626%;background-size: 324.51612903225805% 527.8260869565217%;background-image: url(keam2020.png);padding: 0; }
+.KEAM_2020_phy_and_che_29_q::after {content: '\00a0';display: inline-block; width:310px; height:230px; background-position: 50.64935064935065% 0.1277139208173691%;background-size: 373.2258064516129% 440.4347826086956%;background-image: url(keam2020.png);padding: 0; }
 div.KEAM_2020_phy_and_che_29_q::after {max-width:310px; width:100%;height:0;padding: 0 0 74.19354838709677% 0;}
 .KEAM_2020_phy_and_che_29_s {max-width:367px; max-height:142px; }
-.KEAM_2020_phy_and_che_29_s::after {content: '\00a0';display: inline-block; width:367px; height:142px; background-position: 57.58998435054773% 41.04477611940298%;background-size: 274.1144414168937% 854.9295774647887%;background-image: url(keam2020.png);padding: 0; }
+.KEAM_2020_phy_and_che_29_s::after {content: '\00a0';display: inline-block; width:367px; height:142px; background-position: 92.15189873417721% 27.66934557979334%;background-size: 315.25885558583104% 713.3802816901408%;background-image: url(keam2020.png);padding: 0; }
 div.KEAM_2020_phy_and_che_29_s::after {max-width:367px; width:100%;height:0;padding: 0 0 38.69209809264305% 0;}
 .KEAM_2020_phy_and_che_2_sol {max-width:298px; max-height:235px; }
-.KEAM_2020_phy_and_che_2_sol::after {content: '\00a0';display: inline-block; width:298px; height:235px; background-position: 88.4180790960452% 59.550561797752806%;background-size: 337.5838926174497% 516.5957446808511%;background-image: url(keam2020.png);padding: 0; }
+.KEAM_2020_phy_and_che_2_sol::after {content: '\00a0';display: inline-block; width:298px; height:235px; background-position: 49.94179278230501% 29.82005141388175%;background-size: 388.255033557047% 431.06382978723406%;background-image: url(keam2020.png);padding: 0; }
 div.KEAM_2020_phy_and_che_2_sol::after {max-width:298px; width:100%;height:0;padding: 0 0 78.85906040268456% 0;}
 .KEAM_2020_phy_and_che_31_q {max-width:337px; max-height:172px; }
-.KEAM_2020_phy_and_che_31_q::after {content: '\00a0';display: inline-block; width:337px; height:172px; background-position: 41.70403587443946% 74.28023032629558%;background-size: 298.51632047477744% 705.8139534883721%;background-image: url(keam2020.png);padding: 0; }
+.KEAM_2020_phy_and_che_31_q::after {content: '\00a0';display: inline-block; width:337px; height:172px; background-position: 65.48780487804878% 56.837098692033294%;background-size: 343.3234421364985% 588.953488372093%;background-image: url(keam2020.png);padding: 0; }
 div.KEAM_2020_phy_and_che_31_q::after {max-width:337px; width:100%;height:0;padding: 0 0 51.038575667655785% 0;}
 .KEAM_2020_phy_and_che_31_s {max-width:281px; max-height:206px; }
-.KEAM_2020_phy_and_che_31_s::after {content: '\00a0';display: inline-block; width:281px; height:206px; background-position: 69.10344827586206% 98.51190476190476%;background-size: 358.0071174377224% 589.3203883495146%;background-image: url(keam2020.png);padding: 0; }
+.KEAM_2020_phy_and_che_31_s::after {content: '\00a0';display: inline-block; width:281px; height:206px; background-position: 99.88584474885845% 59.23172242874845%;background-size: 411.7437722419929% 491.747572815534%;background-image: url(keam2020.png);padding: 0; }
 div.KEAM_2020_phy_and_che_31_s::after {max-width:281px; width:100%;height:0;padding: 0 0 73.30960854092527% 0;}
 .KEAM_2020_phy_and_che_52_q {max-width:312px; max-height:173px; }
-.KEAM_2020_phy_and_che_52_q::after {content: '\00a0';display: inline-block; width:312px; height:173px; background-position: 88.90489913544668% 78.6743515850144%;background-size: 322.43589743589746% 701.7341040462428%;background-image: url(keam2020.png);padding: 0; }
+.KEAM_2020_phy_and_che_52_q::after {content: '\00a0';display: inline-block; width:312px; height:173px; background-position: 0.11834319526627218% 99.88095238095238%;background-size: 370.8333333333333% 585.5491329479769%;background-image: url(keam2020.png);padding: 0; }
 div.KEAM_2020_phy_and_che_52_q::after {max-width:312px; width:100%;height:0;padding: 0 0 55.44871794871795% 0;}
 .KEAM_2020_phy_and_che_95_s {max-width:346px; max-height:190px; }
-.KEAM_2020_phy_and_che_95_s::after {content: '\00a0';display: inline-block; width:346px; height:190px; background-position: 42.27272727272727% 56.93359375%;background-size: 290.7514450867052% 638.9473684210526%;background-image: url(keam2020.png);padding: 0; }
+.KEAM_2020_phy_and_che_95_s::after {content: '\00a0';display: inline-block; width:346px; height:190px; background-position: 91.24537607891492% 0.12150668286755771%;background-size: 334.39306358381504% 533.1578947368421%;background-image: url(keam2020.png);padding: 0; }
 div.KEAM_2020_phy_and_che_95_s::after {max-width:346px; width:100%;height:0;padding: 0 0 54.91329479768786% 0;}
 .KEAM_2020_phy_and_che_99_s {max-width:422px; max-height:93px; }
-.KEAM_2020_phy_and_che_99_s::after {content: '\00a0';display: inline-block; width:422px; height:93px; background-position: 0.17123287671232876% 99.9107939339875%;background-size: 238.38862559241707% 1305.3763440860216%;background-image: url(keam2020.png);padding: 0; }
+.KEAM_2020_phy_and_che_99_s::after {content: '\00a0';display: inline-block; width:422px; height:93px; background-position: 99.04761904761905% 41.73913043478261%;background-size: 274.1706161137441% 1089.247311827957%;background-image: url(keam2020.png);padding: 0; }
 div.KEAM_2020_phy_and_che_99_s::after {max-width:422px; width:100%;height:0;padding: 0 0 22.03791469194313% 0;}
 
-/* $TexturePacker:SmartUpdate:546ed03305aca6603c6db387a9a27bd8:9bd90a4e305f5f1f863285f41e67b356:7ecdb70a66a0fa30e6afb14576727414$ */
+/* $TexturePacker:SmartUpdate:fefd5ef4833634d74968e440bdabd8e4:49457a3a5ab93cfc0f6f51a490e05059:7ecdb70a66a0fa30e6afb14576727414$ */
