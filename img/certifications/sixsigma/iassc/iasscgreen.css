@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.IASSC_green_belt_12_q {max-width:745px; max-height:502px; }
+.IASSC_green_belt_12_q::after {content: '\00a0';display: inline-block; width:745px; height:502px; background-position: 50% 0.10101010101010101%;background-size: 100.26845637583892% 297.21115537848607%;background-image: url(iasscgreen.png);padding: 0; }
+div.IASSC_green_belt_12_q::after {max-width:745px; width:100%;height:0;padding: 0 0 67.38255033557047% 0;}
+.IASSC_green_belt_8_q {max-width:725px; max-height:491px; }
+.IASSC_green_belt_8_q::after {content: '\00a0';display: inline-block; width:725px; height:491px; background-position: 4.545454545454546% 99.9000999000999%;background-size: 103.03448275862068% 303.86965376782075%;background-image: url(iasscgreen.png);padding: 0; }
+div.IASSC_green_belt_8_q::after {max-width:725px; width:100%;height:0;padding: 0 0 67.72413793103448% 0;}
+.IASSC_green_belt_9_q {max-width:743px; max-height:495px; }
+.IASSC_green_belt_9_q::after {content: '\00a0';display: inline-block; width:743px; height:495px; background-position: 25% 50.55165496489468%;background-size: 100.53835800807536% 301.4141414141414%;background-image: url(iasscgreen.png);padding: 0; }
+div.IASSC_green_belt_9_q::after {max-width:743px; width:100%;height:0;padding: 0 0 66.62180349932706% 0;}
+
+/* $TexturePacker:SmartUpdate:f3fab133af2e240621f3fedf22e789aa:cee04ea9513a97e4407a8540a4204c88:e23b2c281b33218c3698dfabd7209707$ */

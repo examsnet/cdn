@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Lean_yellow_belt_130_q {max-width:415px; max-height:352px; }
+.Lean_yellow_belt_130_q::after {content: '\00a0';display: inline-block; width:415px; height:352px; background-position: 0.5988023952095808% 70.3640982218459%;background-size: 140.24096385542168% 435.5113636363636%;background-image: url(leanyellowcss.png);padding: 0; }
+div.Lean_yellow_belt_130_q::after {max-width:415px; width:100%;height:0;padding: 0 0 84.81927710843374% 0;}
+.Lean_yellow_belt_140_q {max-width:534px; max-height:348px; }
+.Lean_yellow_belt_140_q::after {content: '\00a0';display: inline-block; width:534px; height:348px; background-position: 2.0833333333333335% 99.915611814346%;background-size: 108.98876404494382% 440.51724137931035%;background-image: url(leanyellowcss.png);padding: 0; }
+div.Lean_yellow_belt_140_q::after {max-width:534px; width:100%;height:0;padding: 0 0 65.1685393258427% 0;}
+.Lean_yellow_belt_155_q {max-width:580px; max-height:469px; }
+.Lean_yellow_belt_155_q::after {content: '\00a0';display: inline-block; width:580px; height:469px; background-position: 50% 0.09398496240601503%;background-size: 100.34482758620689% 326.86567164179104%;background-image: url(leanyellowcss.png);padding: 0; }
+div.Lean_yellow_belt_155_q::after {max-width:580px; width:100%;height:0;padding: 0 0 80.86206896551724% 0;}
+.Lean_yellow_belt_157_q {max-width:547px; max-height:359px; }
+.Lean_yellow_belt_157_q::after {content: '\00a0';display: inline-block; width:547px; height:359px; background-position: 2.857142857142857% 40.11925042589438%;background-size: 106.39853747714808% 427.0194986072423%;background-image: url(leanyellowcss.png);padding: 0; }
+div.Lean_yellow_belt_157_q::after {max-width:547px; width:100%;height:0;padding: 0 0 65.6307129798903% 0;}
+
+/* $TexturePacker:SmartUpdate:dd83872e235cf3fc0abd1cc345b8b5c1:c697378ab507f35284d5cca1307e6884:a33f9f6120de19fb641aaaea46b4e194$ */

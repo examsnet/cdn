@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Lean_green_belt_14_q {max-width:698px; max-height:472px; }
+.Lean_green_belt_14_q::after {content: '\00a0';display: inline-block; width:698px; height:472px; background-position: 50% 50%;background-size: 100.2865329512894% 100.42372881355932%;background-image: url(leangreen.png);padding: 0; }
+div.Lean_green_belt_14_q::after {max-width:698px; width:100%;height:0;padding: 0 0 67.621776504298% 0;}
+
+/* $TexturePacker:SmartUpdate:0c430999ebf097e79d7d900128218136:0235a314bfc2ae9aa70048fd9068d194:f45c80719fc662cee2f29c0022067ca2$ */
