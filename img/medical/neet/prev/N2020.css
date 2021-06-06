@@ -7,140 +7,143 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
+.NEET_2020_10_PHY_CHEM {max-width:152px; max-height:114px; }
+.NEET_2020_10_PHY_CHEM::after {content: '\00a0';display: inline-block; width:152px; height:114px; background-position: 99.50467804072647% 90.4%;background-size: 1295.3947368421052% 867.5438596491229%;background-image: url(N2020.png);padding: 0; }
+div.NEET_2020_10_PHY_CHEM::after {max-width:152px; width:100%;height:0;padding: 0 0 75% 0;}
 .NEET_2020_16_PHY_CHEM_sol {max-width:325px; max-height:109px; }
-.NEET_2020_16_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:325px; height:109px; background-position: 23.6085626911315% 62.02964652223489%;background-size: 603.0769230769231% 904.5871559633027%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_16_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:325px; height:109px; background-position: 23.47931873479319% 63.52272727272727%;background-size: 605.8461538461538% 907.3394495412844%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_16_PHY_CHEM_sol::after {max-width:325px; width:100%;height:0;padding: 0 0 33.53846153846154% 0;}
 .NEET_2020_17_PHY_CHEM_sol {max-width:291px; max-height:149px; }
-.NEET_2020_17_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:291px; height:149px; background-position: 94.72738166566806% 45.997610513739545%;background-size: 673.5395189003436% 661.744966442953%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_17_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:291px; height:149px; background-position: 22.58641239570918% 79.64285714285714%;background-size: 676.6323024054983% 663.7583892617449%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_17_PHY_CHEM_sol::after {max-width:291px; width:100%;height:0;padding: 0 0 51.202749140893474% 0;}
 .NEET_2020_18_BIO_sol {max-width:389px; max-height:135px; }
-.NEET_2020_18_BIO_sol::after {content: '\00a0';display: inline-block; width:389px; height:135px; background-position: 53.08720560152769% 50.05875440658049%;background-size: 503.85604113110537% 730.3703703703703%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_18_BIO_sol::after {content: '\00a0';display: inline-block; width:389px; height:135px; background-position: 78.9873417721519% 26.346604215456676%;background-size: 506.1696658097686% 732.5925925925926%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_18_BIO_sol::after {max-width:389px; width:100%;height:0;padding: 0 0 34.70437017994858% 0;}
 .NEET_2020_30_PHY_CHEM {max-width:345px; max-height:118px; }
-.NEET_2020_30_PHY_CHEM::after {content: '\00a0';display: inline-block; width:345px; height:118px; background-position: 99.93808049535603% 0.1152073732718894%;background-size: 568.1159420289855% 835.5932203389831%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_30_PHY_CHEM::after {content: '\00a0';display: inline-block; width:345px; height:118px; background-position: 51.354679802955665% 48.90929965556831%;background-size: 570.7246376811594% 838.1355932203389%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_30_PHY_CHEM::after {max-width:345px; width:100%;height:0;padding: 0 0 34.20289855072464% 0;}
 .NEET_2020_30_PHY_CHEM_sol {max-width:323px; max-height:120px; }
-.NEET_2020_30_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:323px; height:120px; background-position: 23.152107513744657% 75.51963048498845%;background-size: 606.8111455108359% 821.6666666666666%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_30_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:323px; height:120px; background-position: 99.69623329283111% 38.204833141542004%;background-size: 609.5975232198142% 824.1666666666666%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_30_PHY_CHEM_sol::after {max-width:323px; width:100%;height:0;padding: 0 0 37.15170278637771% 0;}
 .NEET_2020_31_PHY_CHEM_sol {max-width:216px; max-height:103px; }
-.NEET_2020_31_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:216px; height:103px; background-position: 56.47935779816514% 99.66024915062287%;background-size: 907.4074074074074% 957.2815533980582%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_31_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:216px; height:103px; background-position: 92.92641186537365% 61.963882618510155%;background-size: 911.574074074074% 960.1941747572815%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_31_PHY_CHEM_sol::after {max-width:216px; width:100%;height:0;padding: 0 0 47.68518518518518% 0;}
 .NEET_2020_35a_PHY_CHEM {max-width:181px; max-height:163px; }
-.NEET_2020_35a_PHY_CHEM::after {content: '\00a0';display: inline-block; width:181px; height:163px; background-position: 77.3468240584598% 70.83839611178615%;background-size: 1082.8729281767955% 604.9079754601227%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_35a_PHY_CHEM::after {content: '\00a0';display: inline-block; width:181px; height:163px; background-position: 90.21252796420582% 97.94188861985472%;background-size: 1087.8453038674033% 606.7484662576687%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_35a_PHY_CHEM::after {max-width:181px; width:100%;height:0;padding: 0 0 90.05524861878453% 0;}
 .NEET_2020_35b_PHY_CHEM {max-width:202px; max-height:161px; }
-.NEET_2020_35b_PHY_CHEM::after {content: '\00a0';display: inline-block; width:202px; height:161px; background-position: 56.02957906712173% 68.12121212121212%;background-size: 970.2970297029703% 612.4223602484471%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_35b_PHY_CHEM::after {content: '\00a0';display: inline-block; width:202px; height:161px; background-position: 80.70175438596492% 56.88405797101449%;background-size: 974.7524752475248% 614.2857142857143%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_35b_PHY_CHEM::after {max-width:202px; width:100%;height:0;padding: 0 0 79.70297029702971% 0;}
 .NEET_2020_35c_PHY_CHEM {max-width:193px; max-height:155px; }
-.NEET_2020_35c_PHY_CHEM::after {content: '\00a0';display: inline-block; width:193px; height:155px; background-position: 55.74419920769666% 87.12394705174489%;background-size: 1015.5440414507772% 636.1290322580645%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_35c_PHY_CHEM::after {content: '\00a0';display: inline-block; width:193px; height:155px; background-position: 80.2927927927928% 75.89928057553956%;background-size: 1020.2072538860103% 638.0645161290323%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_35c_PHY_CHEM::after {max-width:193px; width:100%;height:0;padding: 0 0 80.31088082901555% 0;}
 .NEET_2020_35d_PHY_CHEM {max-width:187px; max-height:155px; }
-.NEET_2020_35d_PHY_CHEM::after {content: '\00a0';display: inline-block; width:187px; height:155px; background-position: 67.00507614213198% 70.15643802647413%;background-size: 1048.1283422459894% 636.1290322580645%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_35d_PHY_CHEM::after {content: '\00a0';display: inline-block; width:187px; height:155px; background-position: 90.9090909090909% 78.29736211031175%;background-size: 1052.9411764705883% 638.0645161290323%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_35d_PHY_CHEM::after {max-width:187px; width:100%;height:0;padding: 0 0 82.88770053475936% 0;}
 .NEET_2020_46_PHY_CHEM_sol {max-width:138px; max-height:64px; }
-.NEET_2020_46_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:138px; height:64px; background-position: 93.3589462129528% 96.09544468546638%;background-size: 1420.2898550724638% 1540.625%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_46_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:138px; height:64px; background-position: 98.03386127799017% 97.94594594594595%;background-size: 1426.8115942028985% 1545.3125%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_46_PHY_CHEM_sol::after {max-width:138px; width:100%;height:0;padding: 0 0 46.3768115942029% 0;}
 .NEET_2020_4_PHY_CHEM {max-width:256px; max-height:166px; }
-.NEET_2020_4_PHY_CHEM::after {content: '\00a0';display: inline-block; width:256px; height:166px; background-position: 73.2394366197183% 50.73170731707317%;background-size: 765.625% 593.9759036144578%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_4_PHY_CHEM::after {content: '\00a0';display: inline-block; width:256px; height:166px; background-position: 22.241681260945708% 99.51397326852977%;background-size: 769.140625% 595.7831325301205%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_4_PHY_CHEM::after {max-width:256px; width:100%;height:0;padding: 0 0 64.84375% 0;}
 .NEET_2020_50_PHY_CHEM_sol {max-width:332px; max-height:190px; }
-.NEET_2020_50_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:332px; height:190px; background-position: 76.65847665847666% 28.266331658291456%;background-size: 590.3614457831326% 518.9473684210526%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_50_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:332px; height:190px; background-position: 98.59499083689676% 0.1251564455569462%;background-size: 593.0722891566265% 520.5263157894736%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_50_PHY_CHEM_sol::after {max-width:332px; width:100%;height:0;padding: 0 0 57.2289156626506% 0;}
 .NEET_2020_53_PHY_CHEM_sol {max-width:374px; max-height:124px; }
-.NEET_2020_53_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:374px; height:124px; background-position: 99.68474148802018% 30.162412993039442%;background-size: 524.0641711229947% 795.1612903225806%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_53_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:374px; height:124px; background-position: 26.08150470219436% 34.797687861271676%;background-size: 526.4705882352941% 797.5806451612904%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_53_PHY_CHEM_sol::after {max-width:374px; width:100%;height:0;padding: 0 0 33.155080213903744% 0;}
 .NEET_2020_55_PHY_CHEM_sol {max-width:407px; max-height:178px; }
-.NEET_2020_55_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:407px; height:178px; background-position: 54.0888602704443% 30.56930693069307%;background-size: 481.5724815724816% 553.9325842696629%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_55_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:407px; height:178px; background-position: 53.77720870678617% 30.456226880394574%;background-size: 483.7837837837838% 555.6179775280899%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_55_PHY_CHEM_sol::after {max-width:407px; width:100%;height:0;padding: 0 0 43.73464373464373% 0;}
 .NEET_2020_61_PHY_CHEM_sol {max-width:367px; max-height:223px; }
-.NEET_2020_61_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:367px; height:223px; background-position: 78.21720025109856% 0.1310615989515072%;background-size: 534.0599455040872% 442.15246636771303%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_61_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:367px; height:223px; background-position: 77.77777777777777% 0.13054830287206268%;background-size: 536.5122615803815% 443.49775784753365%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_61_PHY_CHEM_sol::after {max-width:367px; width:100%;height:0;padding: 0 0 60.762942779291556% 0;}
 .NEET_2020_62_PHY_CHEM_sol {max-width:379px; max-height:96px; }
-.NEET_2020_62_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:379px; height:96px; background-position: 0.06325110689437065% 98.87640449438203%;background-size: 517.1503957783641% 1027.0833333333333%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_62_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:379px; height:96px; background-position: 0.06289308176100629% 98.54423292273236%;background-size: 519.5250659630607% 1030.2083333333333%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_62_PHY_CHEM_sol::after {max-width:379px; width:100%;height:0;padding: 0 0 25.329815303430077% 0;}
 .NEET_2020_65_PHY_CHEM_sol {max-width:423px; max-height:299px; }
-.NEET_2020_65_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:423px; height:299px; background-position: 27.065712426805465% 0.14556040756914118%;background-size: 463.35697399527186% 329.7658862876254%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_65_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:423px; height:299px; background-position: 26.908150064683053% 0.14492753623188406%;background-size: 465.48463356973997% 330.7692307692308%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_65_PHY_CHEM_sol::after {max-width:423px; width:100%;height:0;padding: 0 0 70.68557919621749% 0;}
 .NEET_2020_6_PHY_CHEM_sol {max-width:136px; max-height:141px; }
-.NEET_2020_6_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:136px; height:141px; background-position: 85.41666666666667% 63.31360946745562%;background-size: 1441.1764705882354% 699.2907801418439%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_6_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:136px; height:141px; background-position: 36.60665575559192% 78.89150943396227%;background-size: 1447.7941176470588% 701.418439716312%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_6_PHY_CHEM_sol::after {max-width:136px; width:100%;height:0;padding: 0 0 103.67647058823529% 0;}
 .NEET_2020_71_PHY_CHEM_sol {max-width:264px; max-height:111px; }
-.NEET_2020_71_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:264px; height:111px; background-position: 22.464622641509433% 99.54285714285714%;background-size: 742.4242424242424% 888.2882882882883%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_71_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:264px; height:111px; background-position: 48.914956011730204% 62.07289293849659%;background-size: 745.8333333333334% 890.990990990991%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_71_PHY_CHEM_sol::after {max-width:264px; width:100%;height:0;padding: 0 0 42.04545454545455% 0;}
 .NEET_2020_76_PHY_CHEM_sol {max-width:377px; max-height:262px; }
-.NEET_2020_76_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:377px; height:262px; background-position: 0.06317119393556538% 85.22099447513813%;background-size: 519.893899204244% 376.3358778625954%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_76_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:377px; height:262px; background-position: 0.06281407035175879% 84.86932599724896%;background-size: 522.2811671087533% 377.48091603053433%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_76_PHY_CHEM_sol::after {max-width:377px; width:100%;height:0;padding: 0 0 69.49602122015915% 0;}
 .NEET_2020_76a_PHY_CHEM {max-width:154px; max-height:119px; }
-.NEET_2020_76a_PHY_CHEM::after {content: '\00a0';display: inline-block; width:154px; height:119px; background-position: 86.26799557032115% 78.08535178777393%;background-size: 1272.7272727272727% 828.5714285714286%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_76a_PHY_CHEM::after {content: '\00a0';display: inline-block; width:154px; height:119px; background-position: 54.10468319559229% 75.51724137931035%;background-size: 1278.5714285714287% 831.09243697479%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_76a_PHY_CHEM::after {max-width:154px; width:100%;height:0;padding: 0 0 77.27272727272727% 0;}
 .NEET_2020_76b_PHY_CHEM {max-width:165px; max-height:106px; }
-.NEET_2020_76b_PHY_CHEM::after {content: '\00a0';display: inline-block; width:165px; height:106px; background-position: 85.51532033426184% 90.56818181818181%;background-size: 1187.878787878788% 930.188679245283%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_76b_PHY_CHEM::after {content: '\00a0';display: inline-block; width:165px; height:106px; background-position: 44.789356984478935% 86.74971687429219%;background-size: 1193.3333333333333% 933.0188679245283%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_76b_PHY_CHEM::after {max-width:165px; width:100%;height:0;padding: 0 0 64.24242424242425% 0;}
 .NEET_2020_76c_PHY_CHEM {max-width:145px; max-height:107px; }
-.NEET_2020_76c_PHY_CHEM::after {content: '\00a0';display: inline-block; width:145px; height:107px; background-position: 94.3801652892562% 88.50967007963595%;background-size: 1351.7241379310344% 921.4953271028037%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_76c_PHY_CHEM::after {content: '\00a0';display: inline-block; width:145px; height:107px; background-position: 43.530701754385966% 98.9795918367347%;background-size: 1357.9310344827586% 924.2990654205607%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_76c_PHY_CHEM::after {max-width:145px; width:100%;height:0;padding: 0 0 73.79310344827586% 0;}
 .NEET_2020_76d_PHY_CHEM {max-width:168px; max-height:108px; }
-.NEET_2020_76d_PHY_CHEM::after {content: '\00a0';display: inline-block; width:168px; height:108px; background-position: 76.22767857142857% 85.07972665148064%;background-size: 1166.6666666666667% 912.9629629629629%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_76d_PHY_CHEM::after {content: '\00a0';display: inline-block; width:168px; height:108px; background-position: 45.141588006662964% 74.57434733257662%;background-size: 1172.0238095238096% 915.7407407407408%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_76d_PHY_CHEM::after {max-width:168px; width:100%;height:0;padding: 0 0 64.28571428571429% 0;}
 .NEET_2020_7_PHY_CHEM {max-width:291px; max-height:95px; }
-.NEET_2020_7_PHY_CHEM::after {content: '\00a0';display: inline-block; width:291px; height:95px; background-position: 22.708208508088674% 86.98092031425365%;background-size: 673.5395189003436% 1037.8947368421052%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_7_PHY_CHEM::after {content: '\00a0';display: inline-block; width:291px; height:95px; background-position: 97.79499404052443% 50.671140939597315%;background-size: 676.6323024054983% 1041.0526315789473%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_7_PHY_CHEM::after {max-width:291px; width:100%;height:0;padding: 0 0 32.64604810996563% 0;}
 .NEET_2020_80_PHY_CHEM {max-width:392px; max-height:109px; }
-.NEET_2020_80_PHY_CHEM::after {content: '\00a0';display: inline-block; width:392px; height:109px; background-position: 26.53061224489796% 34.32155074116306%;background-size: 500% 904.5871559633027%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_80_PHY_CHEM::after {content: '\00a0';display: inline-block; width:392px; height:109px; background-position: 79.13760304375397% 41.02272727272727%;background-size: 502.2959183673469% 907.3394495412844%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_80_PHY_CHEM::after {max-width:392px; width:100%;height:0;padding: 0 0 27.806122448979593% 0;}
 .NEET_2020_80_PHY_CHEM_sol {max-width:414px; max-height:324px; }
-.NEET_2020_80_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:414px; height:324px; background-position: 0.0646830530401035% 0.1510574018126888%;background-size: 473.42995169082127% 304.320987654321%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_80_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:414px; height:324px; background-position: 0.06430868167202572% 0.15037593984962405%;background-size: 475.6038647342995% 305.24691358024694%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_80_PHY_CHEM_sol::after {max-width:414px; width:100%;height:0;padding: 0 0 78.26086956521739% 0;}
 .NEET_2020_80a_PHY_CHEM {max-width:97px; max-height:113px; }
-.NEET_2020_80a_PHY_CHEM::after {content: '\00a0';display: inline-block; width:97px; height:113px; background-position: 99.35587761674718% 61.28293241695304%;background-size: 2020.618556701031% 872.566371681416%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_80a_PHY_CHEM::after {content: '\00a0';display: inline-block; width:97px; height:113px; background-position: 98.61111111111111% 62.67123287671233%;background-size: 2029.8969072164948% 875.2212389380531%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_80a_PHY_CHEM::after {max-width:97px; width:100%;height:0;padding: 0 0 116.49484536082474% 0;}
 .NEET_2020_80b_PHY_CHEM {max-width:100px; max-height:109px; }
-.NEET_2020_80b_PHY_CHEM::after {content: '\00a0';display: inline-block; width:100px; height:109px; background-position: 99.94623655913979% 88.7115165336374%;background-size: 1960% 904.5871559633027%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_80b_PHY_CHEM::after {content: '\00a0';display: inline-block; width:100px; height:109px; background-position: 38.095238095238095% 63.52272727272727%;background-size: 1969% 907.3394495412844%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_80b_PHY_CHEM::after {max-width:100px; width:100%;height:0;padding: 0 0 109% 0;}
 .NEET_2020_80c_PHY_CHEM {max-width:92px; max-height:114px; }
-.NEET_2020_80c_PHY_CHEM::after {content: '\00a0';display: inline-block; width:92px; height:114px; background-position: 34.58244111349036% 99.88532110091744%;background-size: 2130.4347826086955% 864.9122807017544%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_80c_PHY_CHEM::after {content: '\00a0';display: inline-block; width:92px; height:114px; background-position: 60.255727224294084% 99.08571428571429%;background-size: 2140.217391304348% 867.5438596491229%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_80c_PHY_CHEM::after {max-width:92px; width:100%;height:0;padding: 0 0 123.91304347826087% 0;}
 .NEET_2020_80d_PHY_CHEM {max-width:81px; max-height:116px; }
-.NEET_2020_80d_PHY_CHEM::after {content: '\00a0';display: inline-block; width:81px; height:116px; background-position: 99.68068121341139% 44.252873563218394%;background-size: 2419.753086419753% 850%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_80d_PHY_CHEM::after {content: '\00a0';display: inline-block; width:81px; height:116px; background-position: 64.83050847457628% 99.3127147766323%;background-size: 2430.864197530864% 852.5862068965517%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_80d_PHY_CHEM::after {max-width:81px; width:100%;height:0;padding: 0 0 143.20987654320987% 0;}
 .NEET_2020_82_PHY_CHEM_sol {max-width:447px; max-height:132px; }
-.NEET_2020_82_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:447px; height:132px; background-position: 25.512227362855253% 48.12646370023419%;background-size: 438.4787472035794% 746.969696969697%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_82_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:447px; height:132px; background-position: 25.36136662286465% 49.70828471411902%;background-size: 440.49217002237134% 749.2424242424242%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_82_PHY_CHEM_sol::after {max-width:447px; width:100%;height:0;padding: 0 0 29.530201342281877% 0;}
 .NEET_2020_83_PHY_CHEM_sol {max-width:245px; max-height:395px; }
-.NEET_2020_83_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:245px; height:395px; background-position: 43.09037900874635% 95.09306260575296%;background-size: 800% 249.62025316455697%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_83_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:245px; height:395px; background-position: 68.44547563805105% 79.29292929292929%;background-size: 803.6734693877551% 250.37974683544303%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_83_PHY_CHEM_sol::after {max-width:245px; width:100%;height:0;padding: 0 0 161.22448979591837% 0;}
 .NEET_2020_86_PHY_CHEM_sol {max-width:384px; max-height:290px; }
-.NEET_2020_86_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:384px; height:290px; background-position: 0.06345177664974619% 46.839080459770116%;background-size: 510.4166666666667% 340%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_86_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:384px; height:290px; background-position: 0.06309148264984227% 46.63805436337625%;background-size: 512.7604166666666% 341.0344827586207%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_86_PHY_CHEM_sol::after {max-width:384px; width:100%;height:0;padding: 0 0 75.52083333333333% 0;}
 .NEET_2020_86a_PHY_CHEM {max-width:155px; max-height:121px; }
-.NEET_2020_86a_PHY_CHEM::after {content: '\00a0';display: inline-block; width:155px; height:121px; background-position: 93.90581717451524% 61.84971098265896%;background-size: 1264.516129032258% 814.8760330578513%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_86a_PHY_CHEM::after {content: '\00a0';display: inline-block; width:155px; height:121px; background-position: 35.170893054024255% 99.88479262672811%;background-size: 1270.3225806451612% 817.3553719008264%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_86a_PHY_CHEM::after {max-width:155px; width:100%;height:0;padding: 0 0 78.06451612903226% 0;}
 .NEET_2020_86b_PHY_CHEM {max-width:146px; max-height:127px; }
-.NEET_2020_86b_PHY_CHEM::after {content: '\00a0';display: inline-block; width:146px; height:127px; background-position: 66.26240352811466% 99.88358556461002%;background-size: 1342.4657534246576% 776.3779527559055%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_86b_PHY_CHEM::after {content: '\00a0';display: inline-block; width:146px; height:127px; background-position: 99.17718047174986% 76.91415313225058%;background-size: 1348.6301369863013% 778.7401574803149%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_86b_PHY_CHEM::after {max-width:146px; width:100%;height:0;padding: 0 0 86.98630136986301% 0;}
 .NEET_2020_86c_PHY_CHEM {max-width:186px; max-height:118px; }
-.NEET_2020_86c_PHY_CHEM::after {content: '\00a0';display: inline-block; width:186px; height:118px; background-position: 66.45997745208568% 85.13824884792626%;background-size: 1053.763440860215% 835.5932203389831%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_86c_PHY_CHEM::after {content: '\00a0';display: inline-block; width:186px; height:118px; background-position: 79.97756590016826% 90.58553386911596%;background-size: 1058.6021505376343% 838.1355932203389%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_86c_PHY_CHEM::after {max-width:186px; width:100%;height:0;padding: 0 0 63.44086021505376% 0;}
 .NEET_2020_86d_PHY_CHEM {max-width:156px; max-height:120px; }
-.NEET_2020_86d_PHY_CHEM::after {content: '\00a0';display: inline-block; width:156px; height:120px; background-position: 94.95565410199556% 75.86605080831409%;background-size: 1256.4102564102564% 821.6666666666666%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_86d_PHY_CHEM::after {content: '\00a0';display: inline-block; width:156px; height:120px; background-position: 53.72311086596801% 89.41311852704258%;background-size: 1262.179487179487% 824.1666666666666%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_86d_PHY_CHEM::after {max-width:156px; width:100%;height:0;padding: 0 0 76.92307692307692% 0;}
 .NEET_2020_87a_PHY_CHEM {max-width:94px; max-height:79px; }
-.NEET_2020_87a_PHY_CHEM::after {content: '\00a0';display: inline-block; width:94px; height:79px; background-position: 72.29367631296891% 94.59757442116869%;background-size: 2085.1063829787236% 1248.1012658227849%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_87a_PHY_CHEM::after {content: '\00a0';display: inline-block; width:94px; height:79px; background-position: 50.13333333333333% 98.68131868131869%;background-size: 2094.68085106383% 1251.8987341772151%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_87a_PHY_CHEM::after {max-width:94px; width:100%;height:0;padding: 0 0 84.04255319148936% 0;}
 .NEET_2020_87b_PHY_CHEM {max-width:95px; max-height:78px; }
-.NEET_2020_87b_PHY_CHEM::after {content: '\00a0';display: inline-block; width:95px; height:78px; background-position: 98.65951742627345% 97.79735682819383%;background-size: 2063.157894736842% 1264.1025641025642%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_87b_PHY_CHEM::after {content: '\00a0';display: inline-block; width:95px; height:78px; background-position: 55.22945570971184% 98.57299670691548%;background-size: 2072.6315789473683% 1267.948717948718%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_87b_PHY_CHEM::after {max-width:95px; width:100%;height:0;padding: 0 0 82.10526315789474% 0;}
 .NEET_2020_87c_PHY_CHEM {max-width:92px; max-height:77px; }
-.NEET_2020_87c_PHY_CHEM::after {content: '\00a0';display: inline-block; width:92px; height:77px; background-position: 77.30192719486081% 99.44994499449945%;background-size: 2130.4347826086955% 1280.5194805194806%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_87c_PHY_CHEM::after {content: '\00a0';display: inline-block; width:92px; height:77px; background-position: 74.16089504528503% 99.56140350877193%;background-size: 2140.217391304348% 1284.4155844155844%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_87c_PHY_CHEM::after {max-width:92px; width:100%;height:0;padding: 0 0 83.69565217391305% 0;}
 .NEET_2020_87d_PHY_CHEM {max-width:85px; max-height:85px; }
-.NEET_2020_87d_PHY_CHEM::after {content: '\00a0';display: inline-block; width:85px; height:85px; background-position: 99.73333333333333% 72.03107658157603%;background-size: 2305.8823529411766% 1160%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_87d_PHY_CHEM::after {content: '\00a0';display: inline-block; width:85px; height:85px; background-position: 69.32059447983015% 95.90707964601769%;background-size: 2316.470588235294% 1163.5294117647059%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_87d_PHY_CHEM::after {max-width:85px; width:100%;height:0;padding: 0 0 100% 0;}
 .NEET_2020_88_PHY_CHEM_sol {max-width:405px; max-height:245px; }
-.NEET_2020_88_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:405px; height:245px; background-position: 54.01929260450161% 0.1349527665317139%;background-size: 483.95061728395063% 402.44897959183675%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_88_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:405px; height:245px; background-position: 53.70843989769821% 0.13440860215053763%;background-size: 486.17283950617286% 403.6734693877551%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_88_PHY_CHEM_sol::after {max-width:405px; width:100%;height:0;padding: 0 0 60.49382716049383% 0;}
 .NEET_2020_90_PHY_CHEM_sol {max-width:330px; max-height:139px; }
-.NEET_2020_90_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:330px; height:139px; background-position: 99.01840490797547% 14.167650531286895%;background-size: 593.939393939394% 709.3525179856115%;background-image: url(N2020.png);padding: 0; }
+.NEET_2020_90_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:330px; height:139px; background-position: 99.93898718730934% 22.58823529411765%;background-size: 596.6666666666666% 711.5107913669065%;background-image: url(N2020.png);padding: 0; }
 div.NEET_2020_90_PHY_CHEM_sol::after {max-width:330px; width:100%;height:0;padding: 0 0 42.121212121212125% 0;}
 
-/* $TexturePacker:SmartUpdate:90b3da085c2b8dd0c7e2e9d3a93b8225:23f70e09d0b27788526585cbbfe2bc5a:3d6cfba040e64614a68fb1a27566d7a0$ */
+/* $TexturePacker:SmartUpdate:725cfac8dba8189e1f00414028a79ed0:4c88366f40fc58fe3c0f5f0be32e8917:3d6cfba040e64614a68fb1a27566d7a0$ */
