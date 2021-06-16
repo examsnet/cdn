@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.STATESOFMATTER_Q_12 {max-width:424px; max-height:103px; }
+.STATESOFMATTER_Q_12::after {content: '\00a0';display: inline-block; width:424px; height:103px; background-position: 0.21929824561403508% 93.23308270676692%;background-size: 207.54716981132074% 487.378640776699%;background-image: url(statesofmatter.png);padding: 0; }
+div.STATESOFMATTER_Q_12::after {max-width:424px; width:100%;height:0;padding: 0 0 24.29245283018868% 0;}
+.STATESOFMATTER_Q_23 {max-width:295px; max-height:189px; }
+.STATESOFMATTER_Q_23::after {content: '\00a0';display: inline-block; width:295px; height:189px; background-position: 72.82051282051282% 99.68051118210863%;background-size: 298.3050847457627% 265.6084656084656%;background-image: url(statesofmatter.png);padding: 0; }
+div.STATESOFMATTER_Q_23::after {max-width:295px; width:100%;height:0;padding: 0 0 64.0677966101695% 0;}
+.STATESOFMATTER_Q_24 {max-width:274px; max-height:310px; }
+.STATESOFMATTER_Q_24::after {content: '\00a0';display: inline-block; width:274px; height:310px; background-position: 52.805280528052805% 0.5208333333333334%;background-size: 321.1678832116788% 161.93548387096774%;background-image: url(statesofmatter.png);padding: 0; }
+div.STATESOFMATTER_Q_24::after {max-width:274px; width:100%;height:0;padding: 0 0 113.13868613138686% 0;}
+.STATESOFMATTER_Q_3 {max-width:318px; max-height:370px; }
+.STATESOFMATTER_Q_3::after {content: '\00a0';display: inline-block; width:318px; height:370px; background-position: 0.17793594306049823% 0.7575757575757576%;background-size: 276.7295597484277% 135.67567567567568%;background-image: url(statesofmatter.png);padding: 0; }
+div.STATESOFMATTER_Q_3::after {max-width:318px; width:100%;height:0;padding: 0 0 116.35220125786164% 0;}
+.STATESOFMATTER_SOL_16 {max-width:157px; max-height:133px; }
+.STATESOFMATTER_SOL_16::after {content: '\00a0';display: inline-block; width:157px; height:133px; background-position: 99.86168741355463% 49.59349593495935%;background-size: 560.5095541401274% 377.4436090225564%;background-image: url(statesofmatter.png);padding: 0; }
+div.STATESOFMATTER_SOL_16::after {max-width:157px; width:100%;height:0;padding: 0 0 84.71337579617834% 0;}
+.STATESOFMATTER_SOL_36 {max-width:282px; max-height:181px; }
+.STATESOFMATTER_SOL_36::after {content: '\00a0';display: inline-block; width:282px; height:181px; background-position: 99.49832775919732% 0.3115264797507788%;background-size: 312.0567375886525% 277.34806629834253%;background-image: url(statesofmatter.png);padding: 0; }
+div.STATESOFMATTER_SOL_36::after {max-width:282px; width:100%;height:0;padding: 0 0 64.18439716312056% 0;}
+
+/* $TexturePacker:SmartUpdate:27d8a20ef73324170ce653adf634fcc9:537220b1f982cf02db6ec4c287380508:1cffefc0c3f320681a064850a4492806$ */

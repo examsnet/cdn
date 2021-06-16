@@ -1,0 +1,68 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.SURFACECHEMISTRY_Q_10 {max-width:240px; max-height:146px; }
+.SURFACECHEMISTRY_Q_10::after {content: '\00a0';display: inline-block; width:240px; height:146px; background-position: 0.36764705882352944% 36.31739572736521%;background-size: 213.33333333333334% 773.2876712328767%;background-image: url(surfacechemistry.png);padding: 0; }
+div.SURFACECHEMISTRY_Q_10::after {max-width:240px; width:100%;height:0;padding: 0 0 60.833333333333336% 0;}
+.SURFACECHEMISTRY_Q_28 {max-width:327px; max-height:71px; }
+.SURFACECHEMISTRY_Q_28::after {content: '\00a0';display: inline-block; width:327px; height:71px; background-position: 0.5405405405405406% 0.0945179584120983%;background-size: 156.5749235474006% 1590.1408450704225%;background-image: url(surfacechemistry.png);padding: 0; }
+div.SURFACECHEMISTRY_Q_28::after {max-width:327px; width:100%;height:0;padding: 0 0 21.712538226299696% 0;}
+.SURFACECHEMISTRY_Q_2_O_A {max-width:179px; max-height:106px; }
+.SURFACECHEMISTRY_Q_2_O_A::after {content: '\00a0';display: inline-block; width:179px; height:106px; background-position: 54.65465465465466% 66.56891495601172%;background-size: 286.0335195530726% 1065.0943396226414%;background-image: url(surfacechemistry.png);padding: 0; }
+div.SURFACECHEMISTRY_Q_2_O_A::after {max-width:179px; width:100%;height:0;padding: 0 0 59.21787709497207% 0;}
+.SURFACECHEMISTRY_Q_2_O_B {max-width:176px; max-height:105px; }
+.SURFACECHEMISTRY_Q_2_O_B::after {content: '\00a0';display: inline-block; width:176px; height:105px; background-position: 0.2976190476190476% 76.85546875%;background-size: 290.90909090909093% 1075.2380952380952%;background-image: url(surfacechemistry.png);padding: 0; }
+div.SURFACECHEMISTRY_Q_2_O_B::after {max-width:176px; width:100%;height:0;padding: 0 0 59.65909090909091% 0;}
+.SURFACECHEMISTRY_Q_2_O_C {max-width:180px; max-height:121px; }
+.SURFACECHEMISTRY_Q_2_O_C::after {content: '\00a0';display: inline-block; width:180px; height:121px; background-position: 0.30120481927710846% 65.97222222222223%;background-size: 284.44444444444446% 933.0578512396694%;background-image: url(surfacechemistry.png);padding: 0; }
+div.SURFACECHEMISTRY_Q_2_O_C::after {max-width:180px; width:100%;height:0;padding: 0 0 67.22222222222223% 0;}
+.SURFACECHEMISTRY_Q_2_O_D {max-width:174px; max-height:106px; }
+.SURFACECHEMISTRY_Q_2_O_D::after {content: '\00a0';display: inline-block; width:174px; height:106px; background-position: 52.662721893491124% 77.02834799608993%;background-size: 294.2528735632184% 1065.0943396226414%;background-image: url(surfacechemistry.png);padding: 0; }
+div.SURFACECHEMISTRY_Q_2_O_D::after {max-width:174px; width:100%;height:0;padding: 0 0 60.91954022988506% 0;}
+.SURFACECHEMISTRY_Q_31_O_C {max-width:169px; max-height:112px; }
+.SURFACECHEMISTRY_Q_31_O_C::after {content: '\00a0';display: inline-block; width:169px; height:112px; background-position: 50.43731778425656% 88.0039331366765%;background-size: 302.9585798816568% 1008.0357142857143%;background-image: url(surfacechemistry.png);padding: 0; }
+div.SURFACECHEMISTRY_Q_31_O_C::after {max-width:169px; width:100%;height:0;padding: 0 0 66.27218934911242% 0;}
+.SURFACECHEMISTRY_Q_31_O_D {max-width:303px; max-height:76px; }
+.SURFACECHEMISTRY_Q_31_O_D::after {content: '\00a0';display: inline-block; width:303px; height:76px; background-position: 0.4784688995215311% 6.932573599240266%;background-size: 168.97689768976898% 1485.5263157894738%;background-image: url(surfacechemistry.png);padding: 0; }
+div.SURFACECHEMISTRY_Q_31_O_D::after {max-width:303px; width:100%;height:0;padding: 0 0 25.082508250825082% 0;}
+.SURFACECHEMISTRY_Q_5_O_A {max-width:154px; max-height:118px; }
+.SURFACECHEMISTRY_Q_5_O_A::after {content: '\00a0';display: inline-block; width:154px; height:118px; background-position: 98.60335195530726% 77.94263105835806%;background-size: 332.46753246753246% 956.7796610169491%;background-image: url(surfacechemistry.png);padding: 0; }
+div.SURFACECHEMISTRY_Q_5_O_A::after {max-width:154px; width:100%;height:0;padding: 0 0 76.62337662337663% 0;}
+.SURFACECHEMISTRY_Q_5_O_B {max-width:150px; max-height:120px; }
+.SURFACECHEMISTRY_Q_5_O_B::after {content: '\00a0';display: inline-block; width:150px; height:120px; background-position: 47.790055248618785% 99.90089197224975%;background-size: 341.3333333333333% 940.8333333333334%;background-image: url(surfacechemistry.png);padding: 0; }
+div.SURFACECHEMISTRY_Q_5_O_B::after {max-width:150px; width:100%;height:0;padding: 0 0 80% 0;}
+.SURFACECHEMISTRY_Q_5_O_C {max-width:168px; max-height:130px; }
+.SURFACECHEMISTRY_Q_5_O_C::after {content: '\00a0';display: inline-block; width:168px; height:130px; background-position: 99.70930232558139% 90.7907907907908%;background-size: 304.76190476190476% 868.4615384615385%;background-image: url(surfacechemistry.png);padding: 0; }
+div.SURFACECHEMISTRY_Q_5_O_C::after {max-width:168px; width:100%;height:0;padding: 0 0 77.38095238095238% 0;}
+.SURFACECHEMISTRY_Q_5_O_D {max-width:171px; max-height:133px; }
+.SURFACECHEMISTRY_Q_5_O_D::after {content: '\00a0';display: inline-block; width:171px; height:133px; background-position: 0.2932551319648094% 89.65863453815261%;background-size: 299.41520467836256% 848.8721804511279%;background-image: url(surfacechemistry.png);padding: 0; }
+div.SURFACECHEMISTRY_Q_5_O_D::after {max-width:171px; width:100%;height:0;padding: 0 0 77.77777777777777% 0;}
+.SURFACECHEMISTRY_Q_8 {max-width:187px; max-height:130px; }
+.SURFACECHEMISTRY_Q_8::after {content: '\00a0';display: inline-block; width:187px; height:130px; background-position: 92.61538461538461% 19.41941941941942%;background-size: 273.7967914438503% 868.4615384615385%;background-image: url(surfacechemistry.png);padding: 0; }
+div.SURFACECHEMISTRY_Q_8::after {max-width:187px; width:100%;height:0;padding: 0 0 69.5187165775401% 0;}
+.SURFACECHEMISTRY_SOL_13 {max-width:230px; max-height:160px; }
+.SURFACECHEMISTRY_SOL_13::after {content: '\00a0';display: inline-block; width:230px; height:160px; background-position: 0.3546099290780142% 52.01238390092879%;background-size: 222.6086956521739% 705.625%;background-image: url(surfacechemistry.png);padding: 0; }
+div.SURFACECHEMISTRY_SOL_13::after {max-width:230px; width:100%;height:0;padding: 0 0 69.56521739130434% 0;}
+.SURFACECHEMISTRY_SOL_14 {max-width:180px; max-height:192px; }
+.SURFACECHEMISTRY_SOL_14::after {content: '\00a0';display: inline-block; width:180px; height:192px; background-position: 99.09638554216868% 0.10672358591248667%;background-size: 284.44444444444446% 588.0208333333334%;background-image: url(surfacechemistry.png);padding: 0; }
+div.SURFACECHEMISTRY_SOL_14::after {max-width:180px; width:100%;height:0;padding: 0 0 106.66666666666667% 0;}
+.SURFACECHEMISTRY_SOL_18 {max-width:214px; max-height:172px; }
+.SURFACECHEMISTRY_SOL_18::after {content: '\00a0';display: inline-block; width:214px; height:172px; background-position: 95.30201342281879% 33.960292580982234%;background-size: 239.25233644859813% 656.3953488372093%;background-image: url(surfacechemistry.png);padding: 0; }
+div.SURFACECHEMISTRY_SOL_18::after {max-width:214px; width:100%;height:0;padding: 0 0 80.37383177570094% 0;}
+.SURFACECHEMISTRY_SOL_3 {max-width:235px; max-height:182px; }
+.SURFACECHEMISTRY_SOL_3::after {content: '\00a0';display: inline-block; width:235px; height:182px; background-position: 87.36462093862816% 52.58711721224921%;background-size: 217.87234042553192% 620.3296703296703%;background-image: url(surfacechemistry.png);padding: 0; }
+div.SURFACECHEMISTRY_SOL_3::after {max-width:235px; width:100%;height:0;padding: 0 0 77.44680851063829% 0;}
+.SURFACECHEMISTRY_SOL_31 {max-width:299px; max-height:71px; }
+.SURFACECHEMISTRY_SOL_31::after {content: '\00a0';display: inline-block; width:299px; height:71px; background-position: 0.4694835680751174% 14.177693761814744%;background-size: 171.23745819397993% 1590.1408450704225%;background-image: url(surfacechemistry.png);padding: 0; }
+div.SURFACECHEMISTRY_SOL_31::after {max-width:299px; width:100%;height:0;padding: 0 0 23.745819397993312% 0;}
+.SURFACECHEMISTRY_SOL_6 {max-width:282px; max-height:134px; }
+.SURFACECHEMISTRY_SOL_6::after {content: '\00a0';display: inline-block; width:282px; height:134px; background-position: 0.43478260869565216% 22.311557788944725%;background-size: 181.56028368794327% 842.5373134328358%;background-image: url(surfacechemistry.png);padding: 0; }
+div.SURFACECHEMISTRY_SOL_6::after {max-width:282px; width:100%;height:0;padding: 0 0 47.5177304964539% 0;}
+
+/* $TexturePacker:SmartUpdate:556ac515c9a163dc24761d16305d0be6:a485fddb927f3abee15ceb1d882da5a1:ca17f3859ba9191e04f2fcfd81d845ae$ */
