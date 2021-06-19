@@ -8,178 +8,181 @@ Responsive: <div class="yourspritesname"></div>
 
 
 .4BIOMOLECULES_SOL_4 {max-width:445px; max-height:254px; }
-.4BIOMOLECULES_SOL_4::after {content: '\00a0';display: inline-block; width:445px; height:254px; background-position: 50.49900199600798% 0.08888888888888889%;background-size: 437.75280898876406% 542.9133858267717%;background-image: url(biomolecules.png);padding: 0; }
+.4BIOMOLECULES_SOL_4::after {content: '\00a0';display: inline-block; width:445px; height:254px; background-position: 53.45070422535211% 0.08210180623973727%;background-size: 419.1011235955056% 579.5275590551181%;background-image: url(biomolecules.png);padding: 0; }
 div.4BIOMOLECULES_SOL_4::after {max-width:445px; width:100%;height:0;padding: 0 0 57.07865168539326% 0;}
 .BIOMOLECULES_Q_18_O_A {max-width:195px; max-height:114px; }
-.BIOMOLECULES_Q_18_O_A::after {content: '\00a0';display: inline-block; width:195px; height:114px; background-position: 88.64803194523674% 78.73517786561264%;background-size: 998.974358974359% 1209.6491228070176%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_18_O_A::after {content: '\00a0';display: inline-block; width:195px; height:114px; background-position: 88.20359281437126% 23.269513991163475%;background-size: 956.4102564102565% 1291.2280701754387%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_18_O_A::after {max-width:195px; width:100%;height:0;padding: 0 0 58.46153846153846% 0;}
 .BIOMOLECULES_Q_18_O_B {max-width:193px; max-height:115px; }
-.BIOMOLECULES_Q_18_O_B::after {content: '\00a0';display: inline-block; width:193px; height:115px; background-position: 76.41025641025641% 87.81645569620254%;background-size: 1009.3264248704663% 1199.1304347826087%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_18_O_B::after {content: '\00a0';display: inline-block; width:193px; height:115px; background-position: 82.59569377990431% 64.11201179071482%;background-size: 966.3212435233161% 1280%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_18_O_B::after {max-width:193px; width:100%;height:0;padding: 0 0 59.58549222797927% 0;}
 .BIOMOLECULES_Q_18_O_C {max-width:192px; max-height:118px; }
-.BIOMOLECULES_Q_18_O_C::after {content: '\00a0';display: inline-block; width:192px; height:118px; background-position: 95.33029612756265% 66.45519429024584%;background-size: 1014.5833333333334% 1168.6440677966102%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_18_O_C::after {content: '\00a0';display: inline-block; width:192px; height:118px; background-position: 81.11177525403467% 55.46528803545052%;background-size: 971.3541666666666% 1247.457627118644%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_18_O_C::after {max-width:192px; width:100%;height:0;padding: 0 0 61.458333333333336% 0;}
 .BIOMOLECULES_Q_18_O_D {max-width:185px; max-height:125px; }
-.BIOMOLECULES_Q_18_O_D::after {content: '\00a0';display: inline-block; width:185px; height:125px; background-position: 94.2711287577992% 56.77830940988836%;background-size: 1052.972972972973% 1103.2%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_18_O_D::after {content: '\00a0';display: inline-block; width:185px; height:125px; background-position: 99.3452380952381% 22.71714922048998%;background-size: 1008.1081081081081% 1177.6%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_18_O_D::after {max-width:185px; width:100%;height:0;padding: 0 0 67.56756756756756% 0;}
 .BIOMOLECULES_Q_1_SOL_1 {max-width:329px; max-height:178px; }
-.BIOMOLECULES_Q_1_SOL_1::after {content: '\00a0';display: inline-block; width:329px; height:178px; background-position: 85.17603458925262% 44.21315570358035%;background-size: 592.09726443769% 774.7191011235955%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_1_SOL_1::after {content: '\00a0';display: inline-block; width:329px; height:178px; background-position: 45.442708333333336% 90.95826893353942%;background-size: 566.8693009118541% 826.9662921348314%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_1_SOL_1::after {max-width:329px; width:100%;height:0;padding: 0 0 54.10334346504559% 0;}
 .BIOMOLECULES_Q_42_O_A {max-width:116px; max-height:122px; }
-.BIOMOLECULES_Q_42_O_A::after {content: '\00a0';display: inline-block; width:116px; height:122px; background-position: 92.35807860262008% 88.38504375497216%;background-size: 1679.3103448275863% 1130.327868852459%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_42_O_A::after {content: '\00a0';display: inline-block; width:116px; height:122px; background-position: 99.94282447112636% 88.88888888888889%;background-size: 1607.7586206896551% 1206.5573770491803%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_42_O_A::after {max-width:116px; width:100%;height:0;padding: 0 0 105.17241379310344% 0;}
 .BIOMOLECULES_Q_42_O_B {max-width:113px; max-height:124px; }
-.BIOMOLECULES_Q_42_O_B::after {content: '\00a0';display: inline-block; width:113px; height:124px; background-position: 91.33514986376022% 98.32669322709164%;background-size: 1723.8938053097345% 1112.0967741935483%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_42_O_B::after {content: '\00a0';display: inline-block; width:113px; height:124px; background-position: 59.1324200913242% 95.62314540059347%;background-size: 1650.4424778761063% 1187.0967741935483%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_42_O_B::after {max-width:113px; width:100%;height:0;padding: 0 0 109.73451327433628% 0;}
 .BIOMOLECULES_Q_42_O_C {max-width:112px; max-height:128px; }
-.BIOMOLECULES_Q_42_O_C::after {content: '\00a0';display: inline-block; width:112px; height:128px; background-position: 85.13071895424837% 97.9216626698641%;background-size: 1739.2857142857142% 1077.34375%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_42_O_C::after {content: '\00a0';display: inline-block; width:112px; height:128px; background-position: 99.71477467199087% 79.6875%;background-size: 1665.1785714285713% 1150%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_42_O_C::after {max-width:112px; width:100%;height:0;padding: 0 0 114.28571428571429% 0;}
 .BIOMOLECULES_Q_42_O_D {max-width:112px; max-height:112px; }
-.BIOMOLECULES_Q_42_O_D::after {content: '\00a0';display: inline-block; width:112px; height:112px; background-position: 64.92374727668846% 99.84214680347277%;background-size: 1739.2857142857142% 1231.25%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_42_O_D::after {content: '\00a0';display: inline-block; width:112px; height:112px; background-position: 65.60182544209925% 94.77941176470588%;background-size: 1665.1785714285713% 1314.2857142857142%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_42_O_D::after {max-width:112px; width:100%;height:0;padding: 0 0 100% 0;}
 .BIOMOLECULES_Q_44 {max-width:337px; max-height:115px; }
-.BIOMOLECULES_Q_44::after {content: '\00a0';display: inline-block; width:337px; height:115px; background-position: 64.61824953445065% 45.88607594936709%;background-size: 578.0415430267062% 1199.1304347826087%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_44::after {content: '\00a0';display: inline-block; width:337px; height:115px; background-position: 45.68062827225131% 99.92630803242447%;background-size: 553.4124629080119% 1280%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_44::after {max-width:337px; width:100%;height:0;padding: 0 0 34.124629080118694% 0;}
 .BIOMOLECULES_Q_45_O_A {max-width:212px; max-height:113px; }
-.BIOMOLECULES_Q_45_O_A::after {content: '\00a0';display: inline-block; width:212px; height:113px; background-position: 77.24654377880184% 78.67298578199052%;background-size: 918.8679245283018% 1220.353982300885%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_45_O_A::after {content: '\00a0';display: inline-block; width:212px; height:113px; background-position: 99.27404718693285% 31.788079470198674%;background-size: 879.7169811320755% 1302.654867256637%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_45_O_A::after {max-width:212px; width:100%;height:0;padding: 0 0 53.301886792452834% 0;}
 .BIOMOLECULES_Q_45_O_B {max-width:213px; max-height:109px; }
-.BIOMOLECULES_Q_45_O_B::after {content: '\00a0';display: inline-block; width:213px; height:109px; background-position: 98.55907780979827% 9.133858267716535%;background-size: 914.5539906103286% 1265.1376146788991%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_45_O_B::after {content: '\00a0';display: inline-block; width:213px; height:109px; background-position: 82.80871670702179% 47.02861335289802%;background-size: 875.586854460094% 1350.4587155963302%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_45_O_B::after {max-width:213px; width:100%;height:0;padding: 0 0 51.17370892018779% 0;}
 .BIOMOLECULES_Q_45_O_C {max-width:284px; max-height:110px; }
-.BIOMOLECULES_Q_45_O_C::after {content: '\00a0';display: inline-block; width:284px; height:110px; background-position: 63.46153846153846% 69.10953506698188%;background-size: 685.9154929577464% 1253.6363636363637%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_45_O_C::after {content: '\00a0';display: inline-block; width:284px; height:110px; background-position: 69.32321315623024% 65.93245227606461%;background-size: 656.6901408450705% 1338.1818181818182%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_45_O_C::after {max-width:284px; width:100%;height:0;padding: 0 0 38.732394366197184% 0;}
 .BIOMOLECULES_Q_45_O_D {max-width:257px; max-height:113px; }
-.BIOMOLECULES_Q_45_O_D::after {content: '\00a0';display: inline-block; width:257px; height:113px; background-position: 44.82554701360142% 54.02843601895734%;background-size: 757.976653696498% 1220.353982300885%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_45_O_D::after {content: '\00a0';display: inline-block; width:257px; height:113px; background-position: 86.00746268656717% 31.71449595290655%;background-size: 725.6809338521401% 1302.654867256637%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_45_O_D::after {max-width:257px; width:100%;height:0;padding: 0 0 43.96887159533074% 0;}
 .BIOMOLECULES_Q_46_O_A {max-width:124px; max-height:75px; }
-.BIOMOLECULES_Q_46_O_A::after {content: '\00a0';display: inline-block; width:124px; height:75px; background-position: 38.48684210526316% 99.69325153374233%;background-size: 1570.967741935484% 1838.6666666666667%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_46_O_A::after {content: '\00a0';display: inline-block; width:124px; height:75px; background-position: 78.23090178058587% 94.05869720830351%;background-size: 1504.032258064516% 1962.6666666666667%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_46_O_A::after {max-width:124px; width:100%;height:0;padding: 0 0 60.483870967741936% 0;}
 .BIOMOLECULES_Q_46_O_B {max-width:154px; max-height:87px; }
-.BIOMOLECULES_Q_46_O_B::after {content: '\00a0';display: inline-block; width:154px; height:87px; background-position: 94.59308807134894% 34.05572755417957%;background-size: 1264.935064935065% 1585.057471264368%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_46_O_B::after {content: '\00a0';display: inline-block; width:154px; height:87px; background-position: 90.59029807130334% 56.101083032490976%;background-size: 1211.0389610389611% 1691.9540229885058%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_46_O_B::after {max-width:154px; width:100%;height:0;padding: 0 0 56.493506493506494% 0;}
 .BIOMOLECULES_Q_46_O_C {max-width:118px; max-height:74px; }
-.BIOMOLECULES_Q_46_O_C::after {content: '\00a0';display: inline-block; width:118px; height:74px; background-position: 99.94535519125684% 40.45977011494253%;background-size: 1650.8474576271187% 1863.5135135135135%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_46_O_C::after {content: '\00a0';display: inline-block; width:118px; height:74px; background-position: 95.30623926731539% 94.63519313304721%;background-size: 1580.5084745762713% 1989.1891891891892%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_46_O_C::after {max-width:118px; width:100%;height:0;padding: 0 0 62.71186440677966% 0;}
 .BIOMOLECULES_Q_46_O_D {max-width:121px; max-height:77px; }
-.BIOMOLECULES_Q_46_O_D::after {content: '\00a0';display: inline-block; width:121px; height:77px; background-position: 45.265462506841814% 99.84639016897081%;background-size: 1609.9173553719008% 1790.909090909091%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_46_O_D::after {content: '\00a0';display: inline-block; width:121px; height:77px; background-position: 78.09633027522936% 99.6415770609319%;background-size: 1541.3223140495868% 1911.6883116883116%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_46_O_D::after {max-width:121px; width:100%;height:0;padding: 0 0 63.63636363636363% 0;}
 .BIOMOLECULES_Q_54_O_A {max-width:82px; max-height:131px; }
-.BIOMOLECULES_Q_54_O_A::after {content: '\00a0';display: inline-block; width:82px; height:131px; background-position: 95.92711682743837% 99.67948717948718%;background-size: 2375.609756097561% 1052.671755725191%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_54_O_A::after {content: '\00a0';display: inline-block; width:82px; height:131px; background-position: 93.38194054963544% 83.44519015659955%;background-size: 2274.390243902439% 1123.6641221374045%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_54_O_A::after {max-width:82px; width:100%;height:0;padding: 0 0 159.7560975609756% 0;}
 .BIOMOLECULES_Q_54_O_B {max-width:85px; max-height:115px; }
-.BIOMOLECULES_Q_54_O_B::after {content: '\00a0';display: inline-block; width:85px; height:115px; background-position: 66.07622114868492% 90.90189873417721%;background-size: 2291.764705882353% 1199.1304347826087%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_54_O_B::after {content: '\00a0';display: inline-block; width:85px; height:115px; background-position: 83.53932584269663% 96.83124539425202%;background-size: 2194.1176470588234% 1280%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_54_O_B::after {max-width:85px; width:100%;height:0;padding: 0 0 135.2941176470588% 0;}
 .BIOMOLECULES_Q_54_O_C {max-width:119px; max-height:131px; }
-.BIOMOLECULES_Q_54_O_C::after {content: '\00a0';display: inline-block; width:119px; height:131px; background-position: 78.89557135046473% 98.23717948717949%;background-size: 1636.9747899159663% 1052.671755725191%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_54_O_C::after {content: '\00a0';display: inline-block; width:119px; height:131px; background-position: 98.45360824742268% 59.73154362416108%;background-size: 1567.2268907563025% 1123.6641221374045%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_54_O_C::after {max-width:119px; width:100%;height:0;padding: 0 0 110.08403361344538% 0;}
 .BIOMOLECULES_Q_54_O_D {max-width:98px; max-height:125px; }
-.BIOMOLECULES_Q_54_O_D::after {content: '\00a0';display: inline-block; width:98px; height:125px; background-position: 99.89189189189189% 56.45933014354067%;background-size: 1987.7551020408164% 1103.2%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_54_O_D::after {content: '\00a0';display: inline-block; width:98px; height:125px; background-position: 71.47707979626486% 95.69413511507052%;background-size: 1903.061224489796% 1177.6%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_54_O_D::after {max-width:98px; width:100%;height:0;padding: 0 0 127.55102040816327% 0;}
 .BIOMOLECULES_Q_55_O_A {max-width:332px; max-height:114px; }
-.BIOMOLECULES_Q_55_O_A::after {content: '\00a0';display: inline-block; width:332px; height:114px; background-position: 82.98267326732673% 69.64426877470356%;background-size: 586.7469879518072% 1209.6491228070176%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_55_O_A::after {content: '\00a0';display: inline-block; width:332px; height:114px; background-position: 74.36399217221135% 23.269513991163475%;background-size: 561.7469879518072% 1291.2280701754387%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_55_O_A::after {max-width:332px; width:100%;height:0;padding: 0 0 34.33734939759036% 0;}
 .BIOMOLECULES_Q_55_O_B {max-width:320px; max-height:125px; }
-.BIOMOLECULES_Q_55_O_B::after {content: '\00a0';display: inline-block; width:320px; height:125px; background-position: 46.31449631449632% 83.49282296650718%;background-size: 608.75% 1103.2%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_55_O_B::after {content: '\00a0';display: inline-block; width:320px; height:125px; background-position: 68.7378640776699% 31.997030438010395%;background-size: 582.8125% 1177.6%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_55_O_B::after {max-width:320px; width:100%;height:0;padding: 0 0 39.0625% 0;}
 .BIOMOLECULES_Q_55_O_C {max-width:300px; max-height:126px; }
-.BIOMOLECULES_Q_55_O_C::after {content: '\00a0';display: inline-block; width:300px; height:126px; background-position: 45.327669902912625% 93.61532322426177%;background-size: 649.3333333333334% 1094.4444444444443%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_55_O_C::after {content: '\00a0';display: inline-block; width:300px; height:126px; background-position: 69.32907348242811% 86.32986627043091%;background-size: 621.6666666666666% 1168.2539682539682%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_55_O_C::after {max-width:300px; width:100%;height:0;padding: 0 0 42% 0;}
 .BIOMOLECULES_Q_55_O_D {max-width:335px; max-height:123px; }
-.BIOMOLECULES_Q_55_O_D::after {content: '\00a0';display: inline-block; width:335px; height:123px; background-position: 22.6906385616863% 98.96496815286625%;background-size: 581.4925373134329% 1121.138211382114%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_55_O_D::after {content: '\00a0';display: inline-block; width:335px; height:123px; background-position: 44.57516339869281% 41.808747220163085%;background-size: 556.7164179104477% 1196.7479674796748%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_55_O_D::after {max-width:335px; width:100%;height:0;padding: 0 0 36.71641791044776% 0;}
 .BIOMOLECULES_Q_56_O_A {max-width:121px; max-height:142px; }
-.BIOMOLECULES_Q_56_O_A::after {content: '\00a0';display: inline-block; width:121px; height:142px; background-position: 99.01477832512315% 89.00565885206144%;background-size: 1609.9173553719008% 971.1267605633802%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_56_O_A::after {content: '\00a0';display: inline-block; width:121px; height:142px; background-position: 88.47477064220183% 87.96992481203007%;background-size: 1541.3223140495868% 1036.619718309859%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_56_O_A::after {max-width:121px; width:100%;height:0;padding: 0 0 117.35537190082644% 0;}
 .BIOMOLECULES_Q_56_O_B {max-width:156px; max-height:113px; }
-.BIOMOLECULES_Q_56_O_B::after {content: '\00a0';display: inline-block; width:156px; height:113px; background-position: 85.65848214285714% 87.7567140600316%;background-size: 1248.7179487179487% 1220.353982300885%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_56_O_B::after {content: '\00a0';display: inline-block; width:156px; height:113px; background-position: 81.10005851375072% 88.30022075055187%;background-size: 1195.5128205128206% 1302.654867256637%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_56_O_B::after {max-width:156px; width:100%;height:0;padding: 0 0 72.43589743589743% 0;}
 .BIOMOLECULES_Q_56_O_C {max-width:125px; max-height:139px; }
-.BIOMOLECULES_Q_56_O_C::after {content: '\00a0';display: inline-block; width:125px; height:139px; background-position: 72.24355458036204% 98.87096774193549%;background-size: 1558.4% 992.0863309352518%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_56_O_C::after {content: '\00a0';display: inline-block; width:125px; height:139px; background-position: 99.88505747126437% 49.587396849212304%;background-size: 1492% 1058.9928057553957%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_56_O_C::after {max-width:125px; width:100%;height:0;padding: 0 0 111.2% 0;}
 .BIOMOLECULES_Q_56_O_D {max-width:155px; max-height:115px; }
-.BIOMOLECULES_Q_56_O_D::after {content: '\00a0';display: inline-block; width:155px; height:115px; background-position: 59.95538204127161% 90.90189873417721%;background-size: 1256.774193548387% 1199.1304347826087%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_56_O_D::after {content: '\00a0';display: inline-block; width:155px; height:115px; background-position: 92.51461988304094% 48.71039056742815%;background-size: 1203.225806451613% 1280%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_56_O_D::after {max-width:155px; width:100%;height:0;padding: 0 0 74.19354838709677% 0;}
 .BIOMOLECULES_Q_62_O_A {max-width:91px; max-height:139px; }
-.BIOMOLECULES_Q_62_O_A::after {content: '\00a0';display: inline-block; width:91px; height:139px; background-position: 99.0845449649973% 18.225806451612904%;background-size: 2140.6593406593406% 992.0863309352518%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_62_O_A::after {content: '\00a0';display: inline-block; width:91px; height:139px; background-position: 93.01014656144307% 73.44336084021005%;background-size: 2049.4505494505493% 1058.9928057553957%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_62_O_A::after {max-width:91px; width:100%;height:0;padding: 0 0 152.74725274725276% 0;}
 .BIOMOLECULES_Q_62_O_B {max-width:92px; max-height:137px; }
-.BIOMOLECULES_Q_62_O_B::after {content: '\00a0';display: inline-block; width:92px; height:137px; background-position: 67.24137931034483% 79.54911433172303%;background-size: 2117.391304347826% 1006.5693430656934%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_62_O_B::after {content: '\00a0';display: inline-block; width:92px; height:137px; background-position: 98.25155104342922% 69.88764044943821%;background-size: 2027.1739130434783% 1074.4525547445255%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_62_O_B::after {max-width:92px; width:100%;height:0;padding: 0 0 148.91304347826087% 0;}
 .BIOMOLECULES_Q_62_O_C {max-width:91px; max-height:104px; }
-.BIOMOLECULES_Q_62_O_C::after {content: '\00a0';display: inline-block; width:91px; height:104px; background-position: 98.49219170705439% 47.294117647058826%;background-size: 2140.6593406593406% 1325.9615384615386%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_62_O_C::after {content: '\00a0';display: inline-block; width:91px; height:104px; background-position: 88.66967305524238% 95.97953216374269%;background-size: 2049.4505494505493% 1415.3846153846155%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_62_O_C::after {max-width:91px; width:100%;height:0;padding: 0 0 114.28571428571429% 0;}
 .BIOMOLECULES_Q_62_O_D {max-width:143px; max-height:113px; }
-.BIOMOLECULES_Q_62_O_D::after {content: '\00a0';display: inline-block; width:143px; height:113px; background-position: 58.06094182825485% 99.92101105845181%;background-size: 1362.2377622377621% 1220.353982300885%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_Q_62_O_D::after {content: '\00a0';display: inline-block; width:143px; height:113px; background-position: 91.46341463414635% 63.64974245768948%;background-size: 1304.1958041958042% 1302.654867256637%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_Q_62_O_D::after {max-width:143px; width:100%;height:0;padding: 0 0 79.02097902097903% 0;}
+.BIOMOLECULES_SOL_1 {max-width:299px; max-height:169px; }
+.BIOMOLECULES_SOL_1::after {content: '\00a0';display: inline-block; width:299px; height:169px; background-position: 67.49680715197957% 55.87106676899463%;background-size: 623.7458193979933% 871.0059171597633%;background-image: url(biomolecules.png);padding: 0; }
+div.BIOMOLECULES_SOL_1::after {max-width:299px; width:100%;height:0;padding: 0 0 56.52173913043478% 0;}
 .BIOMOLECULES_SOL_12 {max-width:142px; max-height:213px; }
-.BIOMOLECULES_SOL_12::after {content: '\00a0';display: inline-block; width:142px; height:213px; background-position: 93.96456256921373% 19.382504288164665%;background-size: 1371.8309859154929% 647.4178403755868%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_12::after {content: '\00a0';display: inline-block; width:142px; height:213px; background-position: 80.49912942542078% 78.31612390786339%;background-size: 1313.380281690141% 691.0798122065728%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_12::after {max-width:142px; width:100%;height:0;padding: 0 0 150% 0;}
 .BIOMOLECULES_SOL_12_A {max-width:143px; max-height:143px; }
-.BIOMOLECULES_SOL_12_A::after {content: '\00a0';display: inline-block; width:143px; height:143px; background-position: 96.95290858725762% 77.42718446601941%;background-size: 1362.2377622377621% 964.3356643356643%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_12_A::after {content: '\00a0';display: inline-block; width:143px; height:143px; background-position: 99.30313588850174% 0.07524454477050414%;background-size: 1304.1958041958042% 1029.3706293706293%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_12_A::after {max-width:143px; width:100%;height:0;padding: 0 0 100% 0;}
 .BIOMOLECULES_SOL_13 {max-width:301px; max-height:152px; }
-.BIOMOLECULES_SOL_13::after {content: '\00a0';display: inline-block; width:301px; height:152px; background-position: 45.78020643594414% 72.86063569682152%;background-size: 647.1760797342192% 907.2368421052631%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_13::after {content: '\00a0';display: inline-block; width:301px; height:152px; background-position: 69.37340153452685% 76.43939393939394%;background-size: 619.6013289036545% 968.421052631579%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_13::after {max-width:301px; width:100%;height:0;padding: 0 0 50.498338870431894% 0;}
 .BIOMOLECULES_SOL_18 {max-width:337px; max-height:263px; }
-.BIOMOLECULES_SOL_18::after {content: '\00a0';display: inline-block; width:337px; height:263px; background-position: 64.61824953445065% 28.315412186379927%;background-size: 578.0415430267062% 524.3346007604563%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_18::after {content: '\00a0';display: inline-block; width:337px; height:263px; background-position: 23.56020942408377% 97.18775847808107%;background-size: 553.4124629080119% 559.6958174904943%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_18::after {max-width:337px; width:100%;height:0;padding: 0 0 78.04154302670624% 0;}
 .BIOMOLECULES_SOL_19 {max-width:370px; max-height:175px; }
-.BIOMOLECULES_SOL_19::after {content: '\00a0';display: inline-block; width:370px; height:175px; background-position: 23.70088719898606% 63.03986710963455%;background-size: 526.4864864864865% 788%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_19::after {content: '\00a0';display: inline-block; width:370px; height:175px; background-position: 25.016722408026755% 77.02390131071704%;background-size: 504.05405405405406% 841.1428571428571%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_19::after {max-width:370px; width:100%;height:0;padding: 0 0 47.2972972972973% 0;}
 .BIOMOLECULES_SOL_2 {max-width:379px; max-height:159px; }
-.BIOMOLECULES_SOL_2::after {content: '\00a0';display: inline-block; width:379px; height:159px; background-position: 23.836838750796687% 76.63934426229508%;background-size: 513.9841688654353% 867.2955974842768%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_2::after {content: '\00a0';display: inline-block; width:379px; height:159px; background-position: 45.895020188425306% 30.76923076923077%;background-size: 492.0844327176781% 925.7861635220125%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_2::after {max-width:379px; width:100%;height:0;padding: 0 0 41.952506596306065% 0;}
 .BIOMOLECULES_SOL_24 {max-width:119px; max-height:183px; }
-.BIOMOLECULES_SOL_24::after {content: '\00a0';display: inline-block; width:119px; height:183px; background-position: 93.43903772553308% 44.147157190635454%;background-size: 1636.9747899159663% 753.551912568306%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_24::after {content: '\00a0';display: inline-block; width:119px; height:183px; background-position: 87.62886597938144% 76.49340574088441%;background-size: 1567.2268907563025% 804.3715846994536%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_24::after {max-width:119px; width:100%;height:0;padding: 0 0 153.78151260504202% 0;}
 .BIOMOLECULES_SOL_3 {max-width:442px; max-height:172px; }
-.BIOMOLECULES_SOL_3::after {content: '\00a0';display: inline-block; width:442px; height:172px; background-position: 80.0132802124834% 11.847555923777962%;background-size: 440.7239819004525% 801.7441860465116%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_3::after {content: '\00a0';display: inline-block; width:442px; height:172px; background-position: 84.68025298664793% 11%;background-size: 421.9457013574661% 855.8139534883721%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_3::after {max-width:442px; width:100%;height:0;padding: 0 0 38.914027149321264% 0;}
 .BIOMOLECULES_SOL_32 {max-width:757px; max-height:285px; }
-.BIOMOLECULES_SOL_32::after {content: '\00a0';display: inline-block; width:757px; height:285px; background-position: 0.08396305625524769% 0.09140767824497258%;background-size: 257.331571994716% 483.859649122807%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_32::after {content: '\00a0';display: inline-block; width:757px; height:285px; background-position: 0.09025270758122744% 0.08424599831508003%;background-size: 246.3672391017173% 516.4912280701755%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_32::after {max-width:757px; width:100%;height:0;padding: 0 0 37.648612945838835% 0;}
 .BIOMOLECULES_SOL_35 {max-width:317px; max-height:214px; }
-.BIOMOLECULES_SOL_35::after {content: '\00a0';display: inline-block; width:317px; height:214px; background-position: 84.54935622317596% 27.124463519313306%;background-size: 614.5110410094637% 644.392523364486%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_35::after {content: '\00a0';display: inline-block; width:317px; height:214px; background-position: 47.7390180878553% 54.689984101748806%;background-size: 588.3280757097792% 687.8504672897196%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_35::after {max-width:317px; width:100%;height:0;padding: 0 0 67.50788643533123% 0;}
 .BIOMOLECULES_SOL_36 {max-width:372px; max-height:392px; }
-.BIOMOLECULES_SOL_36::after {content: '\00a0';display: inline-block; width:372px; height:392px; background-position: 0.06345177664974619% 68.59169199594731%;background-size: 523.6559139784946% 351.7857142857143%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_36::after {content: '\00a0';display: inline-block; width:372px; height:392px; background-position: 0.06697923643670463% 62.68518518518518%;background-size: 501.3440860215054% 375.51020408163265%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_36::after {max-width:372px; width:100%;height:0;padding: 0 0 105.3763440860215% 0;}
 .BIOMOLECULES_SOL_38 {max-width:356px; max-height:92px; }
-.BIOMOLECULES_SOL_38::after {content: '\00a0';display: inline-block; width:356px; height:92px; background-position: 25.188442211055275% 51.74825174825175%;background-size: 547.1910112359551% 1498.9130434782608%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_38::after {content: '\00a0';display: inline-block; width:356px; height:92px; background-position: 48.972829688535455% 65.43478260869566%;background-size: 523.876404494382% 1600%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_38::after {max-width:356px; width:100%;height:0;padding: 0 0 25.84269662921348% 0;}
 .BIOMOLECULES_SOL_4 {max-width:245px; max-height:95px; }
-.BIOMOLECULES_SOL_4::after {content: '\00a0';display: inline-block; width:245px; height:95px; background-position: 43.74633000587199% 62.149532710280376%;background-size: 795.1020408163265% 1451.578947368421%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_4::after {content: '\00a0';display: inline-block; width:245px; height:95px; background-position: 85.37037037037037% 39.57879448075526%;background-size: 761.2244897959183% 1549.4736842105262%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_4::after {max-width:245px; width:100%;height:0;padding: 0 0 38.775510204081634% 0;}
 .BIOMOLECULES_SOL_42 {max-width:305px; max-height:170px; }
-.BIOMOLECULES_SOL_42::after {content: '\00a0';display: inline-block; width:305px; height:170px; background-position: 82.53195374315277% 58.7262200165426%;background-size: 638.688524590164% 811.1764705882352%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_42::after {content: '\00a0';display: inline-block; width:305px; height:170px; background-position: 68.07692307692308% 42.78033794162826%;background-size: 611.4754098360655% 865.8823529411765%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_42::after {max-width:305px; width:100%;height:0;padding: 0 0 55.73770491803279% 0;}
 .BIOMOLECULES_SOL_44 {max-width:504px; max-height:141px; }
-.BIOMOLECULES_SOL_44::after {content: '\00a0';display: inline-block; width:504px; height:141px; background-position: 83.44875346260388% 0.08077544426494346%;background-size: 386.5079365079365% 978.0141843971631%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_44::after {content: '\00a0';display: inline-block; width:504px; height:141px; background-position: 88.53783982365907% 0.07513148009015777%;background-size: 370.03968253968253% 1043.9716312056737%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_44::after {max-width:504px; width:100%;height:0;padding: 0 0 27.976190476190474% 0;}
 .BIOMOLECULES_SOL_48 {max-width:364px; max-height:283px; }
-.BIOMOLECULES_SOL_48::after {content: '\00a0';display: inline-block; width:364px; height:283px; background-position: 0.06313131313131314% 97.62773722627738%;background-size: 535.1648351648352% 487.2791519434629%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_48::after {content: '\00a0';display: inline-block; width:364px; height:283px; background-position: 24.91672218520986% 60.134566862910006%;background-size: 512.3626373626373% 520.1413427561837%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_48::after {max-width:364px; width:100%;height:0;padding: 0 0 77.74725274725274% 0;}
 .BIOMOLECULES_SOL_50 {max-width:280px; max-height:427px; }
-.BIOMOLECULES_SOL_50::after {content: '\00a0';display: inline-block; width:280px; height:427px; background-position: 45.563549160671464% 26.89075630252101%;background-size: 695.7142857142857% 322.95081967213116%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_50::after {content: '\00a0';display: inline-block; width:280px; height:427px; background-position: 25.29968454258675% 27.464114832535884%;background-size: 666.0714285714286% 344.73067915690865%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_50::after {max-width:280px; width:100%;height:0;padding: 0 0 152.5% 0;}
 .BIOMOLECULES_SOL_55 {max-width:399px; max-height:389px; }
-.BIOMOLECULES_SOL_55::after {content: '\00a0';display: inline-block; width:399px; height:389px; background-position: 0.0645577792123951% 28.98989898989899%;background-size: 488.2205513784461% 354.4987146529563%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_55::after {content: '\00a0';display: inline-block; width:399px; height:389px; background-position: 0.06821282401091405% 26.50046168051708%;background-size: 467.4185463659148% 378.4061696658098%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_55::after {max-width:399px; width:100%;height:0;padding: 0 0 97.4937343358396% 0;}
 .BIOMOLECULES_SOL_62 {max-width:172px; max-height:160px; }
-.BIOMOLECULES_SOL_62::after {content: '\00a0';display: inline-block; width:172px; height:160px; background-position: 60.52927927927928% 81.05004101722723%;background-size: 1132.5581395348838% 861.875%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_62::after {content: '\00a0';display: inline-block; width:172px; height:160px; background-position: 97.34199645599527% 11.051829268292684%;background-size: 1084.3023255813953% 920%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_62::after {max-width:172px; width:100%;height:0;padding: 0 0 93.02325581395348% 0;}
 .BIOMOLECULES_SOL_65 {max-width:380px; max-height:147px; }
-.BIOMOLECULES_SOL_65::after {content: '\00a0';display: inline-block; width:380px; height:147px; background-position: 23.341836734693878% 88.87987012987013%;background-size: 512.6315789473684% 938.0952380952381%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_65::after {content: '\00a0';display: inline-block; width:380px; height:147px; background-position: 51.111111111111114% 19.32075471698113%;background-size: 490.7894736842105% 1001.3605442176871%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_65::after {max-width:380px; width:100%;height:0;padding: 0 0 38.68421052631579% 0;}
 .BIOMOLECULES_SOL_7 {max-width:358px; max-height:378px; }
-.BIOMOLECULES_SOL_7::after {content: '\00a0';display: inline-block; width:358px; height:378px; background-position: 25.22012578616352% 28.67132867132867%;background-size: 544.1340782122905% 364.81481481481484%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_7::after {content: '\00a0';display: inline-block; width:358px; height:378px; background-position: 0.06635700066357% 97.80621572212065%;background-size: 520.9497206703911% 389.4179894179894%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_7::after {max-width:358px; width:100%;height:0;padding: 0 0 105.58659217877096% 0;}
 .BIOMOLECULES_SOL_8 {max-width:232px; max-height:114px; }
-.BIOMOLECULES_SOL_8::after {content: '\00a0';display: inline-block; width:232px; height:114px; background-position: 99.65034965034965% 0.07905138339920949%;background-size: 839.6551724137931% 1209.6491228070176%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_8::after {content: '\00a0';display: inline-block; width:232px; height:114px; background-position: 99.75505205143907% 40.20618556701031%;background-size: 803.8793103448276% 1291.2280701754387%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_8::after {max-width:232px; width:100%;height:0;padding: 0 0 49.13793103448276% 0;}
 .BIOMOLECULES_SOL_9 {max-width:339px; max-height:180px; }
-.BIOMOLECULES_SOL_9::after {content: '\00a0';display: inline-block; width:339px; height:180px; background-position: 63.14481044126787% 58.04837364470392%;background-size: 574.6312684365781% 766.1111111111111%;background-image: url(biomolecules.png);padding: 0; }
+.BIOMOLECULES_SOL_9::after {content: '\00a0';display: inline-block; width:339px; height:180px; background-position: 48.82044560943643% 77.08978328173374%;background-size: 550.1474926253687% 817.7777777777778%;background-image: url(biomolecules.png);padding: 0; }
 div.BIOMOLECULES_SOL_9::after {max-width:339px; width:100%;height:0;padding: 0 0 53.097345132743364% 0;}
 
-/* $TexturePacker:SmartUpdate:0d05d991fb34d5c810f367aa80c11996:894ade5d8095ae96abe28f0334c2260c:052d5e3cb7817f89e94bbc71968d564c$ */
+/* $TexturePacker:SmartUpdate:478c81db97f9859be56ce760d275f2a1:23219185f8a299fe64f0e48103e5a337:052d5e3cb7817f89e94bbc71968d564c$ */
