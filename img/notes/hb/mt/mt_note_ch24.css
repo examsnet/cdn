@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.class12_maths_Indefinite_Integrals_1_1 {max-width:323px; max-height:270px; }
+.class12_maths_Indefinite_Integrals_1_1::after {content: '\00a0';display: inline-block; width:323px; height:270px; background-position: 50% 50%;background-size: 100.61919504643963% 100.74074074074075%;background-image: url(mt_note_ch24.jpg);padding: 0; }
+div.class12_maths_Indefinite_Integrals_1_1::after {max-width:323px; width:100%;height:0;padding: 0 0 83.59133126934985% 0;}
+
+/* $TexturePacker:SmartUpdate:b4713a73eca81de73fd02a1076bcdded:9ae7f9b4180e4ff88d591ec0acbb6011:bd9947f3575d358d4d013f1b8489acd8$ */

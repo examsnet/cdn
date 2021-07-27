@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.class12_maths_Math_reasoning_3_1 {max-width:597px; max-height:186px; }
+.class12_maths_Math_reasoning_3_1::after {content: '\00a0';display: inline-block; width:597px; height:186px; background-position: 20% 0.5376344086021505%;background-size: 100.83752093802345% 200%;background-image: url(mt_note_ch31.jpg);padding: 0; }
+div.class12_maths_Math_reasoning_3_1::after {max-width:597px; width:100%;height:0;padding: 0 0 31.155778894472363% 0;}
+.class12_maths_Math_reasoning_3_2 {max-width:600px; max-height:183px; }
+.class12_maths_Math_reasoning_3_2::after {content: '\00a0';display: inline-block; width:600px; height:183px; background-position: 50% 99.47089947089947%;background-size: 100.33333333333333% 203.27868852459017%;background-image: url(mt_note_ch31.jpg);padding: 0; }
+div.class12_maths_Math_reasoning_3_2::after {max-width:600px; width:100%;height:0;padding: 0 0 30.5% 0;}
+
+/* $TexturePacker:SmartUpdate:1e73bf6cee7c6b19682fdfc61c952938:b90ee22799ab823e01be1e6b2cb62842:bec94125408d22b2fe958b2c540caeb6$ */

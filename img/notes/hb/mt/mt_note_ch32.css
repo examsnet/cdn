@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.class12_maths_linear_prog_4_1 {max-width:333px; max-height:118px; }
+.class12_maths_linear_prog_4_1::after {content: '\00a0';display: inline-block; width:333px; height:118px; background-position: 50% 50%;background-size: 100.6006006006006% 101.69491525423729%;background-image: url(mt_note_ch32.jpg);padding: 0; }
+div.class12_maths_linear_prog_4_1::after {max-width:333px; width:100%;height:0;padding: 0 0 35.43543543543544% 0;}
+
+/* $TexturePacker:SmartUpdate:50f1e893a9c62839992f31d71979d165:2592483e04995a243992a52bff86d342:cd2407c82deb0cc889018ed9df1dc1b0$ */
