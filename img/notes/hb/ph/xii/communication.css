@@ -1,0 +1,41 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Communication_1 {max-width:786px; max-height:179px; }
+.Communication_1::after {content: '\00a0';display: inline-block; width:786px; height:179px; background-position: 0.4694835680751174% 0.08210180623973727%;background-size: 127.09923664122137% 780.4469273743017%;background-image: url(communication.png);padding: 0; }
+div.Communication_1::after {max-width:786px; width:100%;height:0;padding: 0 0 22.7735368956743% 0;}
+.Communication_12 {max-width:481px; max-height:164px; }
+.Communication_12::after {content: '\00a0';display: inline-block; width:481px; height:164px; background-position: 0.19305019305019305% 57.096512570965125%;background-size: 207.69230769230768% 851.829268292683%;background-image: url(communication.png);padding: 0; }
+div.Communication_12::after {max-width:481px; width:100%;height:0;padding: 0 0 34.0956340956341% 0;}
+.Communication_2 {max-width:462px; max-height:197px; }
+.Communication_2::after {content: '\00a0';display: inline-block; width:462px; height:197px; background-position: 0.186219739292365% 72.41666666666667%;background-size: 216.23376623376623% 709.1370558375635%;background-image: url(communication.png);padding: 0; }
+div.Communication_2::after {max-width:462px; width:100%;height:0;padding: 0 0 42.64069264069264% 0;}
+.Communication_2_1 {max-width:364px; max-height:206px; }
+.Communication_2_1::after {content: '\00a0';display: inline-block; width:364px; height:206px; background-position: 97.79527559055119% 15.197313182199832%;background-size: 274.45054945054943% 678.1553398058253%;background-image: url(communication.png);padding: 0; }
+div.Communication_2_1::after {max-width:364px; width:100%;height:0;padding: 0 0 56.59340659340659% 0;}
+.Communication_3 {max-width:507px; max-height:273px; }
+.Communication_3::after {content: '\00a0';display: inline-block; width:507px; height:273px; background-position: 0.2032520325203252% 38.256227758007114%;background-size: 197.04142011834318% 511.72161172161174%;background-image: url(communication.png);padding: 0; }
+div.Communication_3::after {max-width:507px; width:100%;height:0;padding: 0 0 53.84615384615385% 0;}
+.Communication_6 {max-width:434px; max-height:321px; }
+.Communication_6::after {content: '\00a0';display: inline-block; width:434px; height:321px; background-position: 0.17699115044247787% 99.1635687732342%;background-size: 230.18433179723502% 435.20249221183803%;background-image: url(communication.png);padding: 0; }
+div.Communication_6::after {max-width:434px; width:100%;height:0;padding: 0 0 73.963133640553% 0;}
+.Communication_7_1 {max-width:417px; max-height:191px; }
+.Communication_7_1::after {content: '\00a0';display: inline-block; width:417px; height:191px; background-position: 74.91408934707904% 99.91708126036484%;background-size: 239.568345323741% 731.4136125654451%;background-image: url(communication.png);padding: 0; }
+div.Communication_7_1::after {max-width:417px; width:100%;height:0;padding: 0 0 45.803357314148684% 0;}
+.Communication_7_2 {max-width:489px; max-height:360px; }
+.Communication_7_2::after {content: '\00a0';display: inline-block; width:489px; height:360px; background-position: 99.80392156862744% 41.46576663452266%;background-size: 204.29447852760737% 388.05555555555554%;background-image: url(communication.png);padding: 0; }
+div.Communication_7_2::after {max-width:489px; width:100%;height:0;padding: 0 0 73.61963190184049% 0;}
+.Communication_7_3 {max-width:619px; max-height:248px; }
+.Communication_7_3::after {content: '\00a0';display: inline-block; width:619px; height:248px; background-position: 0.2631578947368421% 15.752828546562228%;background-size: 161.38933764135703% 563.3064516129032%;background-image: url(communication.png);padding: 0; }
+div.Communication_7_3::after {max-width:619px; width:100%;height:0;padding: 0 0 40.064620355411954% 0;}
+.Communication_7_4 {max-width:467px; max-height:413px; }
+.Communication_7_4::after {content: '\00a0';display: inline-block; width:467px; height:413px; background-position: 90.78947368421052% 80.38617886178862%;background-size: 213.91862955032119% 338.2566585956416%;background-image: url(communication.png);padding: 0; }
+div.Communication_7_4::after {max-width:467px; width:100%;height:0;padding: 0 0 88.43683083511777% 0;}
+
+/* $TexturePacker:SmartUpdate:c58063860f436fd3076b2e6aca812909:a82ab0b25bbf0c0ad378f0ac1bac5ff8:14862615e15f356810cf829d9e6b6d00$ */

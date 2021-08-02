@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Hydrostatics_4 {max-width:102px; max-height:160px; }
+.Hydrostatics_4::after {content: '\00a0';display: inline-block; width:102px; height:160px; background-position: 90.52631578947368% 99.15966386554622%;background-size: 472.54901960784315% 174.375%;background-image: url(hydrostatics.png);padding: 0; }
+div.Hydrostatics_4::after {max-width:102px; width:100%;height:0;padding: 0 0 156.86274509803923% 0;}
+.Hydrostatics_4_f_1 {max-width:342px; max-height:112px; }
+.Hydrostatics_4_f_1::after {content: '\00a0';display: inline-block; width:342px; height:112px; background-position: 0.7142857142857143% 74.25149700598803%;background-size: 140.93567251461988% 249.10714285714286%;background-image: url(hydrostatics.png);padding: 0; }
+div.Hydrostatics_4_f_1::after {max-width:342px; width:100%;height:0;padding: 0 0 32.748538011695906% 0;}
+.Hydrostatics_4_f_2 {max-width:324px; max-height:122px; }
+.Hydrostatics_4_f_2::after {content: '\00a0';display: inline-block; width:324px; height:122px; background-position: 0.6329113924050633% 0.6369426751592356%;background-size: 148.76543209876544% 228.68852459016392%;background-image: url(hydrostatics.png);padding: 0; }
+div.Hydrostatics_4_f_2::after {max-width:324px; width:100%;height:0;padding: 0 0 37.65432098765432% 0;}
+.Hydrostatics_4_f_3 {max-width:155px; max-height:116px; }
+.Hydrostatics_4_f_3::after {content: '\00a0';display: inline-block; width:155px; height:116px; background-position: 99.69418960244649% 0.6134969325153374%;background-size: 310.96774193548384% 240.51724137931035%;background-image: url(hydrostatics.png);padding: 0; }
+div.Hydrostatics_4_f_3::after {max-width:155px; width:100%;height:0;padding: 0 0 74.83870967741936% 0;}
+
+/* $TexturePacker:SmartUpdate:33e47356a5ac64629c2f99c674dce360:a67ec3e19e540f71c6ccc695532fa98f:ecaec90d8fa6908515f81c016fc5edcd$ */

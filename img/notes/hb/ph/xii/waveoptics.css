@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Wave_Optics_11 {max-width:294px; max-height:213px; }
+.Wave_Optics_11::after {content: '\00a0';display: inline-block; width:294px; height:213px; background-position: 20.286396181384248% 6.25%;background-size: 527.5510204081633% 107.51173708920187%;background-image: url(waveoptics.png);padding: 0; }
+div.Wave_Optics_11::after {max-width:294px; width:100%;height:0;padding: 0 0 72.44897959183673% 0;}
+.Wave_Optics_11_f_1 {max-width:165px; max-height:166px; }
+.Wave_Optics_11_f_1::after {content: '\00a0';display: inline-block; width:165px; height:166px; background-position: 81.74603174603175% 1.5873015873015872%;background-size: 940% 137.95180722891567%;background-image: url(waveoptics.png);padding: 0; }
+div.Wave_Optics_11_f_1::after {max-width:165px; width:100%;height:0;padding: 0 0 100.60606060606061% 0;}
+.Wave_Optics_3 {max-width:323px; max-height:186px; }
+.Wave_Optics_3::after {content: '\00a0';display: inline-block; width:323px; height:186px; background-position: 65.87947882736157% 2.3255813953488373%;background-size: 480.1857585139319% 123.11827956989248%;background-image: url(waveoptics.png);padding: 0; }
+div.Wave_Optics_3::after {max-width:323px; width:100%;height:0;padding: 0 0 57.585139318885446% 0;}
+.Wave_Optics_7 {max-width:258px; max-height:203px; }
+.Wave_Optics_7::after {content: '\00a0';display: inline-block; width:258px; height:203px; background-position: 42.53673627223511% 3.8461538461538463%;background-size: 601.1627906976744% 112.80788177339902%;background-image: url(waveoptics.png);padding: 0; }
+div.Wave_Optics_7::after {max-width:258px; width:100%;height:0;padding: 0 0 78.68217054263566% 0;}
+.Wave_Optics_8 {max-width:253px; max-height:227px; }
+.Wave_Optics_8::after {content: '\00a0';display: inline-block; width:253px; height:227px; background-position: 0.07704160246533127% 50%;background-size: 613.0434782608696% 100.88105726872247%;background-image: url(waveoptics.png);padding: 0; }
+div.Wave_Optics_8::after {max-width:253px; width:100%;height:0;padding: 0 0 89.72332015810277% 0;}
+.Wave_Optics_9 {max-width:251px; max-height:152px; }
+.Wave_Optics_9::after {content: '\00a0';display: inline-block; width:251px; height:152px; background-position: 99.92307692307692% 1.2987012987012987%;background-size: 617.9282868525896% 150.6578947368421%;background-image: url(waveoptics.png);padding: 0; }
+div.Wave_Optics_9::after {max-width:251px; width:100%;height:0;padding: 0 0 60.55776892430279% 0;}
+
+/* $TexturePacker:SmartUpdate:ef42c98a9a27e7fc670c7a686a99032d:c6bc5592962a7082ab82686d727dfa0b:1d64a578ea955a8d9f594d69036271b8$ */

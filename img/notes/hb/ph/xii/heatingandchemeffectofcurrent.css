@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Heating_and_Chemical_Effects_of_Current_11 {max-width:235px; max-height:132px; }
+.Heating_and_Chemical_Effects_of_Current_11::after {content: '\00a0';display: inline-block; width:235px; height:132px; background-position: 50% 0.6535947712418301%;background-size: 100.85106382978724% 215.9090909090909%;background-image: url(heatingandchemeffectofcurrent.png);padding: 0; }
+div.Heating_and_Chemical_Effects_of_Current_11::after {max-width:235px; width:100%;height:0;padding: 0 0 56.170212765957444% 0;}
+.Heating_and_Chemical_Effects_of_Current_11_f_1 {max-width:220px; max-height:150px; }
+.Heating_and_Chemical_Effects_of_Current_11_f_1::after {content: '\00a0';display: inline-block; width:220px; height:150px; background-position: 5.882352941176471% 99.25925925925925%;background-size: 107.72727272727273% 190%;background-image: url(heatingandchemeffectofcurrent.png);padding: 0; }
+div.Heating_and_Chemical_Effects_of_Current_11_f_1::after {max-width:220px; width:100%;height:0;padding: 0 0 68.18181818181819% 0;}
+
+/* $TexturePacker:SmartUpdate:6b42584080ea590575d1985a2b9f86c3:0b2bd25633a7dab74ee49c8085c5af3c:01d8ba1adc21f787f095fcb0ccf380ec$ */
