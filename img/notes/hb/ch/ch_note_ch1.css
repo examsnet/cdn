@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Basic_Concepts_of_Chemistry_1 {max-width:528px; max-height:262px; }
+.Basic_Concepts_of_Chemistry_1::after {content: '\00a0';display: inline-block; width:528px; height:262px; background-position: 56.90376569037657% 2.1739130434782608%;background-size: 281.06060606060606% 117.55725190839695%;background-image: url(ch_note_ch1.png);padding: 0; }
+div.Basic_Concepts_of_Chemistry_1::after {max-width:528px; width:100%;height:0;padding: 0 0 49.621212121212125% 0;}
+.Basic_Concepts_of_Chemistry_11 {max-width:410px; max-height:231px; }
+.Basic_Concepts_of_Chemistry_11::after {content: '\00a0';display: inline-block; width:410px; height:231px; background-position: 99.90689013035382% 1.2987012987012987%;background-size: 361.9512195121951% 133.33333333333334%;background-image: url(ch_note_ch1.png);padding: 0; }
+div.Basic_Concepts_of_Chemistry_11::after {max-width:410px; width:100%;height:0;padding: 0 0 56.34146341463415% 0;}
+.Basic_Concepts_of_Chemistry_2 {max-width:542px; max-height:306px; }
+.Basic_Concepts_of_Chemistry_2::after {content: '\00a0';display: inline-block; width:542px; height:306px; background-position: 0.10615711252653928% 50%;background-size: 273.80073800738006% 100.65359477124183%;background-image: url(ch_note_ch1.png);padding: 0; }
+div.Basic_Concepts_of_Chemistry_2::after {max-width:542px; width:100%;height:0;padding: 0 0 56.457564575645755% 0;}
+
+/* $TexturePacker:SmartUpdate:01a6706c2dbc27706cd3f0af6f5ff6a5:2eef6cd40cd4824e542234e6eef0866f:4469d46f3245b4d77195ccd14ec7fd4a$ */

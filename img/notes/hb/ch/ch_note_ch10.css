@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Solutions_3 {max-width:258px; max-height:142px; }
+.Solutions_3::after {content: '\00a0';display: inline-block; width:258px; height:142px; background-position: 92.88537549407114% 85.16129032258064%;background-size: 198.06201550387595% 427.46478873239437%;background-image: url(ch_note_ch10.png);padding: 0; }
+div.Solutions_3::after {max-width:258px; width:100%;height:0;padding: 0 0 55.03875968992248% 0;}
+.Solutions_5 {max-width:228px; max-height:184px; }
+.Solutions_5::after {content: '\00a0';display: inline-block; width:228px; height:184px; background-position: 99.64664310954063% 49.881796690307326%;background-size: 224.12280701754386% 329.89130434782606%;background-image: url(ch_note_ch10.png);padding: 0; }
+div.Solutions_5::after {max-width:228px; width:100%;height:0;padding: 0 0 80.70175438596492% 0;}
+.Solutions_5_f_1 {max-width:280px; max-height:203px; }
+.Solutions_5_f_1::after {content: '\00a0';display: inline-block; width:280px; height:203px; background-position: 0.4329004329004329% 46.78217821782178%;background-size: 182.5% 299.01477832512313%;background-image: url(ch_note_ch10.png);padding: 0; }
+div.Solutions_5_f_1::after {max-width:280px; width:100%;height:0;padding: 0 0 72.5% 0;}
+.Solutions_5_f_2 {max-width:287px; max-height:187px; }
+.Solutions_5_f_2::after {content: '\00a0';display: inline-block; width:287px; height:187px; background-position: 0.44642857142857145% 0.23809523809523808%;background-size: 178.0487804878049% 324.59893048128345%;background-image: url(ch_note_ch10.png);padding: 0; }
+div.Solutions_5_f_2::after {max-width:287px; width:100%;height:0;padding: 0 0 65.15679442508711% 0;}
+.Solutions_7 {max-width:233px; max-height:213px; }
+.Solutions_7::after {content: '\00a0';display: inline-block; width:233px; height:213px; background-position: 0.3597122302158273% 99.74619289340102%;background-size: 219.31330472103005% 284.9765258215962%;background-image: url(ch_note_ch10.png);padding: 0; }
+div.Solutions_7::after {max-width:233px; width:100%;height:0;padding: 0 0 91.41630901287553% 0;}
+.Solutions_7_f_1 {max-width:203px; max-height:209px; }
+.Solutions_7_f_1::after {content: '\00a0';display: inline-block; width:203px; height:209px; background-position: 93.83116883116882% 0.25125628140703515%;background-size: 251.72413793103448% 290.4306220095694%;background-image: url(ch_note_ch10.png);padding: 0; }
+div.Solutions_7_f_1::after {max-width:203px; width:100%;height:0;padding: 0 0 102.95566502463055% 0;}
+
+/* $TexturePacker:SmartUpdate:0b88ca7c77a298845726c712514dd20d:ec60584a005de3ed799768687680c244:72d4a81ff560c3a0b42ccd0eadd0ebc0$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Nuclear_Chemistry_4 {max-width:283px; max-height:243px; }
+.Nuclear_Chemistry_4::after {content: '\00a0';display: inline-block; width:283px; height:243px; background-position: 50% 50%;background-size: 100.70671378091873% 100.82304526748972%;background-image: url(ch1_note_ch11.png);padding: 0; }
+div.Nuclear_Chemistry_4::after {max-width:283px; width:100%;height:0;padding: 0 0 85.86572438162544% 0;}
+
+/* $TexturePacker:SmartUpdate:b612f35897ca1848812f65e17f533399:cf4813c92fb10165cefd7838a8c13df1:256ed8547fea590fd055033089864dcc$ */

@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Electrochemistry_11 {max-width:267px; max-height:148px; }
+.Electrochemistry_11::after {content: '\00a0';display: inline-block; width:267px; height:148px; background-position: 0.9615384615384616% 44.65408805031446%;background-size: 138.95131086142322% 314.86486486486484%;background-image: url(ch_note_ch12.png);padding: 0; }
+div.Electrochemistry_11::after {max-width:267px; width:100%;height:0;padding: 0 0 55.43071161048689% 0;}
+.Electrochemistry_3 {max-width:138px; max-height:152px; }
+.Electrochemistry_3::after {content: '\00a0';display: inline-block; width:138px; height:152px; background-position: 84.54935622317596% 92.67515923566879%;background-size: 268.84057971014494% 306.57894736842104%;background-image: url(ch_note_ch12.png);padding: 0; }
+div.Electrochemistry_3::after {max-width:138px; width:100%;height:0;padding: 0 0 110.14492753623189% 0;}
+.Electrochemistry_3_f_1 {max-width:101px; max-height:144px; }
+.Electrochemistry_3_f_1::after {content: '\00a0';display: inline-block; width:101px; height:144px; background-position: 99.62962962962963% 44.099378881987576%;background-size: 367.3267326732673% 323.6111111111111%;background-image: url(ch_note_ch12.png);padding: 0; }
+div.Electrochemistry_3_f_1::after {max-width:101px; width:100%;height:0;padding: 0 0 142.5742574257426% 0;}
+.Electrochemistry_3_f_2 {max-width:338px; max-height:140px; }
+.Electrochemistry_3_f_2::after {content: '\00a0';display: inline-block; width:338px; height:140px; background-position: 3.0303030303030303% 0.3067484662576687%;background-size: 109.76331360946746% 332.85714285714283%;background-image: url(ch_note_ch12.png);padding: 0; }
+div.Electrochemistry_3_f_2::after {max-width:338px; width:100%;height:0;padding: 0 0 41.42011834319526% 0;}
+.Electrochemistry_5 {max-width:195px; max-height:174px; }
+.Electrochemistry_5::after {content: '\00a0';display: inline-block; width:195px; height:174px; background-position: 0.5681818181818182% 99.65753424657534%;background-size: 190.25641025641025% 267.81609195402297%;background-image: url(ch_note_ch12.png);padding: 0; }
+div.Electrochemistry_5::after {max-width:195px; width:100%;height:0;padding: 0 0 89.23076923076923% 0;}
+
+/* $TexturePacker:SmartUpdate:f9c35d7eddcf33e2f9dac1628c458dda:31b843ec5bd0a5f9ee205d8db6197e73:1c80f218c250382189e934ff812c63f5$ */

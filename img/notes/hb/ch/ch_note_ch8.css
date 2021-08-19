@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Chemical_Equilibrium_4 {max-width:198px; max-height:155px; }
+.Chemical_Equilibrium_4::after {content: '\00a0';display: inline-block; width:198px; height:155px; background-position: 50% 50%;background-size: 101.01010101010101% 101.29032258064517%;background-image: url(ch_note_ch8.png);padding: 0; }
+div.Chemical_Equilibrium_4::after {max-width:198px; width:100%;height:0;padding: 0 0 78.28282828282828% 0;}
+
+/* $TexturePacker:SmartUpdate:a47dba7b11574221535bf8c63404ddb9:dfa8e4b53486012eaa78c6113a4b8471:a0c752f43195eb8457c1aae9f701c0aa$ */

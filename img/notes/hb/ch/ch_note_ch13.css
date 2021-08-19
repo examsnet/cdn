@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Chemical_Kinetics_10 {max-width:218px; max-height:137px; }
+.Chemical_Kinetics_10::after {content: '\00a0';display: inline-block; width:218px; height:137px; background-position: 92.96875% 98.23529411764706%;background-size: 217.43119266055047% 472.26277372262774%;background-image: url(ch_note_ch13.png);padding: 0; }
+div.Chemical_Kinetics_10::after {max-width:218px; width:100%;height:0;padding: 0 0 62.84403669724771% 0;}
+.Chemical_Kinetics_11 {max-width:236px; max-height:145px; }
+.Chemical_Kinetics_11::after {content: '\00a0';display: inline-block; width:236px; height:145px; background-position: 0.42016806722689076% 99.800796812749%;background-size: 200.84745762711864% 446.2068965517241%;background-image: url(ch_note_ch13.png);padding: 0; }
+div.Chemical_Kinetics_11::after {max-width:236px; width:100%;height:0;padding: 0 0 61.440677966101696% 0;}
+.Chemical_Kinetics_12 {max-width:357px; max-height:199px; }
+.Chemical_Kinetics_12::after {content: '\00a0';display: inline-block; width:357px; height:199px; background-position: 0.8547008547008547% 67.1875%;background-size: 132.7731092436975% 325.1256281407035%;background-image: url(ch_note_ch13.png);padding: 0; }
+div.Chemical_Kinetics_12::after {max-width:357px; width:100%;height:0;padding: 0 0 55.74229691876751% 0;}
+.Chemical_Kinetics_9 {max-width:472px; max-height:150px; }
+.Chemical_Kinetics_9::after {content: '\00a0';display: inline-block; width:472px; height:150px; background-position: 50% 0.2012072434607646%;background-size: 100.42372881355932% 431.3333333333333%;background-image: url(ch_note_ch13.png);padding: 0; }
+div.Chemical_Kinetics_9::after {max-width:472px; width:100%;height:0;padding: 0 0 31.779661016949152% 0;}
+.Chemical_Kinetics_9_f_1 {max-width:449px; max-height:148px; }
+.Chemical_Kinetics_9_f_1::after {content: '\00a0';display: inline-block; width:449px; height:148px; background-position: 4% 30.460921843687373%;background-size: 105.56792873051225% 437.1621621621622%;background-image: url(ch_note_ch13.png);padding: 0; }
+div.Chemical_Kinetics_9_f_1::after {max-width:449px; width:100%;height:0;padding: 0 0 32.962138084632514% 0;}
+
+/* $TexturePacker:SmartUpdate:fb937ec2dd0422f46d4ad758e32e2773:8bf881758cbb258d85b3336e3d17b59f:364d54ba18ea2ee69e4930bfb3ff2069$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Colloidal_State_4 {max-width:344px; max-height:164px; }
+.Colloidal_State_4::after {content: '\00a0';display: inline-block; width:344px; height:164px; background-position: 50% 50%;background-size: 100.5813953488372% 101.21951219512195%;background-image: url(ch_note_ch15.png);padding: 0; }
+div.Colloidal_State_4::after {max-width:344px; width:100%;height:0;padding: 0 0 47.674418604651166% 0;}
+
+/* $TexturePacker:SmartUpdate:6dd853a87a836738c21ec5c6291d483e:3c8fc6598bfe51bf2c502e1d75b06233:fa94497c0805bb88fd21a675c563d6ab$ */

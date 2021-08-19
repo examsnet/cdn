@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Surface_Chemistry_2 {max-width:190px; max-height:170px; }
+.Surface_Chemistry_2::after {content: '\00a0';display: inline-block; width:190px; height:170px; background-position: 97.43223965763195% 48.41772151898734%;background-size: 468.94736842105266% 285.88235294117646%;background-image: url(ch_note_ch14.png);padding: 0; }
+div.Surface_Chemistry_2::after {max-width:190px; width:100%;height:0;padding: 0 0 89.47368421052632% 0;}
+.Surface_Chemistry_2_f_1 {max-width:193px; max-height:169px; }
+.Surface_Chemistry_2_f_1::after {content: '\00a0';display: inline-block; width:193px; height:169px; background-position: 70.05730659025788% 48.26498422712934%;background-size: 461.6580310880829% 287.5739644970414%;background-image: url(ch_note_ch14.png);padding: 0; }
+div.Surface_Chemistry_2_f_1::after {max-width:193px; width:100%;height:0;padding: 0 0 87.56476683937824% 0;}
+.Surface_Chemistry_2_f_2 {max-width:179px; max-height:129px; }
+.Surface_Chemistry_2_f_2::after {content: '\00a0';display: inline-block; width:179px; height:129px; background-position: 64.46629213483146% 90.47619047619048%;background-size: 497.76536312849163% 376.74418604651163%;background-image: url(ch_note_ch14.png);padding: 0; }
+div.Surface_Chemistry_2_f_2::after {max-width:179px; width:100%;height:0;padding: 0 0 72.06703910614524% 0;}
+.Surface_Chemistry_2_f_3 {max-width:401px; max-height:151px; }
+.Surface_Chemistry_2_f_3::after {content: '\00a0';display: inline-block; width:401px; height:151px; background-position: 99.79591836734694% 0.29850746268656714%;background-size: 222.1945137157107% 321.8543046357616%;background-image: url(ch_note_ch14.png);padding: 0; }
+div.Surface_Chemistry_2_f_3::after {max-width:401px; width:100%;height:0;padding: 0 0 37.65586034912718% 0;}
+.Surface_Chemistry_2_f_4 {max-width:156px; max-height:142px; }
+.Surface_Chemistry_2_f_4::after {content: '\00a0';display: inline-block; width:156px; height:142px; background-position: 86.93877551020408% 94.18604651162791%;background-size: 571.1538461538462% 342.2535211267606%;background-image: url(ch_note_ch14.png);padding: 0; }
+div.Surface_Chemistry_2_f_4::after {max-width:156px; width:100%;height:0;padding: 0 0 91.02564102564102% 0;}
+.Surface_Chemistry_3 {max-width:487px; max-height:251px; }
+.Surface_Chemistry_3::after {content: '\00a0';display: inline-block; width:487px; height:251px; background-position: 0.24752475247524752% 0.425531914893617%;background-size: 182.95687885010267% 193.62549800796813%;background-image: url(ch_note_ch14.png);padding: 0; }
+div.Surface_Chemistry_3::after {max-width:487px; width:100%;height:0;padding: 0 0 51.540041067761805% 0;}
+.Surface_Chemistry_4 {max-width:457px; max-height:232px; }
+.Surface_Chemistry_4::after {content: '\00a0';display: inline-block; width:457px; height:232px; background-position: 0.2304147465437788% 99.60629921259843%;background-size: 194.9671772428884% 209.48275862068965%;background-image: url(ch_note_ch14.png);padding: 0; }
+div.Surface_Chemistry_4::after {max-width:457px; width:100%;height:0;padding: 0 0 50.76586433260394% 0;}
+
+/* $TexturePacker:SmartUpdate:20b669590b767b39c98873e5345f0789:7ac5e923bc64c2e49e4cbb93f106d190:c6386b808dd50d1de18b0db17517fc36$ */
