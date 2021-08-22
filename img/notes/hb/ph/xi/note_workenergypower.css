@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Work_Energy_and_Power_1 {max-width:201px; max-height:124px; }
+.Work_Energy_and_Power_1::after {content: '\00a0';display: inline-block; width:201px; height:124px; background-position: 93.19148936170212% 47.601476014760145%;background-size: 216.91542288557213% 318.5483870967742%;background-image: url(note_workenergypower.png);padding: 0; }
+div.Work_Energy_and_Power_1::after {max-width:201px; width:100%;height:0;padding: 0 0 61.691542288557216% 0;}
+.Work_Energy_and_Power_2 {max-width:184px; max-height:134px; }
+.Work_Energy_and_Power_2::after {content: '\00a0';display: inline-block; width:184px; height:134px; background-position: 74.60317460317461% 97.31800766283524%;background-size: 236.95652173913044% 294.7761194029851%;background-image: url(note_workenergypower.png);padding: 0; }
+div.Work_Energy_and_Power_2::after {max-width:184px; width:100%;height:0;padding: 0 0 72.82608695652173% 0;}
+.Work_Energy_and_Power_7 {max-width:333px; max-height:86px; }
+.Work_Energy_and_Power_7::after {content: '\00a0';display: inline-block; width:333px; height:86px; background-position: 0.970873786407767% 0.32362459546925565%;background-size: 130.93093093093094% 459.30232558139534%;background-image: url(note_workenergypower.png);padding: 0; }
+div.Work_Energy_and_Power_7::after {max-width:333px; width:100%;height:0;padding: 0 0 25.825825825825827% 0;}
+.Work_Energy_and_Power_7_f_1 {max-width:100px; max-height:127px; }
+.Work_Energy_and_Power_7_f_1::after {content: '\00a0';display: inline-block; width:100px; height:127px; background-position: 99.70238095238095% 0.373134328358209%;background-size: 436% 311.0236220472441%;background-image: url(note_workenergypower.png);padding: 0; }
+div.Work_Energy_and_Power_7_f_1::after {max-width:100px; width:100%;height:0;padding: 0 0 127% 0;}
+.Work_Energy_and_Power_8 {max-width:186px; max-height:148px; }
+.Work_Energy_and_Power_8::after {content: '\00a0';display: inline-block; width:186px; height:148px; background-position: 0.4% 99.59514170040485%;background-size: 234.40860215053763% 266.8918918918919%;background-image: url(note_workenergypower.png);padding: 0; }
+div.Work_Energy_and_Power_8::after {max-width:186px; width:100%;height:0;padding: 0 0 79.56989247311827% 0;}
+.Work_Energy_and_Power_8_f_1 {max-width:217px; max-height:157px; }
+.Work_Energy_and_Power_8_f_1::after {content: '\00a0';display: inline-block; width:217px; height:157px; background-position: 0.45662100456621% 36.97478991596638%;background-size: 200.92165898617512% 251.59235668789808%;background-image: url(note_workenergypower.png);padding: 0; }
+div.Work_Energy_and_Power_8_f_1::after {max-width:217px; width:100%;height:0;padding: 0 0 72.35023041474655% 0;}
+
+/* $TexturePacker:SmartUpdate:f03848276a4707e4c3b4a0fc1a256751:a5c139fc1250c75f72e8269d73c9ca40:c3fc088f649c17a28a83e1298700469a$ */

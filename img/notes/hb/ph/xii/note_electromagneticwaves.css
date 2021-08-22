@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Electromagnetic_Waves_2 {max-width:419px; max-height:239px; }
+.Electromagnetic_Waves_2::after {content: '\00a0';display: inline-block; width:419px; height:239px; background-position: 2.857142857142857% 99.76190476190476%;background-size: 108.35322195704057% 275.73221757322176%;background-image: url(note_electromagneticwaves.png);padding: 0; }
+div.Electromagnetic_Waves_2::after {max-width:419px; width:100%;height:0;padding: 0 0 57.04057279236277% 0;}
+.Electromagnetic_Waves_3 {max-width:452px; max-height:417px; }
+.Electromagnetic_Waves_3::after {content: '\00a0';display: inline-block; width:452px; height:417px; background-position: 50% 0.4132231404958678%;background-size: 100.4424778761062% 158.0335731414868%;background-image: url(note_electromagneticwaves.png);padding: 0; }
+div.Electromagnetic_Waves_3::after {max-width:452px; width:100%;height:0;padding: 0 0 92.2566371681416% 0;}
+
+/* $TexturePacker:SmartUpdate:8c484801deea9039f172c5539864a441:08e14012fa95e1c5eadf5a76a9d4b7b4:a68a3c5eec8b48fc7329b0f1e37ca161$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Nuclear_Physics_10 {max-width:452px; max-height:249px; }
+.Nuclear_Physics_10::after {content: '\00a0';display: inline-block; width:452px; height:249px; background-position: 50% 0.3546099290780142%;background-size: 100.4424778761062% 213.25301204819277%;background-image: url(note_nuclearphysics.png);padding: 0; }
+div.Nuclear_Physics_10::after {max-width:452px; width:100%;height:0;padding: 0 0 55.08849557522124% 0;}
+.Nuclear_Physics_8 {max-width:439px; max-height:279px; }
+.Nuclear_Physics_8::after {content: '\00a0';display: inline-block; width:439px; height:279px; background-position: 6.666666666666667% 99.60317460317461%;background-size: 103.41685649202734% 190.32258064516128%;background-image: url(note_nuclearphysics.png);padding: 0; }
+div.Nuclear_Physics_8::after {max-width:439px; width:100%;height:0;padding: 0 0 63.55353075170843% 0;}
+
+/* $TexturePacker:SmartUpdate:34b8f875e1074aa3153b1f8aea215c6a:d9dc689e281ea205cefb2e60c236960d:94d4a6574ae95bdbc92fed09bed2decb$ */

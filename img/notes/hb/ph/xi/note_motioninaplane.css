@@ -1,0 +1,56 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Motion_in_a_Plane_1 {max-width:188px; max-height:177px; }
+.Motion_in_a_Plane_1::after {content: '\00a0';display: inline-block; width:188px; height:177px; background-position: 0.12919896640826872% 60.3448275862069%;background-size: 511.70212765957444% 263.84180790960454%;background-image: url(note_motioninaplane.png);padding: 0; }
+div.Motion_in_a_Plane_1::after {max-width:188px; width:100%;height:0;padding: 0 0 94.14893617021276% 0;}
+.Motion_in_a_Plane_1_f_1 {max-width:211px; max-height:173px; }
+.Motion_in_a_Plane_1_f_1::after {content: '\00a0';display: inline-block; width:211px; height:173px; background-position: 0.13315579227696406% 0.3401360544217687%;background-size: 455.92417061611377% 269.9421965317919%;background-image: url(note_motioninaplane.png);padding: 0; }
+div.Motion_in_a_Plane_1_f_1::after {max-width:211px; width:100%;height:0;padding: 0 0 81.99052132701422% 0;}
+.Motion_in_a_Plane_1_f_2 {max-width:162px; max-height:123px; }
+.Motion_in_a_Plane_1_f_2::after {content: '\00a0';display: inline-block; width:162px; height:123px; background-position: 89.75% 0.29069767441860467%;background-size: 593.8271604938271% 379.6747967479675%;background-image: url(note_motioninaplane.png);padding: 0; }
+div.Motion_in_a_Plane_1_f_2::after {max-width:162px; width:100%;height:0;padding: 0 0 75.92592592592592% 0;}
+.Motion_in_a_Plane_1_f_3 {max-width:175px; max-height:152px; }
+.Motion_in_a_Plane_1_f_3::after {content: '\00a0';display: inline-block; width:175px; height:152px; background-position: 68.86912325285896% 0.31746031746031744%;background-size: 549.7142857142857% 307.2368421052632%;background-image: url(note_motioninaplane.png);padding: 0; }
+div.Motion_in_a_Plane_1_f_3::after {max-width:175px; width:100%;height:0;padding: 0 0 86.85714285714286% 0;}
+.Motion_in_a_Plane_2 {max-width:205px; max-height:131px; }
+.Motion_in_a_Plane_2::after {content: '\00a0';display: inline-block; width:205px; height:131px; background-position: 54.689564068692206% 51.785714285714285%;background-size: 469.2682926829268% 356.48854961832063%;background-image: url(note_motioninaplane.png);padding: 0; }
+div.Motion_in_a_Plane_2::after {max-width:205px; width:100%;height:0;padding: 0 0 63.90243902439025% 0;}
+.Motion_in_a_Plane_2_f_1 {max-width:229px; max-height:127px; }
+.Motion_in_a_Plane_2_f_1::after {content: '\00a0';display: inline-block; width:229px; height:127px; background-position: 29.604365620736697% 92.94117647058823%;background-size: 420.08733624454146% 367.7165354330709%;background-image: url(note_motioninaplane.png);padding: 0; }
+div.Motion_in_a_Plane_2_f_1::after {max-width:229px; width:100%;height:0;padding: 0 0 55.45851528384279% 0;}
+.Motion_in_a_Plane_2_f_2 {max-width:187px; max-height:128px; }
+.Motion_in_a_Plane_2_f_2::after {content: '\00a0';display: inline-block; width:187px; height:128px; background-position: 57.67741935483871% 90.26548672566372%;background-size: 514.4385026737968% 364.84375%;background-image: url(note_motioninaplane.png);padding: 0; }
+div.Motion_in_a_Plane_2_f_2::after {max-width:187px; width:100%;height:0;padding: 0 0 68.44919786096257% 0;}
+.Motion_in_a_Plane_2_f_3 {max-width:170px; max-height:127px; }
+.Motion_in_a_Plane_2_f_3::after {content: '\00a0';display: inline-block; width:170px; height:127px; background-position: 78.28282828282828% 45.294117647058826%;background-size: 565.8823529411765% 367.7165354330709%;background-image: url(note_motioninaplane.png);padding: 0; }
+div.Motion_in_a_Plane_2_f_3::after {max-width:170px; width:100%;height:0;padding: 0 0 74.70588235294117% 0;}
+.Motion_in_a_Plane_2_f_4 {max-width:158px; max-height:172px; }
+.Motion_in_a_Plane_2_f_4::after {content: '\00a0';display: inline-block; width:158px; height:172px; background-position: 47.63681592039801% 0.3389830508474576%;background-size: 608.8607594936709% 271.51162790697674%;background-image: url(note_motioninaplane.png);padding: 0; }
+div.Motion_in_a_Plane_2_f_4::after {max-width:158px; width:100%;height:0;padding: 0 0 108.86075949367088% 0;}
+.Motion_in_a_Plane_2_f_5 {max-width:223px; max-height:140px; }
+.Motion_in_a_Plane_2_f_5::after {content: '\00a0';display: inline-block; width:223px; height:140px; background-position: 25.71041948579161% 53.51681957186544%;background-size: 431.390134529148% 333.57142857142856%;background-image: url(note_motioninaplane.png);padding: 0; }
+div.Motion_in_a_Plane_2_f_5::after {max-width:223px; width:100%;height:0;padding: 0 0 62.780269058295964% 0;}
+.Motion_in_a_Plane_2_f_6 {max-width:148px; max-height:130px; }
+.Motion_in_a_Plane_2_f_6::after {content: '\00a0';display: inline-block; width:148px; height:130px; background-position: 97.05159705159706% 92.58160237388724%;background-size: 650% 359.2307692307692%;background-image: url(note_motioninaplane.png);padding: 0; }
+div.Motion_in_a_Plane_2_f_6::after {max-width:148px; width:100%;height:0;padding: 0 0 87.83783783783784% 0;}
+.Motion_in_a_Plane_5 {max-width:215px; max-height:113px; }
+.Motion_in_a_Plane_5::after {content: '\00a0';display: inline-block; width:215px; height:113px; background-position: 0.13386880856760375% 99.71751412429379%;background-size: 447.4418604651163% 413.27433628318585%;background-image: url(note_motioninaplane.png);padding: 0; }
+div.Motion_in_a_Plane_5::after {max-width:215px; width:100%;height:0;padding: 0 0 52.55813953488372% 0;}
+.Motion_in_a_Plane_6 {max-width:154px; max-height:171px; }
+.Motion_in_a_Plane_6::after {content: '\00a0';display: inline-block; width:154px; height:171px; background-position: 78.58910891089108% 95.27027027027027%;background-size: 624.6753246753246% 273.09941520467834%;background-image: url(note_motioninaplane.png);padding: 0; }
+div.Motion_in_a_Plane_6::after {max-width:154px; width:100%;height:0;padding: 0 0 111.03896103896103% 0;}
+.Motion_in_a_Plane_7 {max-width:170px; max-height:186px; }
+.Motion_in_a_Plane_7::after {content: '\00a0';display: inline-block; width:170px; height:186px; background-position: 99.87373737373737% 44.48398576512456%;background-size: 565.8823529411765% 251.0752688172043%;background-image: url(note_motioninaplane.png);padding: 0; }
+div.Motion_in_a_Plane_7::after {max-width:170px; width:100%;height:0;padding: 0 0 109.41176470588235% 0;}
+.Motion_in_a_Plane_7_f_1 {max-width:169px; max-height:163px; }
+.Motion_in_a_Plane_7_f_1::after {content: '\00a0';display: inline-block; width:169px; height:163px; background-position: 26.86002522068096% 0.32894736842105265%;background-size: 569.2307692307693% 286.50306748466255%;background-image: url(note_motioninaplane.png);padding: 0; }
+div.Motion_in_a_Plane_7_f_1::after {max-width:169px; width:100%;height:0;padding: 0 0 96.44970414201184% 0;}
+
+/* $TexturePacker:SmartUpdate:bbf45e9a033a9e62d28afad9a9f42171:ae9385ab5c25257959319c4c427c7865:cb7d8a880d429aee3d1df03c18276d14$ */
