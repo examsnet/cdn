@@ -1,0 +1,47 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.BA_LLB_2019_101Sol {max-width:240px; max-height:172px; }
+.BA_LLB_2019_101Sol::after {content: '\00a0';display: inline-block; width:240px; height:172px; background-position: 9.090909090909092% 0.09057971014492754%;background-size: 104.58333333333333% 741.8604651162791%;background-image: url(ba_llb_2019.png);padding: 0; }
+div.BA_LLB_2019_101Sol::after {max-width:240px; width:100%;height:0;padding: 0 0 71.66666666666667% 0;}
+.BA_LLB_2019_103Sol {max-width:236px; max-height:159px; }
+.BA_LLB_2019_103Sol::after {content: '\00a0';display: inline-block; width:236px; height:159px; background-position: 6.666666666666667% 15.577439570277528%;background-size: 106.35593220338983% 802.5157232704403%;background-image: url(ba_llb_2019.png);padding: 0; }
+div.BA_LLB_2019_103Sol::after {max-width:236px; width:100%;height:0;padding: 0 0 67.37288135593221% 0;}
+.BA_LLB_2019_124 {max-width:112px; max-height:79px; }
+.BA_LLB_2019_124::after {content: '\00a0';display: inline-block; width:112px; height:79px; background-position: 97.84172661870504% 96.40768588137009%;background-size: 224.10714285714286% 1615.1898734177216%;background-image: url(ba_llb_2019.png);padding: 0; }
+div.BA_LLB_2019_124::after {max-width:112px; width:100%;height:0;padding: 0 0 70.53571428571429% 0;}
+.BA_LLB_2019_124sol {max-width:71px; max-height:62px; }
+.BA_LLB_2019_124sol::after {content: '\00a0';display: inline-block; width:71px; height:62px; background-position: 99.44444444444444% 83.93739703459637%;background-size: 353.5211267605634% 2058.064516129032%;background-image: url(ba_llb_2019.png);padding: 0; }
+div.BA_LLB_2019_124sol::after {max-width:71px; width:100%;height:0;padding: 0 0 87.32394366197182% 0;}
+.BA_LLB_2019_82Sol {max-width:236px; max-height:157px; }
+.BA_LLB_2019_82Sol::after {content: '\00a0';display: inline-block; width:236px; height:157px; background-position: 6.666666666666667% 29.848078641644324%;background-size: 106.35593220338983% 812.7388535031847%;background-image: url(ba_llb_2019.png);padding: 0; }
+div.BA_LLB_2019_82Sol::after {max-width:236px; width:100%;height:0;padding: 0 0 66.52542372881356% 0;}
+.BA_LLB_2019_87Sol {max-width:177px; max-height:134px; }
+.BA_LLB_2019_87Sol::after {content: '\00a0';display: inline-block; width:177px; height:134px; background-position: 1.3513513513513513% 89.22942206654992%;background-size: 141.80790960451978% 952.2388059701492%;background-image: url(ba_llb_2019.png);padding: 0; }
+div.BA_LLB_2019_87Sol::after {max-width:177px; width:100%;height:0;padding: 0 0 75.70621468926554% 0;}
+.BA_LLB_2019_88Sol {max-width:209px; max-height:62px; }
+.BA_LLB_2019_88Sol::after {content: '\00a0';display: inline-block; width:209px; height:62px; background-position: 2.380952380952381% 67.62767710049424%;background-size: 120.09569377990431% 2058.064516129032%;background-image: url(ba_llb_2019.png);padding: 0; }
+div.BA_LLB_2019_88Sol::after {max-width:209px; width:100%;height:0;padding: 0 0 29.66507177033493% 0;}
+.BA_LLB_2019_89Sol {max-width:220px; max-height:52px; }
+.BA_LLB_2019_89Sol::after {content: '\00a0';display: inline-block; width:220px; height:52px; background-position: 3.225806451612903% 54.411764705882355%;background-size: 114.0909090909091% 2453.846153846154%;background-image: url(ba_llb_2019.png);padding: 0; }
+div.BA_LLB_2019_89Sol::after {max-width:220px; width:100%;height:0;padding: 0 0 23.636363636363637% 0;}
+.BA_LLB_2019_90Sol {max-width:232px; max-height:173px; }
+.BA_LLB_2019_90Sol::after {content: '\00a0';display: inline-block; width:232px; height:173px; background-position: 5.2631578947368425% 44.60562103354488%;background-size: 108.1896551724138% 737.5722543352601%;background-image: url(ba_llb_2019.png);padding: 0; }
+div.BA_LLB_2019_90Sol::after {max-width:232px; width:100%;height:0;padding: 0 0 74.56896551724138% 0;}
+.BA_LLB_2019_91 {max-width:134px; max-height:121px; }
+.BA_LLB_2019_91::after {content: '\00a0';display: inline-block; width:134px; height:121px; background-position: 0.8547008547008547% 99.91341991341992%;background-size: 187.3134328358209% 1054.5454545454545%;background-image: url(ba_llb_2019.png);padding: 0; }
+div.BA_LLB_2019_91::after {max-width:134px; width:100%;height:0;padding: 0 0 90.29850746268657% 0;}
+.BA_LLB_2019_95Sol {max-width:218px; max-height:101px; }
+.BA_LLB_2019_95Sol::after {content: '\00a0';display: inline-block; width:218px; height:101px; background-position: 3.0303030303030303% 61.191489361702125%;background-size: 115.13761467889908% 1263.3663366336634%;background-image: url(ba_llb_2019.png);padding: 0; }
+div.BA_LLB_2019_95Sol::after {max-width:218px; width:100%;height:0;padding: 0 0 46.330275229357795% 0;}
+.BA_LLB_2019_97Sol {max-width:188px; max-height:134px; }
+.BA_LLB_2019_97Sol::after {content: '\00a0';display: inline-block; width:188px; height:134px; background-position: 1.5873015873015872% 77.40805604203152%;background-size: 133.51063829787233% 952.2388059701492%;background-image: url(ba_llb_2019.png);padding: 0; }
+div.BA_LLB_2019_97Sol::after {max-width:188px; width:100%;height:0;padding: 0 0 71.27659574468085% 0;}
+
+/* $TexturePacker:SmartUpdate:41c1f92960747b64f7465ba78ea8f74f:ebe1967d74682e6e9f8c073eb9a7868d:2495a90dd2e191fcb458b74747ffc9d3$ */

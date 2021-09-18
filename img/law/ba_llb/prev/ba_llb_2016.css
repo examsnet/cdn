@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.BA_LLB_2016_109Sol {max-width:138px; max-height:93px; }
+.BA_LLB_2016_109Sol::after {content: '\00a0';display: inline-block; width:138px; height:93px; background-position: 99.7005988023952% 42.546583850931675%;background-size: 342.0289855072464% 446.23655913978496%;background-image: url(ba_llb_2016.png);padding: 0; }
+div.BA_LLB_2016_109Sol::after {max-width:138px; width:100%;height:0;padding: 0 0 67.3913043478261% 0;}
+.BA_LLB_2016_15Sol {max-width:334px; max-height:63px; }
+.BA_LLB_2016_15Sol::after {content: '\00a0';display: inline-block; width:334px; height:63px; background-position: 0.7246376811594203% 99.7159090909091%;background-size: 141.31736526946108% 658.7301587301587%;background-image: url(ba_llb_2016.png);padding: 0; }
+div.BA_LLB_2016_15Sol::after {max-width:334px; width:100%;height:0;padding: 0 0 18.862275449101798% 0;}
+.BA_LLB_2016_93Sol {max-width:296px; max-height:159px; }
+.BA_LLB_2016_93Sol::after {content: '\00a0';display: inline-block; width:296px; height:159px; background-position: 0.5681818181818182% 0.390625%;background-size: 159.45945945945945% 261.0062893081761%;background-image: url(ba_llb_2016.png);padding: 0; }
+div.BA_LLB_2016_93Sol::after {max-width:296px; width:100%;height:0;padding: 0 0 53.71621621621622% 0;}
+.BA_LLB_2016_95Sol {max-width:331px; max-height:109px; }
+.BA_LLB_2016_95Sol::after {content: '\00a0';display: inline-block; width:331px; height:109px; background-position: 0.7092198581560284% 52.61437908496732%;background-size: 142.59818731117824% 380.73394495412845%;background-image: url(ba_llb_2016.png);padding: 0; }
+div.BA_LLB_2016_95Sol::after {max-width:331px; width:100%;height:0;padding: 0 0 32.93051359516616% 0;}
+.BA_LLB_2016_97Sol {max-width:336px; max-height:79px; }
+.BA_LLB_2016_97Sol::after {content: '\00a0';display: inline-block; width:336px; height:79px; background-position: 0.7352941176470589% 80.6547619047619%;background-size: 140.47619047619048% 525.3164556962025%;background-image: url(ba_llb_2016.png);padding: 0; }
+div.BA_LLB_2016_97Sol::after {max-width:336px; width:100%;height:0;padding: 0 0 23.511904761904763% 0;}
+.BA_LLB_2016_98Sol {max-width:147px; max-height:135px; }
+.BA_LLB_2016_98Sol::after {content: '\00a0';display: inline-block; width:147px; height:135px; background-position: 91.6923076923077% 0.35714285714285715%;background-size: 321.08843537414964% 307.4074074074074%;background-image: url(ba_llb_2016.png);padding: 0; }
+div.BA_LLB_2016_98Sol::after {max-width:147px; width:100%;height:0;padding: 0 0 91.83673469387755% 0;}
+
+/* $TexturePacker:SmartUpdate:2ff0730e0b01be88197cb9fc8df2b7c6:65142b60eb76e0df72f2802053de1435:9e5778f56b507befef8d56e9c88f79c7$ */

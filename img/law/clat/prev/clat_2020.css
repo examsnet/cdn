@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.CLAT_2020_130Sol {max-width:337px; max-height:165px; }
+.CLAT_2020_130Sol::after {content: '\00a0';display: inline-block; width:337px; height:165px; background-position: 0.49019607843137253% 99.6124031007752%;background-size: 160.5341246290801% 256.3636363636364%;background-image: url(clat_2020.png);padding: 0; }
+div.CLAT_2020_130Sol::after {max-width:337px; width:100%;height:0;padding: 0 0 48.961424332344215% 0;}
+.CLAT_2020_136 {max-width:474px; max-height:255px; }
+.CLAT_2020_136::after {content: '\00a0';display: inline-block; width:474px; height:255px; background-position: 1.492537313432836% 0.5952380952380952%;background-size: 114.13502109704642% 165.88235294117646%;background-image: url(clat_2020.png);padding: 0; }
+div.CLAT_2020_136::after {max-width:474px; width:100%;height:0;padding: 0 0 53.79746835443038% 0;}
+.CLAT_2020_146 {max-width:201px; max-height:141px; }
+.CLAT_2020_146::after {content: '\00a0';display: inline-block; width:201px; height:141px; background-position: 99.70588235294117% 91.13475177304964%;background-size: 269.1542288557214% 300%;background-image: url(clat_2020.png);padding: 0; }
+div.CLAT_2020_146::after {max-width:201px; width:100%;height:0;padding: 0 0 70.14925373134328% 0;}
+
+/* $TexturePacker:SmartUpdate:f722f4a7437a054da8745baf3cdcf31f:42dec4d848a0c1c79fcbd17d78dea241:daefaccc6fa4c537b223dc98bbb674ae$ */
