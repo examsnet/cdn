@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.CTET_I_V_2021_46 {max-width:439px; max-height:192px; }
+.CTET_I_V_2021_46::after {content: '\00a0';display: inline-block; width:439px; height:192px; background-position: 2.857142857142857% 99.64028776978417%;background-size: 107.97266514806378% 244.79166666666666%;background-image: url(ctet_1_2021_eng.png);padding: 0; }
+div.CTET_I_V_2021_46::after {max-width:439px; width:100%;height:0;padding: 0 0 43.735763097949885% 0;}
+.CTET_I_V_2021_71 {max-width:472px; max-height:275px; }
+.CTET_I_V_2021_71::after {content: '\00a0';display: inline-block; width:472px; height:275px; background-position: 50% 0.5128205128205128%;background-size: 100.42372881355932% 170.9090909090909%;background-image: url(ctet_1_2021_eng.png);padding: 0; }
+div.CTET_I_V_2021_71::after {max-width:472px; width:100%;height:0;padding: 0 0 58.26271186440678% 0;}
+
+/* $TexturePacker:SmartUpdate:651a0a0af297d58b37fd6d2db009f7df:34144bf8209b8cb81866bce3254332ee:195422718a853e02adc3890e11cb2612$ */

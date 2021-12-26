@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Math_Eng_41 {max-width:172px; max-height:279px; }
+.Math_Eng_41::after {content: '\00a0';display: inline-block; width:172px; height:279px; background-position: 99.67845659163987% 91.86189889025894%;background-size: 280.8139534883721% 390.6810035842294%;background-image: url(ctet2021_eng.png);padding: 0; }
+div.Math_Eng_41::after {max-width:172px; width:100%;height:0;padding: 0 0 162.2093023255814% 0;}
+.Math_Eng_53 {max-width:454px; max-height:171px; }
+.Math_Eng_53::after {content: '\00a0';display: inline-block; width:454px; height:171px; background-position: 3.4482758620689653% 24.156692056583243%;background-size: 106.38766519823788% 637.4269005847954%;background-image: url(ctet2021_eng.png);padding: 0; }
+div.Math_Eng_53::after {max-width:454px; width:100%;height:0;padding: 0 0 37.66519823788546% 0;}
+.Math_Eng_56 {max-width:308px; max-height:344px; }
+.Math_Eng_56::after {content: '\00a0';display: inline-block; width:308px; height:344px; background-position: 0.5714285714285714% 99.86595174262735%;background-size: 156.8181818181818% 316.86046511627904%;background-image: url(ctet2021_eng.png);padding: 0; }
+div.Math_Eng_56::after {max-width:308px; width:100%;height:0;padding: 0 0 111.68831168831169% 0;}
+.Math_Eng_57 {max-width:354px; max-height:221px; }
+.Math_Eng_57::after {content: '\00a0';display: inline-block; width:354px; height:221px; background-position: 0.7751937984496124% 60.18411967779056%;background-size: 136.4406779661017% 493.2126696832579%;background-image: url(ctet2021_eng.png);padding: 0; }
+div.Math_Eng_57::after {max-width:354px; width:100%;height:0;padding: 0 0 62.429378531073446% 0;}
+.Math_Eng_58 {max-width:456px; max-height:220px; }
+.Math_Eng_58::after {content: '\00a0';display: inline-block; width:456px; height:220px; background-position: 3.7037037037037037% 0.11494252873563218%;background-size: 105.92105263157895% 495.45454545454544%;background-image: url(ctet2021_eng.png);padding: 0; }
+div.Math_Eng_58::after {max-width:456px; width:100%;height:0;padding: 0 0 48.24561403508772% 0;}
+.Math_Eng_86 {max-width:357px; max-height:128px; }
+.Math_Eng_86::after {content: '\00a0';display: inline-block; width:357px; height:128px; background-position: 0.7936507936507936% 40.95634095634096%;background-size: 135.2941176470588% 851.5625%;background-image: url(ctet2021_eng.png);padding: 0; }
+div.Math_Eng_86::after {max-width:357px; width:100%;height:0;padding: 0 0 35.85434173669468% 0;}
+
+/* $TexturePacker:SmartUpdate:e4073c7f75d9c4262108ccd7b6fede44:4b3e68974297d59e8116d8ddb9f913c5:e0583c6be2563f52c6f104d0c1c37b07$ */

@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Math_Hindi_Dec_53 {max-width:419px; max-height:155px; }
+.Math_Hindi_Dec_53::after {content: '\00a0';display: inline-block; width:419px; height:155px; background-position: 99.68152866242038% 0.28901734104046245%;background-size: 174.94033412887828% 323.2258064516129%;background-image: url(ctet2hinmaths2021.png);padding: 0; }
+div.Math_Hindi_Dec_53::after {max-width:419px; width:100%;height:0;padding: 0 0 36.9928400954654% 0;}
+.Math_Hindi_Dec_56 {max-width:311px; max-height:295px; }
+.Math_Hindi_Dec_56::after {content: '\00a0';display: inline-block; width:311px; height:295px; background-position: 0.23696682464454977% 0.4854368932038835%;background-size: 235.69131832797427% 169.83050847457628%;background-image: url(ctet2hinmaths2021.png);padding: 0; }
+div.Math_Hindi_Dec_56::after {max-width:311px; width:100%;height:0;padding: 0 0 94.85530546623794% 0;}
+.Math_Hindi_Dec_57 {max-width:300px; max-height:213px; }
+.Math_Hindi_Dec_57::after {content: '\00a0';display: inline-block; width:300px; height:213px; background-position: 91.91685912240185% 96.52777777777777%;background-size: 244.33333333333334% 235.2112676056338%;background-image: url(ctet2hinmaths2021.png);padding: 0; }
+div.Math_Hindi_Dec_57::after {max-width:300px; width:100%;height:0;padding: 0 0 71% 0;}
+.Math_Hindi_Dec_58 {max-width:396px; max-height:203px; }
+.Math_Hindi_Dec_58::after {content: '\00a0';display: inline-block; width:396px; height:203px; background-position: 0.29673590504451036% 99.66442953020135%;background-size: 185.1010101010101% 246.79802955665025%;background-image: url(ctet2hinmaths2021.png);padding: 0; }
+div.Math_Hindi_Dec_58::after {max-width:396px; width:100%;height:0;padding: 0 0 51.26262626262626% 0;}
+.Math_Hindi_Dec_86 {max-width:324px; max-height:120px; }
+.Math_Hindi_Dec_86::after {content: '\00a0';display: inline-block; width:324px; height:120px; background-position: 97.31051344743277% 41.20734908136483%;background-size: 226.23456790123456% 417.5%;background-image: url(ctet2hinmaths2021.png);padding: 0; }
+div.Math_Hindi_Dec_86::after {max-width:324px; width:100%;height:0;padding: 0 0 37.03703703703704% 0;}
+
+/* $TexturePacker:SmartUpdate:f641e1894f77a6cb963cc2d334bdca41:053cb5422d7c233b9e719d248e395454:ff3e8ee0d1f08448f95e70953c956a2a$ */
