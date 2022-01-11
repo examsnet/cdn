@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Electromagnetic_Waves_26_s {max-width:320px; max-height:244px; }
+.Electromagnetic_Waves_26_s::after {content: '\00a0';display: inline-block; width:320px; height:244px; background-position: 0.22123893805309736% 71.21212121212122%;background-size: 241.25% 154.0983606557377%;background-image: url(ph_xii_electromagnetic.png);padding: 0; }
+div.Electromagnetic_Waves_26_s::after {max-width:320px; width:100%;height:0;padding: 0 0 76.25% 0;}
+.Electromagnetic_Waves_49_s {max-width:449px; max-height:92px; }
+.Electromagnetic_Waves_49_s::after {content: '\00a0';display: inline-block; width:449px; height:92px; background-position: 0.30959752321981426% 0.352112676056338%;background-size: 171.93763919821825% 408.69565217391306%;background-image: url(ph_xii_electromagnetic.png);padding: 0; }
+div.Electromagnetic_Waves_49_s::after {max-width:449px; width:100%;height:0;padding: 0 0 20.489977728285076% 0;}
+.Electromagnetic_Waves_54_s {max-width:402px; max-height:93px; }
+.Electromagnetic_Waves_54_s::after {content: '\00a0';display: inline-block; width:402px; height:93px; background-position: 87.02702702702703% 99.64664310954063%;background-size: 192.03980099502488% 404.3010752688172%;background-image: url(ph_xii_electromagnetic.png);padding: 0; }
+div.Electromagnetic_Waves_54_s::after {max-width:402px; width:100%;height:0;padding: 0 0 23.134328358208954% 0;}
+.Electromagnetic_Waves_8_s {max-width:320px; max-height:280px; }
+.Electromagnetic_Waves_8_s::after {content: '\00a0';display: inline-block; width:320px; height:280px; background-position: 99.77876106194691% 1.0416666666666667%;background-size: 241.25% 134.28571428571428%;background-image: url(ph_xii_electromagnetic.png);padding: 0; }
+div.Electromagnetic_Waves_8_s::after {max-width:320px; width:100%;height:0;padding: 0 0 87.5% 0;}
+
+/* $TexturePacker:SmartUpdate:27ad78a005ed9a0b236fdfdfd9a8f588:01e4020d6cdbfb282cf9ddc1904f5e30:b82294aae8a53079e423d1ba78d612bd$ */
