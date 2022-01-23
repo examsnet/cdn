@@ -1,0 +1,59 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.CMAT_2021_14_Q {max-width:537px; max-height:354px; }
+.CMAT_2021_14_Q::after {content: '\00a0';display: inline-block; width:537px; height:354px; background-position: 0.205761316872428% 0.31446540880503143%;background-size: 190.50279329608938% 189.83050847457628%;background-image: url(cmat2021.png);padding: 0; }
+div.CMAT_2021_14_Q::after {max-width:537px; width:100%;height:0;padding: 0 0 65.92178770949721% 0;}
+.CMAT_2021_17_Q_1_S {max-width:364px; max-height:189px; }
+.CMAT_2021_17_Q_1_S::after {content: '\00a0';display: inline-block; width:364px; height:189px; background-position: 0.15174506828528073% 73.70600414078675%;background-size: 281.04395604395603% 355.55555555555554%;background-image: url(cmat2021.png);padding: 0; }
+div.CMAT_2021_17_Q_1_S::after {max-width:364px; width:100%;height:0;padding: 0 0 51.92307692307692% 0;}
+.CMAT_2021_19_P {max-width:272px; max-height:266px; }
+.CMAT_2021_19_P::after {content: '\00a0';display: inline-block; width:272px; height:266px; background-position: 71.77097203728363% 0.24630541871921183%;background-size: 376.1029411764706% 252.6315789473684%;background-image: url(cmat2021.png);padding: 0; }
+div.CMAT_2021_19_P::after {max-width:272px; width:100%;height:0;padding: 0 0 97.79411764705883% 0;}
+.CMAT_2021_28_Q_1_S {max-width:246px; max-height:122px; }
+.CMAT_2021_28_Q_1_S::after {content: '\00a0';display: inline-block; width:246px; height:122px; background-position: 97.29729729729729% 88.54545454545455%;background-size: 415.8536585365854% 550.8196721311475%;background-image: url(cmat2021.png);padding: 0; }
+div.CMAT_2021_28_Q_1_S::after {max-width:246px; width:100%;height:0;padding: 0 0 49.59349593495935% 0;}
+.CMAT_2021_30_Q_1_S {max-width:389px; max-height:141px; }
+.CMAT_2021_30_Q_1_S::after {content: '\00a0';display: inline-block; width:389px; height:141px; background-position: 57.72870662460568% 79.66101694915254%;background-size: 262.9820051413882% 476.59574468085106%;background-image: url(cmat2021.png);padding: 0; }
+div.CMAT_2021_30_Q_1_S::after {max-width:389px; width:100%;height:0;padding: 0 0 36.246786632390744% 0;}
+.CMAT_2021_35_Q_1_S {max-width:261px; max-height:154px; }
+.CMAT_2021_35_Q_1_S::after {content: '\00a0';display: inline-block; width:261px; height:154px; background-position: 70.73490813648294% 51.737451737451735%;background-size: 391.95402298850576% 436.3636363636364%;background-image: url(cmat2021.png);padding: 0; }
+div.CMAT_2021_35_Q_1_S::after {max-width:261px; width:100%;height:0;padding: 0 0 59.00383141762452% 0;}
+.CMAT_2021_38_Q_1_S {max-width:288px; max-height:61px; }
+.CMAT_2021_38_Q_1_S::after {content: '\00a0';display: inline-block; width:288px; height:61px; background-position: 94.6938775510204% 99.83633387888707%;background-size: 355.2083333333333% 1101.639344262295%;background-image: url(cmat2021.png);padding: 0; }
+div.CMAT_2021_38_Q_1_S::after {max-width:288px; width:100%;height:0;padding: 0 0 21.180555555555557% 0;}
+.CMAT_2021_39_Q_1_S {max-width:110px; max-height:133px; }
+.CMAT_2021_39_Q_1_S::after {content: '\00a0';display: inline-block; width:110px; height:133px; background-position: 88.93756845564074% 34.87940630797774%;background-size: 930% 505.2631578947368%;background-image: url(cmat2021.png);padding: 0; }
+div.CMAT_2021_39_Q_1_S::after {max-width:110px; width:100%;height:0;padding: 0 0 120.9090909090909% 0;}
+.CMAT_2021_39_Q_2_S {max-width:146px; max-height:69px; }
+.CMAT_2021_39_Q_2_S::after {content: '\00a0';display: inline-block; width:146px; height:69px; background-position: 91.33409350057012% 69.1542288557214%;background-size: 700.6849315068494% 973.9130434782609%;background-image: url(cmat2021.png);padding: 0; }
+div.CMAT_2021_39_Q_2_S::after {max-width:146px; width:100%;height:0;padding: 0 0 47.26027397260274% 0;}
+.CMAT_2021_40_Q_1_S {max-width:221px; max-height:86px; }
+.CMAT_2021_40_Q_1_S::after {content: '\00a0';display: inline-block; width:221px; height:86px; background-position: 99.87531172069825% 56.31399317406143%;background-size: 462.89592760180994% 781.3953488372093%;background-image: url(cmat2021.png);padding: 0; }
+div.CMAT_2021_40_Q_1_S::after {max-width:221px; width:100%;height:0;padding: 0 0 38.914027149321264% 0;}
+.CMAT_2021_45_Q_1_S {max-width:230px; max-height:108px; }
+.CMAT_2021_45_Q_1_S::after {content: '\00a0';display: inline-block; width:230px; height:108px; background-position: 0.12610340479192939% 96.80851063829788%;background-size: 444.7826086956522% 622.2222222222222%;background-image: url(cmat2021.png);padding: 0; }
+div.CMAT_2021_45_Q_1_S::after {max-width:230px; width:100%;height:0;padding: 0 0 46.95652173913044% 0;}
+.CMAT_2021_45_Q_2_S {max-width:224px; max-height:104px; }
+.CMAT_2021_45_Q_2_S::after {content: '\00a0';display: inline-block; width:224px; height:104px; background-position: 29.036295369211516% 99.47183098591549%;background-size: 456.69642857142856% 646.1538461538462%;background-image: url(cmat2021.png);padding: 0; }
+div.CMAT_2021_45_Q_2_S::after {max-width:224px; width:100%;height:0;padding: 0 0 46.42857142857143% 0;}
+.CMAT_2021_46_Q_1_S {max-width:192px; max-height:186px; }
+.CMAT_2021_46_Q_1_S::after {content: '\00a0';display: inline-block; width:192px; height:186px; background-position: 97.71359807460891% 0.205761316872428%;background-size: 532.8125% 361.2903225806452%;background-image: url(cmat2021.png);padding: 0; }
+div.CMAT_2021_46_Q_1_S::after {max-width:192px; width:100%;height:0;padding: 0 0 96.875% 0;}
+.CMAT_2021_48_Q_1_S {max-width:238px; max-height:75px; }
+.CMAT_2021_48_Q_1_S::after {content: '\00a0';display: inline-block; width:238px; height:75px; background-position: 58.21656050955414% 94.63986599664992%;background-size: 429.83193277310926% 896%;background-image: url(cmat2021.png);padding: 0; }
+div.CMAT_2021_48_Q_1_S::after {max-width:238px; width:100%;height:0;padding: 0 0 31.51260504201681% 0;}
+.CMAT_2021_48_Q_2_S {max-width:98px; max-height:72px; }
+.CMAT_2021_48_Q_2_S::after {content: '\00a0';display: inline-block; width:98px; height:72px; background-position: 99.78378378378379% 31.333333333333332%;background-size: 1043.8775510204082% 933.3333333333334%;background-image: url(cmat2021.png);padding: 0; }
+div.CMAT_2021_48_Q_2_S::after {max-width:98px; width:100%;height:0;padding: 0 0 73.46938775510205% 0;}
+.CMAT_2021_48_Q_3_S {max-width:92px; max-height:68px; }
+.CMAT_2021_48_Q_3_S::after {content: '\00a0';display: inline-block; width:92px; height:68px; background-position: 99.14070891514501% 43.211920529801326%;background-size: 1111.9565217391305% 988.2352941176471%;background-image: url(cmat2021.png);padding: 0; }
+div.CMAT_2021_48_Q_3_S::after {max-width:92px; width:100%;height:0;padding: 0 0 73.91304347826087% 0;}
+
+/* $TexturePacker:SmartUpdate:ae540e8305683dd11304f9691104daae:9948b1bd48a81a53d62c95d2bfc23d66:4d2d988935b2b231ae0103d91a322196$ */
