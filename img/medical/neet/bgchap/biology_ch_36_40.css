@@ -7,6 +7,9 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
+.NEET_2021_Biology_and_Botany_31_s {max-width:280px; max-height:77px; }
+.NEET_2021_Biology_and_Botany_31_s::after {content: '\00a0';display: inline-block; width:280px; height:77px; background-position: 76.87188019966722% 22.40566037735849%;background-size: 314.64285714285717% 650.6493506493506%;background-image: url(biology_ch_36_40.png);padding: 0; }
+div.NEET_2021_Biology_and_Botany_31_s::after {max-width:280px; width:100%;height:0;padding: 0 0 27.5% 0;}
 .nt_bg_biodiversity_16 {max-width:237px; max-height:203px; }
 .nt_bg_biodiversity_16::after {content: '\00a0';display: inline-block; width:237px; height:203px; background-position: 50% 87.24832214765101%;background-size: 371.7299578059072% 246.79802955665025%;background-image: url(biology_ch_36_40.png);padding: 0; }
 div.nt_bg_biodiversity_16::after {max-width:237px; width:100%;height:0;padding: 0 0 85.65400843881856% 0;}
@@ -20,7 +23,7 @@ div.nt_bg_ecosystem_25::after {max-width:320px; width:100%;height:0;padding: 0 0
 .nt_bg_ecosystem_30::after {content: '\00a0';display: inline-block; width:460px; height:258px; background-position: 0.2375296912114014% 0.411522633744856%;background-size: 191.52173913043478% 194.1860465116279%;background-image: url(biology_ch_36_40.png);padding: 0; }
 div.nt_bg_ecosystem_30::after {max-width:460px; width:100%;height:0;padding: 0 0 56.08695652173913% 0;}
 .nt_bg_ecosystem_39 {max-width:320px; max-height:295px; }
-.nt_bg_ecosystem_39::after {content: '\00a0';display: inline-block; width:320px; height:295px; background-position: 99.82174688057042% 46.116504854368934%;background-size: 275.3125% 169.83050847457628%;background-image: url(biology_ch_36_40.png);padding: 0; }
+.nt_bg_ecosystem_39::after {content: '\00a0';display: inline-block; width:320px; height:295px; background-position: 99.82174688057042% 83.98058252427184%;background-size: 275.3125% 169.83050847457628%;background-image: url(biology_ch_36_40.png);padding: 0; }
 div.nt_bg_ecosystem_39::after {max-width:320px; width:100%;height:0;padding: 0 0 92.1875% 0;}
 
-/* $TexturePacker:SmartUpdate:933a64aa18330974031c34e3f4f95098:294b602b6f0003aa602b6620d4fa8818:e20a12b852ce709d71d7be3c968e0ca0$ */
+/* $TexturePacker:SmartUpdate:179e2eb4201a8d73b230231872e95ab5:1f09710dc1857e316877abfe79b5f910:e20a12b852ce709d71d7be3c968e0ca0$ */
