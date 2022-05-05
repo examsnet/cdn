@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.JEEMAIN_24FEB_SHIFT2_SOL_36 {max-width:325px; max-height:142px; }
+.JEEMAIN_24FEB_SHIFT2_SOL_36::after {content: '\00a0';display: inline-block; width:325px; height:142px; background-position: 75.49407114624506% 12.5%;background-size: 489.2307692307692% 105.63380281690141%;background-image: url(env_chemistry.png);padding: 0; }
+div.JEEMAIN_24FEB_SHIFT2_SOL_36::after {max-width:325px; width:100%;height:0;padding: 0 0 43.69230769230769% 0;}
+.JEEMAIN_24FEB_SHIFT2_SOL_36_A {max-width:308px; max-height:138px; }
+.JEEMAIN_24FEB_SHIFT2_SOL_36_A::after {content: '\00a0';display: inline-block; width:308px; height:138px; background-position: 99.9219968798752% 8.333333333333334%;background-size: 516.2337662337662% 108.69565217391305%;background-image: url(env_chemistry.png);padding: 0; }
+div.JEEMAIN_24FEB_SHIFT2_SOL_36_A::after {max-width:308px; width:100%;height:0;padding: 0 0 44.8051948051948% 0;}
+.JEEMAIN_25FEB_SHIFT1_SOL_40 {max-width:477px; max-height:146px; }
+.JEEMAIN_25FEB_SHIFT1_SOL_40::after {content: '\00a0';display: inline-block; width:477px; height:146px; background-position: 42.857142857142854% 25%;background-size: 333.3333333333333% 102.73972602739725%;background-image: url(env_chemistry.png);padding: 0; }
+div.JEEMAIN_25FEB_SHIFT1_SOL_40::after {max-width:477px; width:100%;height:0;padding: 0 0 30.60796645702306% 0;}
+.JEEMAIN_25FEB_SHIFT1_SOL_40_A {max-width:475px; max-height:148px; }
+.JEEMAIN_25FEB_SHIFT1_SOL_40_A::after {content: '\00a0';display: inline-block; width:475px; height:148px; background-position: 0.08968609865470852% 50%;background-size: 334.7368421052632% 101.35135135135135%;background-image: url(env_chemistry.png);padding: 0; }
+div.JEEMAIN_25FEB_SHIFT1_SOL_40_A::after {max-width:475px; width:100%;height:0;padding: 0 0 31.157894736842106% 0;}
+
+/* $TexturePacker:SmartUpdate:ceb98d2d153e77259a15e0b0edf23876:90ef3f67330a670e29b8a850274c80b8:6a9dece3be4f1aa4bda95ab6d6d130e5$ */
