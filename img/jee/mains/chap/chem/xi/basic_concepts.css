@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.JEEMAIN_24FEB_SHIFT2_SOL_59 {max-width:402px; max-height:142px; }
+.JEEMAIN_24FEB_SHIFT2_SOL_59::after {content: '\00a0';display: inline-block; width:402px; height:142px; background-position: 50% 1.4705882352941178%;background-size: 100.49751243781094% 147.88732394366198%;background-image: url(basic_concepts.png);padding: 0; }
+div.JEEMAIN_24FEB_SHIFT2_SOL_59::after {max-width:402px; width:100%;height:0;padding: 0 0 35.32338308457712% 0;}
+.JEE_Main_26_Aug_2021_Shift_2_60_Q_1_S {max-width:349px; max-height:65px; }
+.JEE_Main_26_Aug_2021_Shift_2_60_Q_1_S::after {content: '\00a0';display: inline-block; width:349px; height:65px; background-position: 1.8181818181818181% 99.3103448275862%;background-size: 115.7593123209169% 323.0769230769231%;background-image: url(basic_concepts.png);padding: 0; }
+div.JEE_Main_26_Aug_2021_Shift_2_60_Q_1_S::after {max-width:349px; width:100%;height:0;padding: 0 0 18.624641833810887% 0;}
+
+/* $TexturePacker:SmartUpdate:fb239ca6c01263bfd255f3c103ed5c99:aa73f492cc3eaf11d324ec5eea7a380b:f6b6bb3064a1344533e2033916fb9adc$ */
