@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.JEE_Main_25_July_2021_Morning_22_q {max-width:407px; max-height:236px; }
+.JEE_Main_25_July_2021_Morning_22_q::after {content: '\00a0';display: inline-block; width:407px; height:236px; background-position: 50% 50%;background-size: 100.4914004914005% 100.84745762711864%;background-image: url(ph_xi_physicalworld.png);padding: 0; }
+div.JEE_Main_25_July_2021_Morning_22_q::after {max-width:407px; width:100%;height:0;padding: 0 0 57.98525798525799% 0;}
+
+/* $TexturePacker:SmartUpdate:b7379a92d351a6af504ec788b139a46f:74031a38ea903d1a9d07245d4a516bc8:95e016f2332305824a40582fe93414d7$ */

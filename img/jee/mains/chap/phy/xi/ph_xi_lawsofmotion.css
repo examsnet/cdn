@@ -7,239 +7,338 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
+.JEEM_16_Mar_S1_29 {max-width:180px; max-height:370px; }
+.JEEM_16_Mar_S1_29::after {content: '\00a0';display: inline-block; width:180px; height:370px; background-position: 0.05685048322910745% 35.65891472868217%;background-size: 1077.2222222222222% 518.3783783783783%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEEM_16_Mar_S1_29::after {max-width:180px; width:100%;height:0;padding: 0 0 205.55555555555554% 0;}
+.JEEM_16_Mar_S1_29sol {max-width:177px; max-height:308px; }
+.JEEM_16_Mar_S1_29sol::after {content: '\00a0';display: inline-block; width:177px; height:308px; background-position: 0.056753688989784334% 57.32919254658385%;background-size: 1095.4802259887006% 622.7272727272727%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEEM_16_Mar_S1_29sol::after {max-width:177px; width:100%;height:0;padding: 0 0 174.01129943502823% 0;}
+.JEEM_16_Mar_S1_3 {max-width:316px; max-height:145px; }
+.JEEM_16_Mar_S1_3::after {content: '\00a0';display: inline-block; width:316px; height:145px; background-position: 42.32902033271719% 11.336717428087987%;background-size: 613.6075949367089% 1322.7586206896551%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEEM_16_Mar_S1_3::after {max-width:316px; width:100%;height:0;padding: 0 0 45.88607594936709% 0;}
+.JEEM_16_Mar_S1_3sol {max-width:224px; max-height:191px; }
+.JEEM_16_Mar_S1_3sol::after {content: '\00a0';display: inline-block; width:224px; height:191px; background-position: 34.81049562682216% 92.41459177764911%;background-size: 865.625% 1004.1884816753927%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEEM_16_Mar_S1_3sol::after {max-width:224px; width:100%;height:0;padding: 0 0 85.26785714285714% 0;}
+.JEEM_17_Mar_S1_29 {max-width:166px; max-height:91px; }
+.JEEM_17_Mar_S1_29::after {content: '\00a0';display: inline-block; width:166px; height:91px; background-position: 15.905245346869712% 92.9392446633826%;background-size: 1168.0722891566265% 2107.6923076923076%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEEM_17_Mar_S1_29::after {max-width:166px; width:100%;height:0;padding: 0 0 54.81927710843374% 0;}
+.JEEM_17_Mar_S2_22sol {max-width:323px; max-height:199px; }
+.JEEM_17_Mar_S2_22sol::after {content: '\00a0';display: inline-block; width:323px; height:199px; background-position: 45.23514851485149% 0.058173356602675974%;background-size: 600.3095975232198% 963.8190954773869%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEEM_17_Mar_S2_22sol::after {max-width:323px; width:100%;height:0;padding: 0 0 61.60990712074303% 0;}
+.JEEM_17_Mar_S2_23 {max-width:280px; max-height:244px; }
+.JEEM_17_Mar_S2_23::after {content: '\00a0';display: inline-block; width:280px; height:244px; background-position: 0.06027727546714889% 91.51732377538829%;background-size: 692.5% 786.0655737704918%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEEM_17_Mar_S2_23::after {max-width:280px; width:100%;height:0;padding: 0 0 87.14285714285714% 0;}
+.JEEM_17_Mar_S2_23sol {max-width:272px; max-height:166px; }
+.JEEM_17_Mar_S2_23sol::after {content: '\00a0';display: inline-block; width:272px; height:166px; background-position: 55.84883023395321% 31.792237442922374%;background-size: 712.8676470588235% 1155.421686746988%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEEM_17_Mar_S2_23sol::after {max-width:272px; width:100%;height:0;padding: 0 0 61.029411764705884% 0;}
+.JEEM_18_Mar_S2_15 {max-width:171px; max-height:263px; }
+.JEEM_18_Mar_S2_15::after {content: '\00a0';display: inline-block; width:171px; height:263px; background-position: 13.065610859728507% 72.38670694864048%;background-size: 1133.9181286549708% 729.277566539924%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEEM_18_Mar_S2_15::after {max-width:171px; width:100%;height:0;padding: 0 0 153.80116959064327% 0;}
+.JEEM_18_Mar_S2_15sol {max-width:206px; max-height:212px; }
+.JEEM_18_Mar_S2_15sol::after {content: '\00a0';display: inline-block; width:206px; height:212px; background-position: 33.87189844200808% 69.63657678780774%;background-size: 941.2621359223301% 904.7169811320755%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEEM_18_Mar_S2_15sol::after {max-width:206px; width:100%;height:0;padding: 0 0 102.9126213592233% 0;}
+.JEE_Main_1_Sep_2021_Shift_2_15_Q {max-width:154px; max-height:100px; }
+.JEE_Main_1_Sep_2021_Shift_2_15_Q::after {content: '\00a0';display: inline-block; width:154px; height:100px; background-position: 44.705882352941174% 60.56105610561056%;background-size: 1259.090909090909% 1918%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_1_Sep_2021_Shift_2_15_Q::after {max-width:154px; width:100%;height:0;padding: 0 0 64.93506493506493% 0;}
+.JEE_Main_1_Sep_2021_Shift_2_15_Q_1_O {max-width:206px; max-height:177px; }
+.JEE_Main_1_Sep_2021_Shift_2_15_Q_1_O::after {content: '\00a0';display: inline-block; width:206px; height:177px; background-position: 45.816503173687245% 69.04078116025273%;background-size: 941.2621359223301% 1083.6158192090395%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_1_Sep_2021_Shift_2_15_Q_1_O::after {max-width:206px; width:100%;height:0;padding: 0 0 85.92233009708738% 0;}
+.JEE_Main_1_Sep_2021_Shift_2_15_Q_1_S {max-width:179px; max-height:148px; }
+.JEE_Main_1_Sep_2021_Shift_2_15_Q_1_S::after {content: '\00a0';display: inline-block; width:179px; height:148px; background-position: 68.23863636363636% 80.22598870056497%;background-size: 1083.2402234636872% 1295.945945945946%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_1_Sep_2021_Shift_2_15_Q_1_S::after {max-width:179px; width:100%;height:0;padding: 0 0 82.68156424581005% 0;}
+.JEE_Main_1_Sep_2021_Shift_2_15_Q_2_O {max-width:169px; max-height:270px; }
+.JEE_Main_1_Sep_2021_Shift_2_15_Q_2_O::after {content: '\00a0';display: inline-block; width:169px; height:270px; background-position: 10.282485875706215% 33.49514563106796%;background-size: 1147.3372781065088% 710.3703703703703%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_1_Sep_2021_Shift_2_15_Q_2_O::after {max-width:169px; width:100%;height:0;padding: 0 0 159.76331360946745% 0;}
+.JEE_Main_1_Sep_2021_Shift_2_15_Q_2_S {max-width:204px; max-height:138px; }
+.JEE_Main_1_Sep_2021_Shift_2_15_Q_2_S::after {content: '\00a0';display: inline-block; width:204px; height:138px; background-position: 99.94236311239193% 0.056179775280898875%;background-size: 950.4901960784314% 1389.855072463768%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_1_Sep_2021_Shift_2_15_Q_2_S::after {max-width:204px; width:100%;height:0;padding: 0 0 67.6470588235294% 0;}
+.JEE_Main_1_Sep_2021_Shift_2_15_Q_3_O {max-width:226px; max-height:226px; }
+.JEE_Main_1_Sep_2021_Shift_2_15_Q_3_O::after {content: '\00a0';display: inline-block; width:226px; height:226px; background-position: 19.964973730297725% 57.15130023640662%;background-size: 857.9646017699115% 848.6725663716815%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_1_Sep_2021_Shift_2_15_Q_3_O::after {max-width:226px; width:100%;height:0;padding: 0 0 100% 0;}
+.JEE_Main_1_Sep_2021_Shift_2_15_Q_3_S {max-width:172px; max-height:164px; }
+.JEE_Main_1_Sep_2021_Shift_2_15_Q_3_S::after {content: '\00a0';display: inline-block; width:172px; height:164px; background-position: 99.88681380871533% 36.659064994298745%;background-size: 1127.3255813953488% 1169.5121951219512%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_1_Sep_2021_Shift_2_15_Q_3_S::after {max-width:172px; width:100%;height:0;padding: 0 0 95.34883720930233% 0;}
+.JEE_Main_1_Sep_2021_Shift_2_15_Q_4_O {max-width:183px; max-height:252px; }
+.JEE_Main_1_Sep_2021_Shift_2_15_Q_4_O::after {content: '\00a0';display: inline-block; width:183px; height:252px; background-position: 22.949886104783598% 71.66866746698679%;background-size: 1059.5628415300546% 761.1111111111111%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_1_Sep_2021_Shift_2_15_Q_4_O::after {max-width:183px; width:100%;height:0;padding: 0 0 137.70491803278688% 0;}
+.JEE_Main_1_Sep_2021_Shift_2_24_Q_1_S {max-width:209px; max-height:102px; }
+.JEE_Main_1_Sep_2021_Shift_2_24_Q_1_S::after {content: '\00a0';display: inline-block; width:209px; height:102px; background-position: 65.02890173410404% 72.52202643171806%;background-size: 927.7511961722488% 1880.3921568627452%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_1_Sep_2021_Shift_2_24_Q_1_S::after {max-width:209px; width:100%;height:0;padding: 0 0 48.803827751196174% 0;}
+.JEE_Main_1_Sep_2021_Shift_2_24_Q_2_S {max-width:301px; max-height:168px; }
+.JEE_Main_1_Sep_2021_Shift_2_24_Q_2_S::after {content: '\00a0';display: inline-block; width:301px; height:168px; background-position: 80.21978021978022% 16.514285714285716%;background-size: 644.1860465116279% 1141.6666666666667%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_1_Sep_2021_Shift_2_24_Q_2_S::after {max-width:301px; width:100%;height:0;padding: 0 0 55.81395348837209% 0;}
+.JEE_Main_1_Sep_2021_Shift_2_6_Q {max-width:248px; max-height:172px; }
+.JEE_Main_1_Sep_2021_Shift_2_6_Q::after {content: '\00a0';display: inline-block; width:248px; height:172px; background-position: 20.816085156712006% 37.45704467353952%;background-size: 781.8548387096774% 1115.1162790697674%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_1_Sep_2021_Shift_2_6_Q::after {max-width:248px; width:100%;height:0;padding: 0 0 69.35483870967742% 0;}
+.JEE_Main_1_Sep_2021_Shift_2_6_Q_1_S {max-width:215px; max-height:130px; }
+.JEE_Main_1_Sep_2021_Shift_2_6_Q_1_S::after {content: '\00a0';display: inline-block; width:215px; height:130px; background-position: 67.69141531322506% 48.8255033557047%;background-size: 901.8604651162791% 1475.3846153846155%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_1_Sep_2021_Shift_2_6_Q_1_S::after {max-width:215px; width:100%;height:0;padding: 0 0 60.46511627906977% 0;}
+.JEE_Main_1_Sep_2021_Shift_2_6_Q_2_S {max-width:353px; max-height:135px; }
+.JEE_Main_1_Sep_2021_Shift_2_6_Q_2_S::after {content: '\00a0';display: inline-block; width:353px; height:135px; background-position: 87.01134930643127% 0.056085249579360626%;background-size: 549.2917847025495% 1420.7407407407406%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_1_Sep_2021_Shift_2_6_Q_2_S::after {max-width:353px; width:100%;height:0;padding: 0 0 38.243626062322946% 0;}
+.JEE_Main_20_July_2021_mor_4_q {max-width:305px; max-height:153px; }
+.JEE_Main_20_July_2021_mor_4_q::after {content: '\00a0';display: inline-block; width:305px; height:153px; background-position: 58.200734394124844% 22.8328611898017%;background-size: 635.7377049180328% 1253.5947712418301%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_20_July_2021_mor_4_q::after {max-width:305px; width:100%;height:0;padding: 0 0 50.16393442622951% 0;}
+.JEE_Main_20_July_2021_mor_4_s {max-width:324px; max-height:167px; }
+.JEE_Main_20_July_2021_mor_4_s::after {content: '\00a0';display: inline-block; width:324px; height:167px; background-position: 65.3250773993808% 0.05711022272986865%;background-size: 598.4567901234568% 1148.502994011976%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_20_July_2021_mor_4_s::after {max-width:324px; width:100%;height:0;padding: 0 0 51.54320987654321% 0;}
+.JEE_Main_22_July_2021_eve_8_s {max-width:228px; max-height:100px; }
+.JEE_Main_22_July_2021_eve_8_s::after {content: '\00a0';display: inline-block; width:228px; height:100px; background-position: 33.25540619520748% 59.79097909790979%;background-size: 850.438596491228% 1918%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_22_July_2021_eve_8_s::after {max-width:228px; width:100%;height:0;padding: 0 0 43.85964912280702% 0;}
+.JEE_Main_25_July_2021_Morning_13_q {max-width:375px; max-height:169px; }
+.JEE_Main_25_July_2021_Morning_13_q::after {content: '\00a0';display: inline-block; width:375px; height:169px; background-position: 22.69820971867008% 0.05717552887364208%;background-size: 517.0666666666667% 1134.9112426035504%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_25_July_2021_Morning_13_q::after {max-width:375px; width:100%;height:0;padding: 0 0 45.06666666666667% 0;}
+.JEE_Main_26_Aug_2021_Shift_1_17_Q_1_S {max-width:138px; max-height:199px; }
+.JEE_Main_26_Aug_2021_Shift_1_17_Q_1_S::after {content: '\00a0';display: inline-block; width:138px; height:199px; background-position: 45.19711271515825% 52.41419429901105%;background-size: 1405.072463768116% 963.8190954773869%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_26_Aug_2021_Shift_1_17_Q_1_S::after {max-width:138px; width:100%;height:0;padding: 0 0 144.20289855072463% 0;}
+.JEE_Main_26_Aug_2021_Shift_2_30_Q {max-width:235px; max-height:85px; }
+.JEE_Main_26_Aug_2021_Shift_2_30_Q::after {content: '\00a0';display: inline-block; width:235px; height:85px; background-position: 35.26995305164319% 44.46262956901255%;background-size: 825.1063829787234% 2256.470588235294%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_26_Aug_2021_Shift_2_30_Q::after {max-width:235px; width:100%;height:0;padding: 0 0 36.170212765957444% 0;}
+.JEE_Main_26_Aug_2021_Shift_2_30_Q_1_S {max-width:201px; max-height:158px; }
+.JEE_Main_26_Aug_2021_Shift_2_30_Q_1_S::after {content: '\00a0';display: inline-block; width:201px; height:158px; background-position: 54.8331415420023% 55.73863636363637%;background-size: 964.6766169154229% 1213.9240506329113%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_26_Aug_2021_Shift_2_30_Q_1_S::after {max-width:201px; width:100%;height:0;padding: 0 0 78.60696517412936% 0;}
+.JEE_Main_27_Aug_2021_Shift_2_2_Q {max-width:229px; max-height:299px; }
+.JEE_Main_27_Aug_2021_Shift_2_2_Q::after {content: '\00a0';display: inline-block; width:229px; height:299px; background-position: 0.05847953216374269% 76.09635577516985%;background-size: 846.7248908296943% 641.4715719063545%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_27_Aug_2021_Shift_2_2_Q::after {max-width:229px; width:100%;height:0;padding: 0 0 130.56768558951964% 0;}
+.JEE_Main_31_Aug_2021_Shift_1_30_Q_1_S {max-width:289px; max-height:213px; }
+.JEE_Main_31_Aug_2021_Shift_1_30_Q_1_S::after {content: '\00a0';display: inline-block; width:289px; height:213px; background-position: 21.454545454545453% 19.296187683284458%;background-size: 670.9342560553633% 900.4694835680751%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_31_Aug_2021_Shift_1_30_Q_1_S::after {max-width:289px; width:100%;height:0;padding: 0 0 73.70242214532873% 0;}
+.JEE_Main_31_Aug_2021_Shift_2_10_Q_1_S {max-width:309px; max-height:127px; }
+.JEE_Main_31_Aug_2021_Shift_2_10_Q_1_S::after {content: '\00a0';display: inline-block; width:309px; height:127px; background-position: 61.59509202453988% 15.354550530429927%;background-size: 627.5080906148868% 1510.236220472441%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+div.JEE_Main_31_Aug_2021_Shift_2_10_Q_1_S::after {max-width:309px; width:100%;height:0;padding: 0 0 41.10032362459547% 0;}
 .Laws_of_Motion_10_o_1 {max-width:167px; max-height:102px; }
-.Laws_of_Motion_10_o_1::after {content: '\00a0';display: inline-block; width:167px; height:102px; background-position: 40.645514223194745% 85.57504873294347%;background-size: 1194.6107784431138% 1105.8823529411766%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_10_o_1::after {content: '\00a0';display: inline-block; width:167px; height:102px; background-position: 15.857787810383748% 98.568281938326%;background-size: 1161.0778443113772% 1880.3921568627452%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_10_o_1::after {max-width:167px; width:100%;height:0;padding: 0 0 61.07784431137725% 0;}
 .Laws_of_Motion_10_o_2 {max-width:160px; max-height:99px; }
-.Laws_of_Motion_10_o_2::after {content: '\00a0';display: inline-block; width:160px; height:99px; background-position: 84.52316076294278% 87.17201166180757%;background-size: 1246.875% 1139.3939393939395%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_10_o_2::after {content: '\00a0';display: inline-block; width:160px; height:99px; background-position: 93.87296233839236% 79.76910390324355%;background-size: 1211.875% 1937.3737373737374%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_10_o_2::after {max-width:160px; width:100%;height:0;padding: 0 0 61.875% 0;}
 .Laws_of_Motion_10_o_3 {max-width:170px; max-height:99px; }
-.Laws_of_Motion_10_o_3::after {content: '\00a0';display: inline-block; width:170px; height:99px; background-position: 94.68493150684931% 66.86103012633625%;background-size: 1173.5294117647059% 1139.3939393939395%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_10_o_3::after {content: '\00a0';display: inline-block; width:170px; height:99px; background-position: 76.99265121537591% 58.163826278174824%;background-size: 1140.5882352941176% 1937.3737373737374%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_10_o_3::after {max-width:170px; width:100%;height:0;padding: 0 0 58.23529411764706% 0;}
 .Laws_of_Motion_10_o_4 {max-width:169px; max-height:99px; }
-.Laws_of_Motion_10_o_4::after {content: '\00a0';display: inline-block; width:169px; height:99px; background-position: 62.869660460021905% 86.49173955296405%;background-size: 1180.473372781065% 1139.3939393939395%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_10_o_4::after {content: '\00a0';display: inline-block; width:169px; height:99px; background-position: 10.282485875706215% 45.24463991203958%;background-size: 1147.3372781065088% 1937.3737373737374%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_10_o_4::after {max-width:169px; width:100%;height:0;padding: 0 0 58.57988165680474% 0;}
 .Laws_of_Motion_12_q {max-width:315px; max-height:151px; }
-.Laws_of_Motion_12_q::after {content: '\00a0';display: inline-block; width:315px; height:151px; background-position: 40.892857142857146% 0.1023541453428864%;background-size: 633.3333333333334% 747.0198675496689%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_12_q::after {content: '\00a0';display: inline-block; width:315px; height:151px; background-position: 84.97536945812809% 7.753254102999434%;background-size: 615.5555555555555% 1270.1986754966888%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_12_q::after {max-width:315px; width:100%;height:0;padding: 0 0 47.93650793650794% 0;}
 .Laws_of_Motion_16_q {max-width:192px; max-height:114px; }
-.Laws_of_Motion_16_q::after {content: '\00a0';display: inline-block; width:192px; height:114px; background-position: 49.86134220743206% 57.10059171597633%;background-size: 1039.0625% 989.4736842105264%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_16_q::after {content: '\00a0';display: inline-block; width:192px; height:114px; background-position: 89.00973096737263% 58.2039911308204%;background-size: 1009.8958333333334% 1682.4561403508771%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_16_q::after {max-width:192px; width:100%;height:0;padding: 0 0 59.375% 0;}
 .Laws_of_Motion_16_s {max-width:202px; max-height:100px; }
-.Laws_of_Motion_16_s::after {content: '\00a0';display: inline-block; width:202px; height:100px; background-position: 67.37311767986614% 45.525291828793776%;background-size: 987.6237623762377% 1128%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_16_s::after {content: '\00a0';display: inline-block; width:202px; height:100px; background-position: 57.628094415659184% 39.82398239823982%;background-size: 959.9009900990098% 1918%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_16_s::after {max-width:202px; width:100%;height:0;padding: 0 0 49.504950495049506% 0;}
 .Laws_of_Motion_17_s {max-width:92px; max-height:155px; }
-.Laws_of_Motion_17_s::after {content: '\00a0';display: inline-block; width:92px; height:155px; background-position: 77.61429322122964% 18.19116135662898%;background-size: 2168.478260869565% 727.741935483871%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_17_s::after {content: '\00a0';display: inline-block; width:92px; height:155px; background-position: 71.62966973470493% 65.68349404424276%;background-size: 2107.608695652174% 1237.4193548387098%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_17_s::after {max-width:92px; width:100%;height:0;padding: 0 0 168.47826086956522% 0;}
 .Laws_of_Motion_18_q {max-width:137px; max-height:146px; }
-.Laws_of_Motion_18_q::after {content: '\00a0';display: inline-block; width:137px; height:146px; background-position: 77.07212055974166% 33.91038696537678%;background-size: 1456.2043795620439% 772.6027397260274%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_18_q::after {content: '\00a0';display: inline-block; width:137px; height:146px; background-position: 76.63706992230854% 80.13544018058691%;background-size: 1415.3284671532847% 1313.6986301369864%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_18_q::after {max-width:137px; width:100%;height:0;padding: 0 0 106.56934306569343% 0;}
 .Laws_of_Motion_20_s {max-width:155px; max-height:168px; }
-.Laws_of_Motion_20_s::after {content: '\00a0';display: inline-block; width:155px; height:168px; background-position: 63.47826086956522% 75.10416666666667%;background-size: 1287.0967741935483% 671.4285714285714%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_20_s::after {content: '\00a0';display: inline-block; width:155px; height:168px; background-position: 66.4237668161435% 89.65714285714286%;background-size: 1250.967741935484% 1141.6666666666667%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_20_s::after {max-width:155px; width:100%;height:0;padding: 0 0 108.38709677419355% 0;}
 .Laws_of_Motion_22_s {max-width:166px; max-height:175px; }
-.Laws_of_Motion_22_s::after {content: '\00a0';display: inline-block; width:166px; height:175px; background-position: 99.56260251503554% 14.060860440713537%;background-size: 1201.8072289156626% 644.5714285714286%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_22_s::after {content: '\00a0';display: inline-block; width:166px; height:175px; background-position: 57.41680767061478% 89.21399885255308%;background-size: 1168.0722891566265% 1096%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_22_s::after {max-width:166px; width:100%;height:0;padding: 0 0 105.42168674698796% 0;}
 .Laws_of_Motion_23_q {max-width:148px; max-height:216px; }
-.Laws_of_Motion_23_q::after {content: '\00a0';display: inline-block; width:148px; height:216px; background-position: 29.128316188413645% 54.93421052631579%;background-size: 1347.972972972973% 522.2222222222222%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_23_q::after {content: '\00a0';display: inline-block; width:148px; height:216px; background-position: 25.01395868230039% 85.01762632197415%;background-size: 1310.1351351351352% 887.9629629629629%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_23_q::after {max-width:148px; width:100%;height:0;padding: 0 0 145.94594594594594% 0;}
 .Laws_of_Motion_23_s {max-width:134px; max-height:188px; }
-.Laws_of_Motion_23_s::after {content: '\00a0';display: inline-block; width:134px; height:188px; background-position: 55.507791509940894% 74.46808510638297%;background-size: 1488.8059701492537% 600%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_23_s::after {content: '\00a0';display: inline-block; width:134px; height:188px; background-position: 74.29362880886427% 90.69364161849711%;background-size: 1447.0149253731342% 1020.2127659574468%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_23_s::after {max-width:134px; width:100%;height:0;padding: 0 0 140.29850746268656% 0;}
 .Laws_of_Motion_24_q {max-width:78px; max-height:187px; }
-.Laws_of_Motion_24_q::after {content: '\00a0';display: inline-block; width:78px; height:187px; background-position: 76.78664580073031% 78.21466524973432%;background-size: 2557.6923076923076% 603.2085561497327%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_24_q::after {content: '\00a0';display: inline-block; width:78px; height:187px; background-position: 79.31219774314884% 90.52570768342%;background-size: 2485.897435897436% 1025.668449197861%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_24_q::after {max-width:78px; width:100%;height:0;padding: 0 0 239.74358974358975% 0;}
 .Laws_of_Motion_25_q {max-width:85px; max-height:191px; }
-.Laws_of_Motion_25_q::after {content: '\00a0';display: inline-block; width:85px; height:191px; background-position: 47.696335078534034% 16.328708644610458%;background-size: 2347.0588235294117% 590.5759162303665%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_25_q::after {content: '\00a0';display: inline-block; width:85px; height:191px; background-position: 78.4789644012945% 32.77359583092067%;background-size: 2281.176470588235% 1004.1884816753927%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_25_q::after {max-width:85px; width:100%;height:0;padding: 0 0 224.7058823529412% 0;}
 .Laws_of_Motion_25_s {max-width:123px; max-height:217px; }
-.Laws_of_Motion_25_s::after {content: '\00a0';display: inline-block; width:123px; height:217px; background-position: 15.758547008547009% 99.89023051591657%;background-size: 1621.9512195121952% 519.815668202765%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_25_s::after {content: '\00a0';display: inline-block; width:123px; height:217px; background-position: 55.12114537444934% 67.01940035273368%;background-size: 1576.4227642276423% 883.8709677419355%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_25_s::after {max-width:123px; width:100%;height:0;padding: 0 0 176.4227642276423% 0;}
 .Laws_of_Motion_26_q {max-width:320px; max-height:105px; }
-.Laws_of_Motion_26_q::after {content: '\00a0';display: inline-block; width:320px; height:105px; background-position: 21.19402985074627% 15.542521994134898%;background-size: 623.4375% 1074.2857142857142%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_26_q::after {content: '\00a0';display: inline-block; width:320px; height:105px; background-position: 65.16368128474367% 9.321566464423608%;background-size: 605.9375% 1826.6666666666667%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_26_q::after {max-width:320px; width:100%;height:0;padding: 0 0 32.8125% 0;}
 .Laws_of_Motion_27_s {max-width:219px; max-height:149px; }
-.Laws_of_Motion_27_s::after {content: '\00a0';display: inline-block; width:219px; height:149px; background-position: 56.137387387387385% 30.03064351378958%;background-size: 910.9589041095891% 757.0469798657718%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_27_s::after {content: '\00a0';display: inline-block; width:219px; height:149px; background-position: 70% 40.87054833239118%;background-size: 885.3881278538813% 1287.248322147651%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_27_s::after {max-width:219px; width:100%;height:0;padding: 0 0 68.03652968036529% 0;}
 .Laws_of_Motion_28_q {max-width:82px; max-height:192px; }
-.Laws_of_Motion_28_q::after {content: '\00a0';display: inline-block; width:82px; height:192px; background-position: 76.37219027705176% 98.71794871794872%;background-size: 2432.9268292682927% 587.5%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_28_q::after {content: '\00a0';display: inline-block; width:82px; height:192px; background-position: 83.73721055465805% 88.93395133256084%;background-size: 2364.6341463414633% 998.9583333333334%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_28_q::after {max-width:82px; width:100%;height:0;padding: 0 0 234.14634146341464% 0;}
 .Laws_of_Motion_29_s {max-width:147px; max-height:163px; }
-.Laws_of_Motion_29_s::after {content: '\00a0';display: inline-block; width:147px; height:163px; background-position: 71.64502164502164% 76.26943005181347%;background-size: 1357.142857142857% 692.0245398773006%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_29_s::after {content: '\00a0';display: inline-block; width:147px; height:163px; background-position: 25.055803571428573% 94.81481481481481%;background-size: 1319.047619047619% 1176.6871165644172%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_29_s::after {max-width:147px; width:100%;height:0;padding: 0 0 110.8843537414966% 0;}
 .Laws_of_Motion_30_s {max-width:211px; max-height:65px; }
-.Laws_of_Motion_30_s::after {content: '\00a0';display: inline-block; width:211px; height:65px; background-position: 38.50896860986547% 59.45437441204139%;background-size: 945.4976303317535% 1735.3846153846155%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_30_s::after {content: '\00a0';display: inline-block; width:211px; height:65px; background-position: 98.37962962962963% 64.49001618996222%;background-size: 918.957345971564% 2950.769230769231%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_30_s::after {max-width:211px; width:100%;height:0;padding: 0 0 30.805687203791468% 0;}
 .Laws_of_Motion_31_s {max-width:116px; max-height:167px; }
-.Laws_of_Motion_31_s::after {content: '\00a0';display: inline-block; width:116px; height:167px; background-position: 22.299095263437998% 94.69302809573361%;background-size: 1719.8275862068965% 675.4491017964071%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_31_s::after {content: '\00a0';display: inline-block; width:116px; height:167px; background-position: 78.11300054854635% 43.28954882924043%;background-size: 1671.551724137931% 1148.502994011976%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_31_s::after {max-width:116px; width:100%;height:0;padding: 0 0 143.9655172413793% 0;}
 .Laws_of_Motion_34_s {max-width:227px; max-height:119px; }
-.Laws_of_Motion_34_s::after {content: '\00a0';display: inline-block; width:227px; height:119px; background-position: 88.80090497737557% 26.66005946481665%;background-size: 878.8546255506608% 947.8991596638656%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_34_s::after {content: '\00a0';display: inline-block; width:227px; height:119px; background-position: 34.87149532710281% 99.38854919399667%;background-size: 854.1850220264317% 1611.764705882353%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_34_s::after {max-width:227px; width:100%;height:0;padding: 0 0 52.42290748898679% 0;}
 .Laws_of_Motion_35_s {max-width:195px; max-height:177px; }
-.Laws_of_Motion_35_s::after {content: '\00a0';display: inline-block; width:195px; height:177px; background-position: 37.94444444444444% 31.019978969505782%;background-size: 1023.0769230769231% 637.2881355932203%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_35_s::after {content: '\00a0';display: inline-block; width:195px; height:177px; background-position: 47.13302752293578% 89.48879954049397%;background-size: 994.3589743589744% 1083.6158192090395%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_35_s::after {max-width:195px; width:100%;height:0;padding: 0 0 90.76923076923077% 0;}
 .Laws_of_Motion_36_q {max-width:248px; max-height:46px; }
-.Laws_of_Motion_36_q::after {content: '\00a0';display: inline-block; width:248px; height:46px; background-position: 0.057240984544934176% 99.72273567467653%;background-size: 804.4354838709677% 2452.1739130434785%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_36_q::after {content: '\00a0';display: inline-block; width:248px; height:46px; background-position: 35.5410999408634% 41.02564102564103%;background-size: 781.8548387096774% 4169.565217391304%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_36_q::after {max-width:248px; width:100%;height:0;padding: 0 0 18.548387096774192% 0;}
 .Laws_of_Motion_36_s {max-width:286px; max-height:67px; }
-.Laws_of_Motion_36_s::after {content: '\00a0';display: inline-block; width:286px; height:67px; background-position: 75.07314218841428% 10.273327049952874%;background-size: 697.5524475524476% 1683.5820895522388%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_36_s::after {content: '\00a0';display: inline-block; width:286px; height:67px; background-position: 38.95946763460375% 28.52512155591572%;background-size: 677.972027972028% 2862.686567164179%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_36_s::after {max-width:286px; width:100%;height:0;padding: 0 0 23.426573426573427% 0;}
 .Laws_of_Motion_37_q {max-width:139px; max-height:99px; }
-.Laws_of_Motion_37_q::after {content: '\00a0';display: inline-block; width:139px; height:99px; background-position: 83.1896551724138% 96.89018464528668%;background-size: 1435.2517985611512% 1139.3939393939395%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_37_q::after {content: '\00a0';display: inline-block; width:139px; height:99px; background-position: 95.33333333333333% 96.97636063771303%;background-size: 1394.9640287769785% 1937.3737373737374%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_37_q::after {max-width:139px; width:100%;height:0;padding: 0 0 71.22302158273381% 0;}
 .Laws_of_Motion_38_s {max-width:352px; max-height:274px; }
-.Laws_of_Motion_38_s::after {content: '\00a0';display: inline-block; width:352px; height:274px; background-position: 0.06086427267194157% 32.43559718969555%;background-size: 566.7613636363636% 411.6788321167883%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_38_s::after {content: '\00a0';display: inline-block; width:352px; height:274px; background-position: 0.0630119722747322% 16.849148418491485%;background-size: 550.8522727272727% 700%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_38_s::after {max-width:352px; width:100%;height:0;padding: 0 0 77.8409090909091% 0;}
 .Laws_of_Motion_3_s {max-width:142px; max-height:111px; }
-.Laws_of_Motion_3_s::after {content: '\00a0';display: inline-block; width:142px; height:111px; background-position: 71.12790070156503% 88.49557522123894%;background-size: 1404.9295774647887% 1016.2162162162163%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_3_s::after {content: '\00a0';display: inline-block; width:142px; height:111px; background-position: 87.53478018920423% 97.62036524626453%;background-size: 1365.4929577464789% 1727.9279279279278%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_3_s::after {max-width:142px; width:100%;height:0;padding: 0 0 78.16901408450704% 0;}
 .Laws_of_Motion_40_q {max-width:289px; max-height:107px; }
-.Laws_of_Motion_40_q::after {content: '\00a0';display: inline-block; width:289px; height:107px; background-position: 75.20515826494724% 0.0979431929480901%;background-size: 690.3114186851211% 1054.2056074766356%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_40_q::after {content: '\00a0';display: inline-block; width:289px; height:107px; background-position: 76.18181818181819% 25.28989508558807%;background-size: 670.9342560553633% 1792.5233644859813%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_40_q::after {max-width:289px; width:100%;height:0;padding: 0 0 37.0242214532872% 0;}
 .Laws_of_Motion_40_s {max-width:214px; max-height:150px; }
-.Laws_of_Motion_40_s::after {content: '\00a0';display: inline-block; width:214px; height:150px; background-position: 68.33239752947782% 32.41308793456033%;background-size: 932.2429906542056% 752%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_40_s::after {content: '\00a0';display: inline-block; width:214px; height:150px; background-position: 89.33333333333333% 44.40045248868778%;background-size: 906.0747663551402% 1278.6666666666667%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_40_s::after {max-width:214px; width:100%;height:0;padding: 0 0 70.09345794392523% 0;}
 .Laws_of_Motion_40_s_1 {max-width:213px; max-height:155px; }
-.Laws_of_Motion_40_s_1::after {content: '\00a0';display: inline-block; width:213px; height:155px; background-position: 88.10325476992143% 39.97944501541624%;background-size: 936.6197183098592% 727.741935483871%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_40_s_1::after {content: '\00a0';display: inline-block; width:213px; height:155px; background-position: 55.2143684820394% 46.79523539421441%;background-size: 910.3286384976526% 1237.4193548387098%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_40_s_1::after {max-width:213px; width:100%;height:0;padding: 0 0 72.7699530516432% 0;}
 .Laws_of_Motion_41_q {max-width:150px; max-height:81px; }
-.Laws_of_Motion_41_q::after {content: '\00a0';display: inline-block; width:150px; height:81px; background-position: 91.27371273712737% 98.37631327602675%;background-size: 1330% 1392.5925925925926%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_41_q::after {content: '\00a0';display: inline-block; width:150px; height:81px; background-position: 91.55953046394634% 91.56232988568318%;background-size: 1292.6666666666667% 2367.901234567901%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_41_q::after {max-width:150px; width:100%;height:0;padding: 0 0 54% 0;}
 .Laws_of_Motion_42_q {max-width:125px; max-height:93px; }
-.Laws_of_Motion_42_q::after {content: '\00a0';display: inline-block; width:125px; height:93px; background-position: 54.6524064171123% 85.89371980676329%;background-size: 1596% 1212.9032258064517%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_42_q::after {content: '\00a0';display: inline-block; width:125px; height:93px; background-position: 98.62183020948181% 90.24657534246575%;background-size: 1551.2% 2062.3655913978496%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_42_q::after {max-width:125px; width:100%;height:0;padding: 0 0 74.4% 0;}
 .Laws_of_Motion_43_q {max-width:180px; max-height:123px; }
-.Laws_of_Motion_43_q::after {content: '\00a0';display: inline-block; width:180px; height:123px; background-position: 75.48209366391184% 60.8955223880597%;background-size: 1108.3333333333333% 917.0731707317074%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_43_q::after {content: '\00a0';display: inline-block; width:180px; height:123px; background-position: 99.77259806708356% 53.48189415041783%;background-size: 1077.2222222222222% 1559.3495934959349%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_43_q::after {max-width:180px; width:100%;height:0;padding: 0 0 68.33333333333333% 0;}
 .Laws_of_Motion_43_s {max-width:331px; max-height:157px; }
-.Laws_of_Motion_43_s::after {content: '\00a0';display: inline-block; width:331px; height:157px; background-position: 21.334134615384617% 0.10298661174047374%;background-size: 602.7190332326284% 718.4713375796179%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_43_s::after {content: '\00a0';display: inline-block; width:331px; height:157px; background-position: 22.077114427860696% 9.710391822827939%;background-size: 585.8006042296073% 1221.656050955414%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_43_s::after {max-width:331px; width:100%;height:0;padding: 0 0 47.43202416918429% 0;}
 .Laws_of_Motion_44_q {max-width:161px; max-height:126px; }
-.Laws_of_Motion_44_q::after {content: '\00a0';display: inline-block; width:161px; height:126px; background-position: 84.56924754634679% 76.84630738522954%;background-size: 1239.1304347826087% 895.2380952380952%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_44_q::after {content: '\00a0';display: inline-block; width:161px; height:126px; background-position: 86.50168728908886% 65.01116071428571%;background-size: 1204.3478260869565% 1522.2222222222222%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_44_q::after {max-width:161px; width:100%;height:0;padding: 0 0 78.26086956521739% 0;}
 .Laws_of_Motion_44_s {max-width:223px; max-height:141px; }
-.Laws_of_Motion_44_s::after {content: '\00a0';display: inline-block; width:223px; height:141px; background-position: 38.769751693002256% 15.501519756838906%;background-size: 894.6188340807175% 800%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_44_s::after {content: '\00a0';display: inline-block; width:223px; height:141px; background-position: 89.8018648018648% 36.18458075407991%;background-size: 869.506726457399% 1360.2836879432625%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_44_s::after {max-width:223px; width:100%;height:0;padding: 0 0 63.228699551569505% 0;}
 .Laws_of_Motion_46_s {max-width:107px; max-height:102px; }
-.Laws_of_Motion_46_s::after {content: '\00a0';display: inline-block; width:107px; height:102px; background-position: 99.36440677966101% 76.80311890838206%;background-size: 1864.4859813084113% 1105.8823529411766%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_46_s::after {content: '\00a0';display: inline-block; width:107px; height:102px; background-position: 99.94541484716157% 77.97356828193833%;background-size: 1812.1495327102805% 1880.3921568627452%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_46_s::after {max-width:107px; width:100%;height:0;padding: 0 0 95.32710280373831% 0;}
 .Laws_of_Motion_46_s_1 {max-width:110px; max-height:105px; }
-.Laws_of_Motion_46_s_1::after {content: '\00a0';display: inline-block; width:110px; height:105px; background-position: 48.3289124668435% 85.82600195503422%;background-size: 1813.6363636363637% 1074.2857142857142%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_46_s_1::after {content: '\00a0';display: inline-block; width:110px; height:105px; background-position: 72.9907053034445% 72.4765581908439%;background-size: 1762.7272727272727% 1826.6666666666667%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_46_s_1::after {max-width:110px; width:100%;height:0;padding: 0 0 95.45454545454545% 0;}
 .Laws_of_Motion_47_s {max-width:285px; max-height:166px; }
-.Laws_of_Motion_47_s::after {content: '\00a0';display: inline-block; width:285px; height:166px; background-position: 0.05847953216374269% 94.8024948024948%;background-size: 700% 679.5180722891566%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_47_s::after {content: '\00a0';display: inline-block; width:285px; height:166px; background-position: 93.53083434099153% 27.168949771689498%;background-size: 680.3508771929825% 1155.421686746988%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_47_s::after {max-width:285px; width:100%;height:0;padding: 0 0 58.24561403508772% 0;}
 .Laws_of_Motion_48_q {max-width:154px; max-height:179px; }
-.Laws_of_Motion_48_q::after {content: '\00a0';display: inline-block; width:154px; height:179px; background-position: 40.35850081477458% 73.55110642781875%;background-size: 1295.4545454545455% 630.1675977653631%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_48_q::after {content: '\00a0';display: inline-block; width:154px; height:179px; background-position: 57.254901960784316% 99.53996549741231%;background-size: 1259.090909090909% 1071.508379888268%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_48_q::after {max-width:154px; width:100%;height:0;padding: 0 0 116.23376623376623% 0;}
 .Laws_of_Motion_48_s {max-width:279px; max-height:135px; }
-.Laws_of_Motion_48_s::after {content: '\00a0';display: inline-block; width:279px; height:135px; background-position: 58.44988344988345% 0.10070493454179255%;background-size: 715.0537634408602% 835.5555555555555%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_48_s::after {content: '\00a0';display: inline-block; width:279px; height:135px; background-position: 0.060240963855421686% 99.66348850252383%;background-size: 694.9820788530466% 1420.7407407407406%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_48_s::after {max-width:279px; width:100%;height:0;padding: 0 0 48.38709677419355% 0;}
 .Laws_of_Motion_48_s_1 {max-width:197px; max-height:158px; }
-.Laws_of_Motion_48_s_1::after {content: '\00a0';display: inline-block; width:197px; height:158px; background-position: 38.2091212458287% 48.76288659793814%;background-size: 1012.6903553299493% 713.9240506329114%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_48_s_1::after {content: '\00a0';display: inline-block; width:197px; height:158px; background-position: 64.58094144661308% 65.79545454545455%;background-size: 984.263959390863% 1213.9240506329113%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_48_s_1::after {max-width:197px; width:100%;height:0;padding: 0 0 80.20304568527919% 0;}
 .Laws_of_Motion_49_s {max-width:198px; max-height:194px; }
-.Laws_of_Motion_49_s::after {content: '\00a0';display: inline-block; width:198px; height:194px; background-position: 30.27267668336116% 76.87366167023555%;background-size: 1007.5757575757576% 581.4432989690722%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_49_s::after {content: '\00a0';display: inline-block; width:198px; height:194px; background-position: 34.29063756461804% 81.2645011600928%;background-size: 979.2929292929293% 988.659793814433%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_49_s::after {max-width:198px; width:100%;height:0;padding: 0 0 97.97979797979798% 0;}
 .Laws_of_Motion_50_s {max-width:164px; max-height:131px; }
-.Laws_of_Motion_50_s::after {content: '\00a0';display: inline-block; width:164px; height:131px; background-position: 40.415073730202074% 98.39518555667001%;background-size: 1216.4634146341464% 861.0687022900763%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_50_s::after {content: '\00a0';display: inline-block; width:164px; height:131px; background-position: 73.91549295774648% 98.37716843872411%;background-size: 1182.3170731707316% 1464.1221374045801%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_50_s::after {max-width:164px; width:100%;height:0;padding: 0 0 79.8780487804878% 0;}
 .Laws_of_Motion_51_q {max-width:293px; max-height:178px; }
-.Laws_of_Motion_51_q::after {content: '\00a0';display: inline-block; width:293px; height:178px; background-position: 0.05875440658049354% 77.15789473684211%;background-size: 680.8873720136519% 633.7078651685393%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_51_q::after {content: '\00a0';display: inline-block; width:293px; height:178px; background-position: 98.17739975698663% 17.06896551724138%;background-size: 661.7747440273038% 1077.5280898876404%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_51_q::after {max-width:293px; width:100%;height:0;padding: 0 0 60.75085324232082% 0;}
 .Laws_of_Motion_52_s {max-width:241px; max-height:156px; }
-.Laws_of_Motion_52_s::after {content: '\00a0';display: inline-block; width:241px; height:156px; background-position: 57.18358038768529% 14.094650205761317%;background-size: 827.8008298755186% 723.0769230769231%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_52_s::after {content: '\00a0';display: inline-block; width:241px; height:156px; background-position: 99.88221436984688% 7.945516458569807%;background-size: 804.5643153526971% 1229.4871794871794%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_52_s::after {max-width:241px; width:100%;height:0;padding: 0 0 64.73029045643153% 0;}
 .Laws_of_Motion_53_q {max-width:196px; max-height:165px; }
-.Laws_of_Motion_53_q::after {content: '\00a0';display: inline-block; width:196px; height:165px; background-position: 99.9444135630906% 32.191069574247145%;background-size: 1017.8571428571429% 683.6363636363636%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_53_q::after {content: '\00a0';display: inline-block; width:196px; height:165px; background-position: 47.332185886402755% 99.03023388476896%;background-size: 989.2857142857143% 1162.4242424242425%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_53_q::after {max-width:196px; width:100%;height:0;padding: 0 0 84.18367346938776% 0;}
 .Laws_of_Motion_54_s {max-width:306px; max-height:180px; }
-.Laws_of_Motion_54_s::after {content: '\00a0';display: inline-block; width:306px; height:180px; background-position: 0.05920663114268798% 58.22784810126582%;background-size: 651.9607843137255% 626.6666666666666%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_54_s::after {content: '\00a0';display: inline-block; width:306px; height:180px; background-position: 39.436619718309856% 19.965477560414268%;background-size: 633.6601307189543% 1065.5555555555557%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_54_s::after {max-width:306px; width:100%;height:0;padding: 0 0 58.8235294117647% 0;}
 .Laws_of_Motion_55_o_1 {max-width:150px; max-height:132px; }
-.Laws_of_Motion_55_o_1::after {content: '\00a0';display: inline-block; width:150px; height:132px; background-position: 99.94579945799458% 0.10040160642570281%;background-size: 1330% 854.5454545454545%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_55_o_1::after {content: '\00a0';display: inline-block; width:150px; height:132px; background-position: 84.9077697037451% 78.49944008958566%;background-size: 1292.6666666666667% 1453.030303030303%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_55_o_1::after {max-width:150px; width:100%;height:0;padding: 0 0 88% 0;}
 .Laws_of_Motion_55_o_2 {max-width:158px; max-height:131px; }
-.Laws_of_Motion_55_o_2::after {content: '\00a0';display: inline-block; width:158px; height:131px; background-position: 76.81001633097442% 48.144433299899696%;background-size: 1262.6582278481012% 861.0687022900763%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_55_o_2::after {content: '\00a0';display: inline-block; width:158px; height:131px; background-position: 93.76754632229085% 73.81085618354784%;background-size: 1227.2151898734178% 1464.1221374045801%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_55_o_2::after {max-width:158px; width:100%;height:0;padding: 0 0 82.9113924050633% 0;}
 .Laws_of_Motion_55_o_3 {max-width:147px; max-height:130px; }
-.Laws_of_Motion_55_o_3::after {content: '\00a0';display: inline-block; width:147px; height:130px; background-position: 48.97186147186147% 98.59719438877755%;background-size: 1357.142857142857% 867.6923076923077%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_55_o_3::after {content: '\00a0';display: inline-block; width:147px; height:130px; background-position: 91.40625% 86.74496644295301%;background-size: 1319.047619047619% 1475.3846153846155%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_55_o_3::after {max-width:147px; width:100%;height:0;padding: 0 0 88.43537414965986% 0;}
 .Laws_of_Motion_55_o_4 {max-width:155px; max-height:131px; }
-.Laws_of_Motion_55_o_4::after {content: '\00a0';display: inline-block; width:155px; height:131px; background-position: 93.04347826086956% 90.07021063189569%;background-size: 1287.0967741935483% 861.0687022900763%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_55_o_4::after {content: '\00a0';display: inline-block; width:155px; height:131px; background-position: 77.52242152466367% 51.81869054280918%;background-size: 1250.967741935484% 1464.1221374045801%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_55_o_4::after {max-width:155px; width:100%;height:0;padding: 0 0 84.51612903225806% 0;}
 .Laws_of_Motion_57_s {max-width:229px; max-height:185px; }
-.Laws_of_Motion_57_s::after {content: '\00a0';display: inline-block; width:229px; height:185px; background-position: 17.440543601359003% 58.53658536585366%;background-size: 871.17903930131% 609.7297297297297%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_57_s::after {content: '\00a0';display: inline-block; width:229px; height:185px; background-position: 34.15204678362573% 51.99076745527986%;background-size: 846.7248908296943% 1036.7567567567567%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_57_s::after {max-width:229px; width:100%;height:0;padding: 0 0 80.78602620087337% 0;}
 .Laws_of_Motion_58_q {max-width:133px; max-height:77px; }
-.Laws_of_Motion_58_q::after {content: '\00a0';display: inline-block; width:133px; height:77px; background-position: 56.55209452201933% 94.19600380589914%;background-size: 1500% 1464.935064935065%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_58_q::after {content: '\00a0';display: inline-block; width:133px; height:77px; background-position: 24.86157253599114% 99.29386203150462%;background-size: 1457.8947368421052% 2490.909090909091%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_58_q::after {max-width:133px; width:100%;height:0;padding: 0 0 57.89473684210526% 0;}
 .Laws_of_Motion_58_s {max-width:248px; max-height:171px; }
-.Laws_of_Motion_58_s::after {content: '\00a0';display: inline-block; width:248px; height:171px; background-position: 16.88609044075558% 77.11598746081505%;background-size: 804.4354838709677% 659.6491228070175%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_58_s::after {content: '\00a0';display: inline-block; width:248px; height:171px; background-position: 36.96037847427558% 34.115626788780766%;background-size: 781.8548387096774% 1121.6374269005848%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_58_s::after {max-width:248px; width:100%;height:0;padding: 0 0 68.95161290322581% 0;}
 .Laws_of_Motion_59_s {max-width:162px; max-height:274px; }
-.Laws_of_Motion_59_s::after {content: '\00a0';display: inline-block; width:162px; height:274px; background-position: 19.312602291325696% 32.43559718969555%;background-size: 1231.4814814814815% 411.6788321167883%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_59_s::after {content: '\00a0';display: inline-block; width:162px; height:274px; background-position: 10.073157006190208% 56.14355231143552%;background-size: 1196.9135802469136% 700%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_59_s::after {max-width:162px; width:100%;height:0;padding: 0 0 169.1358024691358% 0;}
 .Laws_of_Motion_5_o_1 {max-width:108px; max-height:95px; }
-.Laws_of_Motion_5_o_1::after {content: '\00a0';display: inline-block; width:108px; height:95px; background-position: 68.8924218335983% 97.96708615682478%;background-size: 1847.2222222222222% 1187.3684210526317%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_5_o_1::after {content: '\00a0';display: inline-block; width:108px; height:95px; background-position: 97.54232659748772% 85.07953922106418%;background-size: 1795.3703703703704% 2018.9473684210527%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_5_o_1::after {max-width:108px; width:100%;height:0;padding: 0 0 87.96296296296296% 0;}
 .Laws_of_Motion_5_o_2 {max-width:105px; max-height:93px; }
-.Laws_of_Motion_5_o_2::after {content: '\00a0';display: inline-block; width:105px; height:93px; background-position: 97.08994708994709% 99.51690821256038%;background-size: 1900% 1212.9032258064517%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_5_o_2::after {content: '\00a0';display: inline-block; width:105px; height:93px; background-position: 99.94547437295529% 26.08219178082192%;background-size: 1846.6666666666667% 2062.3655913978496%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_5_o_2::after {max-width:105px; width:100%;height:0;padding: 0 0 88.57142857142857% 0;}
 .Laws_of_Motion_5_o_3 {max-width:109px; max-height:96px; }
-.Laws_of_Motion_5_o_3::after {content: '\00a0';display: inline-block; width:109px; height:96px; background-position: 46.60657476139979% 33.43023255813954%;background-size: 1830.2752293577983% 1175%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_5_o_3::after {content: '\00a0';display: inline-block; width:109px; height:96px; background-position: 99.94535519125684% 72.39297475301866%;background-size: 1778.8990825688074% 1997.9166666666667%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_5_o_3::after {max-width:109px; width:100%;height:0;padding: 0 0 88.07339449541284% 0;}
 .Laws_of_Motion_5_o_4 {max-width:112px; max-height:92px; }
-.Laws_of_Motion_5_o_4::after {content: '\00a0';display: inline-block; width:112px; height:92px; background-position: 63.03770578863516% 95.55984555984556%;background-size: 1781.25% 1226.0869565217392%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_5_o_4::after {content: '\00a0';display: inline-block; width:112px; height:92px; background-position: 47.83798576902025% 39.64950711938664%;background-size: 1731.25% 2084.782608695652%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_5_o_4::after {max-width:112px; width:100%;height:0;padding: 0 0 82.14285714285714% 0;}
 .Laws_of_Motion_61_s {max-width:270px; max-height:110px; }
-.Laws_of_Motion_61_s::after {content: '\00a0';display: inline-block; width:270px; height:110px; background-position: 91.18840579710145% 0.09823182711198428%;background-size: 738.8888888888889% 1025.4545454545455%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_61_s::after {content: '\00a0';display: inline-block; width:270px; height:110px; background-position: 21.210305572198923% 30.033185840707965%;background-size: 718.1481481481482% 1743.6363636363637%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_61_s::after {max-width:270px; width:100%;height:0;padding: 0 0 40.74074074074074% 0;}
 .Laws_of_Motion_64_s {max-width:162px; max-height:109px; }
-.Laws_of_Motion_64_s::after {content: '\00a0';display: inline-block; width:162px; height:109px; background-position: 93.45335515548281% 77.3307163886163%;background-size: 1231.4814814814815% 1034.8623853211009%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_64_s::after {content: '\00a0';display: inline-block; width:162px; height:109px; background-position: 81.37310073157006% 71.42067440574904%;background-size: 1196.9135802469136% 1759.633027522936%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_64_s::after {max-width:162px; width:100%;height:0;padding: 0 0 67.28395061728395% 0;}
 .Laws_of_Motion_65_q {max-width:176px; max-height:110px; }
-.Laws_of_Motion_65_q::after {content: '\00a0';display: inline-block; width:176px; height:110px; background-position: 85.26663001649258% 64.73477406679764%;background-size: 1133.5227272727273% 1025.4545454545455%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_65_q::after {content: '\00a0';display: inline-block; width:176px; height:110px; background-position: 99.149177538287% 59.95575221238938%;background-size: 1101.7045454545455% 1743.6363636363637%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_65_q::after {max-width:176px; width:100%;height:0;padding: 0 0 62.5% 0;}
 .Laws_of_Motion_65_s {max-width:200px; max-height:134px; }
-.Laws_of_Motion_65_s::after {content: '\00a0';display: inline-block; width:200px; height:134px; background-position: 49.30362116991643% 44.668008048289735%;background-size: 997.5% 841.7910447761194%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_65_s::after {content: '\00a0';display: inline-block; width:200px; height:134px; background-position: 57.50431282346176% 79.5964125560538%;background-size: 969.5% 1431.3432835820895%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_65_s::after {max-width:200px; width:100%;height:0;padding: 0 0 67% 0;}
 .Laws_of_Motion_66_s {max-width:185px; max-height:57px; }
-.Laws_of_Motion_66_s::after {content: '\00a0';display: inline-block; width:185px; height:57px; background-position: 97.79005524861878% 58.8235294117647%;background-size: 1078.3783783783783% 1978.9473684210527%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_66_s::after {content: '\00a0';display: inline-block; width:185px; height:57px; background-position: 96.92132269099201% 67.75926921010209%;background-size: 1048.1081081081081% 3364.9122807017543%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_66_s::after {max-width:185px; width:100%;height:0;padding: 0 0 30.81081081081081% 0;}
 .Laws_of_Motion_67_s {max-width:134px; max-height:179px; }
-.Laws_of_Motion_67_s::after {content: '\00a0';display: inline-block; width:134px; height:179px; background-position: 48.25362708221386% 73.55110642781875%;background-size: 1488.8059701492537% 630.1675977653631%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_67_s::after {content: '\00a0';display: inline-block; width:134px; height:179px; background-position: 65.20775623268698% 99.94249568717653%;background-size: 1447.0149253731342% 1071.508379888268%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_67_s::after {max-width:134px; width:100%;height:0;padding: 0 0 133.5820895522388% 0;}
 .Laws_of_Motion_68_q {max-width:121px; max-height:120px; }
-.Laws_of_Motion_68_q::after {content: '\00a0';display: inline-block; width:121px; height:120px; background-position: 57.950907150480255% 44.04761904761905%;background-size: 1648.7603305785124% 940%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_68_q::after {content: '\00a0';display: inline-block; width:121px; height:120px; background-position: 77.88778877887789% 64.40489432703004%;background-size: 1602.4793388429753% 1598.3333333333333%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_68_q::after {max-width:121px; width:100%;height:0;padding: 0 0 99.17355371900827% 0;}
 .Laws_of_Motion_68_s {max-width:95px; max-height:134px; }
-.Laws_of_Motion_68_s::after {content: '\00a0';display: inline-block; width:95px; height:134px; background-position: 57.473684210526315% 56.841046277665995%;background-size: 2100% 841.7910447761194%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_68_s::after {content: '\00a0';display: inline-block; width:95px; height:134px; background-position: 80.09761388286334% 98.37443946188341%;background-size: 2041.0526315789473% 1431.3432835820895%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_68_s::after {max-width:95px; width:100%;height:0;padding: 0 0 141.05263157894737% 0;}
 .Laws_of_Motion_69_q {max-width:250px; max-height:156px; }
-.Laws_of_Motion_69_q::after {content: '\00a0';display: inline-block; width:250px; height:156px; background-position: 89.97134670487107% 11.522633744855968%;background-size: 798% 723.0769230769231%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_69_q::after {content: '\00a0';display: inline-block; width:250px; height:156px; background-position: 71.28478389579632% 32.122587968217935%;background-size: 775.6% 1229.4871794871794%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_69_q::after {max-width:250px; width:100%;height:0;padding: 0 0 62.4% 0;}
 .Laws_of_Motion_71_q {max-width:203px; max-height:177px; }
-.Laws_of_Motion_71_q::after {content: '\00a0';display: inline-block; width:203px; height:177px; background-position: 29.910714285714285% 96.00420609884333%;background-size: 982.7586206896551% 637.2881355932203%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_71_q::after {content: '\00a0';display: inline-block; width:203px; height:177px; background-position: 45.85253456221198% 79.26479035037335%;background-size: 955.1724137931035% 1083.6158192090395%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_71_q::after {max-width:203px; width:100%;height:0;padding: 0 0 87.19211822660098% 0;}
 .Laws_of_Motion_72_s {max-width:181px; max-height:151px; }
-.Laws_of_Motion_72_s::after {content: '\00a0';display: inline-block; width:181px; height:151px; background-position: 65.49062844542448% 58.239508700102355%;background-size: 1102.2099447513813% 747.0198675496689%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_72_s::after {content: '\00a0';display: inline-block; width:181px; height:151px; background-position: 99.88623435722411% 45.72722127900396%;background-size: 1071.2707182320441% 1270.1986754966888%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_72_s::after {max-width:181px; width:100%;height:0;padding: 0 0 83.42541436464089% 0;}
 .Laws_of_Motion_73_s {max-width:231px; max-height:139px; }
-.Laws_of_Motion_73_s::after {content: '\00a0';display: inline-block; width:231px; height:139px; background-position: 70.578231292517% 17.896865520728007%;background-size: 863.6363636363636% 811.5107913669065%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_73_s::after {content: '\00a0';display: inline-block; width:231px; height:139px; background-position: 20.60889929742389% 46.48679033164699%;background-size: 839.3939393939394% 1379.8561151079136%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_73_s::after {max-width:231px; width:100%;height:0;padding: 0 0 60.17316017316017% 0;}
 .Laws_of_Motion_8_q {max-width:206px; max-height:153px; }
-.Laws_of_Motion_8_q::after {content: '\00a0';display: inline-block; width:206px; height:153px; background-position: 99.72051425377306% 48.82051282051282%;background-size: 968.4466019417475% 737.2549019607843%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_8_q::after {content: '\00a0';display: inline-block; width:206px; height:153px; background-position: 66.64743219849971% 56.88385269121813%;background-size: 941.2621359223301% 1253.5947712418301%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_8_q::after {max-width:206px; width:100%;height:0;padding: 0 0 74.27184466019418% 0;}
 .Laws_of_Motion_8_s {max-width:199px; max-height:113px; }
-.Laws_of_Motion_8_s::after {content: '\00a0';display: inline-block; width:199px; height:113px; background-position: 87.41648106904232% 53.69458128078818%;background-size: 1002.5125628140704% 998.2300884955753%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.Laws_of_Motion_8_s::after {content: '\00a0';display: inline-block; width:199px; height:113px; background-position: 89.36781609195403% 51.85595567867036%;background-size: 974.3718592964824% 1697.345132743363%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.Laws_of_Motion_8_s::after {max-width:199px; width:100%;height:0;padding: 0 0 56.78391959798995% 0;}
 .jee_mt_st_24feb21s1q3_sol {max-width:165px; max-height:235px; }
-.jee_mt_st_24feb21s1q3_sol::after {content: '\00a0';display: inline-block; width:165px; height:235px; background-position: 28.25136612021858% 29.67525195968645%;background-size: 1209.090909090909% 480%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.jee_mt_st_24feb21s1q3_sol::after {content: '\00a0';display: inline-block; width:165px; height:235px; background-position: 15.896279594137543% 86.86868686868686%;background-size: 1175.1515151515152% 816.1702127659574%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.jee_mt_st_24feb21s1q3_sol::after {max-width:165px; width:100%;height:0;padding: 0 0 142.42424242424244% 0;}
 .jee_mt_st_24feb21s1q4_sol {max-width:353px; max-height:275px; }
-.jee_mt_st_24feb21s1q4_sol::after {content: '\00a0';display: inline-block; width:353px; height:275px; background-position: 0.06090133982947625% 0.11723329425556858%;background-size: 565.155807365439% 410.1818181818182%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
+.jee_mt_st_24feb21s1q4_sol::after {content: '\00a0';display: inline-block; width:353px; height:275px; background-position: 0.06305170239596469% 0.06086427267194157%;background-size: 549.2917847025495% 697.4545454545455%;background-image: url(ph_xi_lawsofmotion.png);padding: 0; }
 div.jee_mt_st_24feb21s1q4_sol::after {max-width:353px; width:100%;height:0;padding: 0 0 77.90368271954674% 0;}
 
-/* $TexturePacker:SmartUpdate:52ccc1cd59c89ce83553edb574f2c5a1:a62aa15aaabe780e091b62ec2ea1ab50:69c3d51bf28c7d245ac113546ec41921$ */
+/* $TexturePacker:SmartUpdate:e00d189be1a327c01bcda6c091663bb0:6baa2df5911acb07d331e89093f5adfe:69c3d51bf28c7d245ac113546ec41921$ */
