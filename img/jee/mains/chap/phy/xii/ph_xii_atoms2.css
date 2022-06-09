@@ -8,25 +8,61 @@ Responsive: <div class="yourspritesname"></div>
 
 
 .Atoms_and_Nuclei_1_o_1 {max-width:236px; max-height:215px; }
-.Atoms_and_Nuclei_1_o_1::after {content: '\00a0';display: inline-block; width:236px; height:215px; background-position: 43.584070796460175% 93.86973180076629%;background-size: 483.0508474576271% 221.3953488372093%;background-image: url(ph_xii_atoms2.png);padding: 0; }
+.Atoms_and_Nuclei_1_o_1::after {content: '\00a0';display: inline-block; width:236px; height:215px; background-position: 40.13793103448276% 56.93348365276212%;background-size: 407.20338983050846% 512.5581395348837%;background-image: url(ph_xii_atoms2.png);padding: 0; }
 div.Atoms_and_Nuclei_1_o_1::after {max-width:236px; width:100%;height:0;padding: 0 0 91.10169491525424% 0;}
 .Atoms_and_Nuclei_1_o_2 {max-width:212px; max-height:215px; }
-.Atoms_and_Nuclei_1_o_2::after {content: '\00a0';display: inline-block; width:212px; height:215px; background-position: 99.89224137931035% 0.3831417624521073%;background-size: 537.7358490566038% 221.3953488372093%;background-image: url(ph_xii_atoms2.png);padding: 0; }
+.Atoms_and_Nuclei_1_o_2::after {content: '\00a0';display: inline-block; width:212px; height:215px; background-position: 28.704939919893192% 99.43630214205186%;background-size: 453.3018867924528% 512.5581395348837%;background-image: url(ph_xii_atoms2.png);padding: 0; }
 div.Atoms_and_Nuclei_1_o_2::after {max-width:212px; width:100%;height:0;padding: 0 0 101.41509433962264% 0;}
 .Atoms_and_Nuclei_1_o_3 {max-width:218px; max-height:214px; }
-.Atoms_and_Nuclei_1_o_3::after {content: '\00a0';display: inline-block; width:218px; height:214px; background-position: 68.43817787418655% 93.5114503816794%;background-size: 522.9357798165138% 222.42990654205607%;background-image: url(ph_xii_atoms2.png);padding: 0; }
+.Atoms_and_Nuclei_1_o_3::after {content: '\00a0';display: inline-block; width:218px; height:214px; background-position: 93.53970390309556% 99.21171171171171%;background-size: 440.8256880733945% 514.9532710280374%;background-image: url(ph_xii_atoms2.png);padding: 0; }
 div.Atoms_and_Nuclei_1_o_3::after {max-width:218px; width:100%;height:0;padding: 0 0 98.1651376146789% 0;}
 .Atoms_and_Nuclei_1_o_4 {max-width:213px; max-height:219px; }
-.Atoms_and_Nuclei_1_o_4::after {content: '\00a0';display: inline-block; width:213px; height:219px; background-position: 91.69363538295578% 95.3307392996109%;background-size: 535.2112676056338% 217.35159817351598%;background-image: url(ph_xii_atoms2.png);padding: 0; }
+.Atoms_and_Nuclei_1_o_4::after {content: '\00a0';display: inline-block; width:213px; height:219px; background-position: 0.13368983957219252% 99.88674971687429%;background-size: 451.1737089201878% 503.19634703196346%;background-image: url(ph_xii_atoms2.png);padding: 0; }
 div.Atoms_and_Nuclei_1_o_4::after {max-width:213px; width:100%;height:0;padding: 0 0 102.8169014084507% 0;}
 .Atoms_and_Nuclei_5_s {max-width:558px; max-height:192px; }
-.Atoms_and_Nuclei_5_s::after {content: '\00a0';display: inline-block; width:558px; height:192px; background-position: 0.1718213058419244% 0.352112676056338%;background-size: 204.30107526881721% 247.91666666666666%;background-image: url(ph_xii_atoms2.png);padding: 0; }
+.Atoms_and_Nuclei_5_s::after {content: '\00a0';display: inline-block; width:558px; height:192px; background-position: 0.24813895781637718% 0.10989010989010989%;background-size: 172.22222222222223% 573.9583333333334%;background-image: url(ph_xii_atoms2.png);padding: 0; }
 div.Atoms_and_Nuclei_5_s::after {max-width:558px; width:100%;height:0;padding: 0 0 34.40860215053763% 0;}
 .Atoms_and_Nuclei_81_q {max-width:366px; max-height:243px; }
-.Atoms_and_Nuclei_81_q::after {content: '\00a0';display: inline-block; width:366px; height:243px; background-position: 72.3514211886305% 0.4291845493562232%;background-size: 311.4754098360656% 195.88477366255145%;background-image: url(ph_xii_atoms2.png);padding: 0; }
+.Atoms_and_Nuclei_81_q::after {content: '\00a0';display: inline-block; width:366px; height:243px; background-position: 0.16806722689075632% 22.58440046565774%;background-size: 262.56830601092895% 453.49794238683126%;background-image: url(ph_xii_atoms2.png);padding: 0; }
 div.Atoms_and_Nuclei_81_q::after {max-width:366px; width:100%;height:0;padding: 0 0 66.39344262295081% 0;}
+.JEEM_18_Mar_S1_10sol {max-width:144px; max-height:73px; }
+.JEEM_18_Mar_S1_10sol::after {content: '\00a0';display: inline-block; width:144px; height:73px; background-position: 99.87760097919217% 41.885325558794946%;background-size: 667.3611111111111% 1509.5890410958905%;background-image: url(ph_xii_atoms2.png);padding: 0; }
+div.JEEM_18_Mar_S1_10sol::after {max-width:144px; width:100%;height:0;padding: 0 0 50.69444444444444% 0;}
+.JEE_Main_20_July_2021_Eve_14_q {max-width:261px; max-height:226px; }
+.JEE_Main_20_July_2021_Eve_14_q::after {content: '\00a0';display: inline-block; width:261px; height:226px; background-position: 99.28571428571429% 74.65753424657534%;background-size: 368.1992337164751% 487.6106194690266%;background-image: url(ph_xii_atoms2.png);padding: 0; }
+div.JEE_Main_20_July_2021_Eve_14_q::after {max-width:261px; width:100%;height:0;padding: 0 0 86.59003831417624% 0;}
+.JEE_Main_20_July_2021_mor_3_s {max-width:134px; max-height:138px; }
+.JEE_Main_20_July_2021_mor_3_s::after {content: '\00a0';display: inline-block; width:134px; height:138px; background-position: 98.66989117291415% 52.385892116182575%;background-size: 717.1641791044776% 798.5507246376811%;background-image: url(ph_xii_atoms2.png);padding: 0; }
+div.JEE_Main_20_July_2021_mor_3_s::after {max-width:134px; width:100%;height:0;padding: 0 0 102.98507462686567% 0;}
+.JEE_Main_22_July_2021_eve_12_q {max-width:336px; max-height:147px; }
+.JEE_Main_22_July_2021_eve_12_q::after {content: '\00a0';display: inline-block; width:336px; height:147px; background-position: 84.8% 29.63350785340314%;background-size: 286.01190476190476% 749.6598639455782%;background-image: url(ph_xii_atoms2.png);padding: 0; }
+div.JEE_Main_22_July_2021_eve_12_q::after {max-width:336px; width:100%;height:0;padding: 0 0 43.75% 0;}
+.JEE_Main_26_Aug_2021_Shift_2_12_Q_1_O {max-width:267px; max-height:220px; }
+.JEE_Main_26_Aug_2021_Shift_2_12_Q_1_O::after {content: '\00a0';display: inline-block; width:267px; height:220px; background-position: 0.1440922190201729% 74.94331065759637%;background-size: 359.9250936329588% 500.90909090909093%;background-image: url(ph_xii_atoms2.png);padding: 0; }
+div.JEE_Main_26_Aug_2021_Shift_2_12_Q_1_O::after {max-width:267px; width:100%;height:0;padding: 0 0 82.39700374531836% 0;}
+.JEE_Main_26_Aug_2021_Shift_2_12_Q_2_O {max-width:286px; max-height:222px; }
+.JEE_Main_26_Aug_2021_Shift_2_12_Q_2_O::after {content: '\00a0';display: inline-block; width:286px; height:222px; background-position: 78.37037037037037% 48.97727272727273%;background-size: 336.013986013986% 496.39639639639637%;background-image: url(ph_xii_atoms2.png);padding: 0; }
+div.JEE_Main_26_Aug_2021_Shift_2_12_Q_2_O::after {max-width:286px; width:100%;height:0;padding: 0 0 77.62237762237763% 0;}
+.JEE_Main_26_Aug_2021_Shift_2_12_Q_3_O {max-width:289px; max-height:222px; }
+.JEE_Main_26_Aug_2021_Shift_2_12_Q_3_O::after {content: '\00a0';display: inline-block; width:289px; height:222px; background-position: 0.1488095238095238% 49.77272727272727%;background-size: 332.52595155709344% 496.39639639639637%;background-image: url(ph_xii_atoms2.png);padding: 0; }
+div.JEE_Main_26_Aug_2021_Shift_2_12_Q_3_O::after {max-width:289px; width:100%;height:0;padding: 0 0 76.8166089965398% 0;}
+.JEE_Main_26_Aug_2021_Shift_2_12_Q_4_O {max-width:266px; max-height:222px; }
+.JEE_Main_26_Aug_2021_Shift_2_12_Q_4_O::after {content: '\00a0';display: inline-block; width:266px; height:222px; background-position: 61.58273381294964% 99.77272727272727%;background-size: 361.2781954887218% 496.39639639639637%;background-image: url(ph_xii_atoms2.png);padding: 0; }
+div.JEE_Main_26_Aug_2021_Shift_2_12_Q_4_O::after {max-width:266px; width:100%;height:0;padding: 0 0 83.45864661654136% 0;}
+.JEE_Main_31_Aug_2021_Shift_1_6_Q_1_O {max-width:157px; max-height:159px; }
+.JEE_Main_31_Aug_2021_Shift_1_6_Q_1_O::after {content: '\00a0';display: inline-block; width:157px; height:159px; background-position: 33.45771144278607% 76.45811240721103%;background-size: 612.1019108280254% 693.0817610062893%;background-image: url(ph_xii_atoms2.png);padding: 0; }
+div.JEE_Main_31_Aug_2021_Shift_1_6_Q_1_O::after {max-width:157px; width:100%;height:0;padding: 0 0 101.27388535031847% 0;}
+.JEE_Main_31_Aug_2021_Shift_1_6_Q_2_O {max-width:160px; max-height:154px; }
+.JEE_Main_31_Aug_2021_Shift_1_6_Q_2_O::after {content: '\00a0';display: inline-block; width:160px; height:154px; background-position: 45.94257178526841% 36.91983122362869%;background-size: 600.625% 715.5844155844156%;background-image: url(ph_xii_atoms2.png);padding: 0; }
+div.JEE_Main_31_Aug_2021_Shift_1_6_Q_2_O::after {max-width:160px; width:100%;height:0;padding: 0 0 96.25% 0;}
+.JEE_Main_31_Aug_2021_Shift_1_6_Q_3_O {max-width:157px; max-height:156px; }
+.JEE_Main_31_Aug_2021_Shift_1_6_Q_3_O::after {content: '\00a0';display: inline-block; width:157px; height:156px; background-position: 53.10945273631841% 76.21564482029598%;background-size: 612.1019108280254% 706.4102564102565%;background-image: url(ph_xii_atoms2.png);padding: 0; }
+div.JEE_Main_31_Aug_2021_Shift_1_6_Q_3_O::after {max-width:157px; width:100%;height:0;padding: 0 0 99.36305732484077% 0;}
+.JEE_Main_31_Aug_2021_Shift_1_6_Q_4_O {max-width:161px; max-height:155px; }
+.JEE_Main_31_Aug_2021_Shift_1_6_Q_4_O::after {content: '\00a0';display: inline-block; width:161px; height:155px; background-position: 46% 20.485744456177404%;background-size: 596.8944099378882% 710.9677419354839%;background-image: url(ph_xii_atoms2.png);padding: 0; }
+div.JEE_Main_31_Aug_2021_Shift_1_6_Q_4_O::after {max-width:161px; width:100%;height:0;padding: 0 0 96.27329192546584% 0;}
 .jee_mt_st_24feb21s1q27 {max-width:392px; max-height:281px; }
-.jee_mt_st_24feb21s1q27::after {content: '\00a0';display: inline-block; width:392px; height:281px; background-position: 0.13368983957219252% 99.48717948717949%;background-size: 290.81632653061223% 169.39501779359432%;background-image: url(ph_xii_atoms2.png);padding: 0; }
+.jee_mt_st_24feb21s1q27::after {content: '\00a0';display: inline-block; width:392px; height:281px; background-position: 98.41827768014059% 0.1218026796589525%;background-size: 245.1530612244898% 392.1708185053381%;background-image: url(ph_xii_atoms2.png);padding: 0; }
 div.jee_mt_st_24feb21s1q27::after {max-width:392px; width:100%;height:0;padding: 0 0 71.68367346938776% 0;}
 
-/* $TexturePacker:SmartUpdate:67156a9cd1b397ed5cdceb32efc91078:8f410427dc631cce2f3a2eb9542a6e2c:e11e5e725293178be72b46e272749034$ */
+/* $TexturePacker:SmartUpdate:391385de0ee4699baa4d380a6d8f7580:73c54d3a1215c8e830dc20eb4a4abffe:e11e5e725293178be72b46e272749034$ */
