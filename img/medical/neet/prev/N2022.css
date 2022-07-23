@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.neet_bg_2022_38 {max-width:249px; max-height:245px; }
+.neet_bg_2022_38::after {content: '\00a0';display: inline-block; width:249px; height:245px; background-position: 86.39781271360219% 0.5347593582887701%;background-size: 687.5502008032129% 176.3265306122449%;background-image: url(N2022.png);padding: 0; }
+div.neet_bg_2022_38::after {max-width:249px; width:100%;height:0;padding: 0 0 98.39357429718875% 0;}
+.neet_bg_2022_86_sol {max-width:646px; max-height:413px; }
+.neet_bg_2022_86_sol::after {content: '\00a0';display: inline-block; width:646px; height:413px; background-position: 0.09380863039399624% 5.2631578947368425%;background-size: 265.015479876161% 104.60048426150121%;background-image: url(N2022.png);padding: 0; }
+div.neet_bg_2022_86_sol::after {max-width:646px; width:100%;height:0;padding: 0 0 63.93188854489164% 0;}
+.neet_bg_2022_91_sol {max-width:615px; max-height:393px; }
+.neet_bg_2022_91_sol::after {content: '\00a0';display: inline-block; width:615px; height:393px; background-position: 59.070191431175935% 2.5641025641025643%;background-size: 278.3739837398374% 109.92366412213741%;background-image: url(N2022.png);padding: 0; }
+div.neet_bg_2022_91_sol::after {max-width:615px; width:100%;height:0;padding: 0 0 63.90243902439025% 0;}
+.neet_bg_2022_92_sol {max-width:447px; max-height:184px; }
+.neet_bg_2022_92_sol::after {content: '\00a0';display: inline-block; width:447px; height:184px; background-position: 99.9209486166008% 99.59677419354838%;background-size: 382.99776286353466% 234.7826086956522%;background-image: url(N2022.png);padding: 0; }
+div.neet_bg_2022_92_sol::after {max-width:447px; width:100%;height:0;padding: 0 0 41.16331096196868% 0;}
+
+/* $TexturePacker:SmartUpdate:e71869b566fc70a6196a0d7a8b141af4:2f8e5061290edb841e9ce9c5ccdff1d0:03122c541f40b0b39704f4ae471acf51$ */
