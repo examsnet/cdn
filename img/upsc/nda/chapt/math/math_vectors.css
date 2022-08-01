@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.nda2015_mp2_62sol {max-width:393px; max-height:344px; }
+.nda2015_mp2_62sol::after {content: '\00a0';display: inline-block; width:393px; height:344px; background-position: 0.13908205841446453% 0.5988023952095808%;background-size: 282.95165394402034% 148.54651162790697%;background-image: url(math_vectors.png);padding: 0; }
+div.nda2015_mp2_62sol::after {max-width:393px; width:100%;height:0;padding: 0 0 87.53180661577608% 0;}
+.nda2016_mp1_111sol {max-width:276px; max-height:259px; }
+.nda2016_mp1_111sol::after {content: '\00a0';display: inline-block; width:276px; height:259px; background-position: 86.48325358851675% 0.3968253968253968%;background-size: 402.8985507246377% 197.2972972972973%;background-image: url(math_vectors.png);padding: 0; }
+div.nda2016_mp1_111sol::after {max-width:276px; width:100%;height:0;padding: 0 0 93.84057971014492% 0;}
+.nda2016_mp1_112sol {max-width:259px; max-height:229px; }
+.nda2016_mp1_112sol::after {content: '\00a0';display: inline-block; width:259px; height:229px; background-position: 99.88276670574443% 92.55319148936171%;background-size: 429.34362934362935% 223.14410480349346%;background-image: url(math_vectors.png);padding: 0; }
+div.nda2016_mp1_112sol::after {max-width:259px; width:100%;height:0;padding: 0 0 88.41698841698842% 0;}
+.nda2016_mp1_69sol {max-width:208px; max-height:170px; }
+.nda2016_mp1_69sol::after {content: '\00a0';display: inline-block; width:208px; height:170px; background-position: 71.1283185840708% 83.87096774193549%;background-size: 534.6153846153846% 300.5882352941176%;background-image: url(math_vectors.png);padding: 0; }
+div.nda2016_mp1_69sol::after {max-width:208px; width:100%;height:0;padding: 0 0 81.73076923076923% 0;}
+.nda2017_mp1_98sol {max-width:264px; max-height:137px; }
+.nda2017_mp1_98sol::after {content: '\00a0';display: inline-block; width:264px; height:137px; background-position: 44.575471698113205% 92.51336898395722%;background-size: 421.2121212121212% 372.992700729927%;background-image: url(math_vectors.png);padding: 0; }
+div.nda2017_mp1_98sol::after {max-width:264px; width:100%;height:0;padding: 0 0 51.89393939393939% 0;}
+.nda2018_mp1_67sol {max-width:376px; max-height:164px; }
+.nda2018_mp1_67sol::after {content: '\00a0';display: inline-block; width:376px; height:164px; background-position: 0.1358695652173913% 99.71181556195965%;background-size: 295.74468085106383% 311.5853658536585%;background-image: url(math_vectors.png);padding: 0; }
+div.nda2018_mp1_67sol::after {max-width:376px; width:100%;height:0;padding: 0 0 43.61702127659574% 0;}
+.nda_2019_mat_98sol {max-width:327px; max-height:284px; }
+.nda_2019_mat_98sol::after {content: '\00a0';display: inline-block; width:327px; height:284px; background-position: 50.318471337579616% 0.44052863436123346%;background-size: 340.0611620795107% 179.92957746478874%;background-image: url(math_vectors.png);padding: 0; }
+div.nda_2019_mat_98sol::after {max-width:327px; width:100%;height:0;padding: 0 0 86.85015290519878% 0;}
+
+/* $TexturePacker:SmartUpdate:72dd34531fddd31e60356cf8e9d50a65:b5fd421fd3b866ba8b3a3592d16945e5:d69146d88ce5bac946936e33593150a4$ */

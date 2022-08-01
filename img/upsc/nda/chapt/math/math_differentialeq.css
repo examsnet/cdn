@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.nda_2019_mat_74sol {max-width:395px; max-height:228px; }
+.nda_2019_mat_74sol::after {content: '\00a0';display: inline-block; width:395px; height:228px; background-position: 50% 50%;background-size: 100.50632911392405% 100.87719298245614%;background-image: url(math_differentialeq.png);padding: 0; }
+div.nda_2019_mat_74sol::after {max-width:395px; width:100%;height:0;padding: 0 0 57.721518987341774% 0;}
+
+/* $TexturePacker:SmartUpdate:322cddbdafde5685e24d32088cab5d51:568fa73c297920d4d9e34a781bbda722:54d4e8fc497f62e84408e07d0e877ef2$ */

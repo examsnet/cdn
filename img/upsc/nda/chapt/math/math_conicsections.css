@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.nda2015_mp2_48sol {max-width:360px; max-height:297px; }
+.nda2015_mp2_48sol::after {content: '\00a0';display: inline-block; width:360px; height:297px; background-position: 50% 0.2331002331002331%;background-size: 100.55555555555556% 244.44444444444446%;background-image: url(math_conicsections.png);padding: 0; }
+div.nda2015_mp2_48sol::after {max-width:360px; width:100%;height:0;padding: 0 0 82.5% 0;}
+.nda2017_mp1_27sol {max-width:279px; max-height:262px; }
+.nda2017_mp1_27sol::after {content: '\00a0';display: inline-block; width:279px; height:262px; background-position: 1.2048192771084338% 64.4396551724138%;background-size: 129.74910394265234% 277.09923664122135%;background-image: url(math_conicsections.png);padding: 0; }
+div.nda2017_mp1_27sol::after {max-width:279px; width:100%;height:0;padding: 0 0 93.9068100358423% 0;}
+.nda2017_mp2_49sol {max-width:277px; max-height:163px; }
+.nda2017_mp2_49sol::after {content: '\00a0';display: inline-block; width:277px; height:163px; background-position: 1.1764705882352942% 99.82238010657194%;background-size: 130.68592057761734% 445.39877300613495%;background-image: url(math_conicsections.png);padding: 0; }
+div.nda2017_mp2_49sol::after {max-width:277px; width:100%;height:0;padding: 0 0 58.84476534296029% 0;}
+
+/* $TexturePacker:SmartUpdate:da30cb627b326288b18db85841793e9c:df9302e4ec29d986bcb41cc178fb4c1f:c3eceb162fa06eb609b7b755b0a639bb$ */

@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.nda2015_mp2_28sol {max-width:451px; max-height:330px; }
+.nda2015_mp2_28sol::after {content: '\00a0';display: inline-block; width:451px; height:330px; background-position: 50% 0.1652892561983471%;background-size: 100.44345898004434% 283.3333333333333%;background-image: url(math_complexnumbers.png);padding: 0; }
+div.nda2015_mp2_28sol::after {max-width:451px; width:100%;height:0;padding: 0 0 73.17073170731707% 0;}
+.nda2016_mp1_1sol {max-width:301px; max-height:348px; }
+.nda2016_mp1_1sol::after {content: '\00a0';display: inline-block; width:301px; height:348px; background-position: 0.6578947368421053% 99.82964224872232%;background-size: 150.4983388704319% 268.67816091954023%;background-image: url(math_complexnumbers.png);padding: 0; }
+div.nda2016_mp1_1sol::after {max-width:301px; width:100%;height:0;padding: 0 0 115.61461794019934% 0;}
+.nda2018_map2_22sol {max-width:332px; max-height:253px; }
+.nda2018_map2_22sol::after {content: '\00a0';display: inline-block; width:332px; height:253px; background-position: 0.8264462809917356% 48.68035190615836%;background-size: 136.44578313253012% 369.5652173913044%;background-image: url(math_complexnumbers.png);padding: 0; }
+div.nda2018_map2_22sol::after {max-width:332px; width:100%;height:0;padding: 0 0 76.20481927710843% 0;}
+
+/* $TexturePacker:SmartUpdate:150f09bbe48ff9a94155ff7d51659d00:aadbb4d3e9105ce6829b33c4399aa5c8:8aa25e05ea3c0e2d45b1b05c55625aa8$ */

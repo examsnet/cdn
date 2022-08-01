@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.nda2015_mp2_11sol {max-width:555px; max-height:110px; }
+.nda2015_mp2_11sol::after {content: '\00a0';display: inline-block; width:555px; height:110px; background-position: 99.8003992015968% 0.9900990099009901%;background-size: 190.27027027027026% 191.8181818181818%;background-image: url(math_sets.png);padding: 0; }
+div.nda2015_mp2_11sol::after {max-width:555px; width:100%;height:0;padding: 0 0 19.81981981981982% 0;}
+.nda2018_map2_25sol {max-width:216px; max-height:178px; }
+.nda2018_map2_25sol::after {content: '\00a0';display: inline-block; width:216px; height:178px; background-position: 33.69047619047619% 3.0303030303030303%;background-size: 488.8888888888889% 118.53932584269663%;background-image: url(math_sets.png);padding: 0; }
+div.nda2018_map2_25sol::after {max-width:216px; width:100%;height:0;padding: 0 0 82.4074074074074% 0;}
+.nda_2019_mat_35sol {max-width:281px; max-height:209px; }
+.nda_2019_mat_35sol::after {content: '\00a0';display: inline-block; width:281px; height:209px; background-position: 0.12903225806451613% 50%;background-size: 375.80071174377224% 100.95693779904306%;background-image: url(math_sets.png);padding: 0; }
+div.nda_2019_mat_35sol::after {max-width:281px; width:100%;height:0;padding: 0 0 74.37722419928825% 0;}
+
+/* $TexturePacker:SmartUpdate:1f207017cbcb6dfe2c56e06ac0675925:98575955fbee19d48c2efba8e981ace7:80b175a4031cf796052a5e602c4671ed$ */

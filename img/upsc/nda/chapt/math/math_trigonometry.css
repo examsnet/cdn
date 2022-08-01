@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.NDA2019_Mat_P2_67sol {max-width:187px; max-height:161px; }
+.NDA2019_Mat_P2_67sol::after {content: '\00a0';display: inline-block; width:187px; height:161px; background-position: 2.1739130434782608% 99.53051643192488%;background-size: 124.59893048128342% 232.29813664596273%;background-image: url(math_trigonometry.png);padding: 0; }
+div.NDA2019_Mat_P2_67sol::after {max-width:187px; width:100%;height:0;padding: 0 0 86.09625668449198% 0;}
+.nda2016_mp1_48sol {max-width:231px; max-height:210px; }
+.nda2016_mp1_48sol::after {content: '\00a0';display: inline-block; width:231px; height:210px; background-position: 50% 0.6097560975609756%;background-size: 100.86580086580086% 178.0952380952381%;background-image: url(math_trigonometry.png);padding: 0; }
+div.nda2016_mp1_48sol::after {max-width:231px; width:100%;height:0;padding: 0 0 90.9090909090909% 0;}
+
+/* $TexturePacker:SmartUpdate:91173ea4ced46bb79934f4dd16a231a2:143a6867c869babed5a6361398c31bae:d494edc9b8757996eb45d3507bb8f22c$ */
