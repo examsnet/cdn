@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.nda2017_mp1_112sol {max-width:156px; max-height:133px; }
+.nda2017_mp1_112sol::after {content: '\00a0';display: inline-block; width:156px; height:133px; background-position: 99.64912280701755% 1.8518518518518519%;background-size: 282.6923076923077% 140.6015037593985%;background-image: url(math_misc.png);padding: 0; }
+div.nda2017_mp1_112sol::after {max-width:156px; width:100%;height:0;padding: 0 0 85.25641025641026% 0;}
+.nda2018_map2_80sol {max-width:282px; max-height:185px; }
+.nda2018_map2_80sol::after {content: '\00a0';display: inline-block; width:282px; height:185px; background-position: 0.6289308176100629% 50%;background-size: 156.38297872340425% 101.08108108108108%;background-image: url(math_misc.png);padding: 0; }
+div.nda2018_map2_80sol::after {max-width:282px; width:100%;height:0;padding: 0 0 65.60283687943263% 0;}
+
+/* $TexturePacker:SmartUpdate:d265ff0ad285f5d62c4af3bccc609494:6931eb0339319aef4caac7627eec81a0:d3111bdd7daf7bafb65f30ad5ec9e661$ */
