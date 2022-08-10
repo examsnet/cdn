@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.UPSC_2018_p2_mat_48sol {max-width:346px; max-height:260px; }
+.UPSC_2018_p2_mat_48sol::after {content: '\00a0';display: inline-block; width:346px; height:260px; background-position: 50% 50%;background-size: 100.57803468208093% 100.76923076923077%;background-image: url(cds_mat_lineareq.png);padding: 0; }
+div.UPSC_2018_p2_mat_48sol::after {max-width:346px; width:100%;height:0;padding: 0 0 75.14450867052022% 0;}
+
+/* $TexturePacker:SmartUpdate:869269c1c4e0f30623b8be733bf02c93:3e64d58cfcaa6c0b911a8a41d8c2f9f8:24ab3a4416933295fd3b71794f58c717$ */

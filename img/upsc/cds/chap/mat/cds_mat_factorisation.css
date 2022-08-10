@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Ucds_2_2017_mat_4sol {max-width:221px; max-height:71px; }
+.Ucds_2_2017_mat_4sol::after {content: '\00a0';display: inline-block; width:221px; height:71px; background-position: 0.2949852507374631% 54.354354354354356%;background-size: 253.39366515837105% 569.0140845070423%;background-image: url(cds_mat_factorisation.png);padding: 0; }
+div.Ucds_2_2017_mat_4sol::after {max-width:221px; width:100%;height:0;padding: 0 0 32.126696832579185% 0;}
+.Ucds_2_2017_mat_4sol_a {max-width:228px; max-height:67px; }
+.Ucds_2_2017_mat_4sol_a::after {content: '\00a0';display: inline-block; width:228px; height:67px; background-position: 0.30120481927710846% 95.54896142433235%;background-size: 245.6140350877193% 602.9850746268656%;background-image: url(cds_mat_factorisation.png);padding: 0; }
+div.Ucds_2_2017_mat_4sol_a::after {max-width:228px; width:100%;height:0;padding: 0 0 29.385964912280702% 0;}
+.Ucds_2_2017_mat_4sol_b {max-width:221px; max-height:68px; }
+.Ucds_2_2017_mat_4sol_b::after {content: '\00a0';display: inline-block; width:221px; height:68px; background-position: 0.2949852507374631% 75.29761904761905%;background-size: 253.39366515837105% 594.1176470588235%;background-image: url(cds_mat_factorisation.png);padding: 0; }
+div.Ucds_2_2017_mat_4sol_b::after {max-width:221px; width:100%;height:0;padding: 0 0 30.76923076923077% 0;}
+.factorisation_73_sol {max-width:285px; max-height:179px; }
+.factorisation_73_sol::after {content: '\00a0';display: inline-block; width:285px; height:179px; background-position: 0.36363636363636365% 0.4444444444444444%;background-size: 196.49122807017545% 225.69832402234636%;background-image: url(cds_mat_factorisation.png);padding: 0; }
+div.factorisation_73_sol::after {max-width:285px; width:100%;height:0;padding: 0 0 62.80701754385965% 0;}
+.factorisation_75_sol {max-width:272px; max-height:402px; }
+.factorisation_75_sol::after {content: '\00a0';display: inline-block; width:272px; height:402px; background-position: 99.65277777777777% 50%;background-size: 205.88235294117646% 100.49751243781094%;background-image: url(cds_mat_factorisation.png);padding: 0; }
+div.factorisation_75_sol::after {max-width:272px; width:100%;height:0;padding: 0 0 147.7941176470588% 0;}
+
+/* $TexturePacker:SmartUpdate:f9d165df535355fa66f19226e13cab17:8a539b1f644f8677edd86dd498053c1b:45aa7267ebbfcd3c5ff25b633326d836$ */

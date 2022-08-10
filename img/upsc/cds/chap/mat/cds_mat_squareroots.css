@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Ucds_2_2016_mat_25sol {max-width:221px; max-height:67px; }
+.Ucds_2_2016_mat_25sol::after {content: '\00a0';display: inline-block; width:221px; height:67px; background-position: 50% 50%;background-size: 100.90497737556561% 102.98507462686567%;background-image: url(cds_mat_squareroots.png);padding: 0; }
+div.Ucds_2_2016_mat_25sol::after {max-width:221px; width:100%;height:0;padding: 0 0 30.316742081447963% 0;}
+
+/* $TexturePacker:SmartUpdate:cd94045078c19194a08018bbcaeb1ebf:da7771108ce112a77cbe6933b85073a8:c2f9dca29691d0e3edf9dfd30dfa4cdc$ */
