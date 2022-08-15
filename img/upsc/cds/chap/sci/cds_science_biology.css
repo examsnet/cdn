@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.UPSC_2019_p1_gk_88sol {max-width:289px; max-height:97px; }
+.UPSC_2019_p1_gk_88sol::after {content: '\00a0';display: inline-block; width:289px; height:97px; background-position: 50% 50%;background-size: 100.69204152249135% 102.0618556701031%;background-image: url(cds_science_biology.png);padding: 0; }
+div.UPSC_2019_p1_gk_88sol::after {max-width:289px; width:100%;height:0;padding: 0 0 33.56401384083045% 0;}
+
+/* $TexturePacker:SmartUpdate:8762eaee84d32af5d7a0e83d17502c7f:6539c57ec1713c6ba225a6494fbda3f3:6158afc3fd8177e32a2c4dcc6010631c$ */
