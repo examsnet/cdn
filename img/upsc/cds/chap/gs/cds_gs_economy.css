@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Ucds_1_2016_gk_58sol {max-width:334px; max-height:264px; }
+.Ucds_1_2016_gk_58sol::after {content: '\00a0';display: inline-block; width:334px; height:264px; background-position: 50% 50%;background-size: 100.59880239520957% 100.75757575757575%;background-image: url(cds_gs_economy.png);padding: 0; }
+div.Ucds_1_2016_gk_58sol::after {max-width:334px; width:100%;height:0;padding: 0 0 79.04191616766467% 0;}
+
+/* $TexturePacker:SmartUpdate:dde2d8ca23c5521c1788f3ace3937a7d:4d7cce99e6226abb86fe6876352df96b:4e8c7a10e082267834b74617c8ee094a$ */
