@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.nda2015_gap1_96sol {max-width:348px; max-height:142px; }
+.nda2015_gap1_96sol::after {content: '\00a0';display: inline-block; width:348px; height:142px; background-position: 50% 50%;background-size: 100.57471264367815% 101.40845070422536%;background-image: url(nda_science_chemistry.png);padding: 0; }
+div.nda2015_gap1_96sol::after {max-width:348px; width:100%;height:0;padding: 0 0 40.804597701149426% 0;}
+
+/* $TexturePacker:SmartUpdate:1df71a099e7e735d75a9aec612fc6025:323683ba58df7cc8aa048d137d5ed652:ade0431f2553a6c45d7fe763f00e051b$ */
