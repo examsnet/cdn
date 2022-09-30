@@ -1,0 +1,41 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.PC_mp1_26_solu {max-width:360px; max-height:139px; }
+.PC_mp1_26_solu::after {content: '\00a0';display: inline-block; width:360px; height:139px; background-position: 2.380952380952381% 8.922670191672175%;background-size: 111.66666666666667% 1188.4892086330935%;background-image: url(ts_pol_mp1.png);padding: 0; }
+div.PC_mp1_26_solu::after {max-width:360px; width:100%;height:0;padding: 0 0 38.611111111111114% 0;}
+.PC_mp1_27_solu {max-width:360px; max-height:188px; }
+.PC_mp1_27_solu::after {content: '\00a0';display: inline-block; width:360px; height:188px; background-position: 2.380952380952381% 66.12021857923497%;background-size: 111.66666666666667% 878.7234042553191%;background-image: url(ts_pol_mp1.png);padding: 0; }
+div.PC_mp1_27_solu::after {max-width:360px; width:100%;height:0;padding: 0 0 52.22222222222222% 0;}
+.PC_mp1_29_solu {max-width:360px; max-height:159px; }
+.PC_mp1_29_solu::after {content: '\00a0';display: inline-block; width:360px; height:159px; background-position: 2.380952380952381% 18.419290020093772%;background-size: 111.66666666666667% 1038.993710691824%;background-image: url(ts_pol_mp1.png);padding: 0; }
+div.PC_mp1_29_solu::after {max-width:360px; width:100%;height:0;padding: 0 0 44.166666666666664% 0;}
+.PC_mp1_30_1_solu {max-width:360px; max-height:183px; }
+.PC_mp1_30_1_solu::after {content: '\00a0';display: inline-block; width:360px; height:183px; background-position: 2.380952380952381% 53.369639210347174%;background-size: 111.66666666666667% 902.7322404371585%;background-image: url(ts_pol_mp1.png);padding: 0; }
+div.PC_mp1_30_1_solu::after {max-width:360px; width:100%;height:0;padding: 0 0 50.833333333333336% 0;}
+.PC_mp1_30_2_solu {max-width:360px; max-height:170px; }
+.PC_mp1_30_2_solu::after {content: '\00a0';display: inline-block; width:360px; height:170px; background-position: 2.380952380952381% 29.352226720647774%;background-size: 111.66666666666667% 971.7647058823529%;background-image: url(ts_pol_mp1.png);padding: 0; }
+div.PC_mp1_30_2_solu::after {max-width:360px; width:100%;height:0;padding: 0 0 47.22222222222222% 0;}
+.PC_mp1_32-33 {max-width:300px; max-height:177px; }
+.PC_mp1_32-33::after {content: '\00a0';display: inline-block; width:300px; height:177px; background-position: 0.9803921568627451% 41.08474576271186%;background-size: 134% 933.3333333333334%;background-image: url(ts_pol_mp1.png);padding: 0; }
+div.PC_mp1_32-33::after {max-width:300px; width:100%;height:0;padding: 0 0 59% 0;}
+.PC_mp1_37 {max-width:360px; max-height:239px; }
+.PC_mp1_37::after {content: '\00a0';display: inline-block; width:360px; height:239px; background-position: 2.380952380952381% 81.8825194621373%;background-size: 111.66666666666667% 691.2133891213389%;background-image: url(ts_pol_mp1.png);padding: 0; }
+div.PC_mp1_37::after {max-width:360px; width:100%;height:0;padding: 0 0 66.38888888888889% 0;}
+.PC_mp1_39_solu {max-width:400px; max-height:254px; }
+.PC_mp1_39_solu::after {content: '\00a0';display: inline-block; width:400px; height:254px; background-position: 50% 99.92846924177397%;background-size: 100.5% 650.3937007874016%;background-image: url(ts_pol_mp1.png);padding: 0; }
+div.PC_mp1_39_solu::after {max-width:400px; width:100%;height:0;padding: 0 0 63.5% 0;}
+.PC_mp1_40 {max-width:200px; max-height:133px; }
+.PC_mp1_40::after {content: '\00a0';display: inline-block; width:200px; height:133px; background-position: 66.83168316831683% 0.06583278472679395%;background-size: 201% 1242.1052631578948%;background-image: url(ts_pol_mp1.png);padding: 0; }
+div.PC_mp1_40::after {max-width:200px; width:100%;height:0;padding: 0 0 66.5% 0;}
+.PC_mp1_40_1 {max-width:133px; max-height:99px; }
+.PC_mp1_40_1::after {content: '\00a0';display: inline-block; width:133px; height:99px; background-position: 0.37174721189591076% 0.0643915003219575%;background-size: 302.25563909774434% 1668.6868686868686%;background-image: url(ts_pol_mp1.png);padding: 0; }
+div.PC_mp1_40_1::after {max-width:133px; width:100%;height:0;padding: 0 0 74.43609022556392% 0;}
+
+/* $TexturePacker:SmartUpdate:9abec22f39e102db7d291a39b0ef52f2:21e28c4e31cdd747f44246100b3c2fbb:caa6c156383247934049c5c8951e49cd$ */

@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.PC_mp8_29_solu {max-width:320px; max-height:123px; }
+.PC_mp8_29_solu::after {content: '\00a0';display: inline-block; width:320px; height:123px; background-position: 47.07602339181287% 1.0526315789473684%;background-size: 313.75% 177.2357723577236%;background-image: url(ts_pol_mp8.png);padding: 0; }
+div.PC_mp8_29_solu::after {max-width:320px; width:100%;height:0;padding: 0 0 38.4375% 0;}
+.PC_mp8_30_solu {max-width:360px; max-height:102px; }
+.PC_mp8_30_solu::after {content: '\00a0';display: inline-block; width:360px; height:102px; background-position: 99.84472049689441% 0.8620689655172413%;background-size: 278.8888888888889% 213.72549019607843%;background-image: url(ts_pol_mp8.png);padding: 0; }
+div.PC_mp8_30_solu::after {max-width:360px; width:100%;height:0;padding: 0 0 28.333333333333332% 0;}
+.PC_mp8_33 {max-width:280px; max-height:113px; }
+.PC_mp8_33::after {content: '\00a0';display: inline-block; width:280px; height:113px; background-position: 88.8121546961326% 99.04761904761905%;background-size: 358.57142857142856% 192.9203539823009%;background-image: url(ts_pol_mp8.png);padding: 0; }
+div.PC_mp8_33::after {max-width:280px; width:100%;height:0;padding: 0 0 40.357142857142854% 0;}
+.PC_mp8_46 {max-width:320px; max-height:77px; }
+.PC_mp8_46::after {content: '\00a0';display: inline-block; width:320px; height:77px; background-position: 47.07602339181287% 88.65248226950355%;background-size: 313.75% 283.1168831168831%;background-image: url(ts_pol_mp8.png);padding: 0; }
+div.PC_mp8_46::after {max-width:320px; width:100%;height:0;padding: 0 0 24.0625% 0;}
+.PC_mp8_53_solu {max-width:320px; max-height:149px; }
+.PC_mp8_53_solu::after {content: '\00a0';display: inline-block; width:320px; height:149px; background-position: 0.14619883040935672% 1.4492753623188406%;background-size: 313.75% 146.30872483221478%;background-image: url(ts_pol_mp8.png);padding: 0; }
+div.PC_mp8_53_solu::after {max-width:320px; width:100%;height:0;padding: 0 0 46.5625% 0;}
+
+/* $TexturePacker:SmartUpdate:10723425705a3c53e6285af197079f09:96e5612c546f6d24911bcdc7269d1a4d:34f1b2e4d40e3ce4d68ad51f95a9ce56$ */

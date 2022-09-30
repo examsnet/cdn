@@ -1,0 +1,41 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.PC_mp5_26_solu {max-width:320px; max-height:119px; }
+.PC_mp5_26_solu::after {content: '\00a0';display: inline-block; width:320px; height:119px; background-position: 0.6134969325153374% 17.237308146399055%;background-size: 150.9375% 811.7647058823529%;background-image: url(ts_pol_mp5.png);padding: 0; }
+div.PC_mp5_26_solu::after {max-width:320px; width:100%;height:0;padding: 0 0 37.1875% 0;}
+.PC_mp5_32_solu {max-width:200px; max-height:208px; }
+.PC_mp5_32_solu::after {content: '\00a0';display: inline-block; width:200px; height:208px; background-position: 99.64664310954063% 35.09234828496042%;background-size: 241.5% 464.4230769230769%;background-image: url(ts_pol_mp5.png);padding: 0; }
+div.PC_mp5_32_solu::after {max-width:200px; width:100%;height:0;padding: 0 0 104% 0;}
+.PC_mp5_35_1 {max-width:200px; max-height:173px; }
+.PC_mp5_35_1::after {content: '\00a0';display: inline-block; width:200px; height:173px; background-position: 89.04593639575971% 82.72383354350568%;background-size: 241.5% 558.3815028901735%;background-image: url(ts_pol_mp5.png);padding: 0; }
+div.PC_mp5_35_1::after {max-width:200px; width:100%;height:0;padding: 0 0 86.5% 0;}
+.PC_mp5_35_2 {max-width:200px; max-height:180px; }
+.PC_mp5_35_2::after {content: '\00a0';display: inline-block; width:200px; height:180px; background-position: 99.64664310954063% 60.43256997455471%;background-size: 241.5% 536.6666666666666%;background-image: url(ts_pol_mp5.png);padding: 0; }
+div.PC_mp5_35_2::after {max-width:200px; width:100%;height:0;padding: 0 0 90% 0;}
+.PC_mp5_35_3 {max-width:200px; max-height:135px; }
+.PC_mp5_35_3::after {content: '\00a0';display: inline-block; width:200px; height:135px; background-position: 89.04593639575971% 99.87966305655836%;background-size: 241.5% 715.5555555555555%;background-image: url(ts_pol_mp5.png);padding: 0; }
+div.PC_mp5_35_3::after {max-width:200px; width:100%;height:0;padding: 0 0 67.5% 0;}
+.PC_mp5_35_4 {max-width:200px; max-height:111px; }
+.PC_mp5_35_4::after {content: '\00a0';display: inline-block; width:200px; height:111px; background-position: 0.35335689045936397% 98.01169590643275%;background-size: 241.5% 870.2702702702703%;background-image: url(ts_pol_mp5.png);padding: 0; }
+div.PC_mp5_35_4::after {max-width:200px; width:100%;height:0;padding: 0 0 55.5% 0;}
+.PC_mp5_35_solu {max-width:320px; max-height:144px; }
+.PC_mp5_35_solu::after {content: '\00a0';display: inline-block; width:320px; height:144px; background-position: 0.6134969325153374% 0.12165450121654502%;background-size: 150.9375% 670.8333333333334%;background-image: url(ts_pol_mp5.png);padding: 0; }
+div.PC_mp5_35_solu::after {max-width:320px; width:100%;height:0;padding: 0 0 45% 0;}
+.PC_mp5_51_solu {max-width:250px; max-height:184px; }
+.PC_mp5_51_solu::after {content: '\00a0';display: inline-block; width:250px; height:184px; background-position: 0.4291845493562232% 71.73913043478261%;background-size: 193.2% 525%;background-image: url(ts_pol_mp5.png);padding: 0; }
+div.PC_mp5_51_solu::after {max-width:250px; width:100%;height:0;padding: 0 0 73.6% 0;}
+.PC_mp5_63_solu {max-width:250px; max-height:91px; }
+.PC_mp5_63_solu::after {content: '\00a0';display: inline-block; width:250px; height:91px; background-position: 0.4291845493562232% 85.25714285714285%;background-size: 193.2% 1061.5384615384614%;background-image: url(ts_pol_mp5.png);padding: 0; }
+div.PC_mp5_63_solu::after {max-width:250px; width:100%;height:0;padding: 0 0 36.4% 0;}
+.PC_mp5_65_solu {max-width:280px; max-height:294px; }
+.PC_mp5_65_solu::after {content: '\00a0';display: inline-block; width:280px; height:294px; background-position: 0.49261083743842365% 39.583333333333336%;background-size: 172.5% 328.57142857142856%;background-image: url(ts_pol_mp5.png);padding: 0; }
+div.PC_mp5_65_solu::after {max-width:280px; width:100%;height:0;padding: 0 0 105% 0;}
+
+/* $TexturePacker:SmartUpdate:ea1bbf1988ebc73adbbaaa477ac7d025:d79987bcb5b03674ac937349f519b289:fc4dcb7128edeab87c5955577508a2b3$ */

@@ -1,0 +1,41 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.PC_mp9_27_solu {max-width:320px; max-height:133px; }
+.PC_mp9_27_solu::after {content: '\00a0';display: inline-block; width:320px; height:133px; background-position: 0.5376344086021505% 36.92307692307692%;background-size: 158.125% 735.3383458646616%;background-image: url(ts_pol_mp9.png);padding: 0; }
+div.PC_mp9_27_solu::after {max-width:320px; width:100%;height:0;padding: 0 0 41.5625% 0;}
+.PC_mp9_30_solu {max-width:320px; max-height:122px; }
+.PC_mp9_30_solu::after {content: '\00a0';display: inline-block; width:320px; height:122px; background-position: 0.5376344086021505% 52.10280373831776%;background-size: 158.125% 801.639344262295%;background-image: url(ts_pol_mp9.png);padding: 0; }
+div.PC_mp9_30_solu::after {max-width:320px; width:100%;height:0;padding: 0 0 38.125% 0;}
+.PC_mp9_33 {max-width:320px; max-height:114px; }
+.PC_mp9_33::after {content: '\00a0';display: inline-block; width:320px; height:114px; background-position: 0.5376344086021505% 65.85648148148148%;background-size: 158.125% 857.8947368421053%;background-image: url(ts_pol_mp9.png);padding: 0; }
+div.PC_mp9_33::after {max-width:320px; width:100%;height:0;padding: 0 0 35.625% 0;}
+.PC_mp9_35 {max-width:250px; max-height:162px; }
+.PC_mp9_35::after {content: '\00a0';display: inline-block; width:250px; height:162px; background-position: 78.90625% 99.87745098039215%;background-size: 202.4% 603.7037037037037%;background-image: url(ts_pol_mp9.png);padding: 0; }
+div.PC_mp9_35::after {max-width:250px; width:100%;height:0;padding: 0 0 64.8% 0;}
+.PC_mp9_37_solu {max-width:320px; max-height:142px; }
+.PC_mp9_37_solu::after {content: '\00a0';display: inline-block; width:320px; height:142px; background-position: 0.5376344086021505% 20.215311004784688%;background-size: 158.125% 688.7323943661971%;background-image: url(ts_pol_mp9.png);padding: 0; }
+div.PC_mp9_37_solu::after {max-width:320px; width:100%;height:0;padding: 0 0 44.375% 0;}
+.PC_mp9_43_solu {max-width:200px; max-height:274px; }
+.PC_mp9_43_solu::after {content: '\00a0';display: inline-block; width:200px; height:274px; background-position: 0.32679738562091504% 97.1590909090909%;background-size: 253% 356.93430656934305%;background-image: url(ts_pol_mp9.png);padding: 0; }
+div.PC_mp9_43_solu::after {max-width:200px; width:100%;height:0;padding: 0 0 137% 0;}
+.PC_mp9_44_solu {max-width:300px; max-height:130px; }
+.PC_mp9_44_solu::after {content: '\00a0';display: inline-block; width:300px; height:130px; background-position: 98.05825242718447% 80.66037735849056%;background-size: 168.66666666666666% 752.3076923076923%;background-image: url(ts_pol_mp9.png);padding: 0; }
+div.PC_mp9_44_solu::after {max-width:300px; width:100%;height:0;padding: 0 0 43.333333333333336% 0;}
+.PC_mp9_46 {max-width:360px; max-height:167px; }
+.PC_mp9_46::after {content: '\00a0';display: inline-block; width:360px; height:167px; background-position: 0.684931506849315% 0.12330456226880394%;background-size: 140.55555555555554% 585.6287425149701%;background-image: url(ts_pol_mp9.png);padding: 0; }
+div.PC_mp9_46::after {max-width:360px; width:100%;height:0;padding: 0 0 46.388888888888886% 0;}
+.PC_mp9_52_solu {max-width:169px; max-height:194px; }
+.PC_mp9_52_solu::after {content: '\00a0';display: inline-block; width:169px; height:194px; background-position: 95.54896142433235% 54.20918367346939%;background-size: 299.4082840236686% 504.12371134020617%;background-image: url(ts_pol_mp9.png);padding: 0; }
+div.PC_mp9_52_solu::after {max-width:169px; width:100%;height:0;padding: 0 0 114.79289940828403% 0;}
+.PC_mp9_61_solu {max-width:183px; max-height:255px; }
+.PC_mp9_61_solu::after {content: '\00a0';display: inline-block; width:183px; height:255px; background-position: 99.69040247678019% 23.374827109266942%;background-size: 276.5027322404372% 383.52941176470586%;background-image: url(ts_pol_mp9.png);padding: 0; }
+div.PC_mp9_61_solu::after {max-width:183px; width:100%;height:0;padding: 0 0 139.34426229508196% 0;}
+
+/* $TexturePacker:SmartUpdate:f6a58cec57213033334e9c2a8ec2c080:8728ef58baf18ca0034e5cdfc8ad1007:4797903e7f43871ff631bdeed35ad330$ */
