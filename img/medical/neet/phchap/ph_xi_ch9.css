@@ -7,89 +7,23 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
-.Thermodynamics_17_s {max-width:239px; max-height:202px; }
-.Thermodynamics_17_s::after {content: '\00a0';display: inline-block; width:239px; height:202px; background-position: 0.37037037037037035% 14.882837238758707%;background-size: 212.97071129707112% 881.6831683168317%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.Thermodynamics_17_s::after {max-width:239px; width:100%;height:0;padding: 0 0 84.51882845188284% 0;}
-.Thermodynamics_30_s {max-width:181px; max-height:144px; }
-.Thermodynamics_30_s::after {content: '\00a0';display: inline-block; width:181px; height:144px; background-position: 46.951219512195124% 82.6511912034209%;background-size: 281.21546961325964% 1236.8055555555557%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.Thermodynamics_30_s::after {max-width:181px; width:100%;height:0;padding: 0 0 79.55801104972376% 0;}
-.Thermodynamics_64_s {max-width:193px; max-height:161px; }
-.Thermodynamics_64_s::after {content: '\00a0';display: inline-block; width:193px; height:161px; background-position: 56.64556962025316% 64.50617283950618%;background-size: 263.73056994818654% 1106.2111801242236%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.Thermodynamics_64_s::after {max-width:193px; width:100%;height:0;padding: 0 0 83.41968911917098% 0;}
-.Thermodynamics_75_s {max-width:199px; max-height:179px; }
-.Thermodynamics_75_s::after {content: '\00a0';display: inline-block; width:199px; height:179px; background-position: 77.74193548387096% 21.28589263420724%;background-size: 255.7788944723618% 994.9720670391062%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.Thermodynamics_75_s::after {max-width:199px; width:100%;height:0;padding: 0 0 89.94974874371859% 0;}
-.Thermodynamics_79_q {max-width:181px; max-height:191px; }
-.Thermodynamics_79_q::after {content: '\00a0';display: inline-block; width:181px; height:191px; background-position: 0.3048780487804878% 38.80503144654088%;background-size: 281.21546961325964% 932.4607329842931%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.Thermodynamics_79_q::after {max-width:181px; width:100%;height:0;padding: 0 0 105.52486187845304% 0;}
-.nt_ph_thermodyna_14_sol {max-width:157px; max-height:122px; }
-.nt_ph_thermodyna_14_sol::after {content: '\00a0';display: inline-block; width:157px; height:122px; background-position: 99.43181818181819% 91.500904159132%;background-size: 324.20382165605093% 1459.8360655737704%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_14_sol::after {max-width:157px; width:100%;height:0;padding: 0 0 77.70700636942675% 0;}
-.nt_ph_thermodyna_17_sol {max-width:273px; max-height:233px; }
-.nt_ph_thermodyna_17_sol::after {content: '\00a0';display: inline-block; width:273px; height:233px; background-position: 0.423728813559322% 0.06459948320413436%;background-size: 186.44688644688645% 764.3776824034335%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_17_sol::after {max-width:273px; width:100%;height:0;padding: 0 0 85.34798534798534% 0;}
-.nt_ph_thermodyna_21 {max-width:222px; max-height:146px; }
-.nt_ph_thermodyna_21::after {content: '\00a0';display: inline-block; width:222px; height:146px; background-position: 44.250871080139376% 99.93883792048929%;background-size: 229.27927927927928% 1219.86301369863%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_21::after {max-width:222px; width:100%;height:0;padding: 0 0 65.76576576576576% 0;}
-.nt_ph_thermodyna_21_sol {max-width:177px; max-height:177px; }
-.nt_ph_thermodyna_21_sol::after {content: '\00a0';display: inline-block; width:177px; height:177px; background-position: 0.30120481927710846% 61.78304239401496%;background-size: 287.57062146892656% 1006.2146892655368%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_21_sol::after {max-width:177px; width:100%;height:0;padding: 0 0 100% 0;}
-.nt_ph_thermodyna_22 {max-width:230px; max-height:165px; }
-.nt_ph_thermodyna_22::after {content: '\00a0';display: inline-block; width:230px; height:165px; background-position: 98.5663082437276% 10.82920792079208%;background-size: 221.30434782608697% 1079.3939393939395%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_22::after {max-width:230px; width:100%;height:0;padding: 0 0 71.73913043478261% 0;}
-.nt_ph_thermodyna_22_sol {max-width:212px; max-height:163px; }
-.nt_ph_thermodyna_22_sol::after {content: '\00a0';display: inline-block; width:212px; height:163px; background-position: 60.26936026936027% 54.44993819530284%;background-size: 240.0943396226415% 1092.638036809816%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_22_sol::after {max-width:212px; width:100%;height:0;padding: 0 0 76.88679245283019% 0;}
-.nt_ph_thermodyna_24 {max-width:198px; max-height:178px; }
-.nt_ph_thermodyna_24::after {content: '\00a0';display: inline-block; width:198px; height:178px; background-position: 0.3215434083601286% 27.323767935121648%;background-size: 257.07070707070704% 1000.561797752809%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_24::after {max-width:198px; width:100%;height:0;padding: 0 0 89.8989898989899% 0;}
-.nt_ph_thermodyna_24_sol {max-width:177px; max-height:181px; }
-.nt_ph_thermodyna_24_sol::after {content: '\00a0';display: inline-block; width:177px; height:181px; background-position: 0.30120481927710846% 50.5625%;background-size: 287.57062146892656% 983.9779005524862%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_24_sol::after {max-width:177px; width:100%;height:0;padding: 0 0 102.25988700564972% 0;}
-.nt_ph_thermodyna_26 {max-width:172px; max-height:135px; }
-.nt_ph_thermodyna_26::after {content: '\00a0';display: inline-block; width:172px; height:135px; background-position: 99.70326409495549% 83.96111786148238%;background-size: 295.93023255813955% 1319.2592592592594%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_26::after {max-width:172px; width:100%;height:0;padding: 0 0 78.48837209302326% 0;}
-.nt_ph_thermodyna_26_sol {max-width:182px; max-height:145px; }
-.nt_ph_thermodyna_26_sol::after {content: '\00a0';display: inline-block; width:182px; height:145px; background-position: 48.318042813455655% 73.77750611246944%;background-size: 279.6703296703297% 1228.2758620689656%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_26_sol::after {max-width:182px; width:100%;height:0;padding: 0 0 79.67032967032966% 0;}
-.nt_ph_thermodyna_27 {max-width:311px; max-height:171px; }
-.nt_ph_thermodyna_27::after {content: '\00a0';display: inline-block; width:311px; height:171px; background-position: 92.42424242424242% 44.037267080745345%;background-size: 163.66559485530547% 1041.5204678362572%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_27::after {max-width:311px; width:100%;height:0;padding: 0 0 54.98392282958199% 0;}
-.nt_ph_thermodyna_27_sol {max-width:305px; max-height:187px; }
-.nt_ph_thermodyna_27_sol::after {content: '\00a0';display: inline-block; width:305px; height:187px; background-position: 98.03921568627452% 32.68506900878294%;background-size: 166.88524590163934% 952.4064171122994%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_27_sol::after {max-width:305px; width:100%;height:0;padding: 0 0 61.31147540983606% 0;}
-.nt_ph_thermodyna_30 {max-width:178px; max-height:135px; }
-.nt_ph_thermodyna_30::after {content: '\00a0';display: inline-block; width:178px; height:135px; background-position: 43.50453172205438% 91.00850546780073%;background-size: 285.9550561797753% 1319.2592592592594%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_30::after {max-width:178px; width:100%;height:0;padding: 0 0 75.84269662921348% 0;}
-.nt_ph_thermodyna_30_sol {max-width:167px; max-height:136px; }
-.nt_ph_thermodyna_30_sol::after {content: '\00a0';display: inline-block; width:167px; height:136px; background-position: 99.70760233918129% 75.6838905775076%;background-size: 304.79041916167665% 1309.5588235294117%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_30_sol::after {max-width:167px; width:100%;height:0;padding: 0 0 81.437125748503% 0;}
-.nt_ph_thermodyna_34 {max-width:156px; max-height:162px; }
-.nt_ph_thermodyna_34::after {content: '\00a0';display: inline-block; width:156px; height:162px; background-position: 0.28328611898017% 72.20506485484867%;background-size: 326.28205128205127% 1099.3827160493827%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_34::after {max-width:156px; width:100%;height:0;padding: 0 0 103.84615384615384% 0;}
-.nt_ph_thermodyna_34_sol {max-width:142px; max-height:143px; }
-.nt_ph_thermodyna_34_sol::after {content: '\00a0';display: inline-block; width:142px; height:143px; background-position: 0.2724795640326976% 89.92673992673993%;background-size: 358.4507042253521% 1245.4545454545455%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_34_sol::after {max-width:142px; width:100%;height:0;padding: 0 0 100.70422535211267% 0;}
-.nt_ph_thermodyna_35a {max-width:123px; max-height:117px; }
-.nt_ph_thermodyna_35a::after {content: '\00a0';display: inline-block; width:123px; height:117px; background-position: 90.67357512953367% 98.61778846153847%;background-size: 413.8211382113821% 1522.2222222222222%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_35a::after {max-width:123px; width:100%;height:0;padding: 0 0 95.1219512195122% 0;}
-.nt_ph_thermodyna_35b {max-width:111px; max-height:122px; }
-.nt_ph_thermodyna_35b::after {content: '\00a0';display: inline-block; width:111px; height:122px; background-position: 98.49246231155779% 53.104279686558165%;background-size: 458.55855855855856% 1459.8360655737704%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_35b::after {max-width:111px; width:100%;height:0;padding: 0 0 109.90990990990991% 0;}
-.nt_ph_thermodyna_35c {max-width:115px; max-height:117px; }
-.nt_ph_thermodyna_35c::after {content: '\00a0';display: inline-block; width:115px; height:117px; background-position: 99.49238578680203% 60.33653846153846%;background-size: 442.60869565217394% 1522.2222222222222%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_35c::after {max-width:115px; width:100%;height:0;padding: 0 0 101.73913043478261% 0;}
-.nt_ph_thermodyna_35d {max-width:125px; max-height:120px; }
-.nt_ph_thermodyna_35d::after {content: '\00a0';display: inline-block; width:125px; height:120px; background-position: 0.2604166666666667% 97.35099337748345%;background-size: 407.2% 1484.1666666666667%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_35d::after {max-width:125px; width:100%;height:0;padding: 0 0 96% 0;}
-.nt_ph_thermodyna_36 {max-width:152px; max-height:140px; }
-.nt_ph_thermodyna_36::after {content: '\00a0';display: inline-block; width:152px; height:140px; background-position: 0.2801120448179272% 81.17001828153565%;background-size: 334.86842105263156% 1272.142857142857%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_36::after {max-width:152px; width:100%;height:0;padding: 0 0 92.10526315789474% 0;}
-.nt_ph_thermodyna_5 {max-width:132px; max-height:122px; }
-.nt_ph_thermodyna_5::after {content: '\00a0';display: inline-block; width:132px; height:122px; background-position: 98.93899204244032% 67.63110307414105%;background-size: 385.6060606060606% 1459.8360655737704%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_5::after {max-width:132px; width:100%;height:0;padding: 0 0 92.42424242424242% 0;}
-.nt_ph_thermodyna_8 {max-width:231px; max-height:173px; }
-.nt_ph_thermodyna_8::after {content: '\00a0';display: inline-block; width:231px; height:173px; background-position: 98.92086330935251% 0.06218905472636816%;background-size: 220.34632034632034% 1029.4797687861271%;background-image: url(ph_xi_ch9.png);padding: 0; }
-div.nt_ph_thermodyna_8::after {max-width:231px; width:100%;height:0;padding: 0 0 74.89177489177489% 0;}
+.NEET_2022_PC_Q_2 {max-width:245px; max-height:218px; }
+.NEET_2022_PC_Q_2::after {content: '\00a0';display: inline-block; width:245px; height:218px; background-position: 0.11737089201877934% 3.0303030303030303%;background-size: 447.7551020408163% 115.13761467889908%;background-image: url(ph_xi_ch9.png);padding: 0; }
+div.NEET_2022_PC_Q_2::after {max-width:245px; width:100%;height:0;padding: 0 0 88.9795918367347% 0;}
+.NEET_2022_PC_S_2 {max-width:280px; max-height:207px; }
+.NEET_2022_PC_S_2::after {content: '\00a0';display: inline-block; width:280px; height:207px; background-position: 30.232558139534884% 2.272727272727273%;background-size: 391.7857142857143% 121.25603864734299%;background-image: url(ph_xi_ch9.png);padding: 0; }
+div.NEET_2022_PC_S_2::after {max-width:280px; width:100%;height:0;padding: 0 0 73.92857142857143% 0;}
+.neet_re_ph_2022_6_a {max-width:221px; max-height:123px; }
+.neet_re_ph_2022_6_a::after {content: '\00a0';display: inline-block; width:221px; height:123px; background-position: 99.88584474885845% 99.21875%;background-size: 496.38009049773757% 204.0650406504065%;background-image: url(ph_xi_ch9.png);padding: 0; }
+div.neet_re_ph_2022_6_a::after {max-width:221px; width:100%;height:0;padding: 0 0 55.65610859728507% 0;}
+.neet_re_ph_2022_6_b {max-width:164px; max-height:149px; }
+.neet_re_ph_2022_6_b::after {content: '\00a0';display: inline-block; width:164px; height:149px; background-position: 76.09860664523043% 0.9803921568627451%;background-size: 668.9024390243902% 168.45637583892616%;background-image: url(ph_xi_ch9.png);padding: 0; }
+div.neet_re_ph_2022_6_b::after {max-width:164px; width:100%;height:0;padding: 0 0 90.85365853658537% 0;}
+.neet_re_ph_2022_6_c {max-width:193px; max-height:125px; }
+.neet_re_ph_2022_6_c::after {content: '\00a0';display: inline-block; width:193px; height:125px; background-position: 96.79203539823008% 0.7936507936507936%;background-size: 568.3937823834196% 200.8%;background-image: url(ph_xi_ch9.png);padding: 0; }
+div.neet_re_ph_2022_6_c::after {max-width:193px; width:100%;height:0;padding: 0 0 64.76683937823834% 0;}
+.neet_re_ph_2022_6_d {max-width:181px; max-height:166px; }
+.neet_re_ph_2022_6_d::after {content: '\00a0';display: inline-block; width:181px; height:166px; background-position: 57.64192139737991% 1.1764705882352942%;background-size: 606.0773480662983% 151.20481927710844%;background-image: url(ph_xi_ch9.png);padding: 0; }
+div.neet_re_ph_2022_6_d::after {max-width:181px; width:100%;height:0;padding: 0 0 91.71270718232044% 0;}
 
-/* $TexturePacker:SmartUpdate:b13fe502029b2a9c009614ed5461f2da:4d9d7867e849910a01fe2be19a704f5d:c5867830d4c4284f64b1bae00cd302b6$ */
+/* $TexturePacker:SmartUpdate:503834bf04cf549368c690b623c7cf7e:691520d8f069bbfd6b946075d4f5eb28:c5867830d4c4284f64b1bae00cd302b6$ */
