@@ -1,0 +1,71 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.AIPMT_2006_PC_100 {max-width:130px; max-height:99px; }
+.AIPMT_2006_PC_100::after {content: '\00a0';display: inline-block; width:130px; height:99px; background-position: 99.76218787158145% 87.94788273615636%;background-size: 746.9230769230769% 720.2020202020202%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_100::after {max-width:130px; width:100%;height:0;padding: 0 0 76.15384615384616% 0;}
+.AIPMT_2006_PC_100sol {max-width:207px; max-height:106px; }
+.AIPMT_2006_PC_100sol::after {content: '\00a0';display: inline-block; width:207px; height:106px; background-position: 96.72774869109948% 20.42833607907743%;background-size: 469.0821256038647% 672.6415094339623%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_100sol::after {max-width:207px; width:100%;height:0;padding: 0 0 51.207729468599034% 0;}
+.AIPMT_2006_PC_2 {max-width:218px; max-height:225px; }
+.AIPMT_2006_PC_2::after {content: '\00a0';display: inline-block; width:218px; height:225px; background-position: 0.13280212483399734% 99.38524590163935%;background-size: 445.41284403669727% 316.8888888888889%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_2::after {max-width:218px; width:100%;height:0;padding: 0 0 103.21100917431193% 0;}
+.AIPMT_2006_PC_21a {max-width:209px; max-height:32px; }
+.AIPMT_2006_PC_21a::after {content: '\00a0';display: inline-block; width:209px; height:32px; background-position: 80.18372703412074% 89.72099853157121%;background-size: 464.5933014354067% 2228.125%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_21a::after {max-width:209px; width:100%;height:0;padding: 0 0 15.311004784688995% 0;}
+.AIPMT_2006_PC_21b {max-width:206px; max-height:37px; }
+.AIPMT_2006_PC_21b::after {content: '\00a0';display: inline-block; width:206px; height:37px; background-position: 75.16339869281046% 63.905325443786985%;background-size: 471.3592233009709% 1927.027027027027%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_21b::after {max-width:206px; width:100%;height:0;padding: 0 0 17.961165048543688% 0;}
+.AIPMT_2006_PC_21c {max-width:221px; max-height:40px; }
+.AIPMT_2006_PC_21c::after {content: '\00a0';display: inline-block; width:221px; height:40px; background-position: 47.06666666666667% 64.19019316493313%;background-size: 439.3665158371041% 1782.5%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_21c::after {max-width:221px; width:100%;height:0;padding: 0 0 18.099547511312217% 0;}
+.AIPMT_2006_PC_21d {max-width:211px; max-height:42px; }
+.AIPMT_2006_PC_21d::after {content: '\00a0';display: inline-block; width:211px; height:42px; background-position: 39.21052631578947% 10.283159463487332%;background-size: 460.18957345971563% 1697.6190476190477%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_21d::after {max-width:211px; width:100%;height:0;padding: 0 0 19.90521327014218% 0;}
+.AIPMT_2006_PC_27 {max-width:296px; max-height:253px; }
+.AIPMT_2006_PC_27::after {content: '\00a0';display: inline-block; width:296px; height:253px; background-position: 0.14814814814814814% 0.21739130434782608%;background-size: 328.0405405405405% 281.8181818181818%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_27::after {max-width:296px; width:100%;height:0;padding: 0 0 85.47297297297297% 0;}
+.AIPMT_2006_PC_29 {max-width:112px; max-height:167px; }
+.AIPMT_2006_PC_29::after {content: '\00a0';display: inline-block; width:112px; height:167px; background-position: 99.88358556461002% 42.30769230769231%;background-size: 866.9642857142857% 426.94610778443115%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_29::after {max-width:112px; width:100%;height:0;padding: 0 0 149.10714285714286% 0;}
+.AIPMT_2006_PC_30sol {max-width:97px; max-height:140px; }
+.AIPMT_2006_PC_30sol::after {content: '\00a0';display: inline-block; width:97px; height:140px; background-position: 98.16933638443936% 69.63350785340315%;background-size: 1001.0309278350516% 509.2857142857143%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_30sol::after {max-width:97px; width:100%;height:0;padding: 0 0 144.3298969072165% 0;}
+.AIPMT_2006_PC_36 {max-width:276px; max-height:127px; }
+.AIPMT_2006_PC_36::after {content: '\00a0';display: inline-block; width:276px; height:127px; background-position: 42.87769784172662% 21.160409556313994%;background-size: 351.81159420289856% 561.4173228346457%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_36::after {max-width:276px; width:100%;height:0;padding: 0 0 46.01449275362319% 0;}
+.AIPMT_2006_PC_46 {max-width:163px; max-height:119px; }
+.AIPMT_2006_PC_46::after {content: '\00a0';display: inline-block; width:163px; height:119px; background-position: 71.16336633663366% 20.875420875420875%;background-size: 595.7055214723927% 599.1596638655462%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_46::after {max-width:163px; width:100%;height:0;padding: 0 0 73.00613496932516% 0;}
+.AIPMT_2006_PC_47Sol {max-width:227px; max-height:140px; }
+.AIPMT_2006_PC_47Sol::after {content: '\00a0';display: inline-block; width:227px; height:140px; background-position: 82.1236559139785% 82.02443280977312%;background-size: 427.7533039647577% 509.2857142857143%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_47Sol::after {max-width:227px; width:100%;height:0;padding: 0 0 61.67400881057269% 0;}
+.AIPMT_2006_PC_48 {max-width:292px; max-height:68px; }
+.AIPMT_2006_PC_48::after {content: '\00a0';display: inline-block; width:292px; height:68px; background-position: 89.98527245949926% 99.84496124031008%;background-size: 332.5342465753425% 1048.5294117647059%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_48::after {max-width:292px; width:100%;height:0;padding: 0 0 23.28767123287671% 0;}
+.AIPMT_2006_PC_48sol {max-width:330px; max-height:122px; }
+.AIPMT_2006_PC_48sol::after {content: '\00a0';display: inline-block; width:330px; height:122px; background-position: 95.3198127925117% 0.1692047377326565%;background-size: 294.24242424242425% 584.4262295081967%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_48sol::after {max-width:330px; width:100%;height:0;padding: 0 0 36.96969696969697% 0;}
+.AIPMT_2006_PC_71 {max-width:390px; max-height:217px; }
+.AIPMT_2006_PC_71::after {content: '\00a0';display: inline-block; width:390px; height:217px; background-position: 37.8657487091222% 97.78225806451613%;background-size: 248.97435897435898% 328.57142857142856%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_71::after {max-width:390px; width:100%;height:0;padding: 0 0 55.64102564102564% 0;}
+.AIPMT_2006_PC_76sol {max-width:284px; max-height:179px; }
+.AIPMT_2006_PC_76sol::after {content: '\00a0';display: inline-block; width:284px; height:179px; background-position: 51.382823871906844% 47.19101123595506%;background-size: 341.90140845070425% 398.32402234636874%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_76sol::after {max-width:284px; width:100%;height:0;padding: 0 0 63.028169014084504% 0;}
+.AIPMT_2006_PC_80sol {max-width:255px; max-height:67px; }
+.AIPMT_2006_PC_80sol::after {content: '\00a0';display: inline-block; width:255px; height:67px; background-position: 49.30167597765363% 0.15479876160990713%;background-size: 380.7843137254902% 1064.1791044776119%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_80sol::after {max-width:255px; width:100%;height:0;padding: 0 0 26.274509803921568% 0;}
+.AIPMT_2006_PC_86sol {max-width:351px; max-height:229px; }
+.AIPMT_2006_PC_86sol::after {content: '\00a0';display: inline-block; width:351px; height:229px; background-position: 0.16129032258064516% 52.68595041322314%;background-size: 276.6381766381766% 311.353711790393%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_86sol::after {max-width:351px; width:100%;height:0;padding: 0 0 65.24216524216524% 0;}
+.AIPMT_2006_PC_88sol {max-width:219px; max-height:174px; }
+.AIPMT_2006_PC_88sol::after {content: '\00a0';display: inline-block; width:219px; height:174px; background-position: 84.84042553191489% 45.26901669758813%;background-size: 443.37899543378995% 409.7701149425287%;background-image: url(aipmt2006.png);padding: 0; }
+div.AIPMT_2006_PC_88sol::after {max-width:219px; width:100%;height:0;padding: 0 0 79.45205479452055% 0;}
+
+/* $TexturePacker:SmartUpdate:8ca387f483435eeeeca73d02f02577e7:cfe6ba8c74d399a0a4045a1d656f02f8:ceb17badbb93f7587d6bcf7889ff1e47$ */
