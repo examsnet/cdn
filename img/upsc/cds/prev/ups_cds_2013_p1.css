@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.cds_1_gk_2013_68 {max-width:342px; max-height:380px; }
+.cds_1_gk_2013_68::after {content: '\00a0';display: inline-block; width:342px; height:380px; background-position: 0.15527950310559005% 1.4285714285714286%;background-size: 288.30409356725147% 118.42105263157895%;background-image: url(ups_cds_2013_p1.png);padding: 0; }
+div.cds_1_gk_2013_68::after {max-width:342px; width:100%;height:0;padding: 0 0 111.11111111111111% 0;}
+.cds_1_mt_2013_81 {max-width:320px; max-height:171px; }
+.cds_1_mt_2013_81::after {content: '\00a0';display: inline-block; width:320px; height:171px; background-position: 99.84984984984985% 97.1326164874552%;background-size: 308.125% 263.1578947368421%;background-image: url(ups_cds_2013_p1.png);padding: 0; }
+div.cds_1_mt_2013_81::after {max-width:320px; width:100%;height:0;padding: 0 0 53.4375% 0;}
+.cds_1_mt_2013_82 {max-width:320px; max-height:201px; }
+.cds_1_mt_2013_82::after {content: '\00a0';display: inline-block; width:320px; height:201px; background-position: 51.651651651651655% 99.59839357429719%;background-size: 308.125% 223.88059701492537%;background-image: url(ups_cds_2013_p1.png);padding: 0; }
+div.cds_1_mt_2013_82::after {max-width:320px; width:100%;height:0;padding: 0 0 62.8125% 0;}
+.cds_1_mt_2013_89 {max-width:320px; max-height:246px; }
+.cds_1_mt_2013_89::after {content: '\00a0';display: inline-block; width:320px; height:246px; background-position: 51.651651651651655% 0.49019607843137253%;background-size: 308.125% 182.9268292682927%;background-image: url(ups_cds_2013_p1.png);padding: 0; }
+div.cds_1_mt_2013_89::after {max-width:320px; width:100%;height:0;padding: 0 0 76.875% 0;}
+.cds_1_mt_2013_90 {max-width:300px; max-height:269px; }
+.cds_1_mt_2013_90::after {content: '\00a0';display: inline-block; width:300px; height:269px; background-position: 96.93877551020408% 0.5524861878453039%;background-size: 328.6666666666667% 167.28624535315984%;background-image: url(ups_cds_2013_p1.png);padding: 0; }
+div.cds_1_mt_2013_90::after {max-width:300px; width:100%;height:0;padding: 0 0 89.66666666666667% 0;}
+
+/* $TexturePacker:SmartUpdate:ad10bd2bedc429457ce364d090d354b7:fbc029e8ae8f2e68aded820c3e5adb43:74cbc23a0fb35062a3d38cb5b64293a0$ */
