@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_Q_10 {max-width:339px; max-height:194px; }
+.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_Q_10::after {content: '\00a0';display: inline-block; width:339px; height:194px; background-position: 12.5% 99.91603694374476%;background-size: 102.3598820058997% 713.9175257731958%;background-image: url(ch_xii_ch1.png);padding: 0; }
+div.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_Q_10::after {max-width:339px; width:100%;height:0;padding: 0 0 57.227138643067846% 0;}
+.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_Q_25 {max-width:338px; max-height:318px; }
+.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_Q_25::after {content: '\00a0';display: inline-block; width:338px; height:318px; background-position: 11.11111111111111% 32.33364573570759%;background-size: 102.66272189349112% 435.5345911949685%;background-image: url(ch_xii_ch1.png);padding: 0; }
+div.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_Q_25::after {max-width:338px; width:100%;height:0;padding: 0 0 94.0828402366864% 0;}
+.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_SOL_7 {max-width:218px; max-height:223px; }
+.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_SOL_7::after {content: '\00a0';display: inline-block; width:218px; height:223px; background-position: 0.7751937984496124% 83.13253012048193%;background-size: 159.1743119266055% 621.0762331838565%;background-image: url(ch_xii_ch1.png);padding: 0; }
+div.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_SOL_7::after {max-width:218px; width:100%;height:0;padding: 0 0 102.29357798165138% 0;}
+.JEEMAIN_25FEB_SHIFT1_Q_60 {max-width:263px; max-height:301px; }
+.JEEMAIN_25FEB_SHIFT1_Q_60::after {content: '\00a0';display: inline-block; width:263px; height:301px; background-position: 1.1904761904761905% 61.254612546125465%;background-size: 131.93916349809885% 460.13289036544853%;background-image: url(ch_xii_ch1.png);padding: 0; }
+div.JEEMAIN_25FEB_SHIFT1_Q_60::after {max-width:263px; width:100%;height:0;padding: 0 0 114.44866920152091% 0;}
+.JEEM_17_Mar_S1_50 {max-width:345px; max-height:343px; }
+.JEEM_17_Mar_S1_50::after {content: '\00a0';display: inline-block; width:345px; height:343px; background-position: 50% 0.09596928982725528%;background-size: 100.57971014492753% 403.79008746355686%;background-image: url(ch_xii_ch1.png);padding: 0; }
+div.JEEM_17_Mar_S1_50::after {max-width:345px; width:100%;height:0;padding: 0 0 99.42028985507247% 0;}
+
+/* $TexturePacker:SmartUpdate:d0babdb66af49fff94b84850e563b525:bd91f4c807a6f861dfcf9a2fef4bc355:94c416ed8d6b1eb92fe77e72ccaf80cb$ */
