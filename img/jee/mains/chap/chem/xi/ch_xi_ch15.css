@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.THESOLIDSTATE_Q_47_O_A {max-width:194px; max-height:37px; }
+.THESOLIDSTATE_Q_47_O_A::after {content: '\00a0';display: inline-block; width:194px; height:37px; background-position: 94.71744471744472% 94.73684210526316%;background-size: 519.5876288659794% 562.1621621621622%;background-image: url(ch_xi_ch15.png);padding: 0; }
+div.THESOLIDSTATE_Q_47_O_A::after {max-width:194px; width:100%;height:0;padding: 0 0 19.072164948453608% 0;}
+.THESOLIDSTATE_Q_47_O_B {max-width:191px; max-height:39px; }
+.THESOLIDSTATE_Q_47_O_B::after {content: '\00a0';display: inline-block; width:191px; height:39px; background-position: 46.75642594859241% 97.63313609467455%;background-size: 527.7486910994764% 533.3333333333334%;background-image: url(ch_xi_ch15.png);padding: 0; }
+div.THESOLIDSTATE_Q_47_O_B::after {max-width:191px; width:100%;height:0;padding: 0 0 20.418848167539267% 0;}
+.THESOLIDSTATE_Q_47_O_C {max-width:197px; max-height:35px; }
+.THESOLIDSTATE_Q_47_O_C::after {content: '\00a0';display: inline-block; width:197px; height:35px; background-position: 0.12330456226880394% 99.42196531791907%;background-size: 511.6751269035533% 594.2857142857143%;background-image: url(ch_xi_ch15.png);padding: 0; }
+div.THESOLIDSTATE_Q_47_O_C::after {max-width:197px; width:100%;height:0;padding: 0 0 17.766497461928935% 0;}
+.THESOLIDSTATE_Q_47_O_D {max-width:196px; max-height:37px; }
+.THESOLIDSTATE_Q_47_O_D::after {content: '\00a0';display: inline-block; width:196px; height:37px; background-position: 70.6896551724138% 94.73684210526316%;background-size: 514.2857142857143% 562.1621621621622%;background-image: url(ch_xi_ch15.png);padding: 0; }
+div.THESOLIDSTATE_Q_47_O_D::after {max-width:196px; width:100%;height:0;padding: 0 0 18.877551020408163% 0;}
+.THESOLIDSTATE_SOL_11 {max-width:380px; max-height:170px; }
+.THESOLIDSTATE_SOL_11::after {content: '\00a0';display: inline-block; width:380px; height:170px; background-position: 0.1592356687898089% 2.6315789473684212%;background-size: 265.2631578947368% 122.3529411764706%;background-image: url(ch_xi_ch15.png);padding: 0; }
+div.THESOLIDSTATE_SOL_11::after {max-width:380px; width:100%;height:0;padding: 0 0 44.73684210526316% 0;}
+.THESOLIDSTATE_SOL_13 {max-width:169px; max-height:135px; }
+.THESOLIDSTATE_SOL_13::after {content: '\00a0';display: inline-block; width:169px; height:135px; background-position: 99.880810488677% 1.36986301369863%;background-size: 596.4497041420118% 154.07407407407408%;background-image: url(ch_xi_ch15.png);padding: 0; }
+div.THESOLIDSTATE_SOL_13::after {max-width:169px; width:100%;height:0;padding: 0 0 79.88165680473372% 0;}
+.THESOLIDSTATE_SOL_17 {max-width:294px; max-height:160px; }
+.THESOLIDSTATE_SOL_17::after {content: '\00a0';display: inline-block; width:294px; height:160px; background-position: 76.05042016806723% 2.0833333333333335%;background-size: 342.85714285714283% 130%;background-image: url(ch_xi_ch15.png);padding: 0; }
+div.THESOLIDSTATE_SOL_17::after {max-width:294px; width:100%;height:0;padding: 0 0 54.42176870748299% 0;}
+.THESOLIDSTATE_SOL_24 {max-width:160px; max-height:163px; }
+.THESOLIDSTATE_SOL_24::after {content: '\00a0';display: inline-block; width:160px; height:163px; background-position: 45.04716981132076% 2.2222222222222223%;background-size: 630% 127.60736196319019%;background-image: url(ch_xi_ch15.png);padding: 0; }
+div.THESOLIDSTATE_SOL_24::after {max-width:160px; width:100%;height:0;padding: 0 0 101.875% 0;}
+
+/* $TexturePacker:SmartUpdate:73917510c180f36ea2257766443abb7b:9fb9a0e02d104bc72d8b9691e5d71b79:fd64a40ebb907bc3f3364ddb585ac8f8$ */
