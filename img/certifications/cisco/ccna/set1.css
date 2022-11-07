@@ -28,6 +28,9 @@ div.ccna_200_301_na_25::after {max-width:300px; width:100%;height:0;padding: 0 0
 .ccna_200_301_na_26 {max-width:513px; max-height:197px; }
 .ccna_200_301_na_26::after {content: '\00a0';display: inline-block; width:513px; height:197px; background-position: 99.74226804123711% 0.2544529262086514%;background-size: 175.6335282651072% 299.492385786802%;background-image: url(set1-1.png);padding: 0; }
 div.ccna_200_301_na_26::after {max-width:513px; width:100%;height:0;padding: 0 0 38.40155945419103% 0;}
+.ccna_200_301_na_30 {max-width:385px; max-height:286px; }
+.ccna_200_301_na_30::after {content: '\00a0';display: inline-block; width:385px; height:286px; background-position: 0.1937984496124031% 0.32894736842105265%;background-size: 234.02597402597402% 206.2937062937063%;background-image: url(set1-1.png);padding: 0; }
+div.ccna_200_301_na_30::after {max-width:385px; width:100%;height:0;padding: 0 0 74.28571428571429% 0;}
 .ccna_200_301_na_32 {max-width:513px; max-height:147px; }
 .ccna_200_301_na_32::after {content: '\00a0';display: inline-block; width:513px; height:147px; background-position: 99.74226804123711% 44.92099322799097%;background-size: 175.6335282651072% 401.36054421768705%;background-image: url(set1-1.png);padding: 0; }
 div.ccna_200_301_na_32::after {max-width:513px; width:100%;height:0;padding: 0 0 28.65497076023392% 0;}
@@ -64,8 +67,5 @@ div.ccna_200_301_nf_3_sol::after {max-width:576px; width:100%;height:0;padding: 
 .ccna_200_301_nf_47 {max-width:536px; max-height:286px; }
 .ccna_200_301_nf_47::after {content: '\00a0';display: inline-block; width:536px; height:286px; background-position: 96.045197740113% 80.6547619047619%;background-size: 364.17910447761193% 687.4125874125874%;background-image: url(set1-0.png);padding: 0; }
 div.ccna_200_301_nf_47::after {max-width:536px; width:100%;height:0;padding: 0 0 53.35820895522388% 0;}
-.sprite-ccna_200_301_na_30 {max-width:385px; max-height:286px; }
-.sprite-ccna_200_301_na_30::after {content: '\00a0';display: inline-block; width:385px; height:286px; background-position: 0.1937984496124031% 0.32894736842105265%;background-size: 234.02597402597402% 206.2937062937063%;background-image: url(set1-1.png);padding: 0; }
-div.sprite-ccna_200_301_na_30::after {max-width:385px; width:100%;height:0;padding: 0 0 74.28571428571429% 0;}
 
-/* $TexturePacker:SmartUpdate:2693305da07f9589992dcf01150a2d92:d43942257ad8a2b0166401029714ef21:2d2d97e7b7e7e3529946e408967a9a35$ */
+/* $TexturePacker:SmartUpdate:0d0740c6dfa3ff0e2b29d18909617d07:f752516074163d600e11e6ac4c377967:2d2d97e7b7e7e3529946e408967a9a35$ */
