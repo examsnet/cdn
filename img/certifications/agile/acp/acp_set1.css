@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.pmi_acp_test_6_18 {max-width:540px; max-height:293px; }
+.pmi_acp_test_6_18::after {content: '\00a0';display: inline-block; width:540px; height:293px; background-position: 0.11614401858304298% 50%;background-size: 259.44444444444446% 100.68259385665529%;background-image: url(acp_set1.png);padding: 0; }
+div.pmi_acp_test_6_18::after {max-width:540px; width:100%;height:0;padding: 0 0 54.25925925925926% 0;}
+.pmi_acp_test_6_50 {max-width:343px; max-height:276px; }
+.pmi_acp_test_6_50::after {content: '\00a0';display: inline-block; width:343px; height:276px; background-position: 51.22873345935728% 5.2631578947368425%;background-size: 408.4548104956268% 106.8840579710145%;background-image: url(acp_set1.png);padding: 0; }
+div.pmi_acp_test_6_50::after {max-width:343px; width:100%;height:0;padding: 0 0 80.466472303207% 0;}
+.pmi_acp_test_7_42 {max-width:514px; max-height:264px; }
+.pmi_acp_test_7_42::after {content: '\00a0';display: inline-block; width:514px; height:264px; background-position: 99.88726042841037% 3.225806451612903%;background-size: 272.568093385214% 111.74242424242425%;background-image: url(acp_set1.png);padding: 0; }
+div.pmi_acp_test_7_42::after {max-width:514px; width:100%;height:0;padding: 0 0 51.36186770428016% 0;}
+
+/* $TexturePacker:SmartUpdate:f9423d8aef866ad3965b1fa83469b477:3d7c8906019ed92735de73d1c9ecf530:dc1dc84ac52e4d3b7601ba6f82198431$ */
