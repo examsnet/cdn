@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.sbi_po_main_02_jan_2021_53_para {max-width:386px; max-height:325px; }
+.sbi_po_main_02_jan_2021_53_para::after {content: '\00a0';display: inline-block; width:386px; height:325px; background-position: 43.39080459770115% 16.666666666666668%;background-size: 460.62176165803106% 101.84615384615384%;background-image: url(sbipo_mn_2019_22.png);padding: 0; }
+div.sbi_po_main_02_jan_2021_53_para::after {max-width:386px; width:100%;height:0;padding: 0 0 84.19689119170984% 0;}
+.sbi_po_main_25_jun_2018_51_para {max-width:437px; max-height:306px; }
+.sbi_po_main_25_jun_2018_51_para::after {content: '\00a0';display: inline-block; width:437px; height:306px; background-position: 73.90007457121551% 4%;background-size: 406.8649885583524% 108.16993464052288%;background-image: url(sbipo_mn_2019_22.png);padding: 0; }
+div.sbi_po_main_25_jun_2018_51_para::after {max-width:437px; width:100%;height:0;padding: 0 0 70.0228832951945% 0;}
+.sbi_po_main_25_jun_2018_56_para {max-width:348px; max-height:302px; }
+.sbi_po_main_25_jun_2018_56_para::after {content: '\00a0';display: inline-block; width:348px; height:302px; background-position: 99.93006993006993% 3.4482758620689653%;background-size: 510.91954022988506% 109.60264900662251%;background-image: url(sbipo_mn_2019_22.png);padding: 0; }
+div.sbi_po_main_25_jun_2018_56_para::after {max-width:348px; width:100%;height:0;padding: 0 0 86.7816091954023% 0;}
+.sbi_po_main_25_jun_2018_62_para {max-width:602px; max-height:329px; }
+.sbi_po_main_25_jun_2018_62_para::after {content: '\00a0';display: inline-block; width:602px; height:329px; background-position: 0.08503401360544217% 50%;background-size: 295.3488372093023% 100.6079027355623%;background-image: url(sbipo_mn_2019_22.png);padding: 0; }
+div.sbi_po_main_25_jun_2018_62_para::after {max-width:602px; width:100%;height:0;padding: 0 0 54.651162790697676% 0;}
+
+/* $TexturePacker:SmartUpdate:a7e36a651877b0296f3258b1629d03c0:838e7a4a22e5fcfd2feda0294edf6787:0646d741a19a3bbae5c2e08400c7a3fb$ */
