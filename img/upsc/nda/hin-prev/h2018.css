@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.UPSC_NDA_2_2018_General_Ability_Q_108_Q_1 {max-width:302px; max-height:135px; }
+.UPSC_NDA_2_2018_General_Ability_Q_108_Q_1::after {content: '\00a0';display: inline-block; width:302px; height:135px; background-position: 0.9900990099009901% 0.43103448275862066%;background-size: 133.4437086092715% 271.85185185185185%;background-image: url(h2018.png);padding: 0; }
+div.UPSC_NDA_2_2018_General_Ability_Q_108_Q_1::after {max-width:302px; width:100%;height:0;padding: 0 0 44.70198675496689% 0;}
+.UPSC_NDA_2_2018_General_Ability_Q_110_Q_1 {max-width:176px; max-height:91px; }
+.UPSC_NDA_2_2018_General_Ability_Q_110_Q_1::after {content: '\00a0';display: inline-block; width:176px; height:91px; background-position: 0.44052863436123346% 99.6376811594203%;background-size: 228.97727272727272% 403.2967032967033%;background-image: url(h2018.png);padding: 0; }
+div.UPSC_NDA_2_2018_General_Ability_Q_110_Q_1::after {max-width:176px; width:100%;height:0;padding: 0 0 51.70454545454545% 0;}
+.UPSC_NDA_2_2018_General_Ability_Q_72_Q_1 {max-width:227px; max-height:90px; }
+.UPSC_NDA_2_2018_General_Ability_Q_72_Q_1::after {content: '\00a0';display: inline-block; width:227px; height:90px; background-position: 99.43181818181819% 49.458483754512635%;background-size: 177.53303964757708% 407.77777777777777%;background-image: url(h2018.png);padding: 0; }
+div.UPSC_NDA_2_2018_General_Ability_Q_72_Q_1::after {max-width:227px; width:100%;height:0;padding: 0 0 39.647577092511014% 0;}
+.UPSC_NDA_2_2018_General_Ability_Q_92_Q_1 {max-width:173px; max-height:137px; }
+.UPSC_NDA_2_2018_General_Ability_Q_92_Q_1::after {content: '\00a0';display: inline-block; width:173px; height:137px; background-position: 0.43478260869565216% 59.56521739130435%;background-size: 232.9479768786127% 267.88321167883214%;background-image: url(h2018.png);padding: 0; }
+div.UPSC_NDA_2_2018_General_Ability_Q_92_Q_1::after {max-width:173px; width:100%;height:0;padding: 0 0 79.1907514450867% 0;}
+.UPSC_NDA_2_2018_Math_Q_110_Q_1 {max-width:211px; max-height:120px; }
+.UPSC_NDA_2_2018_Math_Q_110_Q_1::after {content: '\00a0';display: inline-block; width:211px; height:120px; background-position: 92.70833333333333% 92.3076923076923%;background-size: 190.9952606635071% 305.8333333333333%;background-image: url(h2018.png);padding: 0; }
+div.UPSC_NDA_2_2018_Math_Q_110_Q_1::after {max-width:211px; width:100%;height:0;padding: 0 0 56.872037914691944% 0;}
+
+/* $TexturePacker:SmartUpdate:b9c602908658e536194039cc8e13a226:4159393103dcce0e70e14da43650b347:2bfa27e5ce8674a9f14bda5f500d123c$ */

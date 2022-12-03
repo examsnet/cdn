@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.UPSC_NDA_1_2019_General_Ability_Q_112_Q_1 {max-width:198px; max-height:165px; }
+.UPSC_NDA_1_2019_General_Ability_Q_112_Q_1::after {content: '\00a0';display: inline-block; width:198px; height:165px; background-position: 0.1597444089456869% 50%;background-size: 416.16161616161617% 101.21212121212122%;background-image: url(h2019.png);padding: 0; }
+div.UPSC_NDA_1_2019_General_Ability_Q_112_Q_1::after {max-width:198px; width:100%;height:0;padding: 0 0 83.33333333333333% 0;}
+.UPSC_NDA_1_2019_General_Ability_Q_114_Q_1 {max-width:311px; max-height:157px; }
+.UPSC_NDA_1_2019_General_Ability_Q_114_Q_1::after {content: '\00a0';display: inline-block; width:311px; height:157px; background-position: 38.98635477582846% 10%;background-size: 264.951768488746% 106.36942675159236%;background-image: url(h2019.png);padding: 0; }
+div.UPSC_NDA_1_2019_General_Ability_Q_114_Q_1::after {max-width:311px; width:100%;height:0;padding: 0 0 50.48231511254019% 0;}
+.UPSC_NDA_2_2019_General_Ability_Q_70_Q_1 {max-width:311px; max-height:127px; }
+.UPSC_NDA_2_2019_General_Ability_Q_70_Q_1::after {content: '\00a0';display: inline-block; width:311px; height:127px; background-position: 99.80506822612085% 2.5%;background-size: 264.951768488746% 131.49606299212599%;background-image: url(h2019.png);padding: 0; }
+div.UPSC_NDA_2_2019_General_Ability_Q_70_Q_1::after {max-width:311px; width:100%;height:0;padding: 0 0 40.836012861736336% 0;}
+
+/* $TexturePacker:SmartUpdate:9839ecbc69b8f9642d38064bf254f479:fd8802f4ae2ba599d84fdd95ab8e74fb:eeec0f1f02a4ac7abfc86e3d74d3615a$ */
