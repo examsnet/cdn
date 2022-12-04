@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.upsc_nda_1_gs_hin_2016_102 {max-width:357px; max-height:123px; }
+.upsc_nda_1_gs_hin_2016_102::after {content: '\00a0';display: inline-block; width:357px; height:123px; background-position: 1.9230769230769231% 98.87640449438203%;background-size: 114.56582633053222% 172.35772357723576%;background-image: url(h2016.png);padding: 0; }
+div.upsc_nda_1_gs_hin_2016_102::after {max-width:357px; width:100%;height:0;padding: 0 0 34.45378151260504% 0;}
+.upsc_nda_1_gs_hin_2016_118 {max-width:407px; max-height:86px; }
+.upsc_nda_1_gs_hin_2016_118::after {content: '\00a0';display: inline-block; width:407px; height:86px; background-position: 50% 0.7936507936507936%;background-size: 100.4914004914005% 246.51162790697674%;background-image: url(h2016.png);padding: 0; }
+div.upsc_nda_1_gs_hin_2016_118::after {max-width:407px; width:100%;height:0;padding: 0 0 21.13022113022113% 0;}
+
+/* $TexturePacker:SmartUpdate:805e2fd1dfe4b03ca8957f017039c93c:e69f1cdcdafec657cb7365a509f6618a:c9805b36ec9d6959632b7adcb499e8fc$ */
