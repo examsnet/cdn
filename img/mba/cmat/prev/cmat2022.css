@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.C_M_A_T_2022_Q_13_S_1 {max-width:157px; max-height:167px; }
+.C_M_A_T_2022_Q_13_S_1::after {content: '\00a0';display: inline-block; width:157px; height:167px; background-position: 90.78341013824885% 42.55050505050505%;background-size: 238.21656050955414% 574.251497005988%;background-image: url(cmat2022.png);padding: 0; }
+div.C_M_A_T_2022_Q_13_S_1::after {max-width:157px; width:100%;height:0;padding: 0 0 106.36942675159236% 0;}
+.C_M_A_T_2022_Q_34_S_1 {max-width:195px; max-height:222px; }
+.C_M_A_T_2022_Q_34_S_1::after {content: '\00a0';display: inline-block; width:195px; height:222px; background-position: 0.5586592178770949% 45.725915875169605%;background-size: 191.7948717948718% 431.98198198198196%;background-image: url(cmat2022.png);padding: 0; }
+div.C_M_A_T_2022_Q_34_S_1::after {max-width:195px; width:100%;height:0;padding: 0 0 113.84615384615384% 0;}
+.C_M_A_T_2022_Q_34_S_2 {max-width:237px; max-height:217px; }
+.C_M_A_T_2022_Q_34_S_2::after {content: '\00a0';display: inline-block; width:237px; height:217px; background-position: 0.7299270072992701% 75.47169811320755%;background-size: 157.80590717299577% 441.93548387096774%;background-image: url(cmat2022.png);padding: 0; }
+div.C_M_A_T_2022_Q_34_S_2::after {max-width:237px; width:100%;height:0;padding: 0 0 91.56118143459915% 0;}
+.C_M_A_T_2022_Q_38_S_1 {max-width:372px; max-height:180px; }
+.C_M_A_T_2022_Q_38_S_1::after {content: '\00a0';display: inline-block; width:372px; height:180px; background-position: 50% 99.87163029525033%;background-size: 100.53763440860214% 532.7777777777778%;background-image: url(cmat2022.png);padding: 0; }
+div.C_M_A_T_2022_Q_38_S_1::after {max-width:372px; width:100%;height:0;padding: 0 0 48.38709677419355% 0;}
+.C_M_A_T_2022_Q_8_q_1 {max-width:326px; max-height:335px; }
+.C_M_A_T_2022_Q_8_q_1::after {content: '\00a0';display: inline-block; width:326px; height:335px; background-position: 2.0833333333333335% 0.16025641025641027%;background-size: 114.7239263803681% 286.2686567164179%;background-image: url(cmat2022.png);padding: 0; }
+div.C_M_A_T_2022_Q_8_q_1::after {max-width:326px; width:100%;height:0;padding: 0 0 102.76073619631902% 0;}
+
+/* $TexturePacker:SmartUpdate:a800186556f747554b3319c19e17e27b:eaee9c4a4ef8e23c557c7715ad99c9df:381d48600a0e8aa13bad15c93028c795$ */
