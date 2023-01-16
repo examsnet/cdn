@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.reet_lev2_math_2012_106 {max-width:67px; max-height:49px; }
+.reet_lev2_math_2012_106::after {content: '\00a0';display: inline-block; width:67px; height:49px; background-position: 80.37166085946573% 63.03191489361702%;background-size: 1385.0746268656717% 867.3469387755102%;background-image: url(reet_l2__mat_2012.png);padding: 0; }
+div.reet_lev2_math_2012_106::after {max-width:67px; width:100%;height:0;padding: 0 0 73.13432835820896% 0;}
+.reet_lev2_math_2012_109 {max-width:235px; max-height:235px; }
+.reet_lev2_math_2012_109::after {content: '\00a0';display: inline-block; width:235px; height:235px; background-position: 99.85569985569985% 0.5263157894736842%;background-size: 394.8936170212766% 180.85106382978722%;background-image: url(reet_l2__mat_2012.png);padding: 0; }
+div.reet_lev2_math_2012_109::after {max-width:235px; width:100%;height:0;padding: 0 0 100% 0;}
+.reet_lev2_math_2012_13 {max-width:690px; max-height:423px; }
+.reet_lev2_math_2012_13::after {content: '\00a0';display: inline-block; width:690px; height:423px; background-position: 0.42016806722689076% 50%;background-size: 134.4927536231884% 100.47281323877068%;background-image: url(reet_l2__mat_2012.png);padding: 0; }
+div.reet_lev2_math_2012_13::after {max-width:690px; width:100%;height:0;padding: 0 0 61.30434782608695% 0;}
+
+/* $TexturePacker:SmartUpdate:6142d6962eab4e1911e209eb0bffc980:ed21f972011c1d2493ce3254bdf53b2f:91076c128a5038ea9abec705fe984b07$ */

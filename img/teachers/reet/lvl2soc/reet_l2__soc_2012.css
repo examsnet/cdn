@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.reet_lev2_social_2012_13 {max-width:690px; max-height:423px; }
+.reet_lev2_social_2012_13::after {content: '\00a0';display: inline-block; width:690px; height:423px; background-position: 50% 50%;background-size: 100.28985507246377% 100.47281323877068%;background-image: url(reet_l2__soc_2012.png);padding: 0; }
+div.reet_lev2_social_2012_13::after {max-width:690px; width:100%;height:0;padding: 0 0 61.30434782608695% 0;}
+
+/* $TexturePacker:SmartUpdate:92344932f5579e53bd9d214d967ce4c0:7093f6f9a860d9cb67304862750b66e9:0b695f82db98fcf89e5c0f6c3fc16fa9$ */

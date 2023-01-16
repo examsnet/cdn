@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.reet_levl_2012_108 {max-width:292px; max-height:41px; }
+.reet_levl_2012_108::after {content: '\00a0';display: inline-block; width:292px; height:41px; background-position: 0.5681818181818182% 50%;background-size: 160.27397260273972% 104.8780487804878%;background-image: url(reet_l1_2012.png);padding: 0; }
+div.reet_levl_2012_108::after {max-width:292px; width:100%;height:0;padding: 0 0 14.04109589041096% 0;}
+.reet_levl_2012_108_1 {max-width:32px; max-height:30px; }
+.reet_levl_2012_108_1::after {content: '\00a0';display: inline-block; width:32px; height:30px; background-position: 99.77064220183486% 7.6923076923076925%;background-size: 1462.5% 143.33333333333334%;background-image: url(reet_l1_2012.png);padding: 0; }
+div.reet_levl_2012_108_1::after {max-width:32px; width:100%;height:0;padding: 0 0 93.75% 0;}
+.reet_levl_2012_108_2 {max-width:32px; max-height:30px; }
+.reet_levl_2012_108_2::after {content: '\00a0';display: inline-block; width:32px; height:30px; background-position: 99.77064220183486% 7.6923076923076925%;background-size: 1462.5% 143.33333333333334%;background-image: url(reet_l1_2012.png);padding: 0; }
+div.reet_levl_2012_108_2::after {max-width:32px; width:100%;height:0;padding: 0 0 93.75% 0;}
+.reet_levl_2012_136 {max-width:140px; max-height:27px; }
+.reet_levl_2012_136::after {content: '\00a0';display: inline-block; width:140px; height:27px; background-position: 89.63414634146342% 6.25%;background-size: 334.2857142857143% 159.25925925925927%;background-image: url(reet_l1_2012.png);padding: 0; }
+div.reet_levl_2012_136::after {max-width:140px; width:100%;height:0;padding: 0 0 19.285714285714285% 0;}
+
+/* $TexturePacker:SmartUpdate:436fdc80ae91f975b3acfa943c59eeb0:58158966c9d0e5f3ad05fc3c8d3a5c34:9c1c58ea0f64a5d15cee0c6fac728a90$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.reet_lev2_math_2022_101 {max-width:189px; max-height:147px; }
+.reet_lev2_math_2022_101::after {content: '\00a0';display: inline-block; width:189px; height:147px; background-position: 99.63369963369964% 2.9411764705882355%;background-size: 244.44444444444446% 123.12925170068027%;background-image: url(reet_l2__mat_2022.png);padding: 0; }
+div.reet_lev2_math_2022_101::after {max-width:189px; width:100%;height:0;padding: 0 0 77.77777777777777% 0;}
+.reet_lev2_math_2022_121 {max-width:270px; max-height:179px; }
+.reet_lev2_math_2022_121::after {content: '\00a0';display: inline-block; width:270px; height:179px; background-position: 0.5208333333333334% 50%;background-size: 171.11111111111111% 101.11731843575419%;background-image: url(reet_l2__mat_2022.png);padding: 0; }
+div.reet_lev2_math_2022_121::after {max-width:270px; width:100%;height:0;padding: 0 0 66.29629629629629% 0;}
+
+/* $TexturePacker:SmartUpdate:ab62237c4453b1cde514c20dee8ea4ea:744659befd4671c3beddd4b205d90b78:5aed8ada3b5ce0dba85239fb45d60151$ */

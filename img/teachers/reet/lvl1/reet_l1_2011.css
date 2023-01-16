@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.reet_levl_2011_112 {max-width:153px; max-height:174px; }
+.reet_levl_2011_112::after {content: '\00a0';display: inline-block; width:153px; height:174px; background-position: 6.666666666666667% 99.29577464788733%;background-size: 109.80392156862744% 181.60919540229884%;background-image: url(reet_l1_2011.png);padding: 0; }
+div.reet_levl_2011_112::after {max-width:153px; width:100%;height:0;padding: 0 0 113.72549019607843% 0;}
+.reet_levl_2011_133 {max-width:166px; max-height:139px; }
+.reet_levl_2011_133::after {content: '\00a0';display: inline-block; width:166px; height:139px; background-position: 50% 0.5649717514124294%;background-size: 101.20481927710843% 227.33812949640287%;background-image: url(reet_l1_2011.png);padding: 0; }
+div.reet_levl_2011_133::after {max-width:166px; width:100%;height:0;padding: 0 0 83.73493975903614% 0;}
+
+/* $TexturePacker:SmartUpdate:b4bbb66e383eca13623a0415efbf230a:b2c93358cb908accbd987ce1a5c85786:33819df41f82848e05523de09ebf2645$ */
