@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.grp_x_12_jul_2021_s3_7 {max-width:187px; max-height:106px; }
+.grp_x_12_jul_2021_s3_7::after {content: '\00a0';display: inline-block; width:187px; height:106px; background-position: 86.81818181818181% 0.4065040650406504%;background-size: 217.64705882352942% 332.07547169811323%;background-image: url(grpx2021.png);padding: 0; }
+div.grp_x_12_jul_2021_s3_7::after {max-width:187px; width:100%;height:0;padding: 0 0 56.68449197860963% 0;}
+.grp_x_13_jul_2021_s1_6 {max-width:176px; max-height:160px; }
+.grp_x_13_jul_2021_s1_6::after {content: '\00a0';display: inline-block; width:176px; height:160px; background-position: 99.56709956709956% 99.47916666666667%;background-size: 231.25% 220%;background-image: url(grpx2021.png);padding: 0; }
+div.grp_x_13_jul_2021_s1_6::after {max-width:176px; width:100%;height:0;padding: 0 0 90.9090909090909% 0;}
+.grp_x_13_jul_2021_s3_17 {max-width:175px; max-height:82px; }
+.grp_x_13_jul_2021_s3_17::after {content: '\00a0';display: inline-block; width:175px; height:82px; background-position: 82.32758620689656% 40%;background-size: 232.57142857142858% 429.2682926829268%;background-image: url(grpx2021.png);padding: 0; }
+div.grp_x_13_jul_2021_s3_17::after {max-width:175px; width:100%;height:0;padding: 0 0 46.857142857142854% 0;}
+.grp_x_13_jul_2021_s3_5 {max-width:228px; max-height:115px; }
+.grp_x_13_jul_2021_s3_5::after {content: '\00a0';display: inline-block; width:228px; height:115px; background-position: 0.5586592178770949% 92.40506329113924%;background-size: 178.50877192982455% 306.0869565217391%;background-image: url(grpx2021.png);padding: 0; }
+div.grp_x_13_jul_2021_s3_5::after {max-width:228px; width:100%;height:0;padding: 0 0 50.43859649122807% 0;}
+.grp_x_15_jul_2021_s3_5 {max-width:189px; max-height:217px; }
+.grp_x_15_jul_2021_s3_5::after {content: '\00a0';display: inline-block; width:189px; height:217px; background-position: 0.45871559633027525% 0.7407407407407407%;background-size: 215.34391534391534% 162.21198156682027%;background-image: url(grpx2021.png);padding: 0; }
+div.grp_x_15_jul_2021_s3_5::after {max-width:189px; width:100%;height:0;padding: 0 0 114.81481481481481% 0;}
+
+/* $TexturePacker:SmartUpdate:bc033c077b137c4cd37aeab50fdc06db:ef2663c1d8ac38ea12ae99ecbee2b025:2b6db7986107114a0368bf294f04f974$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.grp_x_24_jul_2022_12 {max-width:115px; max-height:49px; }
+.grp_x_24_jul_2022_12::after {content: '\00a0';display: inline-block; width:115px; height:49px; background-position: 50% 50%;background-size: 101.73913043478261% 104.08163265306122%;background-image: url(grpx2022.png);padding: 0; }
+div.grp_x_24_jul_2022_12::after {max-width:115px; width:100%;height:0;padding: 0 0 42.608695652173914% 0;}
+
+/* $TexturePacker:SmartUpdate:172d9a33c13e2dd492d84ed89381f5b5:d93427adcbc670b4d1688fbf47782c82:2daf0fba49ebf7fbb520e1adde4c9457$ */
