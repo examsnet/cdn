@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.opsc_oas_p2_2018_45_para {max-width:409px; max-height:278px; }
+.opsc_oas_p2_2018_45_para::after {content: '\00a0';display: inline-block; width:409px; height:278px; background-position: 99.78813559322033% 99.65753424657534%;background-size: 215.40342298288508% 205.0359712230216%;background-image: url(opsc_oas_p2_2018.png);padding: 0; }
+div.opsc_oas_p2_2018_45_para::after {max-width:409px; width:100%;height:0;padding: 0 0 67.97066014669926% 0;}
+.opsc_oas_p2_2018_68_para {max-width:383px; max-height:232px; }
+.opsc_oas_p2_2018_68_para::after {content: '\00a0';display: inline-block; width:383px; height:232px; background-position: 99.19678714859438% 0.2958579881656805%;background-size: 230.0261096605744% 245.68965517241378%;background-image: url(opsc_oas_p2_2018.png);padding: 0; }
+div.opsc_oas_p2_2018_68_para::after {max-width:383px; width:100%;height:0;padding: 0 0 60.574412532637076% 0;}
+.opsc_oas_p2_2018_70 {max-width:469px; max-height:277px; }
+.opsc_oas_p2_2018_70::after {content: '\00a0';display: inline-block; width:469px; height:277px; background-position: 0.24271844660194175% 99.31740614334471%;background-size: 187.84648187633263% 205.77617328519855%;background-image: url(opsc_oas_p2_2018.png);padding: 0; }
+div.opsc_oas_p2_2018_70::after {max-width:469px; width:100%;height:0;padding: 0 0 59.06183368869936% 0;}
+.opsc_oas_p2_2018_70_para {max-width:492px; max-height:289px; }
+.opsc_oas_p2_2018_70_para::after {content: '\00a0';display: inline-block; width:492px; height:289px; background-position: 0.2570694087403599% 0.35587188612099646%;background-size: 179.0650406504065% 197.2318339100346%;background-image: url(opsc_oas_p2_2018.png);padding: 0; }
+div.opsc_oas_p2_2018_70_para::after {max-width:492px; width:100%;height:0;padding: 0 0 58.739837398373986% 0;}
+
+/* $TexturePacker:SmartUpdate:9229f7a8a96effe349fbad208f236875:f570183ec699c142623a8dd41ac35369:3a151e38ae9a937de444e4feaa24869e$ */

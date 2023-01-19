@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.opsc_oas_p2_2019_40_para {max-width:436px; max-height:267px; }
+.opsc_oas_p2_2019_40_para::after {content: '\00a0';display: inline-block; width:436px; height:267px; background-position: 50% 0.43103448275862066%;background-size: 100.45871559633028% 186.89138576779027%;background-image: url(opsc_oas_p2_2019.png);padding: 0; }
+div.opsc_oas_p2_2019_40_para::after {max-width:436px; width:100%;height:0;padding: 0 0 61.23853211009175% 0;}
+.opsc_oas_p2_2019_71_para {max-width:328px; max-height:229px; }
+.opsc_oas_p2_2019_71_para::after {content: '\00a0';display: inline-block; width:328px; height:229px; background-position: 0.9090909090909091% 99.62962962962963%;background-size: 133.53658536585365% 217.90393013100436%;background-image: url(opsc_oas_p2_2019.png);padding: 0; }
+div.opsc_oas_p2_2019_71_para::after {max-width:328px; width:100%;height:0;padding: 0 0 69.8170731707317% 0;}
+
+/* $TexturePacker:SmartUpdate:f5f5681eb60dcef7b0733c57f2b4cd94:51b04f0711ef165176ac23b80aede684:d78b10bba2e0f1eb07bb6d189ace233c$ */
