@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.lic_aao_28_aug_2021_s1_66_para {max-width:488px; max-height:274px; }
+.lic_aao_28_aug_2021_s1_66_para::after {content: '\00a0';display: inline-block; width:488px; height:274px; background-position: 50% 50%;background-size: 100.40983606557377% 100.72992700729927%;background-image: url(licaao2021.png);padding: 0; }
+div.lic_aao_28_aug_2021_s1_66_para::after {max-width:488px; width:100%;height:0;padding: 0 0 56.14754098360656% 0;}
+
+/* $TexturePacker:SmartUpdate:55ba4abc1a98077e91edb4b0589d8763:c43152ac19ff2a54095707c3006bde7b:44dbaa58878f7cdb77cbbfe837a35f26$ */
