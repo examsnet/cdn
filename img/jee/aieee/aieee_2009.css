@@ -70,9 +70,9 @@ div.AIEEE_2009_Phy_24::after {max-width:323px; width:100%;height:0;padding: 0 0 
 .AIEEE_2009_Phy_24sol {max-width:254px; max-height:131px; }
 .AIEEE_2009_Phy_24sol::after {content: '\00a0';display: inline-block; width:254px; height:131px; background-position: 93.35071707953064% 93.50117096018735%;background-size: 401.9685039370079% 1403.8167938931297%;background-image: url(aieee_2009-0.png);padding: 0; }
 div.AIEEE_2009_Phy_24sol::after {max-width:254px; width:100%;height:0;padding: 0 0 51.574803149606296% 0;}
-.AIEEE_2009_Phy_27-(1) {max-width:255px; max-height:209px; }
-.AIEEE_2009_Phy_27-(1)::after {content: '\00a0';display: inline-block; width:255px; height:209px; background-position: 0.13054830287206268% 99.93865030674847%;background-size: 400.3921568627451% 879.9043062200957%;background-image: url(aieee_2009-0.png);padding: 0; }
-div.AIEEE_2009_Phy_27-(1)::after {max-width:255px; width:100%;height:0;padding: 0 0 81.96078431372548% 0;}
+.AIEEE_2009_Phy_27 {max-width:255px; max-height:209px; }
+.AIEEE_2009_Phy_27::after {content: '\00a0';display: inline-block; width:255px; height:209px; background-position: 0.13054830287206268% 99.93865030674847%;background-size: 400.3921568627451% 879.9043062200957%;background-image: url(aieee_2009-0.png);padding: 0; }
+div.AIEEE_2009_Phy_27::after {max-width:255px; width:100%;height:0;padding: 0 0 81.96078431372548% 0;}
 .AIEEE_2009_Phy_28 {max-width:337px; max-height:222px; }
 .AIEEE_2009_Phy_28::after {content: '\00a0';display: inline-block; width:337px; height:222px; background-position: 99.56140350877193% 6.0606060606060606%;background-size: 302.9673590504451% 828.3783783783783%;background-image: url(aieee_2009-0.png);padding: 0; }
 div.AIEEE_2009_Phy_28::after {max-width:337px; width:100%;height:0;padding: 0 0 65.8753709198813% 0;}
@@ -137,4 +137,4 @@ div.AIEEE_2009_Phy_8d::after {max-width:130px; width:100%;height:0;padding: 0 0 
 .AIEEE_2009_Phy_9::after {content: '\00a0';display: inline-block; width:289px; height:186px; background-position: 62.84153005464481% 66.48517846339988%;background-size: 353.2871972318339% 988.7096774193549%;background-image: url(aieee_2009-0.png);padding: 0; }
 div.AIEEE_2009_Phy_9::after {max-width:289px; width:100%;height:0;padding: 0 0 64.3598615916955% 0;}
 
-/* $TexturePacker:SmartUpdate:53699c594d4e0e339c0490863289200d:75c669cdc567ce58af788e36203f5e8c:da62b63a2c3c3429395dcfef9f141071$ */
+/* $TexturePacker:SmartUpdate:2342906d63efdc8752e1c09b4ca5cdc7:75c669cdc567ce58af788e36203f5e8c:da62b63a2c3c3429395dcfef9f141071$ */
