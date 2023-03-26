@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.AP_ICET_25th_July_Shift_1_P49 {max-width:410px; max-height:410px; }
+.AP_ICET_25th_July_Shift_1_P49::after {content: '\00a0';display: inline-block; width:410px; height:410px; background-position: 50% 0.22935779816513763%;background-size: 100.48780487804878% 206.34146341463415%;background-image: url(ap_icet_2022.png);padding: 0; }
+div.AP_ICET_25th_July_Shift_1_P49::after {max-width:410px; width:100%;height:0;padding: 0 0 100% 0;}
+.AP_ICET_25th_July_Shift_1_Q1 {max-width:277px; max-height:87px; }
+.AP_ICET_25th_July_Shift_1_Q1::after {content: '\00a0';display: inline-block; width:277px; height:87px; background-position: 0.7407407407407407% 99.86824769433466%;background-size: 148.73646209386283% 972.4137931034483%;background-image: url(ap_icet_2022.png);padding: 0; }
+div.AP_ICET_25th_July_Shift_1_Q1::after {max-width:277px; width:100%;height:0;padding: 0 0 31.407942238267147% 0;}
+.AP_ICET_25th_July_Shift_2_P49.jpg {max-width:405px; max-height:345px; }
+.AP_ICET_25th_July_Shift_2_P49.jpg::after {content: '\00a0';display: inline-block; width:405px; height:345px; background-position: 14.285714285714286% 82.23552894211576%;background-size: 101.72839506172839% 245.2173913043478%;background-image: url(ap_icet_2022.png);padding: 0; }
+div.AP_ICET_25th_July_Shift_2_P49.jpg::after {max-width:405px; width:100%;height:0;padding: 0 0 85.18518518518519% 0;}
+
+/* $TexturePacker:SmartUpdate:62ffc2e6609e38f9b0bf58261d099f32:403e5632fdec3c9b76399c2c8efb476c:b2741acd6a4b7496a54c9b3f5b04ccdf$ */
