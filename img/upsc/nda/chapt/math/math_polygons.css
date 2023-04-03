@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.NDAM_36 {max-width:296px; max-height:213px; }
+.NDAM_36::after {content: '\00a0';display: inline-block; width:296px; height:213px; background-position: 0.18018018018018017% 50%;background-size: 287.5% 100.93896713615024%;background-image: url(math_polygons.png);padding: 0; }
+div.NDAM_36::after {max-width:296px; width:100%;height:0;padding: 0 0 71.95945945945945% 0;}
+.UPSC_NDA_2021_MATH_SOL_12 {max-width:235px; max-height:213px; }
+.UPSC_NDA_2021_MATH_SOL_12::after {content: '\00a0';display: inline-block; width:235px; height:213px; background-position: 48.37662337662338% 50%;background-size: 362.1276595744681% 100.93896713615024%;background-image: url(math_polygons.png);padding: 0; }
+div.UPSC_NDA_2021_MATH_SOL_12::after {max-width:235px; width:100%;height:0;padding: 0 0 90.63829787234043% 0;}
+.UPSC_NDA_2021_MATH_SOL_19 {max-width:316px; max-height:135px; }
+.UPSC_NDA_2021_MATH_SOL_19::after {content: '\00a0';display: inline-block; width:316px; height:135px; background-position: 99.81308411214954% 1.25%;background-size: 269.30379746835445% 159.25925925925927%;background-image: url(math_polygons.png);padding: 0; }
+div.UPSC_NDA_2021_MATH_SOL_19::after {max-width:316px; width:100%;height:0;padding: 0 0 42.721518987341774% 0;}
+
+/* $TexturePacker:SmartUpdate:37fd39daf2359f90efd8ee7c2c59565a:dfb71b34e2242b487ea132bd36ddea55:ee16fb4b15f0bdbeb7f769fb873cc2a0$ */

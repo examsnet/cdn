@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.NDAM_12 {max-width:214px; max-height:154px; }
+.NDAM_12::after {content: '\00a0';display: inline-block; width:214px; height:154px; background-position: 99.27536231884058% 90%;background-size: 228.97196261682242% 262.3376623376623%;background-image: url(math_ptriangles.png);padding: 0; }
+div.NDAM_12::after {max-width:214px; width:100%;height:0;padding: 0 0 71.96261682242991% 0;}
+.NDAM_44 {max-width:197px; max-height:158px; }
+.NDAM_44::after {content: '\00a0';display: inline-block; width:197px; height:158px; background-position: 99.65870307167235% 0.4065040650406504%;background-size: 248.73096446700507% 255.69620253164558%;background-image: url(math_ptriangles.png);padding: 0; }
+div.NDAM_44::after {max-width:197px; width:100%;height:0;padding: 0 0 80.20304568527919% 0;}
+.NDAM_45 {max-width:272px; max-height:178px; }
+.NDAM_45::after {content: '\00a0';display: inline-block; width:272px; height:178px; background-position: 0.45871559633027525% 99.5575221238938%;background-size: 180.14705882352942% 226.96629213483146%;background-image: url(math_ptriangles.png);padding: 0; }
+div.NDAM_45::after {max-width:272px; width:100%;height:0;padding: 0 0 65.44117647058823% 0;}
+.UPSC_NDA_2021_MATH_SOL_18 {max-width:290px; max-height:223px; }
+.UPSC_NDA_2021_MATH_SOL_18::after {content: '\00a0';display: inline-block; width:290px; height:223px; background-position: 0.5% 0.5524861878453039%;background-size: 168.9655172413793% 181.1659192825112%;background-image: url(math_ptriangles.png);padding: 0; }
+div.UPSC_NDA_2021_MATH_SOL_18::after {max-width:290px; width:100%;height:0;padding: 0 0 76.89655172413794% 0;}
+
+/* $TexturePacker:SmartUpdate:a0363ad4283caeb27343545830f5db3c:049536007f4946aad0897249e159c0e3:45584404ee9e48a241b7dc554228c40b$ */

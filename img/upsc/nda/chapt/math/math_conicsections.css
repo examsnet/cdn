@@ -7,14 +7,23 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
+.NDAM_10 {max-width:353px; max-height:235px; }
+.NDAM_10::after {content: '\00a0';display: inline-block; width:353px; height:235px; background-position: 16.71659676452966% 1.1627906976744187%;background-size: 572.8045325779037% 136.59574468085106%;background-image: url(math_conicsections.png);padding: 0; }
+div.NDAM_10::after {max-width:353px; width:100%;height:0;padding: 0 0 66.57223796033995% 0;}
+.NDAM_100 {max-width:432px; max-height:250px; }
+.NDAM_100::after {content: '\00a0';display: inline-block; width:432px; height:250px; background-position: 39.81132075471698% 1.408450704225352%;background-size: 468.05555555555554% 128.4%;background-image: url(math_conicsections.png);padding: 0; }
+div.NDAM_100::after {max-width:432px; width:100%;height:0;padding: 0 0 57.870370370370374% 0;}
+.NDAM_8 {max-width:314px; max-height:319px; }
+.NDAM_8::after {content: '\00a0';display: inline-block; width:314px; height:319px; background-position: 99.94145199063232% 50%;background-size: 643.9490445859873% 100.6269592476489%;background-image: url(math_conicsections.png);padding: 0; }
+div.NDAM_8::after {max-width:314px; width:100%;height:0;padding: 0 0 101.59235668789809% 0;}
 .nda2015_mp2_48sol {max-width:360px; max-height:297px; }
-.nda2015_mp2_48sol::after {content: '\00a0';display: inline-block; width:360px; height:297px; background-position: 50% 0.2331002331002331%;background-size: 100.55555555555556% 244.44444444444446%;background-image: url(math_conicsections.png);padding: 0; }
+.nda2015_mp2_48sol::after {content: '\00a0';display: inline-block; width:360px; height:297px; background-position: 80.98676293622142% 4.166666666666667%;background-size: 561.6666666666666% 108.08080808080808%;background-image: url(math_conicsections.png);padding: 0; }
 div.nda2015_mp2_48sol::after {max-width:360px; width:100%;height:0;padding: 0 0 82.5% 0;}
 .nda2017_mp1_27sol {max-width:279px; max-height:262px; }
-.nda2017_mp1_27sol::after {content: '\00a0';display: inline-block; width:279px; height:262px; background-position: 1.2048192771084338% 64.4396551724138%;background-size: 129.74910394265234% 277.09923664122135%;background-image: url(math_conicsections.png);padding: 0; }
+.nda2017_mp1_27sol::after {content: '\00a0';display: inline-block; width:279px; height:262px; background-position: 61.15892139988526% 1.694915254237288%;background-size: 724.7311827956989% 122.51908396946565%;background-image: url(math_conicsections.png);padding: 0; }
 div.nda2017_mp1_27sol::after {max-width:279px; width:100%;height:0;padding: 0 0 93.9068100358423% 0;}
 .nda2017_mp2_49sol {max-width:277px; max-height:163px; }
-.nda2017_mp2_49sol::after {content: '\00a0';display: inline-block; width:277px; height:163px; background-position: 1.1764705882352942% 99.82238010657194%;background-size: 130.68592057761734% 445.39877300613495%;background-image: url(math_conicsections.png);padding: 0; }
+.nda2017_mp2_49sol::after {content: '\00a0';display: inline-block; width:277px; height:163px; background-position: 0.05730659025787966% 0.6329113924050633%;background-size: 729.9638989169675% 196.93251533742333%;background-image: url(math_conicsections.png);padding: 0; }
 div.nda2017_mp2_49sol::after {max-width:277px; width:100%;height:0;padding: 0 0 58.84476534296029% 0;}
 
-/* $TexturePacker:SmartUpdate:da30cb627b326288b18db85841793e9c:df9302e4ec29d986bcb41cc178fb4c1f:c3eceb162fa06eb609b7b755b0a639bb$ */
+/* $TexturePacker:SmartUpdate:a97fe37bfad4e1a4555ae2cc553e4f16:76e573688b775c69ce63f68661c66b3c:c3eceb162fa06eb609b7b755b0a639bb$ */

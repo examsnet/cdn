@@ -7,20 +7,23 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
+.NDAM_83 {max-width:485px; max-height:277px; }
+.NDAM_83::after {content: '\00a0';display: inline-block; width:485px; height:277px; background-position: 50% 0.4716981132075472%;background-size: 100.41237113402062% 176.53429602888087%;background-image: url(math_functions.png);padding: 0; }
+div.NDAM_83::after {max-width:485px; width:100%;height:0;padding: 0 0 57.11340206185567% 0;}
 .nda2017_mp2_86a {max-width:148px; max-height:99px; }
-.nda2017_mp2_86a::after {content: '\00a0';display: inline-block; width:148px; height:99px; background-position: 99.84615384615384% 10%;background-size: 539.1891891891892% 110.1010101010101%;background-image: url(math_functions.png);padding: 0; }
+.nda2017_mp2_86a::after {content: '\00a0';display: inline-block; width:148px; height:99px; background-position: 35.693215339233035% 99.23076923076923%;background-size: 329.05405405405406% 493.93939393939394%;background-image: url(math_functions.png);padding: 0; }
 div.nda2017_mp2_86a::after {max-width:148px; width:100%;height:0;padding: 0 0 66.89189189189189% 0;}
 .nda2017_mp2_86b {max-width:136px; max-height:107px; }
-.nda2017_mp2_86b::after {content: '\00a0';display: inline-block; width:136px; height:107px; background-position: 0.1510574018126888% 50%;background-size: 586.7647058823529% 101.86915887850468%;background-image: url(math_functions.png);padding: 0; }
+.nda2017_mp2_86b::after {content: '\00a0';display: inline-block; width:136px; height:107px; background-position: 0.2849002849002849% 73.03664921465969%;background-size: 358.0882352941176% 457.0093457943925%;background-image: url(math_functions.png);padding: 0; }
 div.nda2017_mp2_86b::after {max-width:136px; width:100%;height:0;padding: 0 0 78.67647058823529% 0;}
 .nda2017_mp2_86c {max-width:140px; max-height:104px; }
-.nda2017_mp2_86c::after {content: '\00a0';display: inline-block; width:140px; height:104px; background-position: 58.96656534954408% 20%;background-size: 570% 104.8076923076923%;background-image: url(math_functions.png);padding: 0; }
+.nda2017_mp2_86c::after {content: '\00a0';display: inline-block; width:140px; height:104px; background-position: 77.80979827089337% 99.74025974025975%;background-size: 347.85714285714283% 470.1923076923077%;background-image: url(math_functions.png);padding: 0; }
 div.nda2017_mp2_86c::after {max-width:140px; width:100%;height:0;padding: 0 0 74.28571428571429% 0;}
 .nda2017_mp2_86sol {max-width:119px; max-height:101px; }
-.nda2017_mp2_86sol::after {content: '\00a0';display: inline-block; width:119px; height:101px; background-position: 77.90868924889543% 12.5%;background-size: 670.5882352941177% 107.92079207920793%;background-image: url(math_functions.png);padding: 0; }
+.nda2017_mp2_86sol::after {content: '\00a0';display: inline-block; width:119px; height:101px; background-position: 0.2717391304347826% 99.74226804123711%;background-size: 409.2436974789916% 484.15841584158414%;background-image: url(math_functions.png);padding: 0; }
 div.nda2017_mp2_86sol::after {max-width:119px; width:100%;height:0;padding: 0 0 84.87394957983193% 0;}
 .nda_2019_mat_65sol {max-width:249px; max-height:104px; }
-.nda_2019_mat_65sol::after {content: '\00a0';display: inline-block; width:249px; height:104px; background-position: 25.136612021857925% 20%;background-size: 320.48192771084337% 104.8076923076923%;background-image: url(math_functions.png);padding: 0; }
+.nda_2019_mat_65sol::after {content: '\00a0';display: inline-block; width:249px; height:104px; background-position: 57.983193277310924% 72.46753246753246%;background-size: 195.58232931726909% 470.1923076923077%;background-image: url(math_functions.png);padding: 0; }
 div.nda_2019_mat_65sol::after {max-width:249px; width:100%;height:0;padding: 0 0 41.76706827309237% 0;}
 
-/* $TexturePacker:SmartUpdate:f3cbcfb6e8d2e19f0c1615c935e00f3d:501d6330b61b686db2fcd7853e22d936:57a9d4ab698e2f5baf201d055e6f3fad$ */
+/* $TexturePacker:SmartUpdate:b1ee10e6c825a101794d9d257aaf7f06:638dc7d45c0801041e02b4e97db72112:57a9d4ab698e2f5baf201d055e6f3fad$ */
