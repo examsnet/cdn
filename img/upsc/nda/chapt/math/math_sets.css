@@ -7,14 +7,20 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
+.NDAM_31 {max-width:206px; max-height:211px; }
+.NDAM_31::after {content: '\00a0';display: inline-block; width:206px; height:211px; background-position: 98.1574539363484% 99.4475138121547%;background-size: 389.80582524271847% 185.781990521327%;background-image: url(math_sets.png);padding: 0; }
+div.NDAM_31::after {max-width:206px; width:100%;height:0;padding: 0 0 102.42718446601941% 0;}
 .nda2015_mp2_11sol {max-width:555px; max-height:110px; }
-.nda2015_mp2_11sol::after {content: '\00a0';display: inline-block; width:555px; height:110px; background-position: 99.8003992015968% 0.9900990099009901%;background-size: 190.27027027027026% 191.8181818181818%;background-image: url(math_sets.png);padding: 0; }
+.nda2015_mp2_11sol::after {content: '\00a0';display: inline-block; width:555px; height:110px; background-position: 0.4032258064516129% 0.3546099290780142%;background-size: 144.6846846846847% 356.3636363636364%;background-image: url(math_sets.png);padding: 0; }
 div.nda2015_mp2_11sol::after {max-width:555px; width:100%;height:0;padding: 0 0 19.81981981981982% 0;}
 .nda2018_map2_25sol {max-width:216px; max-height:178px; }
-.nda2018_map2_25sol::after {content: '\00a0';display: inline-block; width:216px; height:178px; background-position: 33.69047619047619% 3.0303030303030303%;background-size: 488.8888888888889% 118.53932584269663%;background-image: url(math_sets.png);padding: 0; }
+.nda2018_map2_25sol::after {content: '\00a0';display: inline-block; width:216px; height:178px; background-position: 99.82964224872232% 0.4672897196261682%;background-size: 371.75925925925924% 220.22471910112358%;background-image: url(math_sets.png);padding: 0; }
 div.nda2018_map2_25sol::after {max-width:216px; width:100%;height:0;padding: 0 0 82.4074074074074% 0;}
 .nda_2019_mat_35sol {max-width:281px; max-height:209px; }
-.nda_2019_mat_35sol::after {content: '\00a0';display: inline-block; width:281px; height:209px; background-position: 0.12903225806451613% 50%;background-size: 375.80071174377224% 100.95693779904306%;background-image: url(math_sets.png);padding: 0; }
+.nda_2019_mat_35sol::after {content: '\00a0';display: inline-block; width:281px; height:209px; background-position: 58.23754789272031% 61.202185792349724%;background-size: 285.7651245551601% 187.55980861244018%;background-image: url(math_sets.png);padding: 0; }
 div.nda_2019_mat_35sol::after {max-width:281px; width:100%;height:0;padding: 0 0 74.37722419928825% 0;}
+.nda_ii_2021_math_37_sol {max-width:302px; max-height:267px; }
+.nda_ii_2021_math_37_sol::after {content: '\00a0';display: inline-block; width:302px; height:267px; background-position: 0.1996007984031936% 89.6%;background-size: 265.89403973509934% 146.81647940074907%;background-image: url(math_sets.png);padding: 0; }
+div.nda_ii_2021_math_37_sol::after {max-width:302px; width:100%;height:0;padding: 0 0 88.41059602649007% 0;}
 
-/* $TexturePacker:SmartUpdate:1f207017cbcb6dfe2c56e06ac0675925:98575955fbee19d48c2efba8e981ace7:80b175a4031cf796052a5e602c4671ed$ */
+/* $TexturePacker:SmartUpdate:2c64ef6e8c7c8ce958d5ea0766780797:d447a9a29e2e55f14de510c5b458fc2b:80b175a4031cf796052a5e602c4671ed$ */
