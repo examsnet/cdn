@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.ibps_clerk_prelims_3_sep_2022_s1_36_para {max-width:575px; max-height:331px; }
+.ibps_clerk_prelims_3_sep_2022_s1_36_para::after {content: '\00a0';display: inline-block; width:575px; height:331px; background-position: 0.27624309392265195% 0.17301038062283736%;background-size: 162.95652173913044% 274.6223564954683%;background-image: url(ibps_clerk_prelims_2018_22.png);padding: 0; }
+div.ibps_clerk_prelims_3_sep_2022_s1_36_para::after {max-width:575px; width:100%;height:0;padding: 0 0 57.56521739130435% 0;}
+.ibps_prelim_12_dec_2020_s2_66_para {max-width:438px; max-height:283px; }
+.ibps_prelim_12_dec_2020_s2_66_para::after {content: '\00a0';display: inline-block; width:438px; height:283px; background-position: 96.19238476953907% 99.52076677316293%;background-size: 213.92694063926942% 321.2014134275618%;background-image: url(ibps_clerk_prelims_2018_22.png);padding: 0; }
+div.ibps_prelim_12_dec_2020_s2_66_para::after {max-width:438px; width:100%;height:0;padding: 0 0 64.61187214611873% 0;}
+.ibps_prelim_5_dec_2020_s1_66_para {max-width:496px; max-height:289px; }
+.ibps_prelim_5_dec_2020_s1_66_para::after {content: '\00a0';display: inline-block; width:496px; height:289px; background-position: 99.77324263038548% 53.70967741935484%;background-size: 188.91129032258064% 314.53287197231833%;background-image: url(ibps_clerk_prelims_2018_22.png);padding: 0; }
+div.ibps_prelim_5_dec_2020_s1_66_para::after {max-width:496px; width:100%;height:0;padding: 0 0 58.266129032258064% 0;}
+.ibps_prelim_7_dec_2019_81_para {max-width:478px; max-height:279px; }
+.ibps_prelim_7_dec_2019_81_para::after {content: '\00a0';display: inline-block; width:478px; height:279px; background-position: 0.2178649237472767% 99.84126984126983%;background-size: 196.02510460251045% 325.80645161290323%;background-image: url(ibps_clerk_prelims_2018_22.png);padding: 0; }
+div.ibps_prelim_7_dec_2019_81_para::after {max-width:478px; width:100%;height:0;padding: 0 0 58.36820083682009% 0;}
+.ibps_prelim_8_dec_2018_71_para {max-width:438px; max-height:295px; }
+.ibps_prelim_8_dec_2018_71_para::after {content: '\00a0';display: inline-block; width:438px; height:295px; background-position: 0.20040080160320642% 54.23452768729641%;background-size: 213.92694063926942% 308.135593220339%;background-image: url(ibps_clerk_prelims_2018_22.png);padding: 0; }
+div.ibps_prelim_8_dec_2018_71_para::after {max-width:438px; width:100%;height:0;padding: 0 0 67.35159817351598% 0;}
+
+/* $TexturePacker:SmartUpdate:ca867dd672c91c29aa146205895e22d0:2089db6c1ec3c908d3c6b5e5856d939e:f207b9a904fa55d986ef773c435fa3e2$ */
