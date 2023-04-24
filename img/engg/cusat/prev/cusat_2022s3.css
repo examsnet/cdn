@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.cusat_2022_s3_48 {max-width:144px; max-height:147px; }
+.cusat_2022_s3_48::after {content: '\00a0';display: inline-block; width:144px; height:147px; background-position: 69.67213114754098% 1.0416666666666667%;background-size: 354.1666666666667% 165.30612244897958%;background-image: url(cusat_2022s3.png);padding: 0; }
+div.cusat_2022_s3_48::after {max-width:144px; width:100%;height:0;padding: 0 0 102.08333333333333% 0;}
+.cusat_2022_s3_74 {max-width:130px; max-height:105px; }
+.cusat_2022_s3_74::after {content: '\00a0';display: inline-block; width:130px; height:105px; background-position: 0.2631578947368421% 73.18840579710145%;background-size: 392.3076923076923% 231.42857142857142%;background-image: url(cusat_2022s3.png);padding: 0; }
+div.cusat_2022_s3_74::after {max-width:130px; width:100%;height:0;padding: 0 0 80.76923076923077% 0;}
+.cusat_2022_s3_78 {max-width:253px; max-height:99px; }
+.cusat_2022_s3_78::after {content: '\00a0';display: inline-block; width:253px; height:99px; background-position: 0.38910505836575876% 0.6944444444444444%;background-size: 201.5810276679842% 245.45454545454547%;background-image: url(cusat_2022s3.png);padding: 0; }
+div.cusat_2022_s3_78::after {max-width:253px; width:100%;height:0;padding: 0 0 39.130434782608695% 0;}
+.cusat_2022_s3_81 {max-width:259px; max-height:93px; }
+.cusat_2022_s3_81::after {content: '\00a0';display: inline-block; width:259px; height:93px; background-position: 99.60159362549801% 99.33333333333333%;background-size: 196.91119691119692% 261.2903225806452%;background-image: url(cusat_2022s3.png);padding: 0; }
+div.cusat_2022_s3_81::after {max-width:259px; width:100%;height:0;padding: 0 0 35.907335907335906% 0;}
+.cusat_2022_s3_86 {max-width:117px; max-height:66px; }
+.cusat_2022_s3_86::after {content: '\00a0';display: inline-block; width:117px; height:66px; background-position: 33.587786259541986% 57.06214689265537%;background-size: 435.8974358974359% 368.1818181818182%;background-image: url(cusat_2022s3.png);padding: 0; }
+div.cusat_2022_s3_86::after {max-width:117px; width:100%;height:0;padding: 0 0 56.41025641025641% 0;}
+
+/* $TexturePacker:SmartUpdate:3b41630b372f58ae349e7293e9b3aac3:b36350ae32609c2edaf13c7d2f6085e5:de2bd5cb20fd676696bb1f589e120afb$ */
