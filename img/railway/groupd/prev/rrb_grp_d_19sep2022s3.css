@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.rrb_group_d_19_sep_2022_s3_37 {max-width:469px; max-height:289px; }
+.rrb_group_d_19_sep_2022_s3_37::after {content: '\00a0';display: inline-block; width:469px; height:289px; background-position: 99.86431478968792% 4.166666666666667%;background-size: 257.14285714285717% 108.3044982698962%;background-image: url(rrb_grp_d_19sep2022s3.png);padding: 0; }
+div.rrb_group_d_19_sep_2022_s3_37::after {max-width:469px; width:100%;height:0;padding: 0 0 61.62046908315565% 0;}
+.rrb_group_d_19_sep_2022_s3_40 {max-width:516px; max-height:311px; }
+.rrb_group_d_19_sep_2022_s3_40::after {content: '\00a0';display: inline-block; width:516px; height:311px; background-position: 0.14492753623188406% 50%;background-size: 233.72093023255815% 100.64308681672026%;background-image: url(rrb_grp_d_19sep2022s3.png);padding: 0; }
+div.rrb_group_d_19_sep_2022_s3_40::after {max-width:516px; width:100%;height:0;padding: 0 0 60.27131782945737% 0;}
+.rrb_group_d_19_sep_2022_s3_59 {max-width:217px; max-height:309px; }
+.rrb_group_d_19_sep_2022_s3_59::after {content: '\00a0';display: inline-block; width:217px; height:309px; background-position: 52.376137512639026% 25%;background-size: 555.7603686635945% 101.29449838187702%;background-image: url(rrb_grp_d_19sep2022s3.png);padding: 0; }
+div.rrb_group_d_19_sep_2022_s3_59::after {max-width:217px; width:100%;height:0;padding: 0 0 142.3963133640553% 0;}
+
+/* $TexturePacker:SmartUpdate:7c162cf594c71394351158e00df91305:e326d9ebc102d9826d4d36e32d5c00b3:b889695bbb9a1a2fa0407500a60711c3$ */
