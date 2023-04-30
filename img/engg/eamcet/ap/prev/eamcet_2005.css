@@ -1,0 +1,41 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.EAMCET_2005_Q_9 {max-width:315px; max-height:138px; }
+.EAMCET_2005_Q_9::after {content: '\00a0';display: inline-block; width:315px; height:138px; background-position: 51.111111111111114% 21.818181818181817%;background-size: 300% 458.69565217391306%;background-image: url(eamcet_2005.png);padding: 0; }
+div.EAMCET_2005_Q_9::after {max-width:315px; width:100%;height:0;padding: 0 0 43.80952380952381% 0;}
+.EAMCET_2005_S_105 {max-width:217px; max-height:140px; }
+.EAMCET_2005_S_105::after {content: '\00a0';display: inline-block; width:217px; height:140px; background-position: 74.86263736263736% 99.7971602434077%;background-size: 435.48387096774195% 452.14285714285717%;background-image: url(eamcet_2005.png);padding: 0; }
+div.EAMCET_2005_S_105::after {max-width:217px; width:100%;height:0;padding: 0 0 64.51612903225806% 0;}
+.EAMCET_2005_S_114 {max-width:473px; max-height:186px; }
+.EAMCET_2005_S_114::after {content: '\00a0';display: inline-block; width:473px; height:186px; background-position: 0.211864406779661% 64.42953020134229%;background-size: 199.78858350951373% 340.3225806451613%;background-image: url(eamcet_2005.png);padding: 0; }
+div.EAMCET_2005_S_114::after {max-width:473px; width:100%;height:0;padding: 0 0 39.323467230443974% 0;}
+.EAMCET_2005_S_126 {max-width:275px; max-height:211px; }
+.EAMCET_2005_S_126::after {content: '\00a0';display: inline-block; width:275px; height:211px; background-position: 99.85074626865672% 25.592417061611375%;background-size: 343.6363636363636% 300%;background-image: url(eamcet_2005.png);padding: 0; }
+div.EAMCET_2005_S_126::after {max-width:275px; width:100%;height:0;padding: 0 0 76.72727272727273% 0;}
+.EAMCET_2005_S_127 {max-width:262px; max-height:171px; }
+.EAMCET_2005_S_127::after {content: '\00a0';display: inline-block; width:262px; height:171px; background-position: 97.9502196193265% 69.26406926406926%;background-size: 360.68702290076334% 370.17543859649123%;background-image: url(eamcet_2005.png);padding: 0; }
+div.EAMCET_2005_S_127::after {max-width:262px; width:100%;height:0;padding: 0 0 65.26717557251908% 0;}
+.EAMCET_2005_S_138 {max-width:257px; max-height:147px; }
+.EAMCET_2005_S_138::after {content: '\00a0';display: inline-block; width:257px; height:147px; background-position: 41.71511627906977% 97.73662551440329%;background-size: 367.70428015564204% 430.61224489795916%;background-image: url(eamcet_2005.png);padding: 0; }
+div.EAMCET_2005_S_138::after {max-width:257px; width:100%;height:0;padding: 0 0 57.19844357976654% 0;}
+.EAMCET_2005_S_156 {max-width:320px; max-height:286px; }
+.EAMCET_2005_S_156::after {content: '\00a0';display: inline-block; width:320px; height:286px; background-position: 0.16% 0.2881844380403458%;background-size: 295.3125% 221.32867132867133%;background-image: url(eamcet_2005.png);padding: 0; }
+div.EAMCET_2005_S_156::after {max-width:320px; width:100%;height:0;padding: 0 0 89.375% 0;}
+.EAMCET_2005_S_58 {max-width:285px; max-height:147px; }
+.EAMCET_2005_S_58::after {content: '\00a0';display: inline-block; width:285px; height:147px; background-position: 0.15151515151515152% 97.73662551440329%;background-size: 331.57894736842104% 430.61224489795916%;background-image: url(eamcet_2005.png);padding: 0; }
+div.EAMCET_2005_S_58::after {max-width:285px; width:100%;height:0;padding: 0 0 51.578947368421055% 0;}
+.EAMCET_2005_S_66 {max-width:193px; max-height:227px; }
+.EAMCET_2005_S_66::after {content: '\00a0';display: inline-block; width:193px; height:227px; background-position: 63.16489361702128% 60.83743842364532%;background-size: 489.6373056994819% 278.8546255506608%;background-image: url(eamcet_2005.png);padding: 0; }
+div.EAMCET_2005_S_66::after {max-width:193px; width:100%;height:0;padding: 0 0 117.61658031088083% 0;}
+.EAMCET_2005_S_75 {max-width:430px; max-height:106px; }
+.EAMCET_2005_S_75::after {content: '\00a0';display: inline-block; width:430px; height:106px; background-position: 62.52427184466019% 0.18975332068311196%;background-size: 219.7674418604651% 597.1698113207547%;background-image: url(eamcet_2005.png);padding: 0; }
+div.EAMCET_2005_S_75::after {max-width:430px; width:100%;height:0;padding: 0 0 24.651162790697676% 0;}
+
+/* $TexturePacker:SmartUpdate:774f8f0eb5015da9f58ecdded3a20ed4:49b6813a8558dadba28d2ef373d7690d:a720b103fd96f74f2f097ea20e4e8037$ */
