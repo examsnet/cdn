@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.ntpc_4_jan_2021_s1_71 {max-width:185px; max-height:79px; }
+.ntpc_4_jan_2021_s1_71::after {content: '\00a0';display: inline-block; width:185px; height:79px; background-position: 0.4032258064516129% 0.6944444444444444%;background-size: 234.05405405405406% 282.27848101265823%;background-image: url(4_jan_2021_s1.jpg);padding: 0; }
+div.ntpc_4_jan_2021_s1_71::after {max-width:185px; width:100%;height:0;padding: 0 0 42.7027027027027% 0;}
+.ntpc_4_jan_2021_s1_88 {max-width:300px; max-height:139px; }
+.ntpc_4_jan_2021_s1_88::after {content: '\00a0';display: inline-block; width:300px; height:139px; background-position: 63.1578947368421% 98.80952380952381%;background-size: 144.33333333333334% 160.431654676259%;background-image: url(4_jan_2021_s1.jpg);padding: 0; }
+div.ntpc_4_jan_2021_s1_88::after {max-width:300px; width:100%;height:0;padding: 0 0 46.333333333333336% 0;}
+.ntpc_4_jan_2021_s1_98_1 {max-width:81px; max-height:81px; }
+.ntpc_4_jan_2021_s1_98_1::after {content: '\00a0';display: inline-block; width:81px; height:81px; background-position: 53.125% 0.704225352112676%;background-size: 534.5679012345679% 275.30864197530866%;background-image: url(4_jan_2021_s1.jpg);padding: 0; }
+div.ntpc_4_jan_2021_s1_98_1::after {max-width:81px; width:100%;height:0;padding: 0 0 100% 0;}
+.ntpc_4_jan_2021_s1_98_2 {max-width:82px; max-height:82px; }
+.ntpc_4_jan_2021_s1_98_2::after {content: '\00a0';display: inline-block; width:82px; height:82px; background-position: 0.2849002849002849% 57.4468085106383%;background-size: 528.0487804878048% 271.9512195121951%;background-image: url(4_jan_2021_s1.jpg);padding: 0; }
+div.ntpc_4_jan_2021_s1_98_2::after {max-width:82px; width:100%;height:0;padding: 0 0 100% 0;}
+.ntpc_4_jan_2021_s1_98_3 {max-width:81px; max-height:81px; }
+.ntpc_4_jan_2021_s1_98_3::after {content: '\00a0';display: inline-block; width:81px; height:81px; background-position: 76.42045454545455% 0.704225352112676%;background-size: 534.5679012345679% 275.30864197530866%;background-image: url(4_jan_2021_s1.jpg);padding: 0; }
+div.ntpc_4_jan_2021_s1_98_3::after {max-width:81px; width:100%;height:0;padding: 0 0 100% 0;}
+.ntpc_4_jan_2021_s1_98_4 {max-width:81px; max-height:81px; }
+.ntpc_4_jan_2021_s1_98_4::after {content: '\00a0';display: inline-block; width:81px; height:81px; background-position: 99.7159090909091% 0.704225352112676%;background-size: 534.5679012345679% 275.30864197530866%;background-image: url(4_jan_2021_s1.jpg);padding: 0; }
+div.ntpc_4_jan_2021_s1_98_4::after {max-width:81px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:982519b3a35d09146585bd1cabcb950b:83f1509f69d636c7852198aab371fd38:367ec36e3f27250156477e147c2c866f$ */

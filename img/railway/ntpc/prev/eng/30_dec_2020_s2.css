@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.ntpc_30_dec_2020_s2_12 {max-width:184px; max-height:134px; }
+.ntpc_30_dec_2020_s2_12::after {content: '\00a0';display: inline-block; width:184px; height:134px; background-position: 1.5625% 0.5847953216374269%;background-size: 134.7826086956522% 227.61194029850745%;background-image: url(30_dec_2020_s2.jpg);padding: 0; }
+div.ntpc_30_dec_2020_s2_12::after {max-width:184px; width:100%;height:0;padding: 0 0 72.82608695652173% 0;}
+.ntpc_30_dec_2020_s2_90 {max-width:160px; max-height:86px; }
+.ntpc_30_dec_2020_s2_90::after {content: '\00a0';display: inline-block; width:160px; height:86px; background-position: 1.1363636363636365% 62.10045662100457%;background-size: 155% 354.6511627906977%;background-image: url(30_dec_2020_s2.jpg);padding: 0; }
+div.ntpc_30_dec_2020_s2_90::after {max-width:160px; width:100%;height:0;padding: 0 0 53.75% 0;}
+.ntpc_30_dec_2020_s2_95_1 {max-width:82px; max-height:82px; }
+.ntpc_30_dec_2020_s2_95_1::after {content: '\00a0';display: inline-block; width:82px; height:82px; background-position: 99.39759036144578% 60.98654708520179%;background-size: 302.4390243902439% 371.9512195121951%;background-image: url(30_dec_2020_s2.jpg);padding: 0; }
+div.ntpc_30_dec_2020_s2_95_1::after {max-width:82px; width:100%;height:0;padding: 0 0 100% 0;}
+.ntpc_30_dec_2020_s2_95_2 {max-width:81px; max-height:81px; }
+.ntpc_30_dec_2020_s2_95_2::after {content: '\00a0';display: inline-block; width:81px; height:81px; background-position: 0.5988023952095808% 99.55357142857143%;background-size: 306.17283950617286% 376.5432098765432%;background-image: url(30_dec_2020_s2.jpg);padding: 0; }
+div.ntpc_30_dec_2020_s2_95_2::after {max-width:81px; width:100%;height:0;padding: 0 0 100% 0;}
+.ntpc_30_dec_2020_s2_95_3 {max-width:81px; max-height:81px; }
+.ntpc_30_dec_2020_s2_95_3::after {content: '\00a0';display: inline-block; width:81px; height:81px; background-position: 49.70059880239521% 99.55357142857143%;background-size: 306.17283950617286% 376.5432098765432%;background-image: url(30_dec_2020_s2.jpg);padding: 0; }
+div.ntpc_30_dec_2020_s2_95_3::after {max-width:81px; width:100%;height:0;padding: 0 0 100% 0;}
+.ntpc_30_dec_2020_s2_95_4 {max-width:82px; max-height:82px; }
+.ntpc_30_dec_2020_s2_95_4::after {content: '\00a0';display: inline-block; width:82px; height:82px; background-position: 99.39759036144578% 98.20627802690584%;background-size: 302.4390243902439% 371.9512195121951%;background-image: url(30_dec_2020_s2.jpg);padding: 0; }
+div.ntpc_30_dec_2020_s2_95_4::after {max-width:82px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:bfe034fb6a210a6415ff389a87aa808b:5a0366e99dcf4e32ddc3e7252478ac17:864dc504aaffa4a2d8cf357411b23e72$ */
