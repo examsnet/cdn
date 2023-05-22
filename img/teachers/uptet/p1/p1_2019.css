@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.uptet_p1_2019_109 {max-width:166px; max-height:154px; }
+.uptet_p1_2019_109::after {content: '\00a0';display: inline-block; width:166px; height:154px; background-position: 50% 50%;background-size: 101.20481927710843% 101.2987012987013%;background-image: url(p1_2019.png);padding: 0; }
+div.uptet_p1_2019_109::after {max-width:166px; width:100%;height:0;padding: 0 0 92.7710843373494% 0;}
+
+/* $TexturePacker:SmartUpdate:0a99bc11fec07633a449fc5ef5aa6207:aeaadf62bc3e3f47b3f93881b84252b2:00ebc919b11a669c85f09bcd701bc859$ */

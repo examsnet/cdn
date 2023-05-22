@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.uptet_p1_2018_118 {max-width:339px; max-height:79px; }
+.uptet_p1_2018_118::after {content: '\00a0';display: inline-block; width:339px; height:79px; background-position: 1.6666666666666667% 99.42196531791907%;background-size: 117.69911504424779% 318.9873417721519%;background-image: url(p1_2018.png);padding: 0; }
+div.uptet_p1_2018_118::after {max-width:339px; width:100%;height:0;padding: 0 0 23.303834808259587% 0;}
+.uptet_p1_2018_92 {max-width:196px; max-height:170px; }
+.uptet_p1_2018_92::after {content: '\00a0';display: inline-block; width:196px; height:170px; background-position: 0.49261083743842365% 1.2195121951219512%;background-size: 203.57142857142858% 148.23529411764707%;background-image: url(p1_2018.png);padding: 0; }
+div.uptet_p1_2018_92::after {max-width:196px; width:100%;height:0;padding: 0 0 86.73469387755102% 0;}
+.uptet_p1_2018_97 {max-width:200px; max-height:141px; }
+.uptet_p1_2018_97::after {content: '\00a0';display: inline-block; width:200px; height:141px; background-position: 99.49748743718592% 0.9009009009009009%;background-size: 199.5% 178.72340425531914%;background-image: url(p1_2018.png);padding: 0; }
+div.uptet_p1_2018_97::after {max-width:200px; width:100%;height:0;padding: 0 0 70.5% 0;}
+
+/* $TexturePacker:SmartUpdate:e34e0de2c2eef14d21e6bab40bf4678e:1ba7f2f54914c202fd8b059a2ee3c49f:f11b0a8ec97a17d5f2f3479357661a33$ */

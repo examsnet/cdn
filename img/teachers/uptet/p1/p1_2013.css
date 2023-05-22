@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.uptet_p1_2013_103 {max-width:216px; max-height:138px; }
+.uptet_p1_2013_103::after {content: '\00a0';display: inline-block; width:216px; height:138px; background-position: 99.35483870967742% 1.3157894736842106%;background-size: 171.75925925925927% 155.07246376811594%;background-image: url(p1_2013.png);padding: 0; }
+div.uptet_p1_2013_103::after {max-width:216px; width:100%;height:0;padding: 0 0 63.888888888888886% 0;}
+.uptet_p1_2013_111_1 {max-width:110px; max-height:42px; }
+.uptet_p1_2013_111_1::after {content: '\00a0';display: inline-block; width:110px; height:42px; background-position: 0.3831417624521073% 99.4186046511628%;background-size: 337.27272727272725% 509.5238095238095%;background-image: url(p1_2013.png);padding: 0; }
+div.uptet_p1_2013_111_1::after {max-width:110px; width:100%;height:0;padding: 0 0 38.18181818181818% 0;}
+.uptet_p1_2013_111_2 {max-width:85px; max-height:42px; }
+.uptet_p1_2013_111_2::after {content: '\00a0';display: inline-block; width:85px; height:42px; background-position: 39.16083916083916% 99.4186046511628%;background-size: 436.47058823529414% 509.5238095238095%;background-image: url(p1_2013.png);padding: 0; }
+div.uptet_p1_2013_111_2::after {max-width:85px; width:100%;height:0;padding: 0 0 49.411764705882355% 0;}
+.uptet_p1_2013_111_3 {max-width:60px; max-height:42px; }
+.uptet_p1_2013_111_3::after {content: '\00a0';display: inline-block; width:60px; height:42px; background-position: 90.9967845659164% 81.3953488372093%;background-size: 618.3333333333334% 509.5238095238095%;background-image: url(p1_2013.png);padding: 0; }
+div.uptet_p1_2013_111_3::after {max-width:60px; width:100%;height:0;padding: 0 0 70% 0;}
+.uptet_p1_2013_111_4 {max-width:84px; max-height:44px; }
+.uptet_p1_2013_111_4::after {content: '\00a0';display: inline-block; width:84px; height:44px; background-position: 68.98954703832753% 82.3529411764706%;background-size: 441.6666666666667% 486.3636363636364%;background-image: url(p1_2013.png);padding: 0; }
+div.uptet_p1_2013_111_4::after {max-width:84px; width:100%;height:0;padding: 0 0 52.38095238095238% 0;}
+.uptet_p1_2013_98 {max-width:152px; max-height:169px; }
+.uptet_p1_2013_98::after {content: '\00a0';display: inline-block; width:152px; height:169px; background-position: 0.45662100456621% 2.2222222222222223%;background-size: 244.07894736842104% 126.62721893491124%;background-image: url(p1_2013.png);padding: 0; }
+div.uptet_p1_2013_98::after {max-width:152px; width:100%;height:0;padding: 0 0 111.1842105263158% 0;}
+
+/* $TexturePacker:SmartUpdate:35175a9f8999de8c87b5b4ee8fd2a4a2:1e0595a913d3a96b289394c5c1b58227:f8624a4c3ade23c7db7135c3d74bcf77$ */
