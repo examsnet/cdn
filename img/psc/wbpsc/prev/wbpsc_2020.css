@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.wbpc_2020_125 {max-width:84px; max-height:66px; }
+.wbpc_2020_125::after {content: '\00a0';display: inline-block; width:84px; height:66px; background-position: 0.25252525252525254% 91.06145251396649%;background-size: 571.4285714285714% 371.2121212121212%;background-image: url(wbpsc_2020.png);padding: 0; }
+div.wbpc_2020_125::after {max-width:84px; width:100%;height:0;padding: 0 0 78.57142857142857% 0;}
+.wbpc_2020_134 {max-width:160px; max-height:161px; }
+.wbpc_2020_134::after {content: '\00a0';display: inline-block; width:160px; height:161px; background-position: 0.3125% 1.1904761904761905%;background-size: 300% 152.17391304347825%;background-image: url(wbpsc_2020.png);padding: 0; }
+div.wbpc_2020_134::after {max-width:160px; width:100%;height:0;padding: 0 0 100.625% 0;}
+.wbpc_2020_188 {max-width:155px; max-height:144px; }
+.wbpc_2020_188::after {content: '\00a0';display: inline-block; width:155px; height:144px; background-position: 99.6923076923077% 0.9900990099009901%;background-size: 309.6774193548387% 170.13888888888889%;background-image: url(wbpsc_2020.png);padding: 0; }
+div.wbpc_2020_188::after {max-width:155px; width:100%;height:0;padding: 0 0 92.90322580645162% 0;}
+.wbpc_2020_87 {max-width:161px; max-height:160px; }
+.wbpc_2020_87::after {content: '\00a0';display: inline-block; width:161px; height:160px; background-position: 50.78369905956113% 1.1764705882352942%;background-size: 298.1366459627329% 153.125%;background-image: url(wbpsc_2020.png);padding: 0; }
+div.wbpc_2020_87::after {max-width:161px; width:100%;height:0;padding: 0 0 99.37888198757764% 0;}
+.wbpc_2020_92 {max-width:177px; max-height:82px; }
+.wbpc_2020_92::after {content: '\00a0';display: inline-block; width:177px; height:82px; background-position: 53.46534653465346% 99.38650306748467%;background-size: 271.1864406779661% 298.780487804878%;background-image: url(wbpsc_2020.png);padding: 0; }
+div.wbpc_2020_92::after {max-width:177px; width:100%;height:0;padding: 0 0 46.32768361581921% 0;}
+
+/* $TexturePacker:SmartUpdate:b5a38777632405ea8df06cc2d5f9f096:54848557d30ff3f00e6c905fd4f0146e:0c9e4ebd25b7c46a8f73738fca0055e0$ */

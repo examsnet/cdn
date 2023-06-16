@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.uppsc_2017_gs_2_36 {max-width:147px; max-height:147px; }
+.uppsc_2017_gs_2_36::after {content: '\00a0';display: inline-block; width:147px; height:147px; background-position: 99.812734082397% 2.9411764705882355%;background-size: 463.265306122449% 123.12925170068027%;background-image: url(uppsc_g2_2017.png);padding: 0; }
+div.uppsc_2017_gs_2_36::after {max-width:147px; width:100%;height:0;padding: 0 0 100% 0;}
+.uppsc_2017_gs_2_37 {max-width:226px; max-height:69px; }
+.uppsc_2017_gs_2_37::after {content: '\00a0';display: inline-block; width:226px; height:69px; background-position: 0.21978021978021978% 99.10714285714286%;background-size: 301.3274336283186% 262.3188405797101%;background-image: url(uppsc_g2_2017.png);padding: 0; }
+div.uppsc_2017_gs_2_37::after {max-width:226px; width:100%;height:0;padding: 0 0 30.530973451327434% 0;}
+.uppsc_2017_gs_2_38 {max-width:353px; max-height:109px; }
+.uppsc_2017_gs_2_38::after {content: '\00a0';display: inline-block; width:353px; height:109px; background-position: 0.3048780487804878% 1.3888888888888888%;background-size: 192.91784702549575% 166.05504587155963%;background-image: url(uppsc_g2_2017.png);padding: 0; }
+div.uppsc_2017_gs_2_38::after {max-width:353px; width:100%;height:0;padding: 0 0 30.878186968838527% 0;}
+.uppsc_2017_gs_2_40 {max-width:177px; max-height:176px; }
+.uppsc_2017_gs_2_40::after {content: '\00a0';display: inline-block; width:177px; height:176px; background-position: 70.43650793650794% 20%;background-size: 384.7457627118644% 102.8409090909091%;background-image: url(uppsc_g2_2017.png);padding: 0; }
+div.uppsc_2017_gs_2_40::after {max-width:177px; width:100%;height:0;padding: 0 0 99.43502824858757% 0;}
+
+/* $TexturePacker:SmartUpdate:43a91da004becb1520271fd7cd341cfc:5ef4ee84915a784c33d70afcc43bd8fb:55eb19ec7e68df7db08433192207546e$ */
