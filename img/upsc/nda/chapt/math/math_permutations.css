@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.nda_ii_2021_mat_4_sol {max-width:225px; max-height:123px; }
+.nda_ii_2021_mat_4_sol::after {content: '\00a0';display: inline-block; width:225px; height:123px; background-position: 50% 50%;background-size: 100.88888888888889% 101.6260162601626%;background-image: url(math_permutations.png);padding: 0; }
+div.nda_ii_2021_mat_4_sol::after {max-width:225px; width:100%;height:0;padding: 0 0 54.666666666666664% 0;}
+
+/* $TexturePacker:SmartUpdate:52d0e4c32ab5688c6811f7ad3249470c:15c413ca58d6e765d7cbd345b7713e1f:f0c20dc6e08024efd6a76be518974068$ */
