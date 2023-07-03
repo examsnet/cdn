@@ -8,22 +8,28 @@ Responsive: <div class="yourspritesname"></div>
 
 
 .NDAM_10 {max-width:353px; max-height:235px; }
-.NDAM_10::after {content: '\00a0';display: inline-block; width:353px; height:235px; background-position: 16.71659676452966% 1.1627906976744187%;background-size: 572.8045325779037% 136.59574468085106%;background-image: url(math_conicsections.png);padding: 0; }
+.NDAM_10::after {content: '\00a0';display: inline-block; width:353px; height:235px; background-position: 44.07582938388626% 0.15600624024961%;background-size: 279.3201133144476% 372.7659574468085%;background-image: url(math_conicsections.png);padding: 0; }
 div.NDAM_10::after {max-width:353px; width:100%;height:0;padding: 0 0 66.57223796033995% 0;}
 .NDAM_100 {max-width:432px; max-height:250px; }
-.NDAM_100::after {content: '\00a0';display: inline-block; width:432px; height:250px; background-position: 39.81132075471698% 1.408450704225352%;background-size: 468.05555555555554% 128.4%;background-image: url(math_conicsections.png);padding: 0; }
+.NDAM_100::after {content: '\00a0';display: inline-block; width:432px; height:250px; background-position: 0.18050541516245489% 37.85942492012779%;background-size: 228.24074074074073% 350.4%;background-image: url(math_conicsections.png);padding: 0; }
 div.NDAM_100::after {max-width:432px; width:100%;height:0;padding: 0 0 57.870370370370374% 0;}
 .NDAM_8 {max-width:314px; max-height:319px; }
-.NDAM_8::after {content: '\00a0';display: inline-block; width:314px; height:319px; background-position: 99.94145199063232% 50%;background-size: 643.9490445859873% 100.6269592476489%;background-image: url(math_conicsections.png);padding: 0; }
+.NDAM_8::after {content: '\00a0';display: inline-block; width:314px; height:319px; background-position: 53.86904761904762% 99.2818671454219%;background-size: 314.0127388535032% 274.6081504702194%;background-image: url(math_conicsections.png);padding: 0; }
 div.NDAM_8::after {max-width:314px; width:100%;height:0;padding: 0 0 101.59235668789809% 0;}
 .nda2015_mp2_48sol {max-width:360px; max-height:297px; }
-.nda2015_mp2_48sol::after {content: '\00a0';display: inline-block; width:360px; height:297px; background-position: 80.98676293622142% 4.166666666666667%;background-size: 561.6666666666666% 108.08080808080808%;background-image: url(math_conicsections.png);padding: 0; }
+.nda2015_mp2_48sol::after {content: '\00a0';display: inline-block; width:360px; height:297px; background-position: 0.1597444089456869% 84.28324697754749%;background-size: 273.8888888888889% 294.949494949495%;background-image: url(math_conicsections.png);padding: 0; }
 div.nda2015_mp2_48sol::after {max-width:360px; width:100%;height:0;padding: 0 0 82.5% 0;}
 .nda2017_mp1_27sol {max-width:279px; max-height:262px; }
-.nda2017_mp1_27sol::after {content: '\00a0';display: inline-block; width:279px; height:262px; background-position: 61.15892139988526% 1.694915254237288%;background-size: 724.7311827956989% 122.51908396946565%;background-image: url(math_conicsections.png);padding: 0; }
+.nda2017_mp1_27sol::after {content: '\00a0';display: inline-block; width:279px; height:262px; background-position: 89.53323903818954% 0.16286644951140064%;background-size: 353.40501792114696% 334.35114503816794%;background-image: url(math_conicsections.png);padding: 0; }
 div.nda2017_mp1_27sol::after {max-width:279px; width:100%;height:0;padding: 0 0 93.9068100358423% 0;}
 .nda2017_mp2_49sol {max-width:277px; max-height:163px; }
-.nda2017_mp2_49sol::after {content: '\00a0';display: inline-block; width:277px; height:163px; background-position: 0.05730659025787966% 0.6329113924050633%;background-size: 729.9638989169675% 196.93251533742333%;background-image: url(math_conicsections.png);padding: 0; }
+.nda2017_mp2_49sol::after {content: '\00a0';display: inline-block; width:277px; height:163px; background-position: 0.14104372355430184% 0.1402524544179523%;background-size: 355.956678700361% 537.4233128834355%;background-image: url(math_conicsections.png);padding: 0; }
 div.nda2017_mp2_49sol::after {max-width:277px; width:100%;height:0;padding: 0 0 58.84476534296029% 0;}
+.nda_ii_2021_math_59_sol {max-width:433px; max-height:288px; }
+.nda_ii_2021_math_59_sol::after {content: '\00a0';display: inline-block; width:433px; height:288px; background-position: 78.48101265822785% 44.89795918367347%;background-size: 227.71362586605082% 304.1666666666667%;background-image: url(math_conicsections.png);padding: 0; }
+div.nda_ii_2021_math_59_sol::after {max-width:433px; width:100%;height:0;padding: 0 0 66.51270207852194% 0;}
+.nda_ii_2021_math_60_sol {max-width:308px; max-height:322px; }
+.nda_ii_2021_math_60_sol::after {content: '\00a0';display: inline-block; width:308px; height:322px; background-position: 99.85250737463127% 99.81949458483754%;background-size: 320.12987012987014% 272.0496894409938%;background-image: url(math_conicsections.png);padding: 0; }
+div.nda_ii_2021_math_60_sol::after {max-width:308px; width:100%;height:0;padding: 0 0 104.54545454545455% 0;}
 
-/* $TexturePacker:SmartUpdate:377a927f6777ad2495df4569cf714b3e:76e573688b775c69ce63f68661c66b3c:c3eceb162fa06eb609b7b755b0a639bb$ */
+/* $TexturePacker:SmartUpdate:634ff7cf386be8472626b43c6448c628:ad0c2c19c22c612de0299668f94205c2:c3eceb162fa06eb609b7b755b0a639bb$ */
