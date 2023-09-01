@@ -7,20 +7,23 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
-.icse_x_2022_mt_2_4 {max-width:360px; max-height:340px; }
-.icse_x_2022_mt_2_4::after {content: '\00a0';display: inline-block; width:360px; height:340px; background-position: 67.33333333333333% 60.78767123287671%;background-size: 266.6666666666667% 271.7647058823529%;background-image: url(icse_x_mt_2022.png);padding: 0; }
-div.icse_x_2022_mt_2_4::after {max-width:360px; width:100%;height:0;padding: 0 0 94.44444444444444% 0;}
-.icse_x_2022_mt_3_3 {max-width:621px; max-height:320px; }
-.icse_x_2022_mt_3_3::after {content: '\00a0';display: inline-block; width:621px; height:320px; background-position: 0.2949852507374631% 0.16556291390728478%;background-size: 154.58937198067633% 288.75%;background-image: url(icse_x_mt_2022.png);padding: 0; }
-div.icse_x_2022_mt_3_3::after {max-width:621px; width:100%;height:0;padding: 0 0 51.529790660225444% 0;}
-.icse_x_2022_mt_5_1 {max-width:378px; max-height:260px; }
-.icse_x_2022_mt_5_1::after {content: '\00a0';display: inline-block; width:378px; height:260px; background-position: 0.1718213058419244% 99.84939759036145%;background-size: 253.96825396825398% 355.38461538461536%;background-image: url(icse_x_mt_2022.png);padding: 0; }
-div.icse_x_2022_mt_5_1::after {max-width:378px; width:100%;height:0;padding: 0 0 68.78306878306879% 0;}
-.icse_x_2022_mt_5_2 {max-width:402px; max-height:340px; }
-.icse_x_2022_mt_5_2::after {content: '\00a0';display: inline-block; width:402px; height:340px; background-position: 0.17921146953405018% 55.136986301369866%;background-size: 238.80597014925374% 271.7647058823529%;background-image: url(icse_x_mt_2022.png);padding: 0; }
-div.icse_x_2022_mt_5_2::after {max-width:402px; width:100%;height:0;padding: 0 0 84.57711442786069% 0;}
-.icse_x_2022_mt_6_2 {max-width:336px; max-height:353px; }
-.icse_x_2022_mt_6_2::after {content: '\00a0';display: inline-block; width:336px; height:353px; background-position: 99.83974358974359% 0.17513134851138354%;background-size: 285.7142857142857% 261.75637393767704%;background-image: url(icse_x_mt_2022.png);padding: 0; }
-div.icse_x_2022_mt_6_2::after {max-width:336px; width:100%;height:0;padding: 0 0 105.05952380952381% 0;}
+.icse_x_2022_mt_1_8 {max-width:300px; max-height:304px; }
+.icse_x_2022_mt_1_8::after {content: '\00a0';display: inline-block; width:300px; height:304px; background-position: 4.545454545454546% 79.73079968329374%;background-size: 107.33333333333333% 515.4605263157895%;background-image: url(icse_x_mt_2022.png);padding: 0; }
+div.icse_x_2022_mt_1_8::after {max-width:300px; width:100%;height:0;padding: 0 0 101.33333333333333% 0;}
+.icse_x_2022_mt_2_4 {max-width:320px; max-height:302px; }
+.icse_x_2022_mt_2_4::after {content: '\00a0';display: inline-block; width:320px; height:302px; background-position: 50% 0.07905138339920949%;background-size: 100.625% 518.8741721854304%;background-image: url(icse_x_mt_2022.png);padding: 0; }
+div.icse_x_2022_mt_2_4::after {max-width:320px; width:100%;height:0;padding: 0 0 94.375% 0;}
+.icse_x_2022_mt_3_3 {max-width:320px; max-height:165px; }
+.icse_x_2022_mt_3_3::after {content: '\00a0';display: inline-block; width:320px; height:165px; background-position: 50% 37.44650499286733%;background-size: 100.625% 949.6969696969697%;background-image: url(icse_x_mt_2022.png);padding: 0; }
+div.icse_x_2022_mt_3_3::after {max-width:320px; width:100%;height:0;padding: 0 0 51.5625% 0;}
+.icse_x_2022_mt_5_1 {max-width:320px; max-height:220px; }
+.icse_x_2022_mt_5_1::after {content: '\00a0';display: inline-block; width:320px; height:220px; background-position: 50% 22.56867112100965%;background-size: 100.625% 712.2727272727273%;background-image: url(icse_x_mt_2022.png);padding: 0; }
+div.icse_x_2022_mt_5_1::after {max-width:320px; width:100%;height:0;padding: 0 0 68.75% 0;}
+.icse_x_2022_mt_5_2 {max-width:300px; max-height:254px; }
+.icse_x_2022_mt_5_2::after {content: '\00a0';display: inline-block; width:300px; height:254px; background-position: 4.545454545454546% 99.92383853769992%;background-size: 107.33333333333333% 616.9291338582677%;background-image: url(icse_x_mt_2022.png);padding: 0; }
+div.icse_x_2022_mt_5_2::after {max-width:300px; width:100%;height:0;padding: 0 0 84.66666666666667% 0;}
+.icse_x_2022_mt_6_2 {max-width:300px; max-height:315px; }
+.icse_x_2022_mt_6_2::after {content: '\00a0';display: inline-block; width:300px; height:315px; background-position: 4.545454545454546% 55.191693290734825%;background-size: 107.33333333333333% 497.46031746031747%;background-image: url(icse_x_mt_2022.png);padding: 0; }
+div.icse_x_2022_mt_6_2::after {max-width:300px; width:100%;height:0;padding: 0 0 105% 0;}
 
-/* $TexturePacker:SmartUpdate:d95a6b76064af1541f4b885b54577879:2e2a3ab9a007aaf3413a13151d920315:1ad6518753185db5b104a283f5820262$ */
+/* $TexturePacker:SmartUpdate:3af74fd3d81de87e02cdac84066574b3:26770043175f7b66ab1ff572e0f371f0:1ad6518753185db5b104a283f5820262$ */
