@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.icse_x_2022_mt_2_4 {max-width:360px; max-height:340px; }
+.icse_x_2022_mt_2_4::after {content: '\00a0';display: inline-block; width:360px; height:340px; background-position: 67.33333333333333% 60.78767123287671%;background-size: 266.6666666666667% 271.7647058823529%;background-image: url(icse_x_mt_2022.png);padding: 0; }
+div.icse_x_2022_mt_2_4::after {max-width:360px; width:100%;height:0;padding: 0 0 94.44444444444444% 0;}
+.icse_x_2022_mt_3_3 {max-width:621px; max-height:320px; }
+.icse_x_2022_mt_3_3::after {content: '\00a0';display: inline-block; width:621px; height:320px; background-position: 0.2949852507374631% 0.16556291390728478%;background-size: 154.58937198067633% 288.75%;background-image: url(icse_x_mt_2022.png);padding: 0; }
+div.icse_x_2022_mt_3_3::after {max-width:621px; width:100%;height:0;padding: 0 0 51.529790660225444% 0;}
+.icse_x_2022_mt_5_1 {max-width:378px; max-height:260px; }
+.icse_x_2022_mt_5_1::after {content: '\00a0';display: inline-block; width:378px; height:260px; background-position: 0.1718213058419244% 99.84939759036145%;background-size: 253.96825396825398% 355.38461538461536%;background-image: url(icse_x_mt_2022.png);padding: 0; }
+div.icse_x_2022_mt_5_1::after {max-width:378px; width:100%;height:0;padding: 0 0 68.78306878306879% 0;}
+.icse_x_2022_mt_5_2 {max-width:402px; max-height:340px; }
+.icse_x_2022_mt_5_2::after {content: '\00a0';display: inline-block; width:402px; height:340px; background-position: 0.17921146953405018% 55.136986301369866%;background-size: 238.80597014925374% 271.7647058823529%;background-image: url(icse_x_mt_2022.png);padding: 0; }
+div.icse_x_2022_mt_5_2::after {max-width:402px; width:100%;height:0;padding: 0 0 84.57711442786069% 0;}
+.icse_x_2022_mt_6_2 {max-width:336px; max-height:353px; }
+.icse_x_2022_mt_6_2::after {content: '\00a0';display: inline-block; width:336px; height:353px; background-position: 99.83974358974359% 0.17513134851138354%;background-size: 285.7142857142857% 261.75637393767704%;background-image: url(icse_x_mt_2022.png);padding: 0; }
+div.icse_x_2022_mt_6_2::after {max-width:336px; width:100%;height:0;padding: 0 0 105.05952380952381% 0;}
+
+/* $TexturePacker:SmartUpdate:d95a6b76064af1541f4b885b54577879:2e2a3ab9a007aaf3413a13151d920315:1ad6518753185db5b104a283f5820262$ */

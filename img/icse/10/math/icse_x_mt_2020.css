@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.icse_x_2020_mt_3_1 {max-width:417px; max-height:437px; }
+.icse_x_2020_mt_3_1::after {content: '\00a0';display: inline-block; width:417px; height:437px; background-position: 0.1049317943336831% 50%;background-size: 328.537170263789% 100.45766590389016%;background-image: url(icse_x_mt_2020.png);padding: 0; }
+div.icse_x_2020_mt_3_1::after {max-width:417px; width:100%;height:0;padding: 0 0 104.79616306954436% 0;}
+.icse_x_2020_mt_6_2 {max-width:377px; max-height:372px; }
+.icse_x_2020_mt_6_2::after {content: '\00a0';display: inline-block; width:377px; height:372px; background-position: 99.8992950654582% 1.492537313432836%;background-size: 363.39522546419096% 118.01075268817205%;background-image: url(icse_x_mt_2020.png);padding: 0; }
+div.icse_x_2020_mt_6_2::after {max-width:377px; width:100%;height:0;padding: 0 0 98.6737400530504% 0;}
+.icse_x_2020_mt_7_3 {max-width:572px; max-height:385px; }
+.icse_x_2020_mt_7_3::after {content: '\00a0';display: inline-block; width:572px; height:385px; background-position: 52.5062656641604% 1.8518518518518519%;background-size: 239.51048951048952% 114.02597402597402%;background-image: url(icse_x_mt_2020.png);padding: 0; }
+div.icse_x_2020_mt_7_3::after {max-width:572px; width:100%;height:0;padding: 0 0 67.3076923076923% 0;}
+
+/* $TexturePacker:SmartUpdate:51f0ba3c5b833c72e39697b1c94d67e2:add8e765663f243205e109f5f4222255:d164c30507619ac8e2aaef4edb912fd0$ */
