@@ -8,7 +8,10 @@ Responsive: <div class="yourspritesname"></div>
 
 
 .Electromagnetic_Waves_24_s {max-width:414px; max-height:181px; }
-.Electromagnetic_Waves_24_s::after {content: '\00a0';display: inline-block; width:414px; height:181px; background-position: 50% 50%;background-size: 100.48309178743962% 101.10497237569061%;background-image: url(ph_xii_ch6.png);padding: 0; }
+.Electromagnetic_Waves_24_s::after {content: '\00a0';display: inline-block; width:414px; height:181px; background-position: 0.6896551724137931% 50%;background-size: 135.024154589372% 101.10497237569061%;background-image: url(ph_xii_ch6.png);padding: 0; }
 div.Electromagnetic_Waves_24_s::after {max-width:414px; width:100%;height:0;padding: 0 0 43.71980676328502% 0;}
+.n2015_155sol {max-width:142px; max-height:110px; }
+.n2015_155sol::after {content: '\00a0';display: inline-block; width:142px; height:110px; background-position: 99.76019184652279% 1.36986301369863%;background-size: 393.6619718309859% 166.36363636363637%;background-image: url(ph_xii_ch6.png);padding: 0; }
+div.n2015_155sol::after {max-width:142px; width:100%;height:0;padding: 0 0 77.46478873239437% 0;}
 
-/* $TexturePacker:SmartUpdate:a2573015e0dfd7943768c0649d215a58:2bc125f6a53c30b4fe5acfd5de97eb39:d756ad09557774020d3344ef08c142ed$ */
+/* $TexturePacker:SmartUpdate:ec046c950ec6684c4ad7c36ad51b3701:acddeeb835b179bc4640264cc9ae2e3d:d756ad09557774020d3344ef08c142ed$ */

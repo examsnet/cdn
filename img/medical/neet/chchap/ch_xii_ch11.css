@@ -7,350 +7,326 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
-.Alcohols_1 {max-width:200px; max-height:48px; }
-.Alcohols_1::after {content: '\00a0';display: inline-block; width:200px; height:48px; background-position: 79.76190476190476% 99.74949899799599%;background-size: 1024% 4258.333333333333%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.Alcohols_1::after {max-width:200px; width:100%;height:0;padding: 0 0 24% 0;}
-.Alcohols_10 {max-width:360px; max-height:118px; }
-.Alcohols_10::after {content: '\00a0';display: inline-block; width:360px; height:118px; background-position: 68.92230576441102% 21.76795580110497%;background-size: 543.3333333333334% 866.9491525423729%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_10::after {max-width:360px; width:100%;height:0;padding: 0 0 32.77777777777778% 0;}
-.Alcohols_11_s {max-width:360px; max-height:244px; }
-.Alcohols_11_s::after {content: '\00a0';display: inline-block; width:360px; height:244px; background-position: 0.05924170616113744% 54.888888888888886%;background-size: 568.8888888888889% 837.7049180327868%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.Alcohols_11_s::after {max-width:360px; width:100%;height:0;padding: 0 0 67.77777777777777% 0;}
-.Alcohols_1_o_2 {max-width:183px; max-height:48px; }
-.Alcohols_1_o_2::after {content: '\00a0';display: inline-block; width:183px; height:48px; background-position: 89.81233243967829% 99.74949899799599%;background-size: 1119.1256830601094% 4258.333333333333%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.Alcohols_1_o_2::after {max-width:183px; width:100%;height:0;padding: 0 0 26.229508196721312% 0;}
-.Alcohols_1_o_3 {max-width:209px; max-height:58px; }
-.Alcohols_1_o_3::after {content: '\00a0';display: inline-block; width:209px; height:58px; background-position: 89.98282770463652% 86.94300518134715%;background-size: 935.8851674641148% 1763.7931034482758%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_1_o_3::after {max-width:209px; width:100%;height:0;padding: 0 0 27.751196172248804% 0;}
-.Alcohols_1_o_4 {max-width:224px; max-height:58px; }
-.Alcohols_1_o_4::after {content: '\00a0';display: inline-block; width:224px; height:58px; background-position: 88.74133949191686% 98.03108808290155%;background-size: 873.2142857142857% 1763.7931034482758%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_1_o_4::after {max-width:224px; width:100%;height:0;padding: 0 0 25.892857142857142% 0;}
-.Alcohols_2 {max-width:360px; max-height:112px; }
-.Alcohols_2::after {content: '\00a0';display: inline-block; width:360px; height:112px; background-position: 73.43358395989975% 0.10976948408342481%;background-size: 543.3333333333334% 913.3928571428571%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_2::after {max-width:360px; width:100%;height:0;padding: 0 0 31.11111111111111% 0;}
-.Alcohols_2020_1_sol {max-width:496px; max-height:125px; }
-.Alcohols_2020_1_sol::after {content: '\00a0';display: inline-block; width:496px; height:125px; background-position: 33.50515463917526% 82.9077644606566%;background-size: 412.9032258064516% 1635.2%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.Alcohols_2020_1_sol::after {max-width:496px; width:100%;height:0;padding: 0 0 25.201612903225808% 0;}
-.Alcohols_2020_1a {max-width:212px; max-height:152px; }
-.Alcohols_2020_1a::after {content: '\00a0';display: inline-block; width:212px; height:152px; background-position: 52.12418300653595% 69.66173361522199%;background-size: 966.0377358490566% 1344.7368421052631%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.Alcohols_2020_1a::after {max-width:212px; width:100%;height:0;padding: 0 0 71.69811320754717% 0;}
-.Alcohols_2020_1b {max-width:197px; max-height:152px; }
-.Alcohols_2020_1b::after {content: '\00a0';display: inline-block; width:197px; height:152px; background-position: 17.39600216099406% 83.24524312896406%;background-size: 1039.5939086294416% 1344.7368421052631%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.Alcohols_2020_1b::after {max-width:197px; width:100%;height:0;padding: 0 0 77.15736040609137% 0;}
-.Alcohols_2020_1c {max-width:227px; max-height:156px; }
-.Alcohols_2020_1c::after {content: '\00a0';display: inline-block; width:227px; height:156px; background-position: 18.62348178137652% 69.8961937716263%;background-size: 861.6740088105727% 655.7692307692307%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_2020_1c::after {max-width:227px; width:100%;height:0;padding: 0 0 68.72246696035242% 0;}
-.Alcohols_2020_1d {max-width:183px; max-height:156px; }
-.Alcohols_2020_1d::after {content: '\00a0';display: inline-block; width:183px; height:156px; background-position: 19.410187667560322% 68.27330508474576%;background-size: 1119.1256830601094% 1310.2564102564102%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.Alcohols_2020_1d::after {max-width:183px; width:100%;height:0;padding: 0 0 85.24590163934427% 0;}
-.Alcohols_22 {max-width:360px; max-height:109px; }
-.Alcohols_22::after {content: '\00a0';display: inline-block; width:360px; height:109px; background-position: 60.150375939849624% 47.921225382932164%;background-size: 543.3333333333334% 938.5321100917431%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_22::after {max-width:360px; width:100%;height:0;padding: 0 0 30.27777777777778% 0;}
-.Alcohols_22_o_1 {max-width:91px; max-height:127px; }
-.Alcohols_22_o_1::after {content: '\00a0';display: inline-block; width:91px; height:127px; background-position: 99.18242207460399% 46.53103808033386%;background-size: 2250.5494505494507% 1609.4488188976377%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.Alcohols_22_o_1::after {max-width:91px; width:100%;height:0;padding: 0 0 139.56043956043956% 0;}
-.Alcohols_22_o_2 {max-width:86px; max-height:175px; }
-.Alcohols_22_o_2::after {content: '\00a0';display: inline-block; width:86px; height:175px; background-position: 53.41488277268094% 33.70786516853933%;background-size: 2381.3953488372094% 1168%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.Alcohols_22_o_2::after {max-width:86px; width:100%;height:0;padding: 0 0 203.48837209302326% 0;}
-.Alcohols_22_o_3 {max-width:202px; max-height:171px; }
-.Alcohols_22_o_3::after {content: '\00a0';display: inline-block; width:202px; height:171px; background-position: 19.60996749729144% 50.13347570742125%;background-size: 1013.8613861386139% 1195.3216374269007%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.Alcohols_22_o_3::after {max-width:202px; width:100%;height:0;padding: 0 0 84.65346534653466% 0;}
-.Alcohols_22_o_4 {max-width:79px; max-height:171px; }
-.Alcohols_22_o_4::after {content: '\00a0';display: inline-block; width:79px; height:171px; background-position: 79.17724733367191% 29.684997330485853%;background-size: 2592.4050632911394% 1195.3216374269007%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.Alcohols_22_o_4::after {max-width:79px; width:100%;height:0;padding: 0 0 216.45569620253164% 0;}
-.Alcohols_2_o_1 {max-width:225px; max-height:167px; }
-.Alcohols_2_o_1::after {content: '\00a0';display: inline-block; width:225px; height:167px; background-position: 52.49588590235875% 61.26798082045818%;background-size: 910.2222222222222% 1223.9520958083833%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.Alcohols_2_o_1::after {max-width:225px; width:100%;height:0;padding: 0 0 74.22222222222223% 0;}
-.Alcohols_2_o_2 {max-width:149px; max-height:205px; }
-.Alcohols_2_o_2::after {content: '\00a0';display: inline-block; width:149px; height:205px; background-position: 55.186940494997366% 23.05600870038064%;background-size: 1374.496644295302% 997.0731707317074%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.Alcohols_2_o_2::after {max-width:149px; width:100%;height:0;padding: 0 0 137.58389261744966% 0;}
-.Alcohols_2_o_3 {max-width:217px; max-height:174px; }
-.Alcohols_2_o_3::after {content: '\00a0';display: inline-block; width:217px; height:174px; background-position: 19.770617149098854% 40.855614973262036%;background-size: 943.778801843318% 1174.712643678161%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.Alcohols_2_o_3::after {max-width:217px; width:100%;height:0;padding: 0 0 80.18433179723502% 0;}
-.Alcohols_2_o_4 {max-width:193px; max-height:177px; }
-.Alcohols_2_o_4::after {content: '\00a0';display: inline-block; width:193px; height:177px; background-position: 19.514824797843666% 59.507230851633636%;background-size: 1061.139896373057% 1154.8022598870057%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.Alcohols_2_o_4::after {max-width:193px; width:100%;height:0;padding: 0 0 91.70984455958549% 0;}
-.Alcohols_2_s {max-width:400px; max-height:154px; }
-.Alcohols_2_s::after {content: '\00a0';display: inline-block; width:400px; height:154px; background-position: 49.21116504854369% 90.84656084656085%;background-size: 512% 1327.2727272727273%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.Alcohols_2_s::after {max-width:400px; width:100%;height:0;padding: 0 0 38.5% 0;}
-.Alcohols_3 {max-width:360px; max-height:128px; }
-.Alcohols_3::after {content: '\00a0';display: inline-block; width:360px; height:128px; background-position: 37.531328320802004% 41.564245810055866%;background-size: 543.3333333333334% 799.21875%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_3::after {max-width:360px; width:100%;height:0;padding: 0 0 35.55555555555556% 0;}
 .Alcohols_34_o_1 {max-width:130px; max-height:82px; }
-.Alcohols_34_o_1::after {content: '\00a0';display: inline-block; width:130px; height:82px; background-position: 21.845672575599583% 34.70948012232416%;background-size: 1575.3846153846155% 2492.682926829268%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.Alcohols_34_o_1::after {content: '\00a0';display: inline-block; width:130px; height:82px; background-position: 92.85714285714286% 98.45758354755785%;background-size: 778.4615384615385% 1997.560975609756%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.Alcohols_34_o_1::after {max-width:130px; width:100%;height:0;padding: 0 0 63.07692307692308% 0;}
 .Alcohols_34_o_2 {max-width:151px; max-height:102px; }
-.Alcohols_34_o_2::after {content: '\00a0';display: inline-block; width:151px; height:102px; background-position: 82.18239325250396% 23.326467559217303%;background-size: 1356.291390728477% 2003.921568627451%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.Alcohols_34_o_2::after {content: '\00a0';display: inline-block; width:151px; height:102px; background-position: 96.63182346109176% 8.919270833333334%;background-size: 670.1986754966888% 1605.8823529411766%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.Alcohols_34_o_2::after {max-width:151px; width:100%;height:0;padding: 0 0 67.54966887417218% 0;}
 .Alcohols_34_o_3 {max-width:143px; max-height:100px; }
-.Alcohols_34_o_3::after {content: '\00a0';display: inline-block; width:143px; height:100px; background-position: 55.01312335958005% 41.46090534979424%;background-size: 1432.167832167832% 2044%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.Alcohols_34_o_3::after {content: '\00a0';display: inline-block; width:143px; height:100px; background-position: 99.07940161104717% 41.74252275682705%;background-size: 707.6923076923077% 1638%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.Alcohols_34_o_3::after {max-width:143px; width:100%;height:0;padding: 0 0 69.93006993006993% 0;}
 .Alcohols_34_s {max-width:162px; max-height:113px; }
-.Alcohols_34_s::after {content: '\00a0';display: inline-block; width:162px; height:113px; background-position: 30.04459308807135% 99.45054945054945%;background-size: 1207.4074074074074% 905.3097345132743%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.Alcohols_34_s::after {content: '\00a0';display: inline-block; width:162px; height:113px; background-position: 93.6870026525199% 99.16010498687665%;background-size: 1263.5802469135801% 1785.8407079646017%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.Alcohols_34_s::after {max-width:162px; width:100%;height:0;padding: 0 0 69.75308641975309% 0;}
 .Alcohols_34_s_1 {max-width:400px; max-height:237px; }
-.Alcohols_34_s_1::after {content: '\00a0';display: inline-block; width:400px; height:237px; background-position: 33.737864077669904% 62.257885998893194%;background-size: 512% 862.4472573839662%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.Alcohols_34_s_1::after {content: '\00a0';display: inline-block; width:400px; height:237px; background-position: 30.358227079538555% 52.44244806288602%;background-size: 511.75% 851.4767932489451%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.Alcohols_34_s_1::after {max-width:400px; width:100%;height:0;padding: 0 0 59.25% 0;}
 .Alcohols_36_s {max-width:400px; max-height:105px; }
-.Alcohols_36_s::after {content: '\00a0';display: inline-block; width:400px; height:105px; background-position: 98.32904884318766% 31.154684095860567%;background-size: 489% 974.2857142857143%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.Alcohols_36_s::after {content: '\00a0';display: inline-block; width:400px; height:105px; background-position: 67.3202614379085% 57.92563600782779%;background-size: 253% 1560%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.Alcohols_36_s::after {max-width:400px; width:100%;height:0;padding: 0 0 26.25% 0;}
 .Alcohols_37 {max-width:400px; max-height:227px; }
-.Alcohols_37::after {content: '\00a0';display: inline-block; width:400px; height:227px; background-position: 33.13106796116505% 75.01375894331315%;background-size: 512% 900.4405286343613%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.Alcohols_37::after {content: '\00a0';display: inline-block; width:400px; height:227px; background-position: 76.62416514875531% 63.484087102177554%;background-size: 511.75% 888.9867841409691%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.Alcohols_37::after {max-width:400px; width:100%;height:0;padding: 0 0 56.75% 0;}
 .Alcohols_40 {max-width:280px; max-height:44px; }
-.Alcohols_40::after {content: '\00a0';display: inline-block; width:280px; height:44px; background-position: 67.47737556561086% 99.55%;background-size: 731.4285714285714% 4645.454545454545%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.Alcohols_40::after {content: '\00a0';display: inline-block; width:280px; height:44px; background-position: 98.77049180327869% 75.72145545796738%;background-size: 361.42857142857144% 3722.7272727272725%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.Alcohols_40::after {max-width:280px; width:100%;height:0;padding: 0 0 15.714285714285714% 0;}
 .Alcohols_40_o_4 {max-width:192px; max-height:78px; }
-.Alcohols_40_o_4::after {content: '\00a0';display: inline-block; width:192px; height:78px; background-position: 58.50340136054422% 69.73544973544973%;background-size: 1018.75% 1311.5384615384614%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.Alcohols_40_o_4::after {content: '\00a0';display: inline-block; width:192px; height:78px; background-position: 99.14634146341463% 58.65384615384615%;background-size: 527.0833333333334% 2100%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.Alcohols_40_o_4::after {max-width:192px; width:100%;height:0;padding: 0 0 40.625% 0;}
 .Alcohols_40_s {max-width:360px; max-height:214px; }
-.Alcohols_40_s::after {content: '\00a0';display: inline-block; width:360px; height:214px; background-position: 0.05924170616113744% 67.37704918032787%;background-size: 568.8888888888889% 955.1401869158879%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.Alcohols_40_s::after {content: '\00a0';display: inline-block; width:360px; height:214px; background-position: 53.40841730883225% 65.2439024390244%;background-size: 568.6111111111111% 942.9906542056075%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.Alcohols_40_s::after {max-width:360px; width:100%;height:0;padding: 0 0 59.44444444444444% 0;}
 .Alcohols_42_s {max-width:360px; max-height:265px; }
-.Alcohols_42_s::after {content: '\00a0';display: inline-block; width:360px; height:265px; background-position: 0.05924170616113744% 40.58459808881394%;background-size: 568.8888888888889% 771.3207547169811%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.Alcohols_42_s::after {content: '\00a0';display: inline-block; width:360px; height:265px; background-position: 0.05927682276229994% 99.94295493439817%;background-size: 568.6111111111111% 761.5094339622641%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.Alcohols_42_s::after {max-width:360px; width:100%;height:0;padding: 0 0 73.61111111111111% 0;}
 .Alcohols_42_s_1 {max-width:360px; max-height:309px; }
-.Alcohols_42_s_1::after {content: '\00a0';display: inline-block; width:360px; height:309px; background-position: 97.09715639810426% 33.544668587896254%;background-size: 568.8888888888889% 661.4886731391585%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.Alcohols_42_s_1::after {content: '\00a0';display: inline-block; width:360px; height:309px; background-position: 53.52697095435685% 81.45114101813927%;background-size: 568.6111111111111% 653.0744336569579%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.Alcohols_42_s_1::after {max-width:360px; width:100%;height:0;padding: 0 0 85.83333333333333% 0;}
 .Alcohols_43 {max-width:320px; max-height:125px; }
-.Alcohols_43::after {content: '\00a0';display: inline-block; width:320px; height:125px; background-position: 52.01711491442543% 0.111358574610245%;background-size: 611.25% 818.4%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.Alcohols_43::after {content: '\00a0';display: inline-block; width:320px; height:125px; background-position: 45.23121387283237% 99.53734302709849%;background-size: 316.25% 1310.4%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.Alcohols_43::after {max-width:320px; width:100%;height:0;padding: 0 0 39.0625% 0;}
 .Alcohols_49_s {max-width:320px; max-height:318px; }
-.Alcohols_49_s::after {content: '\00a0';display: inline-block; width:320px; height:318px; background-position: 99.30555555555556% 0.05793742757821553%;background-size: 640% 642.7672955974842%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.Alcohols_49_s::after {content: '\00a0';display: inline-block; width:320px; height:318px; background-position: 73.19050376375218% 97%;background-size: 639.6875% 634.5911949685535%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.Alcohols_49_s::after {max-width:320px; width:100%;height:0;padding: 0 0 99.375% 0;}
-.Alcohols_5 {max-width:360px; max-height:92px; }
-.Alcohols_5::after {content: '\00a0';display: inline-block; width:360px; height:92px; background-position: 88.53383458646617% 80.12889366272825%;background-size: 543.3333333333334% 1111.9565217391305%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_5::after {max-width:360px; width:100%;height:0;padding: 0 0 25.555555555555557% 0;}
 .Alcohols_51 {max-width:157px; max-height:119px; }
-.Alcohols_51::after {content: '\00a0';display: inline-block; width:157px; height:119px; background-position: 22.157588577472236% 25.09090909090909%;background-size: 1304.4585987261146% 1717.6470588235295%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.Alcohols_51::after {content: '\00a0';display: inline-block; width:157px; height:119px; background-position: 93.43915343915344% 93.15429173249079%;background-size: 1303.8216560509554% 1695.7983193277312%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.Alcohols_51::after {max-width:157px; width:100%;height:0;padding: 0 0 75.79617834394904% 0;}
 .Alcohols_53 {max-width:420px; max-height:137px; }
-.Alcohols_53::after {content: '\00a0';display: inline-block; width:420px; height:137px; background-position: 62.46928746928747% 82.59045621394861%;background-size: 487.6190476190476% 1491.970802919708%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.Alcohols_53::after {content: '\00a0';display: inline-block; width:420px; height:137px; background-position: 0.16891891891891891% 47.56828780812791%;background-size: 240.95238095238096% 1195.6204379562043%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.Alcohols_53::after {max-width:420px; width:100%;height:0;padding: 0 0 32.61904761904762% 0;}
-.Alcohols_5_s {max-width:360px; max-height:130px; }
-.Alcohols_5_s::after {content: '\00a0';display: inline-block; width:360px; height:130px; background-position: 43.984962406015036% 98.65621500559911%;background-size: 543.3333333333334% 786.9230769230769%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_5_s::after {max-width:360px; width:100%;height:0;padding: 0 0 36.111111111111114% 0;}
-.Alcohols_6_o_1 {max-width:280px; max-height:65px; }
-.Alcohols_6_o_1::after {content: '\00a0';display: inline-block; width:280px; height:65px; background-position: 67.5417661097852% 13.25678496868476%;background-size: 698.5714285714286% 1573.8461538461538%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_6_o_1::after {max-width:280px; width:100%;height:0;padding: 0 0 23.214285714285715% 0;}
-.Alcohols_6_o_2 {max-width:280px; max-height:60px; }
-.Alcohols_6_o_2::after {content: '\00a0';display: inline-block; width:280px; height:60px; background-position: 74.94033412887828% 99.06542056074767%;background-size: 698.5714285714286% 1705%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_6_o_2::after {max-width:280px; width:100%;height:0;padding: 0 0 21.428571428571427% 0;}
-.Alcohols_6_o_3 {max-width:280px; max-height:105px; }
-.Alcohols_6_o_3::after {content: '\00a0';display: inline-block; width:280px; height:105px; background-position: 61.575178997613364% 59.694989106753816%;background-size: 698.5714285714286% 974.2857142857143%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_6_o_3::after {max-width:280px; width:100%;height:0;padding: 0 0 37.5% 0;}
-.Alcohols_6_o_4 {max-width:192px; max-height:62px; }
-.Alcohols_6_o_4::after {content: '\00a0';display: inline-block; width:192px; height:62px; background-position: 60.26077097505669% 99.27159209157128%;background-size: 1018.75% 1650%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_6_o_4::after {max-width:192px; width:100%;height:0;padding: 0 0 32.291666666666664% 0;}
-.Alcohols_6_s {max-width:360px; max-height:166px; }
-.Alcohols_6_s::after {content: '\00a0';display: inline-block; width:360px; height:166px; background-position: 49.28909952606635% 99.68051118210863%;background-size: 568.8888888888889% 1231.3253012048192%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.Alcohols_6_s::after {max-width:360px; width:100%;height:0;padding: 0 0 46.111111111111114% 0;}
-.Alcohols_6_s_1 {max-width:360px; max-height:136px; }
-.Alcohols_6_s_1::after {content: '\00a0';display: inline-block; width:360px; height:136px; background-position: 42.794486215538846% 83.8782412626832%;background-size: 543.3333333333334% 752.2058823529412%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_6_s_1::after {max-width:360px; width:100%;height:0;padding: 0 0 37.77777777777778% 0;}
-.Alcohols_7_o_1 {max-width:320px; max-height:162px; }
-.Alcohols_7_o_1::after {content: '\00a0';display: inline-block; width:320px; height:162px; background-position: 0.061124694376528114% 70.38327526132404%;background-size: 611.25% 631.4814814814815%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_7_o_1::after {max-width:320px; width:100%;height:0;padding: 0 0 50.625% 0;}
-.Alcohols_7_o_2 {max-width:320px; max-height:214px; }
-.Alcohols_7_o_2::after {content: '\00a0';display: inline-block; width:320px; height:214px; background-position: 0.05787037037037037% 79.1256830601093%;background-size: 640% 955.1401869158879%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.Alcohols_7_o_2::after {max-width:320px; width:100%;height:0;padding: 0 0 66.875% 0;}
-.Alcohols_7_o_3 {max-width:320px; max-height:101px; }
-.Alcohols_7_o_3::after {content: '\00a0';display: inline-block; width:320px; height:101px; background-position: 64.97555012224939% 92.40780911062907%;background-size: 611.25% 1012.8712871287129%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_7_o_3::after {max-width:320px; width:100%;height:0;padding: 0 0 31.5625% 0;}
-.Alcohols_7_o_4 {max-width:320px; max-height:141px; }
-.Alcohols_7_o_4::after {content: '\00a0';display: inline-block; width:320px; height:141px; background-position: 22.12713936430318% 86.5079365079365%;background-size: 611.25% 725.531914893617%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_7_o_4::after {max-width:320px; width:100%;height:0;padding: 0 0 44.0625% 0;}
-.Alcohols_7_s_1 {max-width:280px; max-height:91px; }
-.Alcohols_7_s_1::after {content: '\00a0';display: inline-block; width:280px; height:91px; background-position: 73.09069212410502% 70.1716738197425%;background-size: 698.5714285714286% 1124.1758241758241%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_7_s_1::after {max-width:280px; width:100%;height:0;padding: 0 0 32.5% 0;}
-.Alcohols_7_s_2 {max-width:360px; max-height:467px; }
-.Alcohols_7_s_2::after {content: '\00a0';display: inline-block; width:360px; height:467px; background-position: 70.97156398104265% 28.725428027901078%;background-size: 568.8888888888889% 437.6873661670235%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.Alcohols_7_s_2::after {max-width:360px; width:100%;height:0;padding: 0 0 129.72222222222223% 0;}
-.Alcohols_8_s {max-width:192px; max-height:84px; }
-.Alcohols_8_s::after {content: '\00a0';display: inline-block; width:192px; height:84px; background-position: 74.88662131519274% 55.16506922257721%;background-size: 1018.75% 1217.857142857143%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_8_s::after {max-width:192px; width:100%;height:0;padding: 0 0 43.75% 0;}
-.Alcohols_8_s_1 {max-width:360px; max-height:104px; }
-.Alcohols_8_s_1::after {content: '\00a0';display: inline-block; width:360px; height:104px; background-position: 37.531328320802004% 54.515778019586506%;background-size: 543.3333333333334% 983.6538461538462%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_8_s_1::after {max-width:360px; width:100%;height:0;padding: 0 0 28.88888888888889% 0;}
-.Alcohols_8_s_2 {max-width:360px; max-height:94px; }
-.Alcohols_8_s_2::after {content: '\00a0';display: inline-block; width:360px; height:94px; background-position: 0.06265664160401002% 99.89235737351991%;background-size: 543.3333333333334% 1088.2978723404256%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.Alcohols_8_s_2::after {max-width:360px; width:100%;height:0;padding: 0 0 26.11111111111111% 0;}
+.NEET_2019_PC_Q2_27_o_1 {max-width:133px; max-height:59px; }
+.NEET_2019_PC_Q2_27_o_1::after {content: '\00a0';display: inline-block; width:133px; height:59px; background-position: 95.56313993174061% 54.14819506016466%;background-size: 760.9022556390977% 2776.271186440678%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+div.NEET_2019_PC_Q2_27_o_1::after {max-width:133px; width:100%;height:0;padding: 0 0 44.3609022556391% 0;}
+.NEET_2019_PC_Q2_27_o_2 {max-width:164px; max-height:57px; }
+.NEET_2019_PC_Q2_27_o_2::after {content: '\00a0';display: inline-block; width:164px; height:57px; background-position: 98.11320754716981% 0.06325110689437065%;background-size: 617.0731707317074% 2873.684210526316%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+div.NEET_2019_PC_Q2_27_o_2::after {max-width:164px; width:100%;height:0;padding: 0 0 34.75609756097561% 0;}
+.NEET_2019_PC_Q2_27_o_3 {max-width:133px; max-height:51px; }
+.NEET_2019_PC_Q2_27_o_3::after {content: '\00a0';display: inline-block; width:133px; height:51px; background-position: 0.11376564277588168% 99.93698802772526%;background-size: 760.9022556390977% 3211.764705882353%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+div.NEET_2019_PC_Q2_27_o_3::after {max-width:133px; width:100%;height:0;padding: 0 0 38.34586466165413% 0;}
+.NEET_2019_PC_Q2_27_o_4 {max-width:115px; max-height:48px; }
+.NEET_2019_PC_Q2_27_o_4::after {content: '\00a0';display: inline-block; width:115px; height:48px; background-position: 97.30848861283644% 12.436548223350254%;background-size: 1780% 4204.166666666667%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.NEET_2019_PC_Q2_27_o_4::after {max-width:115px; width:100%;height:0;padding: 0 0 41.73913043478261% 0;}
+.NEET_2019_PC_Q2_4_o_1 {max-width:141px; max-height:111px; }
+.NEET_2019_PC_Q2_4_o_1::after {content: '\00a0';display: inline-block; width:141px; height:111px; background-position: 98.85189437428244% 48.65749836280288%;background-size: 717.7304964539007% 1475.6756756756756%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+div.NEET_2019_PC_Q2_4_o_1::after {max-width:141px; width:100%;height:0;padding: 0 0 78.72340425531915% 0;}
+.NEET_2019_PC_Q2_4_o_2 {max-width:105px; max-height:112px; }
+.NEET_2019_PC_Q2_4_o_2::after {content: '\00a0';display: inline-block; width:105px; height:112px; background-position: 55.25231719876416% 27.33473242392445%;background-size: 1949.5238095238096% 1801.7857142857142%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.NEET_2019_PC_Q2_4_o_2::after {max-width:105px; width:100%;height:0;padding: 0 0 106.66666666666667% 0;}
+.NEET_2019_PC_Q2_4_o_3 {max-width:146px; max-height:110px; }
+.NEET_2019_PC_Q2_4_o_3::after {content: '\00a0';display: inline-block; width:146px; height:110px; background-position: 99.84218832193582% 52.83018867924528%;background-size: 1402.054794520548% 1834.5454545454545%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.NEET_2019_PC_Q2_4_o_3::after {max-width:146px; width:100%;height:0;padding: 0 0 75.34246575342466% 0;}
+.NEET_2019_PC_Q2_4_o_4 {max-width:91px; max-height:120px; }
+.NEET_2019_PC_Q2_4_o_4::after {content: '\00a0';display: inline-block; width:91px; height:120px; background-position: 98.61963190184049% 95.89041095890411%;background-size: 2249.4505494505493% 1681.6666666666667%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.NEET_2019_PC_Q2_4_o_4::after {max-width:91px; width:100%;height:0;padding: 0 0 131.86813186813185% 0;}
+.NEET_2019_PC_Q2_4_q {max-width:344px; max-height:107px; }
+.NEET_2019_PC_Q2_4_q::after {content: '\00a0';display: inline-block; width:344px; height:107px; background-position: 54.191616766467064% 83.21358589157414%;background-size: 294.1860465116279% 1530.8411214953271%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+div.NEET_2019_PC_Q2_4_q::after {max-width:344px; width:100%;height:0;padding: 0 0 31.1046511627907% 0;}
+.NEET_2019_PC_Q2_4_s {max-width:305px; max-height:240px; }
+.NEET_2019_PC_Q2_4_s::after {content: '\00a0';display: inline-block; width:305px; height:240px; background-position: 89.78185993111366% 36.27671541057368%;background-size: 671.1475409836065% 840.8333333333334%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.NEET_2019_PC_Q2_4_s::after {max-width:305px; width:100%;height:0;padding: 0 0 78.68852459016394% 0;}
+.NEET_2020_86_PHY_CHEM_sol {max-width:384px; max-height:290px; }
+.NEET_2020_86_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:384px; height:290px; background-position: 70.89597113650031% 35.12731481481482%;background-size: 533.0729166666666% 695.8620689655172%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.NEET_2020_86_PHY_CHEM_sol::after {max-width:384px; width:100%;height:0;padding: 0 0 75.52083333333333% 0;}
+.NEET_2020_86a_PHY_CHEM {max-width:155px; max-height:121px; }
+.NEET_2020_86a_PHY_CHEM::after {content: '\00a0';display: inline-block; width:155px; height:121px; background-position: 99.36575052854123% 6.483921982076963%;background-size: 1320.6451612903227% 1667.7685950413222%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.NEET_2020_86a_PHY_CHEM::after {max-width:155px; width:100%;height:0;padding: 0 0 78.06451612903226% 0;}
+.NEET_2020_86b_PHY_CHEM {max-width:146px; max-height:127px; }
+.NEET_2020_86b_PHY_CHEM::after {content: '\00a0';display: inline-block; width:146px; height:127px; background-position: 99.84218832193582% 46.53622421998942%;background-size: 1402.054794520548% 1588.976377952756%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.NEET_2020_86b_PHY_CHEM::after {max-width:146px; width:100%;height:0;padding: 0 0 86.98630136986301% 0;}
+.NEET_2020_86c_PHY_CHEM {max-width:186px; max-height:118px; }
+.NEET_2020_86c_PHY_CHEM::after {content: '\00a0';display: inline-block; width:186px; height:118px; background-position: 99.9462654486835% 65.42105263157895%;background-size: 1100.5376344086021% 1710.1694915254238%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.NEET_2020_86c_PHY_CHEM::after {max-width:186px; width:100%;height:0;padding: 0 0 63.44086021505376% 0;}
+.NEET_2020_86d_PHY_CHEM {max-width:156px; max-height:120px; }
+.NEET_2020_86d_PHY_CHEM::after {content: '\00a0';display: inline-block; width:156px; height:120px; background-position: 99.78847170809095% 58.95679662802951%;background-size: 1312.179487179487% 1681.6666666666667%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.NEET_2020_86d_PHY_CHEM::after {max-width:156px; width:100%;height:0;padding: 0 0 76.92307692307692% 0;}
 .NEET_2021_Physics_and_Chemistry_93_o_1 {max-width:176px; max-height:113px; }
-.NEET_2021_Physics_and_Chemistry_93_o_1::after {content: '\00a0';display: inline-block; width:176px; height:113px; background-position: 20.337078651685392% 99.45054945054945%;background-size: 1111.3636363636363% 905.3097345132743%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.NEET_2021_Physics_and_Chemistry_93_o_1::after {content: '\00a0';display: inline-block; width:176px; height:113px; background-position: 99.94655264564405% 33.85826771653543%;background-size: 1163.0681818181818% 1785.8407079646017%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.NEET_2021_Physics_and_Chemistry_93_o_1::after {max-width:176px; width:100%;height:0;padding: 0 0 64.20454545454545% 0;}
 .NEET_2021_Physics_and_Chemistry_93_o_2 {max-width:180px; max-height:110px; }
-.NEET_2021_Physics_and_Chemistry_93_o_2::after {content: '\00a0';display: inline-block; width:180px; height:110px; background-position: 98.93018018018019% 0.10952902519167579%;background-size: 1086.6666666666667% 930%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.NEET_2021_Physics_and_Chemistry_93_o_2::after {content: '\00a0';display: inline-block; width:180px; height:110px; background-position: 84.89555436529191% 98.53249475890985%;background-size: 1137.2222222222222% 1834.5454545454545%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.NEET_2021_Physics_and_Chemistry_93_o_2::after {max-width:180px; width:100%;height:0;padding: 0 0 61.111111111111114% 0;}
 .NEET_2021_Physics_and_Chemistry_93_o_3 {max-width:172px; max-height:114px; }
-.NEET_2021_Physics_and_Chemistry_93_o_3::after {content: '\00a0';display: inline-block; width:172px; height:114px; background-position: 99.94669509594883% 94.4559585492228%;background-size: 1190.6976744186047% 1792.982456140351%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.NEET_2021_Physics_and_Chemistry_93_o_3::after {content: '\00a0';display: inline-block; width:172px; height:114px; background-position: 97.6% 75.15756302521008%;background-size: 1190.1162790697674% 1770.1754385964912%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.NEET_2021_Physics_and_Chemistry_93_o_3::after {max-width:172px; width:100%;height:0;padding: 0 0 66.27906976744185% 0;}
 .NEET_2021_Physics_and_Chemistry_93_o_4 {max-width:223px; max-height:111px; }
-.NEET_2021_Physics_and_Chemistry_93_o_4::after {content: '\00a0';display: inline-block; width:223px; height:111px; background-position: 88.45931909982689% 0.10964912280701754%;background-size: 877.1300448430493% 921.6216216216217%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.NEET_2021_Physics_and_Chemistry_93_o_4::after {content: '\00a0';display: inline-block; width:223px; height:111px; background-position: 91.17324561403508% 59.30781331934976%;background-size: 917.9372197309417% 1818.018018018018%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.NEET_2021_Physics_and_Chemistry_93_o_4::after {max-width:223px; width:100%;height:0;padding: 0 0 49.775784753363226% 0;}
 .NEET_2021_Physics_and_Chemistry_93_q {max-width:298px; max-height:107px; }
-.NEET_2021_Physics_and_Chemistry_93_q::after {content: '\00a0';display: inline-block; width:298px; height:107px; background-position: 74.24607961399276% 34.49781659388646%;background-size: 656.3758389261745% 956.0747663551402%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.NEET_2021_Physics_and_Chemistry_93_q::after {content: '\00a0';display: inline-block; width:298px; height:107px; background-position: 99.01960784313725% 87.91639451338995%;background-size: 339.5973154362416% 1530.8411214953271%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.NEET_2021_Physics_and_Chemistry_93_q::after {max-width:298px; width:100%;height:0;padding: 0 0 35.90604026845637% 0;}
 .NEET_2021_Physics_and_Chemistry_93_s {max-width:398px; max-height:95px; }
-.NEET_2021_Physics_and_Chemistry_93_s::after {content: '\00a0';display: inline-block; width:398px; height:95px; background-position: 98.20282413350449% 42.241379310344826%;background-size: 491.4572864321608% 1076.842105263158%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.NEET_2021_Physics_and_Chemistry_93_s::after {content: '\00a0';display: inline-block; width:398px; height:95px; background-position: 0.16286644951140064% 60.33700583279326%;background-size: 254.2713567839196% 1724.2105263157894%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.NEET_2021_Physics_and_Chemistry_93_s::after {max-width:398px; width:100%;height:0;padding: 0 0 23.86934673366834% 0;}
 .NEET_2022_PC_Q_94 {max-width:417px; max-height:132px; }
-.NEET_2022_PC_Q_94::after {content: '\00a0';display: inline-block; width:417px; height:132px; background-position: 88.16676885346413% 82.3744769874477%;background-size: 491.12709832134294% 1548.4848484848485%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.NEET_2022_PC_Q_94::after {content: '\00a0';display: inline-block; width:417px; height:132px; background-position: 70.92436974789916% 50.132802124834%;background-size: 242.68585131894486% 1240.909090909091%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.NEET_2022_PC_Q_94::after {max-width:417px; width:100%;height:0;padding: 0 0 31.654676258992804% 0;}
 .NEET_2022_PC_Q_94_O_1 {max-width:196px; max-height:127px; }
-.NEET_2022_PC_Q_94_O_1::after {content: '\00a0';display: inline-block; width:196px; height:127px; background-position: 47.44318181818182% 67.63392857142857%;background-size: 997.9591836734694% 805.511811023622%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.NEET_2022_PC_Q_94_O_1::after {content: '\00a0';display: inline-block; width:196px; height:127px; background-position: 89.84332793084819% 65.73241671073507%;background-size: 1044.3877551020407% 1588.976377952756%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.NEET_2022_PC_Q_94_O_1::after {max-width:196px; width:100%;height:0;padding: 0 0 64.79591836734694% 0;}
 .NEET_2022_PC_Q_94_O_2 {max-width:203px; max-height:93px; }
-.NEET_2022_PC_Q_94_O_2::after {content: '\00a0';display: inline-block; width:203px; height:93px; background-position: 75.35653166001141% 45.59139784946237%;background-size: 963.5467980295566% 1100%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.NEET_2022_PC_Q_94_O_2::after {content: '\00a0';display: inline-block; width:203px; height:93px; background-position: 56.670281995661604% 97.76623376623377%;background-size: 1008.3743842364532% 2169.8924731182797%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.NEET_2022_PC_Q_94_O_2::after {max-width:203px; width:100%;height:0;padding: 0 0 45.8128078817734% 0;}
 .NEET_2022_PC_Q_94_O_3 {max-width:181px; max-height:87px; }
-.NEET_2022_PC_Q_94_O_3::after {content: '\00a0';display: inline-block; width:181px; height:87px; background-position: 99.94366197183099% 78.52564102564102%;background-size: 1080.6629834254143% 1175.8620689655172%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.NEET_2022_PC_Q_94_O_3::after {content: '\00a0';display: inline-block; width:181px; height:87px; background-position: 72.08182912154031% 9.800128949065119%;background-size: 559.1160220994475% 1882.7586206896551%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.NEET_2022_PC_Q_94_O_3::after {max-width:181px; width:100%;height:0;padding: 0 0 48.06629834254144% 0;}
 .NEET_2022_PC_Q_94_O_4 {max-width:187px; max-height:93px; }
-.NEET_2022_PC_Q_94_O_4::after {content: '\00a0';display: inline-block; width:187px; height:93px; background-position: 78.23629169022047% 91.61290322580645%;background-size: 1045.9893048128342% 1100%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.NEET_2022_PC_Q_94_O_4::after {content: '\00a0';display: inline-block; width:187px; height:93px; background-position: 87.63636363636364% 81.03559870550161%;background-size: 541.1764705882352% 1761.2903225806451%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.NEET_2022_PC_Q_94_O_4::after {max-width:187px; width:100%;height:0;padding: 0 0 49.73262032085562% 0;}
 .NEET_2022_PC_S_80 {max-width:442px; max-height:223px; }
-.NEET_2022_PC_S_80::after {content: '\00a0';display: inline-block; width:442px; height:223px; background-position: 36.1145703611457% 49.478308621636465%;background-size: 463.34841628959276% 916.5919282511211%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.NEET_2022_PC_S_80::after {content: '\00a0';display: inline-block; width:442px; height:223px; background-position: 75.82554517133957% 21.337047353760447%;background-size: 463.1221719457014% 904.932735426009%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.NEET_2022_PC_S_80::after {max-width:442px; width:100%;height:0;padding: 0 0 50.452488687782804% 0;}
 .NEET_2022_PC_S_94 {max-width:830px; max-height:150px; }
-.NEET_2022_PC_S_94::after {content: '\00a0';display: inline-block; width:830px; height:150px; background-position: 0.08210180623973727% 98.99683210137276%;background-size: 246.74698795180723% 1362.6666666666667%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.NEET_2022_PC_S_94::after {content: '\00a0';display: inline-block; width:830px; height:150px; background-position: 0.5494505494505495% 0.06720430107526881%;background-size: 121.92771084337349% 1092%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.NEET_2022_PC_S_94::after {max-width:830px; width:100%;height:0;padding: 0 0 18.072289156626507% 0;}
+.P12016_164 {max-width:450px; max-height:65px; }
+.P12016_164::after {content: '\00a0';display: inline-block; width:450px; height:65px; background-position: 94.12811387900356% 26.636999364272093%;background-size: 224.88888888888889% 2520%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+div.P12016_164::after {max-width:450px; width:100%;height:0;padding: 0 0 14.444444444444445% 0;}
+.n2014_86sol {max-width:264px; max-height:79px; }
+.n2014_86sol::after {content: '\00a0';display: inline-block; width:264px; height:79px; background-position: 43.74649467190129% 97.06034038164002%;background-size: 775.3787878787879% 2554.4303797468356%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.n2014_86sol::after {max-width:264px; width:100%;height:0;padding: 0 0 29.924242424242426% 0;}
+.n2017_49sol {max-width:332px; max-height:77px; }
+.n2017_49sol::after {content: '\00a0';display: inline-block; width:332px; height:77px; background-position: 95.44117647058823% 93.1454196028187%;background-size: 304.8192771084337% 2127.2727272727275%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+div.n2017_49sol::after {max-width:332px; width:100%;height:0;padding: 0 0 23.19277108433735% 0;}
+.n2017_53a {max-width:60px; max-height:70px; }
+.n2017_53a::after {content: '\00a0';display: inline-block; width:60px; height:70px; background-position: 79.768495218923% 84.65092402464066%;background-size: 3411.6666666666665% 2882.8571428571427%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.n2017_53a::after {max-width:60px; width:100%;height:0;padding: 0 0 116.66666666666667% 0;}
+.n2017_53b {max-width:61px; max-height:88px; }
+.n2017_53b::after {content: '\00a0';display: inline-block; width:61px; height:88px; background-position: 19.234642497482376% 73.16062176165804%;background-size: 3355.7377049180327% 2293.181818181818%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.n2017_53b::after {max-width:61px; width:100%;height:0;padding: 0 0 144.2622950819672% 0;}
+.n2017_53c {max-width:122px; max-height:96px; }
+.n2017_53c::after {content: '\00a0';display: inline-block; width:122px; height:96px; background-position: 55.74025974025974% 22.06035379812695%;background-size: 1677.8688524590164% 2102.0833333333335%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.n2017_53c::after {max-width:122px; width:100%;height:0;padding: 0 0 78.68852459016394% 0;}
+.n2017_53d {max-width:62px; max-height:95px; }
+.n2017_53d::after {content: '\00a0';display: inline-block; width:62px; height:95px; background-position: 25.188916876574307% 25.117004680187208%;background-size: 3301.6129032258063% 2124.2105263157896%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.n2017_53d::after {max-width:62px; width:100%;height:0;padding: 0 0 153.2258064516129% 0;}
+.n2017_53sol {max-width:335px; max-height:123px; }
+.n2017_53sol::after {content: '\00a0';display: inline-block; width:335px; height:123px; background-position: 46.23338257016248% 91.22112211221122%;background-size: 302.089552238806% 1331.7073170731708%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+div.n2017_53sol::after {max-width:335px; width:100%;height:0;padding: 0 0 36.71641791044776% 0;}
+.n2018_64 {max-width:288px; max-height:94px; }
+.n2018_64::after {content: '\00a0';display: inline-block; width:288px; height:94px; background-position: 99.86187845303867% 72.02072538860104%;background-size: 351.3888888888889% 1742.5531914893618%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+div.n2018_64::after {max-width:288px; width:100%;height:0;padding: 0 0 32.638888888888886% 0;}
+.n2018_66a {max-width:209px; max-height:55px; }
+.n2018_66a::after {content: '\00a0';display: inline-block; width:209px; height:55px; background-position: 95.76587795765877% 66.70878079595704%;background-size: 484.2105263157895% 2978.181818181818%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+div.n2018_66a::after {max-width:209px; width:100%;height:0;padding: 0 0 26.31578947368421% 0;}
+.n2018_66b {max-width:219px; max-height:61px; }
+.n2018_66b::after {content: '\00a0';display: inline-block; width:219px; height:61px; background-position: 96.9735182849937% 63.03107165504122%;background-size: 462.1004566210046% 2685.245901639344%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+div.n2018_66b::after {max-width:219px; width:100%;height:0;padding: 0 0 27.85388127853881% 0;}
+.n2018_66c {max-width:184px; max-height:82px; }
+.n2018_66c::after {content: '\00a0';display: inline-block; width:184px; height:82px; background-position: 76.57004830917874% 98.45758354755785%;background-size: 550% 1997.560975609756%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+div.n2018_66c::after {max-width:184px; width:100%;height:0;padding: 0 0 44.56521739130435% 0;}
+.n2018_66d {max-width:181px; max-height:68px; }
+.n2018_66d::after {content: '\00a0';display: inline-block; width:181px; height:68px; background-position: 99.67845659163987% 69.84615384615384%;background-size: 1130.9392265193371% 2967.6470588235293%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.n2018_66d::after {max-width:181px; width:100%;height:0;padding: 0 0 37.569060773480665% 0;}
+.n2018_66sol {max-width:440px; max-height:199px; }
+.n2018_66sol::after {content: '\00a0';display: inline-block; width:440px; height:199px; background-position: 23.771001866832606% 87.90544255085211%;background-size: 465.22727272727275% 1014.070351758794%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.n2018_66sol::after {max-width:440px; width:100%;height:0;padding: 0 0 45.22727272727273% 0;}
+.n2018_67 {max-width:435px; max-height:156px; }
+.n2018_67::after {content: '\00a0';display: inline-block; width:435px; height:156px; background-position: 85.2686308492201% 32.72604588394062%;background-size: 232.64367816091954% 1050%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+div.n2018_67::after {max-width:435px; width:100%;height:0;padding: 0 0 35.86206896551724% 0;}
+.n2018_67_a {max-width:380px; max-height:339px; }
+.n2018_67_a::after {content: '\00a0';display: inline-block; width:380px; height:339px; background-position: 0.059988002399520096% 84.09767718880286%;background-size: 538.6842105263158% 595.2802359882006%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.n2018_67_a::after {max-width:380px; width:100%;height:0;padding: 0 0 89.21052631578948% 0;}
+.n2018_67sol {max-width:277px; max-height:397px; }
+.n2018_67sol::after {content: '\00a0';display: inline-block; width:277px; height:397px; background-position: 50.90395480225989% 40.65391733497841%;background-size: 738.9891696750902% 508.3123425692695%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.n2018_67sol::after {max-width:277px; width:100%;height:0;padding: 0 0 143.32129963898916% 0;}
 .nc11_11sol {max-width:381px; max-height:283px; }
-.nc11_11sol::after {content: '\00a0';display: inline-block; width:381px; height:283px; background-position: 93.52129574085183% 50.653038046564454%;background-size: 537.5328083989501% 722.26148409894%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.nc11_11sol::after {content: '\00a0';display: inline-block; width:381px; height:283px; background-position: 75.8703481392557% 78.6743515850144%;background-size: 537.2703412073491% 713.0742049469965%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.nc11_11sol::after {max-width:381px; width:100%;height:0;padding: 0 0 74.2782152230971% 0;}
 .nc11_13 {max-width:270px; max-height:119px; }
-.nc11_13::after {content: '\00a0';display: inline-block; width:270px; height:119px; background-position: 56.93950177935943% 35.176991150442475%;background-size: 724.4444444444445% 859.6638655462185%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.nc11_13::after {content: '\00a0';display: inline-block; width:270px; height:119px; background-position: 50.70343275182893% 55.66087414428647%;background-size: 758.1481481481482% 1695.7983193277312%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.nc11_13::after {max-width:270px; width:100%;height:0;padding: 0 0 44.074074074074076% 0;}
 .nc11_13_a {max-width:182px; max-height:126px; }
-.nc11_13_a::after {content: '\00a0';display: inline-block; width:182px; height:126px; background-position: 41.48816234498309% 21.962095875139354%;background-size: 1074.7252747252746% 811.9047619047619%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.nc11_13_a::after {content: '\00a0';display: inline-block; width:182px; height:126px; background-position: 88.25737265415549% 86.25792811839324%;background-size: 1124.7252747252746% 1601.5873015873017%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.nc11_13_a::after {max-width:182px; width:100%;height:0;padding: 0 0 69.23076923076923% 0;}
 .nc11_13_b {max-width:178px; max-height:131px; }
-.nc11_13_b::after {content: '\00a0';display: inline-block; width:178px; height:131px; background-position: 99.25133689839572% 82.27914270778881%;background-size: 1150.561797752809% 1560.3053435114505%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.nc11_13_b::after {content: '\00a0';display: inline-block; width:178px; height:131px; background-position: 88.06848582129481% 79.4912559618442%;background-size: 1150% 1540.4580152671756%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.nc11_13_b::after {max-width:178px; width:100%;height:0;padding: 0 0 73.59550561797752% 0;}
 .nc11_13_c {max-width:183px; max-height:128px; }
-.nc11_13_c::after {content: '\00a0';display: inline-block; width:183px; height:128px; background-position: 19.410187667560322% 75.46972860125261%;background-size: 1119.1256830601094% 1596.875%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.nc11_13_c::after {content: '\00a0';display: inline-block; width:183px; height:128px; background-position: 88.30472103004291% 72.53968253968254%;background-size: 1118.5792349726776% 1576.5625%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.nc11_13_c::after {max-width:183px; width:100%;height:0;padding: 0 0 69.94535519125684% 0;}
 .nc11_13_d {max-width:180px; max-height:120px; }
-.nc11_13_d::after {content: '\00a0';display: inline-block; width:180px; height:120px; background-position: 51.7454954954955% 21.816168327796234%;background-size: 1086.6666666666667% 852.5%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.nc11_13_d::after {content: '\00a0';display: inline-block; width:180px; height:120px; background-position: 84.89555436529191% 92.67650158061117%;background-size: 1137.2222222222222% 1681.6666666666667%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.nc11_13_d::after {max-width:180px; width:100%;height:0;padding: 0 0 66.66666666666667% 0;}
 .nc11_13a {max-width:280px; max-height:69px; }
-.nc11_13a::after {content: '\00a0';display: inline-block; width:280px; height:69px; background-position: 50.775656324582336% 13.31236897274633%;background-size: 698.5714285714286% 1482.608695652174%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.nc11_13a::after {content: '\00a0';display: inline-block; width:280px; height:69px; background-position: 90.37917374080362% 54.43817342226783%;background-size: 731.0714285714286% 2924.6376811594205%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.nc11_13a::after {max-width:280px; width:100%;height:0;padding: 0 0 24.642857142857142% 0;}
 .nc11_13sola {max-width:311px; max-height:243px; }
-.nc11_13sola::after {content: '\00a0';display: inline-block; width:311px; height:243px; background-position: 68.62406447898675% 51.13825652415325%;background-size: 658.5209003215434% 841.1522633744856%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.nc11_13sola::after {content: '\00a0';display: inline-block; width:311px; height:243px; background-position: 0.14265335235378032% 96.20071684587813%;background-size: 325.4019292604502% 674.074074074074%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.nc11_13sola::after {max-width:311px; width:100%;height:0;padding: 0 0 78.13504823151125% 0;}
 .nc11_13solb {max-width:300px; max-height:174px; }
-.nc11_13solb::after {content: '\00a0';display: inline-block; width:300px; height:174px; background-position: 26.268115942028984% 23.2037691401649%;background-size: 652% 587.9310344827586%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.nc11_13solb::after {content: '\00a0';display: inline-block; width:300px; height:174px; background-position: 91.41385231825987% 48.04772234273319%;background-size: 682.3333333333334% 1159.7701149425288%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.nc11_13solb::after {max-width:300px; width:100%;height:0;padding: 0 0 58% 0;}
 .nc11_16sola {max-width:305px; max-height:261px; }
-.nc11_16sola::after {content: '\00a0';display: inline-block; width:305px; height:261px; background-position: 98.45094664371773% 17.9472798653954%;background-size: 671.4754098360655% 783.1417624521073%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.nc11_16sola::after {content: '\00a0';display: inline-block; width:305px; height:261px; background-position: 95.29276693455797% 21.798520204894707%;background-size: 671.1475409836065% 773.1800766283525%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.nc11_16sola::after {max-width:305px; width:100%;height:0;padding: 0 0 85.57377049180327% 0;}
-.nc11_17solb {max-width:284px; max-height:137px; }
-.nc11_17solb::after {content: '\00a0';display: inline-block; width:284px; height:137px; background-position: 32.89473684210526% 68.39729119638827%;background-size: 688.7323943661971% 746.7153284671533%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.nc11_17solb::after {max-width:284px; width:100%;height:0;padding: 0 0 48.23943661971831% 0;}
-.nc11_17solc {max-width:281px; max-height:211px; }
-.nc11_17solc::after {content: '\00a0';display: inline-block; width:281px; height:211px; background-position: 0.056593095642331635% 90.72558647026732%;background-size: 728.8256227758008% 968.7203791469194%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
-div.nc11_17solc::after {max-width:281px; width:100%;height:0;padding: 0 0 75.08896797153025% 0;}
-.nc11_19 {max-width:360px; max-height:158px; }
-.nc11_19::after {content: '\00a0';display: inline-block; width:360px; height:158px; background-position: 0.06265664160401002% 88.90173410404624%;background-size: 543.3333333333334% 647.4683544303797%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
-div.nc11_19::after {max-width:360px; width:100%;height:0;padding: 0 0 43.888888888888886% 0;}
 .nc11_2sol {max-width:360px; max-height:110px; }
-.nc11_2sol::after {content: '\00a0';display: inline-block; width:360px; height:110px; background-position: 98.4004739336493% 69.80351602895553%;background-size: 568.8888888888889% 1858.1818181818182%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.nc11_2sol::after {content: '\00a0';display: inline-block; width:360px; height:110px; background-position: 0.15337423312883436% 80.56282722513089%;background-size: 281.1111111111111% 1489.090909090909%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.nc11_2sol::after {max-width:360px; width:100%;height:0;padding: 0 0 30.555555555555557% 0;}
 .nc11_5sol {max-width:360px; max-height:173px; }
-.nc11_5sol::after {content: '\00a0';display: inline-block; width:360px; height:173px; background-position: 91.4691943127962% 62.85408872260823%;background-size: 568.8888888888889% 1181.5028901734104%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.nc11_5sol::after {content: '\00a0';display: inline-block; width:360px; height:173px; background-position: 55.52147239263804% 75.08532423208192%;background-size: 281.1111111111111% 946.820809248555%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.nc11_5sol::after {max-width:360px; width:100%;height:0;padding: 0 0 48.05555555555556% 0;}
 .nc11_6c {max-width:104px; max-height:53px; }
-.nc11_6c::after {content: '\00a0';display: inline-block; width:104px; height:53px; background-position: 99.84567901234568% 51.230537418382724%;background-size: 1969.2307692307693% 3856.603773584906%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.nc11_6c::after {content: '\00a0';display: inline-block; width:104px; height:53px; background-position: 40.14410705095214% 99.8473282442748%;background-size: 1968.2692307692307% 3807.5471698113206%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.nc11_6c::after {max-width:104px; width:100%;height:0;padding: 0 0 50.96153846153846% 0;}
 .nc11_7sola {max-width:360px; max-height:203px; }
-.nc11_7sola::after {content: '\00a0';display: inline-block; width:360px; height:203px; background-position: 70.08293838862559% 63.28082563824009%;background-size: 568.8888888888889% 1006.8965517241379%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.nc11_7sola::after {content: '\00a0';display: inline-block; width:360px; height:203px; background-position: 0.15337423312883436% 71.56794425087108%;background-size: 281.1111111111111% 806.8965517241379%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.nc11_7sola::after {max-width:360px; width:100%;height:0;padding: 0 0 56.388888888888886% 0;}
 .nc11_9a {max-width:130px; max-height:51px; }
-.nc11_9a::after {content: '\00a0';display: inline-block; width:130px; height:51px; background-position: 99.32221063607925% 60.96337180130457%;background-size: 1575.3846153846155% 4007.843137254902%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.nc11_9a::after {content: '\00a0';display: inline-block; width:130px; height:51px; background-position: 15.306122448979592% 99.93698802772526%;background-size: 778.4615384615385% 3211.764705882353%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.nc11_9a::after {max-width:130px; width:100%;height:0;padding: 0 0 39.23076923076923% 0;}
 .nc11_9b {max-width:92px; max-height:50px; }
-.nc11_9b::after {content: '\00a0';display: inline-block; width:92px; height:50px; background-position: 99.23312883435582% 56.318956870611835%;background-size: 2226.086956521739% 4088%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.nc11_9b::after {content: '\00a0';display: inline-block; width:92px; height:50px; background-position: 98.41432225063939% 89.88821138211382%;background-size: 2225% 4036%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.nc11_9b::after {max-width:92px; width:100%;height:0;padding: 0 0 54.34782608695652% 0;}
 .nc11_9c {max-width:102px; max-height:48px; }
-.nc11_9c::after {content: '\00a0';display: inline-block; width:102px; height:48px; background-position: 99.74306269270298% 53.807615230460925%;background-size: 2007.8431372549019% 4258.333333333333%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.nc11_9c::after {content: '\00a0';display: inline-block; width:102px; height:48px; background-position: 45.501285347043705% 99.59390862944163%;background-size: 2006.862745098039% 4204.166666666667%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.nc11_9c::after {max-width:102px; width:100%;height:0;padding: 0 0 47.05882352941177% 0;}
 .nc11_9d {max-width:156px; max-height:77px; }
-.nc11_9d::after {content: '\00a0';display: inline-block; width:156px; height:77px; background-position: 22.145877378435518% 30.65582104728012%;background-size: 1312.820512820513% 2654.5454545454545%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.nc11_9d::after {content: '\00a0';display: inline-block; width:156px; height:77px; background-position: 97.19626168224299% 3.7796284433055733%;background-size: 648.7179487179487% 2127.2727272727275%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.nc11_9d::after {max-width:156px; width:100%;height:0;padding: 0 0 49.35897435897436% 0;}
 .nc11_9sol {max-width:101px; max-height:40px; }
-.nc11_9sol::after {content: '\00a0';display: inline-block; width:101px; height:40px; background-position: 99.69183359013867% 58.582834331337324%;background-size: 2027.7227722772277% 5110%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.nc11_9sol::after {content: '\00a0';display: inline-block; width:101px; height:40px; background-position: 99.12641315519014% 98.12942366026289%;background-size: 2026.7326732673268% 5045%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.nc11_9sol::after {max-width:101px; width:100%;height:0;padding: 0 0 39.603960396039604% 0;}
+.neet_2015_pc_65_sol {max-width:400px; max-height:274px; }
+.neet_2015_pc_65_sol::after {content: '\00a0';display: inline-block; width:400px; height:274px; background-position: 30.358227079538555% 37.78669724770642%;background-size: 511.75% 736.4963503649635%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.neet_2015_pc_65_sol::after {max-width:400px; width:100%;height:0;padding: 0 0 68.5% 0;}
 .neet_2023_f1_phy_chem_87 {max-width:425px; max-height:92px; }
-.neet_2023_f1_phy_chem_87::after {content: '\00a0';display: inline-block; width:425px; height:92px; background-position: 99.93468321358588% 20.730397422126746%;background-size: 460.2352941176471% 1111.9565217391305%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.neet_2023_f1_phy_chem_87::after {content: '\00a0';display: inline-block; width:425px; height:92px; background-position: 50.739827373612826% 92.88681204569055%;background-size: 481.6470588235294% 2193.478260869565%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.neet_2023_f1_phy_chem_87::after {max-width:425px; width:100%;height:0;padding: 0 0 21.647058823529413% 0;}
 .neet_2023_f1_phy_chem_87_a {max-width:432px; max-height:75px; }
-.neet_2023_f1_phy_chem_87_a::after {content: '\00a0';display: inline-block; width:432px; height:75px; background-position: 98.81889763779527% 69.51476793248945%;background-size: 452.77777777777777% 1364%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.neet_2023_f1_phy_chem_87_a::after {content: '\00a0';display: inline-block; width:432px; height:75px; background-position: 0.1724137931034483% 35.44465770953295%;background-size: 234.25925925925927% 2184%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.neet_2023_f1_phy_chem_87_a::after {max-width:432px; width:100%;height:0;padding: 0 0 17.36111111111111% 0;}
 .neet_2023_f1_phy_chem_87_b {max-width:436px; max-height:86px; }
-.neet_2023_f1_phy_chem_87_b::after {content: '\00a0';display: inline-block; width:436px; height:86px; background-position: 99.60526315789474% 61.04589114194237%;background-size: 448.6238532110092% 1189.5348837209303%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.neet_2023_f1_phy_chem_87_b::after {content: '\00a0';display: inline-block; width:436px; height:86px; background-position: 51.08628181253879% 88.0952380952381%;background-size: 469.4954128440367% 2346.5116279069766%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.neet_2023_f1_phy_chem_87_b::after {max-width:436px; width:100%;height:0;padding: 0 0 19.724770642201836% 0;}
 .neet_2023_f1_phy_chem_87_c {max-width:410px; max-height:78px; }
-.neet_2023_f1_phy_chem_87_c::after {content: '\00a0';display: inline-block; width:410px; height:78px; background-position: 91.39715394566623% 12.063492063492063%;background-size: 477.0731707317073% 1311.5384615384614%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.neet_2023_f1_phy_chem_87_c::after {content: '\00a0';display: inline-block; width:410px; height:78px; background-position: 0.16611295681063123% 54.61538461538461%;background-size: 246.82926829268294% 2100%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.neet_2023_f1_phy_chem_87_c::after {max-width:410px; width:100%;height:0;padding: 0 0 19.024390243902438% 0;}
 .neet_2023_f1_phy_chem_87_d {max-width:430px; max-height:83px; }
-.neet_2023_f1_phy_chem_87_d::after {content: '\00a0';display: inline-block; width:430px; height:83px; background-position: 99.93446920052425% 51.91489361702128%;background-size: 454.8837209302326% 1232.5301204819277%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.neet_2023_f1_phy_chem_87_d::after {content: '\00a0';display: inline-block; width:430px; height:83px; background-position: 0.1718213058419244% 40.51446945337621%;background-size: 235.34883720930233% 1973.4939759036145%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.neet_2023_f1_phy_chem_87_d::after {max-width:430px; width:100%;height:0;padding: 0 0 19.302325581395348% 0;}
 .neet_2023_f1_phy_chem_87_sol {max-width:662px; max-height:277px; }
-.neet_2023_f1_phy_chem_87_sol::after {content: '\00a0';display: inline-block; width:662px; height:277px; background-position: 87.44588744588745% 96.94397283531409%;background-size: 309.3655589123867% 737.9061371841156%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.neet_2023_f1_phy_chem_87_sol::after {content: '\00a0';display: inline-block; width:662px; height:277px; background-position: 87.87003610108303% 0.05743825387708214%;background-size: 309.214501510574% 728.5198555956679%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.neet_2023_f1_phy_chem_87_sol::after {max-width:662px; width:100%;height:0;padding: 0 0 41.842900302114806% 0;}
 .neet_2023_f1_phy_chem_89_a {max-width:172px; max-height:105px; }
-.neet_2023_f1_phy_chem_89_a::after {content: '\00a0';display: inline-block; width:172px; height:105px; background-position: 99.94669509594883% 99.9484270242393%;background-size: 1190.6976744186047% 1946.6666666666667%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.neet_2023_f1_phy_chem_89_a::after {content: '\00a0';display: inline-block; width:172px; height:105px; background-position: 97.54666666666667% 86.93152117093571%;background-size: 1190.1162790697674% 1921.904761904762%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.neet_2023_f1_phy_chem_89_a::after {max-width:172px; width:100%;height:0;padding: 0 0 61.04651162790697% 0;}
 .neet_2023_f1_phy_chem_89_b {max-width:168px; max-height:120px; }
-.neet_2023_f1_phy_chem_89_b::after {content: '\00a0';display: inline-block; width:168px; height:120px; background-position: 54.41489361702128% 47.141372141372145%;background-size: 1219.047619047619% 1703.3333333333333%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.neet_2023_f1_phy_chem_89_b::after {content: '\00a0';display: inline-block; width:168px; height:120px; background-position: 99.52102182011708% 39.989462592202315%;background-size: 1218.452380952381% 1681.6666666666667%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.neet_2023_f1_phy_chem_89_b::after {max-width:168px; width:100%;height:0;padding: 0 0 71.42857142857143% 0;}
 .neet_2023_f1_phy_chem_89_c {max-width:163px; max-height:121px; }
-.neet_2023_f1_phy_chem_89_c::after {content: '\00a0';display: inline-block; width:163px; height:121px; background-position: 54.270557029177716% 53.45813832553302%;background-size: 1256.441717791411% 1689.2561983471073%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.neet_2023_f1_phy_chem_89_c::after {content: '\00a0';display: inline-block; width:163px; height:121px; background-position: 99.78768577494692% 0.05271481286241434%;background-size: 1255.8282208588957% 1667.7685950413222%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.neet_2023_f1_phy_chem_89_c::after {max-width:163px; width:100%;height:0;padding: 0 0 74.23312883435582% 0;}
 .neet_2023_f1_phy_chem_89_d {max-width:170px; max-height:116px; }
-.neet_2023_f1_phy_chem_89_d::after {content: '\00a0';display: inline-block; width:170px; height:116px; background-position: 99.84025559105432% 88.48547717842324%;background-size: 1204.7058823529412% 1762.0689655172414%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.neet_2023_f1_phy_chem_89_d::after {content: '\00a0';display: inline-block; width:170px; height:116px; background-position: 97.44272775705913% 81.28286014721346%;background-size: 1204.1176470588234% 1739.655172413793%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.neet_2023_f1_phy_chem_89_d::after {max-width:170px; width:100%;height:0;padding: 0 0 68.23529411764706% 0;}
 .neet_2023_f1_phy_chem_89_sol {max-width:636px; max-height:422px; }
-.neet_2023_f1_phy_chem_89_sol::after {content: '\00a0';display: inline-block; width:636px; height:422px; background-position: 41.07648725212464% 0.06165228113440197%;background-size: 322.0125786163522% 484.3601895734597%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.neet_2023_f1_phy_chem_89_sol::after {content: '\00a0';display: inline-block; width:636px; height:422px; background-position: 41.105598866052446% 0.06265664160401002%;background-size: 321.8553459119497% 478.1990521327014%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.neet_2023_f1_phy_chem_89_sol::after {max-width:636px; width:100%;height:0;padding: 0 0 66.35220125786164% 0;}
+.neet_od_2019_ph_54_sol {max-width:412px; max-height:178px; }
+.neet_od_2019_ph_54_sol::after {content: '\00a0';display: inline-block; width:412px; height:178px; background-position: 99.83333333333333% 16.438356164383563%;background-size: 245.63106796116506% 920.2247191011236%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+div.neet_od_2019_ph_54_sol::after {max-width:412px; width:100%;height:0;padding: 0 0 43.20388349514563% 0;}
 .neet_re_ph_2022_80_sol {max-width:578px; max-height:481px; }
-.neet_re_ph_2022_80_sol::after {content: '\00a0';display: inline-block; width:578px; height:481px; background-position: 0.06802721088435375% 0.06397952655150352%;background-size: 354.3252595155709% 424.94802494802497%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.neet_re_ph_2022_80_sol::after {content: '\00a0';display: inline-block; width:578px; height:481px; background-position: 0.06807351940095303% 0.06506180871828236%;background-size: 354.1522491349481% 419.54261954261955%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.neet_re_ph_2022_80_sol::after {max-width:578px; width:100%;height:0;padding: 0 0 83.21799307958477% 0;}
 .neet_re_ph_2022_82_sol_a {max-width:597px; max-height:177px; }
-.neet_re_ph_2022_82_sol_a::after {content: '\00a0';display: inline-block; width:597px; height:177px; background-position: 0.07358351729212656% 50.59101654846336%;background-size: 327.63819095477385% 577.9661016949152%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.neet_re_ph_2022_82_sol_a::after {content: '\00a0';display: inline-block; width:597px; height:177px; background-position: 0.24096385542168675% 10.403832991101986%;background-size: 169.5142378559464% 925.4237288135594%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.neet_re_ph_2022_82_sol_a::after {max-width:597px; width:100%;height:0;padding: 0 0 29.64824120603015% 0;}
 .neet_re_ph_2022_82_sol_b {max-width:527px; max-height:131px; }
-.neet_re_ph_2022_82_sol_b::after {content: '\00a0';display: inline-block; width:527px; height:131px; background-position: 18.606180144641684% 90.32932566649242%;background-size: 388.6148007590133% 1560.3053435114505%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.neet_re_ph_2022_82_sol_b::after {content: '\00a0';display: inline-block; width:527px; height:131px; background-position: 0.20618556701030927% 21.8978102189781%;background-size: 192.0303605313093% 1250.381679389313%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.neet_re_ph_2022_82_sol_b::after {max-width:527px; width:100%;height:0;padding: 0 0 24.857685009487668% 0;}
 .neet_re_ph_2022_82_sol_d {max-width:588px; max-height:103px; }
-.neet_re_ph_2022_82_sol_d::after {content: '\00a0';display: inline-block; width:588px; height:103px; background-position: 64.86301369863014% 75.78567748583204%;background-size: 348.29931972789115% 1984.4660194174758%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.neet_re_ph_2022_82_sol_d::after {content: '\00a0';display: inline-block; width:588px; height:103px; background-position: 83.41329677861549% 14.569190600522193%;background-size: 348.1292517006803% 1959.2233009708739%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.neet_re_ph_2022_82_sol_d::after {max-width:588px; width:100%;height:0;padding: 0 0 17.517006802721088% 0;}
 .neet_re_ph_2022_92_a {max-width:368px; max-height:105px; }
-.neet_re_ph_2022_92_a::after {content: '\00a0';display: inline-block; width:368px; height:105px; background-position: 65.74307304785894% 81.26361655773421%;background-size: 531.5217391304348% 974.2857142857143%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.neet_re_ph_2022_92_a::after {content: '\00a0';display: inline-block; width:368px; height:105px; background-position: 62.11180124223603% 64.84018264840182%;background-size: 275% 1560%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.neet_re_ph_2022_92_a::after {max-width:368px; width:100%;height:0;padding: 0 0 28.532608695652176% 0;}
 .neet_re_ph_2022_92_d {max-width:428px; max-height:112px; }
-.neet_re_ph_2022_92_d::after {content: '\00a0';display: inline-block; width:428px; height:112px; background-position: 94.81481481481481% 75.62111801242236%;background-size: 478.50467289719626% 1825%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.neet_re_ph_2022_92_d::after {content: '\00a0';display: inline-block; width:428px; height:112px; background-position: 73.97260273972603% 42.070773263433814%;background-size: 236.44859813084113% 1462.5%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.neet_re_ph_2022_92_d::after {max-width:428px; width:100%;height:0;padding: 0 0 26.16822429906542% 0;}
 .neet_re_ph_2022_92_sol {max-width:467px; max-height:476px; }
-.neet_re_ph_2022_92_sol::after {content: '\00a0';display: inline-block; width:467px; height:476px; background-position: 36.68564199873498% 27.040816326530614%;background-size: 438.5438972162741% 429.4117647058824%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.neet_re_ph_2022_92_sol::after {content: '\00a0';display: inline-block; width:467px; height:476px; background-position: 0.06329113924050633% 60.635538261997404%;background-size: 438.32976445396145% 423.9495798319328%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.neet_re_ph_2022_92_sol::after {max-width:467px; width:100%;height:0;padding: 0 0 101.9271948608137% 0;}
 .neet_re_ph_2022_95 {max-width:490px; max-height:91px; }
-.neet_re_ph_2022_95::after {content: '\00a0';display: inline-block; width:490px; height:91px; background-position: 75.09627727856225% 70.09728622631849%;background-size: 417.9591836734694% 2246.153846153846%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.neet_re_ph_2022_95::after {content: '\00a0';display: inline-block; width:490px; height:91px; background-position: 0.19157088122605365% 29.86425339366516%;background-size: 206.53061224489795% 1800%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
 div.neet_re_ph_2022_95::after {max-width:490px; width:100%;height:0;padding: 0 0 18.571428571428573% 0;}
 .neet_re_ph_2022_95_a {max-width:433px; max-height:206px; }
-.neet_re_ph_2022_95_a::after {content: '\00a0';display: inline-block; width:433px; height:206px; background-position: 0.06565988181221274% 27.050183598531213%;background-size: 451.7321016166282% 496.6019417475728%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.neet_re_ph_2022_95_a::after {content: '\00a0';display: inline-block; width:433px; height:206px; background-position: 29.05824039653036% 76.82119205298014%;background-size: 472.74826789838335% 979.6116504854369%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.neet_re_ph_2022_95_a::after {max-width:433px; width:100%;height:0;padding: 0 0 47.57505773672055% 0;}
 .neet_re_ph_2022_95_b {max-width:417px; max-height:238px; }
-.neet_re_ph_2022_95_b::after {content: '\00a0';display: inline-block; width:417px; height:238px; background-position: 0.061312078479460456% 26.74418604651163%;background-size: 491.12709832134294% 858.8235294117648%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.neet_re_ph_2022_95_b::after {content: '\00a0';display: inline-block; width:417px; height:238px; background-position: 72.33128834355828% 50.449438202247194%;background-size: 490.88729016786573% 847.8991596638656%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.neet_re_ph_2022_95_b::after {max-width:417px; width:100%;height:0;padding: 0 0 57.07434052757794% 0;}
 .neet_re_ph_2022_95_c {max-width:431px; max-height:219px; }
-.neet_re_ph_2022_95_c::after {content: '\00a0';display: inline-block; width:431px; height:219px; background-position: 0.06557377049180328% 0.12437810945273632%;background-size: 453.8283062645012% 467.1232876712329%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.neet_re_ph_2022_95_c::after {content: '\00a0';display: inline-block; width:431px; height:219px; background-position: 29.02227722772277% 65.14730405780989%;background-size: 474.9419953596288% 921.4611872146119%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.neet_re_ph_2022_95_c::after {max-width:431px; width:100%;height:0;padding: 0 0 50.812064965197216% 0;}
 .neet_re_ph_2022_95_d {max-width:417px; max-height:195px; }
-.neet_re_ph_2022_95_d::after {content: '\00a0';display: inline-block; width:417px; height:195px; background-position: 28.135152696556204% 0.12077294685990338%;background-size: 469.0647482014389% 524.6153846153846%;background-image: url(ch_xii_ch11-1.png);padding: 0; }
+.neet_re_ph_2022_95_d::after {content: '\00a0';display: inline-block; width:417px; height:195px; background-position: 22.208588957055216% 98.68348875479978%;background-size: 490.88729016786573% 1034.871794871795%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.neet_re_ph_2022_95_d::after {max-width:417px; width:100%;height:0;padding: 0 0 46.76258992805755% 0;}
 .neet_re_ph_2022_95_sol {max-width:498px; max-height:451px; }
-.neet_re_ph_2022_95_sol::after {content: '\00a0';display: inline-block; width:498px; height:451px; background-position: 78.51612903225806% 0.06277463904582549%;background-size: 411.2449799196787% 453.2150776053215%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+.neet_re_ph_2022_95_sol::after {content: '\00a0';display: inline-block; width:498px; height:451px; background-position: 0.0645577792123951% 30.823229100191448%;background-size: 411.04417670682733% 447.450110864745%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
 div.neet_re_ph_2022_95_sol::after {max-width:498px; width:100%;height:0;padding: 0 0 90.56224899598394% 0;}
+.p12016_164sol {max-width:492px; max-height:234px; }
+.p12016_164sol::after {content: '\00a0';display: inline-block; width:492px; height:234px; background-position: 37.29903536977492% 23.766816143497756%;background-size: 416.0569105691057% 862.3931623931624%;background-image: url(ch_xii_ch11-0.png);padding: 0; }
+div.p12016_164sol::after {max-width:492px; width:100%;height:0;padding: 0 0 47.5609756097561% 0;}
 
-/* $TexturePacker:SmartUpdate:3d9ad4b557e73544f9109f07c8dbe6f8:2c4afbfb207ba0ac0c97654470082aba:f72904304d859a0adf58fc66b2d8c169$ */
+/* $TexturePacker:SmartUpdate:25e0ac6789d83c0b124ca262f45971a8:fd5e40203db58a89b6bdce8b18081bc0:f72904304d859a0adf58fc66b2d8c169$ */

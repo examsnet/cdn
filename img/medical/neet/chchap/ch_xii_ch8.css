@@ -7,8 +7,17 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
-.DFBlock_1 {max-width:466px; max-height:164px; }
-.DFBlock_1::after {content: '\00a0';display: inline-block; width:466px; height:164px; background-position: 50% 50%;background-size: 100.42918454935622% 101.21951219512195%;background-image: url(ch_xii_ch8.png);padding: 0; }
-div.DFBlock_1::after {max-width:466px; width:100%;height:0;padding: 0 0 35.1931330472103% 0;}
+.NEET_2019_PC_Q2_35_s_1 {max-width:110px; max-height:104px; }
+.NEET_2019_PC_Q2_35_s_1::after {content: '\00a0';display: inline-block; width:110px; height:104px; background-position: 1% 1.0526315789473684%;background-size: 190.9090909090909% 191.34615384615384%;background-image: url(ch_xii_ch8.png);padding: 0; }
+div.NEET_2019_PC_Q2_35_s_1::after {max-width:110px; width:100%;height:0;padding: 0 0 94.54545454545455% 0;}
+.NEET_2019_PC_Q2_35_s_2 {max-width:97px; max-height:100px; }
+.NEET_2019_PC_Q2_35_s_2::after {content: '\00a0';display: inline-block; width:97px; height:100px; background-position: 99.11504424778761% 1.0101010101010102%;background-size: 216.49484536082474% 199%;background-image: url(ch_xii_ch8.png);padding: 0; }
+div.NEET_2019_PC_Q2_35_s_2::after {max-width:97px; width:100%;height:0;padding: 0 0 103.09278350515464% 0;}
+.n2014_73sol {max-width:115px; max-height:37px; }
+.n2014_73sol::after {content: '\00a0';display: inline-block; width:115px; height:37px; background-position: 1.0526315789473684% 99.38271604938272%;background-size: 182.6086956521739% 537.8378378378378%;background-image: url(ch_xii_ch8.png);padding: 0; }
+div.n2014_73sol::after {max-width:115px; width:100%;height:0;padding: 0 0 32.17391304347826% 0;}
+.n2015_14sol {max-width:189px; max-height:54px; }
+.n2015_14sol::after {content: '\00a0';display: inline-block; width:189px; height:54px; background-position: 4.761904761904762% 73.10344827586206%;background-size: 111.11111111111111% 368.51851851851853%;background-image: url(ch_xii_ch8.png);padding: 0; }
+div.n2015_14sol::after {max-width:189px; width:100%;height:0;padding: 0 0 28.571428571428573% 0;}
 
-/* $TexturePacker:SmartUpdate:23bdce584f245f0598cc692b02d2bf80:ea67513caff78b16081e20f150cf7d87:a0e5d2926db0eb07c42fd53b27eea723$ */
+/* $TexturePacker:SmartUpdate:f888d6a213c987f196460e310a770641:fcd435e01e3831f77837a853149271e9:a0e5d2926db0eb07c42fd53b27eea723$ */

@@ -8,13 +8,10 @@ Responsive: <div class="yourspritesname"></div>
 
 
 .Chemistry_27 {max-width:421px; max-height:313px; }
-.Chemistry_27::after {content: '\00a0';display: inline-block; width:421px; height:313px; background-position: 50% 0.44642857142857145%;background-size: 100.4750593824228% 171.56549520766774%;background-image: url(ch_xii_ch1.png);padding: 0; }
+.Chemistry_27::after {content: '\00a0';display: inline-block; width:421px; height:313px; background-position: 0.4149377593360996% 50%;background-size: 157.24465558194774% 100.63897763578275%;background-image: url(ch_xii_ch1.png);padding: 0; }
 div.Chemistry_27::after {max-width:421px; width:100%;height:0;padding: 0 0 74.34679334916865% 0;}
 .Chemistry_51 {max-width:238px; max-height:221px; }
-.Chemistry_51::after {content: '\00a0';display: inline-block; width:238px; height:221px; background-position: 0.5405405405405406% 99.68354430379746%;background-size: 177.7310924369748% 242.98642533936652%;background-image: url(ch_xii_ch1.png);padding: 0; }
+.Chemistry_51::after {content: '\00a0';display: inline-block; width:238px; height:221px; background-position: 99.76415094339623% 1.0638297872340425%;background-size: 278.1512605042017% 142.5339366515837%;background-image: url(ch_xii_ch1.png);padding: 0; }
 div.Chemistry_51::after {max-width:238px; width:100%;height:0;padding: 0 0 92.85714285714286% 0;}
-.nc1_18sol {max-width:162px; max-height:204px; }
-.nc1_18sol::after {content: '\00a0';display: inline-block; width:162px; height:204px; background-position: 91.95402298850574% 94.5945945945946%;background-size: 261.1111111111111% 263.2352941176471%;background-image: url(ch_xii_ch1.png);padding: 0; }
-div.nc1_18sol::after {max-width:162px; width:100%;height:0;padding: 0 0 125.92592592592592% 0;}
 
-/* $TexturePacker:SmartUpdate:2b4a5cd09167c3854a56563dedfd64cb:068a29819323a4c1c24bbcae6d1a374e:94c416ed8d6b1eb92fe77e72ccaf80cb$ */
+/* $TexturePacker:SmartUpdate:71592e23d3534fd8d222092b9adc1e8e:4c3fda448ecc8a73b4673e622c1ba37e:94c416ed8d6b1eb92fe77e72ccaf80cb$ */
