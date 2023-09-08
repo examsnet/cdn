@@ -7,32 +7,59 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
+.Motion_25_s {max-width:247px; max-height:327px; }
+.Motion_25_s::after {content: '\00a0';display: inline-block; width:247px; height:327px; background-position: 79.5339412360689% 98.93939393939394%;background-size: 499.59514170040484% 301.8348623853211%;background-image: url(ph_xi_ch2.png);padding: 0; }
+div.Motion_25_s::after {max-width:247px; width:100%;height:0;padding: 0 0 132.38866396761134% 0;}
+.Motion_26_s {max-width:382px; max-height:502px; }
+.Motion_26_s::after {content: '\00a0';display: inline-block; width:382px; height:502px; background-position: 53.4037558685446% 0.20618556701030927%;background-size: 323.0366492146597% 196.61354581673308%;background-image: url(ph_xi_ch2.png);padding: 0; }
+div.Motion_26_s::after {max-width:382px; width:100%;height:0;padding: 0 0 131.41361256544502% 0;}
+.Motion_38_q {max-width:482px; max-height:198px; }
+.Motion_38_q::after {content: '\00a0';display: inline-block; width:482px; height:198px; background-position: 0.13297872340425532% 72.75031685678074%;background-size: 256.01659751037346% 498.4848484848485%;background-image: url(ph_xi_ch2.png);padding: 0; }
+div.Motion_38_q::after {max-width:482px; width:100%;height:0;padding: 0 0 41.07883817427386% 0;}
+.Motion_40_o_1 {max-width:172px; max-height:138px; }
+.Motion_40_o_1::after {content: '\00a0';display: inline-block; width:172px; height:138px; background-position: 99.90583804143127% 35.924617196702%;background-size: 717.4418604651163% 715.2173913043479%;background-image: url(ph_xi_ch2.png);padding: 0; }
+div.Motion_40_o_1::after {max-width:172px; width:100%;height:0;padding: 0 0 80.23255813953489% 0;}
+.Motion_40_o_2 {max-width:187px; max-height:141px; }
+.Motion_40_o_2::after {content: '\00a0';display: inline-block; width:187px; height:141px; background-position: 94.26934097421203% 53.427895981087474%;background-size: 659.8930481283422% 700%;background-image: url(ph_xi_ch2.png);padding: 0; }
+div.Motion_40_o_2::after {max-width:187px; width:100%;height:0;padding: 0 0 75.40106951871658% 0;}
+.Motion_40_o_3 {max-width:182px; max-height:143px; }
+.Motion_40_o_3::after {content: '\00a0';display: inline-block; width:182px; height:143px; background-position: 98.19391634980988% 70.37914691943128%;background-size: 678.021978021978% 690.2097902097902%;background-image: url(ph_xi_ch2.png);padding: 0; }
+div.Motion_40_o_3::after {max-width:182px; width:100%;height:0;padding: 0 0 78.57142857142857% 0;}
+.Motion_40_o_4 {max-width:177px; max-height:142px; }
+.Motion_40_o_4::after {content: '\00a0';display: inline-block; width:177px; height:142px; background-position: 97.7294228949858% 87.33727810650888%;background-size: 697.1751412429378% 695.0704225352113%;background-image: url(ph_xi_ch2.png);padding: 0; }
+div.Motion_40_o_4::after {max-width:177px; width:100%;height:0;padding: 0 0 80.22598870056497% 0;}
+.Motion_46_s {max-width:300px; max-height:90px; }
+.Motion_46_s::after {content: '\00a0';display: inline-block; width:300px; height:90px; background-position: 51.820128479657384% 74.02452619843925%;background-size: 411.3333333333333% 1096.6666666666667%;background-image: url(ph_xi_ch2.png);padding: 0; }
+div.Motion_46_s::after {max-width:300px; width:100%;height:0;padding: 0 0 30% 0;}
 .NEET_2020_6_PHY_CHEM_sol {max-width:136px; max-height:141px; }
-.NEET_2020_6_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:136px; height:141px; background-position: 89.69359331476323% 26.143790849673202%;background-size: 363.97058823529414% 534.0425531914893%;background-image: url(ph_xi_ch2.png);padding: 0; }
+.NEET_2020_6_PHY_CHEM_sol::after {content: '\00a0';display: inline-block; width:136px; height:141px; background-position: 76.32058287795992% 0.1182033096926714%;background-size: 907.3529411764706% 700%;background-image: url(ph_xi_ch2.png);padding: 0; }
 div.NEET_2020_6_PHY_CHEM_sol::after {max-width:136px; width:100%;height:0;padding: 0 0 103.67647058823529% 0;}
 .NEET_2022_PC_Q_33 {max-width:172px; max-height:158px; }
-.NEET_2022_PC_Q_33::after {content: '\00a0';display: inline-block; width:172px; height:158px; background-position: 99.69040247678019% 0.16806722689075632%;background-size: 287.7906976744186% 476.5822784810127%;background-image: url(ph_xi_ch2.png);padding: 0; }
+.NEET_2022_PC_Q_33::after {content: '\00a0';display: inline-block; width:172px; height:158px; background-position: 53.578154425612055% 91.0735826296743%;background-size: 717.4418604651163% 624.6835443037975%;background-image: url(ph_xi_ch2.png);padding: 0; }
 div.NEET_2022_PC_Q_33::after {max-width:172px; width:100%;height:0;padding: 0 0 91.86046511627907% 0;}
 .neet_2023_f1_phy_chem_36_sol {max-width:320px; max-height:213px; }
-.neet_2023_f1_phy_chem_36_sol::after {content: '\00a0';display: inline-block; width:320px; height:213px; background-position: 0.5714285714285714% 0.18518518518518517%;background-size: 154.6875% 353.5211267605634%;background-image: url(ph_xi_ch2.png);padding: 0; }
+.neet_2023_f1_phy_chem_36_sol::after {content: '\00a0';display: inline-block; width:320px; height:213px; background-position: 0.10940919037199125% 99.87080103359173%;background-size: 385.625% 463.38028169014086%;background-image: url(ph_xi_ch2.png);padding: 0; }
 div.neet_2023_f1_phy_chem_36_sol::after {max-width:320px; width:100%;height:0;padding: 0 0 66.5625% 0;}
 .neet_2023_f1_phy_chem_40_sol {max-width:246px; max-height:196px; }
-.neet_2023_f1_phy_chem_40_sol::after {content: '\00a0';display: inline-block; width:246px; height:196px; background-position: 0.40160642570281124% 94.0754039497307%;background-size: 201.21951219512195% 384.18367346938777%;background-image: url(ph_xi_ch2.png);padding: 0; }
+.neet_2023_f1_phy_chem_40_sol::after {content: '\00a0';display: inline-block; width:246px; height:196px; background-position: 32.59109311740891% 97.724399494311%;background-size: 501.6260162601626% 503.57142857142856%;background-image: url(ph_xi_ch2.png);padding: 0; }
 div.neet_2023_f1_phy_chem_40_sol::after {max-width:246px; width:100%;height:0;padding: 0 0 79.67479674796748% 0;}
 .neet_re_ph_2022_43_a {max-width:240px; max-height:150px; }
-.neet_re_ph_2022_43_a::after {content: '\00a0';display: inline-block; width:240px; height:150px; background-position: 99.6078431372549% 50.082918739635154%;background-size: 206.25% 502%;background-image: url(ph_xi_ch2.png);padding: 0; }
+.neet_re_ph_2022_43_a::after {content: '\00a0';display: inline-block; width:240px; height:150px; background-position: 99.29577464788733% 0.11947431302270012%;background-size: 514.1666666666666% 658%;background-image: url(ph_xi_ch2.png);padding: 0; }
 div.neet_re_ph_2022_43_a::after {max-width:240px; width:100%;height:0;padding: 0 0 62.5% 0;}
 .neet_re_ph_2022_43_b {max-width:222px; max-height:146px; }
-.neet_re_ph_2022_43_b::after {content: '\00a0';display: inline-block; width:222px; height:146px; background-position: 90.84249084249085% 99.83525535420098%;background-size: 222.97297297297297% 515.7534246575342%;background-image: url(ph_xi_ch2.png);padding: 0; }
+.neet_re_ph_2022_43_b::after {content: '\00a0';display: inline-block; width:222px; height:146px; background-position: 82.80632411067194% 36.26634958382878%;background-size: 555.8558558558559% 676.027397260274%;background-image: url(ph_xi_ch2.png);padding: 0; }
 div.neet_re_ph_2022_43_b::after {max-width:222px; width:100%;height:0;padding: 0 0 65.76576576576576% 0;}
 .neet_re_ph_2022_43_c {max-width:234px; max-height:152px; }
-.neet_re_ph_2022_43_c::after {content: '\00a0';display: inline-block; width:234px; height:152px; background-position: 96.16858237547893% 75.37437603993344%;background-size: 211.53846153846155% 495.39473684210526%;background-image: url(ph_xi_ch2.png);padding: 0; }
+.neet_re_ph_2022_43_c::after {content: '\00a0';display: inline-block; width:234px; height:152px; background-position: 98.7% 18.20359281437126%;background-size: 527.3504273504274% 649.3421052631579%;background-image: url(ph_xi_ch2.png);padding: 0; }
 div.neet_re_ph_2022_43_c::after {max-width:234px; width:100%;height:0;padding: 0 0 64.95726495726495% 0;}
 .neet_re_ph_2022_43_d {max-width:249px; max-height:159px; }
-.neet_re_ph_2022_43_d::after {content: '\00a0';display: inline-block; width:249px; height:159px; background-position: 0.4065040650406504% 61.27946127946128%;background-size: 198.79518072289156% 473.58490566037733%;background-image: url(ph_xi_ch2.png);padding: 0; }
+.neet_re_ph_2022_43_d::after {content: '\00a0';display: inline-block; width:249px; height:159px; background-position: 49.13705583756345% 60.869565217391305%;background-size: 495.58232931726906% 620.7547169811321%;background-image: url(ph_xi_ch2.png);padding: 0; }
 div.neet_re_ph_2022_43_d::after {max-width:249px; width:100%;height:0;padding: 0 0 63.855421686746986% 0;}
 .neet_re_ph_2022_43_sol {max-width:252px; max-height:148px; }
-.neet_re_ph_2022_43_sol::after {content: '\00a0';display: inline-block; width:252px; height:148px; background-position: 0.411522633744856% 35.53719008264463%;background-size: 196.42857142857142% 508.7837837837838%;background-image: url(ph_xi_ch2.png);padding: 0; }
+.neet_re_ph_2022_43_sol::after {content: '\00a0';display: inline-block; width:252px; height:148px; background-position: 74.74541751527495% 60.0715137067938%;background-size: 489.6825396825397% 666.8918918918919%;background-image: url(ph_xi_ch2.png);padding: 0; }
 div.neet_re_ph_2022_43_sol::after {max-width:252px; width:100%;height:0;padding: 0 0 58.73015873015873% 0;}
+.nt_ph_motion_st_line_5_sol {max-width:453px; max-height:572px; }
+.nt_ph_motion_st_line_5_sol::after {content: '\00a0';display: inline-block; width:453px; height:572px; background-position: 0.12804097311139565% 0.24096385542168675%;background-size: 272.40618101545255% 172.55244755244755%;background-image: url(ph_xi_ch2.png);padding: 0; }
+div.nt_ph_motion_st_line_5_sol::after {max-width:453px; width:100%;height:0;padding: 0 0 126.26931567328919% 0;}
 
-/* $TexturePacker:SmartUpdate:b544b07fbde00abdc880c44a8ea94cb2:003649a40fa43eec445045f802174258:cb3376a2114cc78d355cd0e7e623ebf6$ */
+/* $TexturePacker:SmartUpdate:dee7b5a0072b78f1c97fbaabf630fb8e:a52ea6aacab240e0b35e5d9264eac241:cb3376a2114cc78d355cd0e7e623ebf6$ */
