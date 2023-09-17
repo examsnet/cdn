@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.agn_vayu_grp_x_18_jan_2023_6_1 {max-width:164px; max-height:158px; }
+.agn_vayu_grp_x_18_jan_2023_6_1::after {content: '\00a0';display: inline-block; width:164px; height:158px; background-position: 29.300291545189506% 2.9411764705882355%;background-size: 518.2926829268292% 121.51898734177215%;background-image: url(grpx2023.png);padding: 0; }
+div.agn_vayu_grp_x_18_jan_2023_6_1::after {max-width:164px; width:100%;height:0;padding: 0 0 96.34146341463415% 0;}
+.agn_vayu_grp_x_18_jan_2023_6_2 {max-width:165px; max-height:157px; }
+.agn_vayu_grp_x_18_jan_2023_6_2::after {content: '\00a0';display: inline-block; width:165px; height:157px; background-position: 53.43065693430657% 2.857142857142857%;background-size: 515.1515151515151% 122.29299363057325%;background-image: url(grpx2023.png);padding: 0; }
+div.agn_vayu_grp_x_18_jan_2023_6_2::after {max-width:165px; width:100%;height:0;padding: 0 0 95.15151515151516% 0;}
+.agn_vayu_grp_x_18_jan_2023_6_3 {max-width:160px; max-height:151px; }
+.agn_vayu_grp_x_18_jan_2023_6_3::after {content: '\00a0';display: inline-block; width:160px; height:151px; background-position: 99.85507246376811% 2.4390243902439024%;background-size: 531.25% 127.1523178807947%;background-image: url(grpx2023.png);padding: 0; }
+div.agn_vayu_grp_x_18_jan_2023_6_3::after {max-width:160px; width:100%;height:0;padding: 0 0 94.375% 0;}
+.agn_vayu_grp_x_18_jan_2023_6_4 {max-width:156px; max-height:153px; }
+.agn_vayu_grp_x_18_jan_2023_6_4::after {content: '\00a0';display: inline-block; width:156px; height:153px; background-position: 76.657060518732% 2.5641025641025643%;background-size: 544.8717948717949% 125.49019607843137%;background-image: url(grpx2023.png);padding: 0; }
+div.agn_vayu_grp_x_18_jan_2023_6_4::after {max-width:156px; width:100%;height:0;padding: 0 0 98.07692307692308% 0;}
+.agn_vayu_grp_x_19_jan_2023_24 {max-width:199px; max-height:190px; }
+.agn_vayu_grp_x_19_jan_2023_24::after {content: '\00a0';display: inline-block; width:199px; height:190px; background-position: 0.15360983102918588% 50%;background-size: 427.1356783919598% 101.05263157894737%;background-image: url(grpx2023.png);padding: 0; }
+div.agn_vayu_grp_x_19_jan_2023_24::after {max-width:199px; width:100%;height:0;padding: 0 0 95.47738693467336% 0;}
+
+/* $TexturePacker:SmartUpdate:7a09b035d7b40742542259171567cd66:21b066896f70692fd1c22b4ed20a8c45:7f7b6df977bf5a1c78848a8dabc8b163$ */
