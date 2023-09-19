@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.mpsc_2017_20 {max-width:267px; max-height:292px; }
+.mpsc_2017_20::after {content: '\00a0';display: inline-block; width:267px; height:292px; background-position: 99.65635738831615% 8.333333333333334%;background-size: 208.98876404494382% 104.10958904109589%;background-image: url(maha_2017.png);padding: 0; }
+div.mpsc_2017_20::after {max-width:267px; width:100%;height:0;padding: 0 0 109.3632958801498% 0;}
+.mpsc_2017_30 {max-width:288px; max-height:302px; }
+.mpsc_2017_30::after {content: '\00a0';display: inline-block; width:288px; height:302px; background-position: 0.37037037037037035% 50%;background-size: 193.75% 100.66225165562913%;background-image: url(maha_2017.png);padding: 0; }
+div.mpsc_2017_30::after {max-width:288px; width:100%;height:0;padding: 0 0 104.86111111111111% 0;}
+
+/* $TexturePacker:SmartUpdate:e38ac15c772693e88fd4cb8c197a9329:b09ce2d670acd25b1631bfd8162e81db:8340f5fead272e7095cc3e4b589cfd63$ */
