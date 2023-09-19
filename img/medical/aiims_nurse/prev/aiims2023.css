@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.aiims_norcet_2023_10 {max-width:722px; max-height:438px; }
+.aiims_norcet_2023_10::after {content: '\00a0';display: inline-block; width:722px; height:438px; background-position: 0.0999000999000999% 1.7241379310344827%;background-size: 238.6426592797784% 113.2420091324201%;background-image: url(aiims2023.png);padding: 0; }
+div.aiims_norcet_2023_10::after {max-width:722px; width:100%;height:0;padding: 0 0 60.664819944598335% 0;}
+.aiims_norcet_2023_11 {max-width:400px; max-height:339px; }
+.aiims_norcet_2023_11::after {content: '\00a0';display: inline-block; width:400px; height:339px; background-position: 99.92441421012849% 0.6369426751592356%;background-size: 430.75% 146.3126843657817%;background-image: url(aiims2023.png);padding: 0; }
+div.aiims_norcet_2023_11::after {max-width:400px; width:100%;height:0;padding: 0 0 84.75% 0;}
+.aiims_norcet_2023_25 {max-width:458px; max-height:133px; }
+.aiims_norcet_2023_25::after {content: '\00a0';display: inline-block; width:458px; height:133px; background-position: 57.23320158102767% 99.72451790633609%;background-size: 376.2008733624454% 372.9323308270677%;background-image: url(aiims2023.png);padding: 0; }
+div.aiims_norcet_2023_25::after {max-width:458px; width:100%;height:0;padding: 0 0 29.03930131004367% 0;}
+.aiims_norcet_2023_30 {max-width:597px; max-height:360px; }
+.aiims_norcet_2023_30::after {content: '\00a0';display: inline-block; width:597px; height:360px; background-position: 64.29840142095915% 0.7352941176470589%;background-size: 288.60971524288107% 137.77777777777777%;background-image: url(aiims2023.png);padding: 0; }
+div.aiims_norcet_2023_30::after {max-width:597px; width:100%;height:0;padding: 0 0 60.301507537688444% 0;}
+.aiims_norcet_2023_71 {max-width:116px; max-height:32px; }
+.aiims_norcet_2023_71::after {content: '\00a0';display: inline-block; width:116px; height:32px; background-position: 0.06222775357809583% 94.82758620689656%;background-size: 1485.344827586207% 1550%;background-image: url(aiims2023.png);padding: 0; }
+div.aiims_norcet_2023_71::after {max-width:116px; width:100%;height:0;padding: 0 0 27.586206896551722% 0;}
+
+/* $TexturePacker:SmartUpdate:c655a041fcff5773fe1bc2138dd87310:dbb690805ad87216ff5e61a6f5ce917a:7ba1408fe1dfcd28e07047e4de85c441$ */

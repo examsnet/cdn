@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.aiims_norcet_2021_10 {max-width:222px; max-height:98px; }
+.aiims_norcet_2021_10::after {content: '\00a0';display: inline-block; width:222px; height:98px; background-position: 99.60629921259843% 0.32894736842105265%;background-size: 214.4144144144144% 410.2040816326531%;background-image: url(aiims2021.png);padding: 0; }
+div.aiims_norcet_2021_10::after {max-width:222px; width:100%;height:0;padding: 0 0 44.14414414414414% 0;}
+.aiims_norcet_2021_62 {max-width:261px; max-height:131px; }
+.aiims_norcet_2021_62::after {content: '\00a0';display: inline-block; width:261px; height:131px; background-position: 0.46511627906976744% 99.6309963099631%;background-size: 182.37547892720306% 306.8702290076336%;background-image: url(aiims2021.png);padding: 0; }
+div.aiims_norcet_2021_62::after {max-width:261px; width:100%;height:0;padding: 0 0 50.191570881226056% 0;}
+.aiims_norcet_2021_72 {max-width:199px; max-height:36px; }
+.aiims_norcet_2021_72::after {content: '\00a0';display: inline-block; width:199px; height:36px; background-position: 91.33574007220217% 27.3224043715847%;background-size: 239.19597989949747% 1116.6666666666667%;background-image: url(aiims2021.png);padding: 0; }
+div.aiims_norcet_2021_72::after {max-width:199px; width:100%;height:0;padding: 0 0 18.09045226130653% 0;}
+.aiims_norcet_2021_83 {max-width:251px; max-height:268px; }
+.aiims_norcet_2021_83::after {content: '\00a0';display: inline-block; width:251px; height:268px; background-position: 0.4444444444444444% 0.746268656716418%;background-size: 189.6414342629482% 150%;background-image: url(aiims2021.png);padding: 0; }
+div.aiims_norcet_2021_83::after {max-width:251px; width:100%;height:0;padding: 0 0 106.77290836653387% 0;}
+
+/* $TexturePacker:SmartUpdate:ea398e5b7d58eb3626d5d57aaffb3412:4debcfb62b611b525e851e04fdcc48c6:fda9f1740c9dd78d5bf13696fc791ba2$ */
