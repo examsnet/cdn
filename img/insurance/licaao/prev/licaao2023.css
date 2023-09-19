@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.lic_aao_17_feb_2023_61_para {max-width:478px; max-height:279px; }
+.lic_aao_17_feb_2023_61_para::after {content: '\00a0';display: inline-block; width:478px; height:279px; background-position: 99.81481481481481% 2.9411764705882355%;background-size: 212.97071129707112% 112.18637992831542%;background-image: url(licaao2023.png);padding: 0; }
+div.lic_aao_17_feb_2023_61_para::after {max-width:478px; width:100%;height:0;padding: 0 0 58.36820083682009% 0;}
+.lic_aao_20_feb_2023_47_para {max-width:537px; max-height:311px; }
+.lic_aao_20_feb_2023_47_para::after {content: '\00a0';display: inline-block; width:537px; height:311px; background-position: 0.2079002079002079% 50%;background-size: 189.57169459962756% 100.64308681672026%;background-image: url(licaao2023.png);padding: 0; }
+div.lic_aao_20_feb_2023_47_para::after {max-width:537px; width:100%;height:0;padding: 0 0 57.91433891992551% 0;}
+
+/* $TexturePacker:SmartUpdate:4ce4aec8aa0ecac9249753efa40b8b7a:f4289b5b13cf3d553159b26912b56119:15cba26034980b6a76b65a9583c6657d$ */
