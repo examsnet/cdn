@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.JEEMAINS_11APRIL_2023_S1_S_33 {max-width:453px; max-height:150px; }
+.JEEMAINS_11APRIL_2023_S1_S_33::after {content: '\00a0';display: inline-block; width:453px; height:150px; background-position: 50% 50%;background-size: 100.44150110375276% 101.33333333333333%;background-image: url(ph_xi_kinetictheory2.png);padding: 0; }
+div.JEEMAINS_11APRIL_2023_S1_S_33::after {max-width:453px; width:100%;height:0;padding: 0 0 33.11258278145695% 0;}
+
+/* $TexturePacker:SmartUpdate:bf9bf2d3202113951aa70269892abef9:8db7bf71c75fe43fead5668834f489c2:3671e0a4c771f61cfb346944c0b39980$ */
