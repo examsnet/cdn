@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.ap_constable_6_nov_2016_72 {max-width:81px; max-height:87px; }
+.ap_constable_6_nov_2016_72::after {content: '\00a0';display: inline-block; width:81px; height:87px; background-position: 99.67637540453075% 0.546448087431694%;background-size: 481.48148148148147% 310.3448275862069%;background-image: url(prelims_6_nov_2016.png);padding: 0; }
+div.ap_constable_6_nov_2016_72::after {max-width:81px; width:100%;height:0;padding: 0 0 107.4074074074074% 0;}
+.ap_constable_6_nov_2016_72_1 {max-width:78px; max-height:87px; }
+.ap_constable_6_nov_2016_72_1::after {content: '\00a0';display: inline-block; width:78px; height:87px; background-position: 98.71794871794872% 48.63387978142077%;background-size: 500% 310.3448275862069%;background-image: url(prelims_6_nov_2016.png);padding: 0; }
+div.ap_constable_6_nov_2016_72_1::after {max-width:78px; width:100%;height:0;padding: 0 0 111.53846153846153% 0;}
+.ap_constable_6_nov_2016_72_2 {max-width:78px; max-height:87px; }
+.ap_constable_6_nov_2016_72_2::after {content: '\00a0';display: inline-block; width:78px; height:87px; background-position: 98.71794871794872% 96.72131147540983%;background-size: 500% 310.3448275862069%;background-image: url(prelims_6_nov_2016.png);padding: 0; }
+div.ap_constable_6_nov_2016_72_2::after {max-width:78px; width:100%;height:0;padding: 0 0 111.53846153846153% 0;}
+.ap_constable_6_nov_2016_72_para {max-width:306px; max-height:268px; }
+.ap_constable_6_nov_2016_72_para::after {content: '\00a0';display: inline-block; width:306px; height:268px; background-position: 1.1904761904761905% 50%;background-size: 127.45098039215686% 100.74626865671642%;background-image: url(prelims_6_nov_2016.png);padding: 0; }
+div.ap_constable_6_nov_2016_72_para::after {max-width:306px; width:100%;height:0;padding: 0 0 87.58169934640523% 0;}
+
+/* $TexturePacker:SmartUpdate:0149fcbf69c27f8f93a76fbfc9ce1d59:30b261ce021553322f08865c7ab4246e:9317284bcd752f546eef2e6557f8522c$ */
