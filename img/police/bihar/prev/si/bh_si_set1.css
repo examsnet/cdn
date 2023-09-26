@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.bh_si_24_apr_2022_s2_53 {max-width:82px; max-height:200px; }
+.bh_si_24_apr_2022_s2_53::after {content: '\00a0';display: inline-block; width:82px; height:200px; background-position: 0.2770083102493075% 2.127659574468085%;background-size: 540.2439024390244% 123.5%;background-image: url(bh_si_set1.jpg);padding: 0; }
+div.bh_si_24_apr_2022_s2_53::after {max-width:82px; width:100%;height:0;padding: 0 0 243.90243902439025% 0;}
+.bh_si_24_apr_2022_s2_72 {max-width:358px; max-height:109px; }
+.bh_si_24_apr_2022_s2_72::after {content: '\00a0';display: inline-block; width:358px; height:109px; background-position: 98.82352941176471% 0.7246376811594203%;background-size: 123.74301675977654% 226.60550458715596%;background-image: url(bh_si_set1.jpg);padding: 0; }
+div.bh_si_24_apr_2022_s2_72::after {max-width:358px; width:100%;height:0;padding: 0 0 30.446927374301676% 0;}
+.bh_si_26_dec_2021_s1_15 {max-width:135px; max-height:135px; }
+.bh_si_26_dec_2021_s1_15::after {content: '\00a0';display: inline-block; width:135px; height:135px; background-position: 27.272727272727273% 99.10714285714286%;background-size: 328.14814814814815% 182.96296296296296%;background-image: url(bh_si_set1.jpg);padding: 0; }
+div.bh_si_26_dec_2021_s1_15::after {max-width:135px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:737f3efb8533edf2715783afe5ed6690:63aaf9d755e5ada38a67a4d3b3203cf4:228b3d7509aa99f679c6ddd381b5cc97$ */
