@@ -1,0 +1,41 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.ts_con_md2_11 {max-width:347px; max-height:108px; }
+.ts_con_md2_11::after {content: '\00a0';display: inline-block; width:347px; height:108px; background-position: 0.5952380952380952% 97.91666666666667%;background-size: 148.4149855907781% 233.33333333333334%;background-image: url(ts_cons_md2.png);padding: 0; }
+div.ts_con_md2_11::after {max-width:347px; width:100%;height:0;padding: 0 0 31.123919308357348% 0;}
+.ts_con_md2_18_1 {max-width:81px; max-height:81px; }
+.ts_con_md2_18_1::after {content: '\00a0';display: inline-block; width:81px; height:81px; background-position: 80.4147465437788% 99.41520467836257%;background-size: 635.8024691358024% 311.1111111111111%;background-image: url(ts_cons_md2.png);padding: 0; }
+div.ts_con_md2_18_1::after {max-width:81px; width:100%;height:0;padding: 0 0 100% 0;}
+.ts_con_md2_18_2 {max-width:81px; max-height:81px; }
+.ts_con_md2_18_2::after {content: '\00a0';display: inline-block; width:81px; height:81px; background-position: 99.30875576036867% 99.41520467836257%;background-size: 635.8024691358024% 311.1111111111111%;background-image: url(ts_cons_md2.png);padding: 0; }
+div.ts_con_md2_18_2::after {max-width:81px; width:100%;height:0;padding: 0 0 100% 0;}
+.ts_con_md2_18_3 {max-width:83px; max-height:83px; }
+.ts_con_md2_18_3::after {content: '\00a0';display: inline-block; width:83px; height:83px; background-position: 80.78703703703704% 50.887573964497044%;background-size: 620.4819277108434% 303.6144578313253%;background-image: url(ts_cons_md2.png);padding: 0; }
+div.ts_con_md2_18_3::after {max-width:83px; width:100%;height:0;padding: 0 0 100% 0;}
+.ts_con_md2_18_4 {max-width:81px; max-height:81px; }
+.ts_con_md2_18_4::after {content: '\00a0';display: inline-block; width:81px; height:81px; background-position: 99.76958525345623% 49.12280701754386%;background-size: 635.8024691358024% 311.1111111111111%;background-image: url(ts_cons_md2.png);padding: 0; }
+div.ts_con_md2_18_4::after {max-width:81px; width:100%;height:0;padding: 0 0 100% 0;}
+.ts_con_md2_75 {max-width:139px; max-height:139px; }
+.ts_con_md2_75::after {content: '\00a0';display: inline-block; width:139px; height:139px; background-position: 0.26595744680851063% 0.8849557522123894%;background-size: 370.50359712230215% 181.29496402877697%;background-image: url(ts_cons_md2.png);padding: 0; }
+div.ts_con_md2_75::after {max-width:139px; width:100%;height:0;padding: 0 0 100% 0;}
+.ts_con_md2_75_1 {max-width:85px; max-height:85px; }
+.ts_con_md2_75_1::after {content: '\00a0';display: inline-block; width:85px; height:85px; background-position: 32.7906976744186% 0.5988023952095808%;background-size: 605.8823529411765% 296.47058823529414%;background-image: url(ts_cons_md2.png);padding: 0; }
+div.ts_con_md2_75_1::after {max-width:85px; width:100%;height:0;padding: 0 0 100% 0;}
+.ts_con_md2_75_2 {max-width:84px; max-height:85px; }
+.ts_con_md2_75_2::after {content: '\00a0';display: inline-block; width:84px; height:85px; background-position: 52.66821345707657% 0.5988023952095808%;background-size: 613.0952380952381% 296.47058823529414%;background-image: url(ts_cons_md2.png);padding: 0; }
+div.ts_con_md2_75_2::after {max-width:84px; width:100%;height:0;padding: 0 0 101.19047619047619% 0;}
+.ts_con_md2_75_3 {max-width:84px; max-height:84px; }
+.ts_con_md2_75_3::after {content: '\00a0';display: inline-block; width:84px; height:84px; background-position: 72.38979118329466% 0.5952380952380952%;background-size: 613.0952380952381% 300%;background-image: url(ts_cons_md2.png);padding: 0; }
+div.ts_con_md2_75_3::after {max-width:84px; width:100%;height:0;padding: 0 0 100% 0;}
+.ts_con_md2_75_4 {max-width:83px; max-height:82px; }
+.ts_con_md2_75_4::after {content: '\00a0';display: inline-block; width:83px; height:82px; background-position: 91.89814814814815% 0.5882352941176471%;background-size: 620.4819277108434% 307.3170731707317%;background-image: url(ts_cons_md2.png);padding: 0; }
+div.ts_con_md2_75_4::after {max-width:83px; width:100%;height:0;padding: 0 0 98.79518072289157% 0;}
+
+/* $TexturePacker:SmartUpdate:c71c6c6adf4cb3081a89d3744bbbdd8d:da1f75986f129ddbfb486ff69165693a:51e9ba97439ab87e42fa252eabb40afd$ */
