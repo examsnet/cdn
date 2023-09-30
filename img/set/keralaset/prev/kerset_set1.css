@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.kerala_set_2016_32 {max-width:259px; max-height:95px; }
+.kerala_set_2016_32::after {content: '\00a0';display: inline-block; width:259px; height:95px; background-position: 0.30303030303030304% 50%;background-size: 227.41312741312743% 102.10526315789474%;background-image: url(kerset_set1.png);padding: 0; }
+div.kerala_set_2016_32::after {max-width:259px; width:100%;height:0;padding: 0 0 36.67953667953668% 0;}
+.kerala_set_2016_32_1 {max-width:81px; max-height:81px; }
+.kerala_set_2016_32_1::after {content: '\00a0';display: inline-block; width:81px; height:81px; background-position: 51.37795275590551% 6.25%;background-size: 727.1604938271605% 119.75308641975309%;background-image: url(kerset_set1.png);padding: 0; }
+div.kerala_set_2016_32_1::after {max-width:81px; width:100%;height:0;padding: 0 0 100% 0;}
+.kerala_set_2016_32_2 {max-width:81px; max-height:81px; }
+.kerala_set_2016_32_2::after {content: '\00a0';display: inline-block; width:81px; height:81px; background-position: 67.51968503937007% 6.25%;background-size: 727.1604938271605% 119.75308641975309%;background-image: url(kerset_set1.png);padding: 0; }
+div.kerala_set_2016_32_2::after {max-width:81px; width:100%;height:0;padding: 0 0 100% 0;}
+.kerala_set_2016_32_3 {max-width:81px; max-height:81px; }
+.kerala_set_2016_32_3::after {content: '\00a0';display: inline-block; width:81px; height:81px; background-position: 83.66141732283465% 6.25%;background-size: 727.1604938271605% 119.75308641975309%;background-image: url(kerset_set1.png);padding: 0; }
+div.kerala_set_2016_32_3::after {max-width:81px; width:100%;height:0;padding: 0 0 100% 0;}
+.kerala_set_2016_32_4 {max-width:81px; max-height:81px; }
+.kerala_set_2016_32_4::after {content: '\00a0';display: inline-block; width:81px; height:81px; background-position: 99.80314960629921% 6.25%;background-size: 727.1604938271605% 119.75308641975309%;background-image: url(kerset_set1.png);padding: 0; }
+div.kerala_set_2016_32_4::after {max-width:81px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9c67d558cd1ad89ce9181c3d222ed8b1:095c391c2623b2aef42ab8b6f8049297:d909833f1b5211ba4f065d9004e2af4b$ */

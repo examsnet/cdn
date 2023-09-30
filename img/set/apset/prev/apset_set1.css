@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.ap_set_2016_28 {max-width:220px; max-height:106px; }
+.ap_set_2016_28::after {content: '\00a0';display: inline-block; width:220px; height:106px; background-position: 0.5882352941176471% 96.81122448979592%;background-size: 177.27272727272728% 839.622641509434%;background-image: url(apset_set1.png);padding: 0; }
+div.ap_set_2016_28::after {max-width:220px; width:100%;height:0;padding: 0 0 48.18181818181818% 0;}
+.ap_set_2016_34 {max-width:167px; max-height:130px; }
+.ap_set_2016_34::after {content: '\00a0';display: inline-block; width:167px; height:130px; background-position: 99.55156950672645% 99.86842105263158%;background-size: 233.53293413173654% 684.6153846153846%;background-image: url(apset_set1.png);padding: 0; }
+div.ap_set_2016_34::after {max-width:167px; width:100%;height:0;padding: 0 0 77.8443113772455% 0;}
+.ap_set_2016_43_para {max-width:338px; max-height:244px; }
+.ap_set_2016_43_para::after {content: '\00a0';display: inline-block; width:338px; height:244px; background-position: 1.9230769230769231% 79.56656346749226%;background-size: 115.38461538461539% 364.75409836065575%;background-image: url(apset_set1.png);padding: 0; }
+div.ap_set_2016_43_para::after {max-width:338px; width:100%;height:0;padding: 0 0 72.18934911242603% 0;}
+.ap_set_2018_24_para {max-width:370px; max-height:246px; }
+.ap_set_2018_24_para::after {content: '\00a0';display: inline-block; width:370px; height:246px; background-position: 5% 41.45962732919255%;background-size: 105.4054054054054% 361.7886178861789%;background-image: url(apset_set1.png);padding: 0; }
+div.ap_set_2018_24_para::after {max-width:370px; width:100%;height:0;padding: 0 0 66.48648648648648% 0;}
+.ap_set_2018_26_para {max-width:387px; max-height:265px; }
+.ap_set_2018_26_para::after {content: '\00a0';display: inline-block; width:387px; height:265px; background-position: 33.333333333333336% 0.16%;background-size: 100.7751937984496% 335.8490566037736%;background-image: url(apset_set1.png);padding: 0; }
+div.ap_set_2018_26_para::after {max-width:387px; width:100%;height:0;padding: 0 0 68.47545219638243% 0;}
+
+/* $TexturePacker:SmartUpdate:6a339bca073b7b8c6d44654ea2107c19:6c80cb941ebf44a52ecdd798aba6deb5:7b91a476fc531e95e76697e7dca9eacd$ */
