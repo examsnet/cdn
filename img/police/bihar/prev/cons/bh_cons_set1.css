@@ -7,8 +7,11 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
+.bh_cons_2023_1_oct_s1_25 {max-width:77px; max-height:109px; }
+.bh_cons_2023_1_oct_s1_25::after {content: '\00a0';display: inline-block; width:77px; height:109px; background-position: 0.5681818181818182% 50%;background-size: 328.57142857142856% 101.8348623853211%;background-image: url(bh_cons_set1.jpg);padding: 0; }
+div.bh_cons_2023_1_oct_s1_25::after {max-width:77px; width:100%;height:0;padding: 0 0 141.55844155844156% 0;}
 .bh_cons_pre_14_mar_2021_1 {max-width:173px; max-height:83px; }
-.bh_cons_pre_14_mar_2021_1::after {content: '\00a0';display: inline-block; width:173px; height:83px; background-position: 50% 50%;background-size: 101.15606936416185% 102.40963855421687%;background-image: url(bh_cons_set1.jpg);padding: 0; }
+.bh_cons_pre_14_mar_2021_1::after {content: '\00a0';display: inline-block; width:173px; height:83px; background-position: 98.75% 3.5714285714285716%;background-size: 146.242774566474% 133.73493975903614%;background-image: url(bh_cons_set1.jpg);padding: 0; }
 div.bh_cons_pre_14_mar_2021_1::after {max-width:173px; width:100%;height:0;padding: 0 0 47.97687861271676% 0;}
 
-/* $TexturePacker:SmartUpdate:b3d181af97ae2be68b300b10c28c6e4b:cfcf3db4083cb31ff733ce8c5bef8d2c:0ee61a8423132206c7a04a27d2657d75$ */
+/* $TexturePacker:SmartUpdate:1ac7c112eee024aca20be02ccfb5a10d:da8bdc3d10995717225c8db034f43bda:0ee61a8423132206c7a04a27d2657d75$ */
