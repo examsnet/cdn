@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.TEAS_READING_COMP_TEST1_Q_59 {max-width:617px; max-height:663px; }
+.TEAS_READING_COMP_TEST1_Q_59::after {content: '\00a0';display: inline-block; width:617px; height:663px; background-position: 0.08382229673093043% 99.92481203007519%;background-size: 293.354943273906% 300.6033182503771%;background-image: url(read.png);padding: 0; }
+div.TEAS_READING_COMP_TEST1_Q_59::after {max-width:617px; width:100%;height:0;padding: 0 0 107.45542949756889% 0;}
+.TEAS_READING_COMP_TEST1_Q_60 {max-width:712px; max-height:769px; }
+.TEAS_READING_COMP_TEST1_Q_60::after {content: '\00a0';display: inline-block; width:712px; height:769px; background-position: 0.09107468123861566% 0.08169934640522876%;background-size: 254.2134831460674% 259.16775032509753%;background-image: url(read.png);padding: 0; }
+div.TEAS_READING_COMP_TEST1_Q_60::after {max-width:712px; width:100%;height:0;padding: 0 0 108.00561797752809% 0;}
+.TEAS_READING_COMP_TEST1_Q_61 {max-width:822px; max-height:321px; }
+.TEAS_READING_COMP_TEST1_Q_61::after {content: '\00a0';display: inline-block; width:822px; height:321px; background-position: 83.29959514170041% 33.55263157894737%;background-size: 220.19464720194648% 620.8722741433022%;background-image: url(read.png);padding: 0; }
+div.TEAS_READING_COMP_TEST1_Q_61::after {max-width:822px; width:100%;height:0;padding: 0 0 39.051094890510946% 0;}
+.TEAS_READING_COMP_TEST1_Q_62 {max-width:823px; max-height:317px; }
+.TEAS_READING_COMP_TEST1_Q_62::after {content: '\00a0';display: inline-block; width:823px; height:317px; background-position: 83.3839918946302% 52.684964200477324%;background-size: 219.92709599027947% 628.7066246056783%;background-image: url(read.png);padding: 0; }
+div.TEAS_READING_COMP_TEST1_Q_62::after {max-width:823px; width:100%;height:0;padding: 0 0 38.517618469015794% 0;}
+.TEAS_READING_COMP_TEST1_Q_65 {max-width:821px; max-height:557px; }
+.TEAS_READING_COMP_TEST1_Q_65::after {content: '\00a0';display: inline-block; width:821px; height:557px; background-position: 0.10111223458038422% 53.690807799442894%;background-size: 220.46285018270402% 357.8096947935368%;background-image: url(read.png);padding: 0; }
+div.TEAS_READING_COMP_TEST1_Q_65::after {max-width:821px; width:100%;height:0;padding: 0 0 67.84409257003654% 0;}
+.TEAS_READING_COMP_TEST1_Q_66 {max-width:817px; max-height:559px; }
+.TEAS_READING_COMP_TEST1_Q_66::after {content: '\00a0';display: inline-block; width:817px; height:559px; background-position: 71.90332326283988% 0.0697350069735007%;background-size: 221.5422276621787% 356.5295169946333%;background-image: url(read.png);padding: 0; }
+div.TEAS_READING_COMP_TEST1_Q_66::after {max-width:817px; width:100%;height:0;padding: 0 0 68.42105263157895% 0;}
+.TEAS_READING_COMP_TEST1_Q_71 {max-width:1109px; max-height:303px; }
+.TEAS_READING_COMP_TEST1_Q_71::after {content: '\00a0';display: inline-block; width:1109px; height:303px; background-position: 88.30242510699001% 97.81065088757397%;background-size: 163.21009918845806% 657.7557755775578%;background-image: url(read.png);padding: 0; }
+div.TEAS_READING_COMP_TEST1_Q_71::after {max-width:1109px; width:100%;height:0;padding: 0 0 27.321911632100992% 0;}
+.TEAS_READING_COMP_TEST1_Q_72 {max-width:1190px; max-height:323px; }
+.TEAS_READING_COMP_TEST1_Q_72::after {content: '\00a0';display: inline-block; width:1190px; height:323px; background-position: 99.83870967741936% 79.58083832335329%;background-size: 152.10084033613447% 617.0278637770898%;background-image: url(read.png);padding: 0; }
+div.TEAS_READING_COMP_TEST1_Q_72::after {max-width:1190px; width:100%;height:0;padding: 0 0 27.142857142857142% 0;}
+
+/* $TexturePacker:SmartUpdate:be98c2afbbebee4927607e7c1b8a0bd0:da8ab8fb0426e6ac87bef3c4ac63afad:a52281bd75004e073b8d3b01baa77766$ */
