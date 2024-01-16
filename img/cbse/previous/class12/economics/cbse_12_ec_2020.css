@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Eco_2020_Outside_set_1_23_q {max-width:313px; max-height:173px; }
+.Eco_2020_Outside_set_1_23_q::after {content: '\00a0';display: inline-block; width:313px; height:173px; background-position: 1.9230769230769231% 68.19620253164557%;background-size: 116.61341853035144% 465.3179190751445%;background-image: url(cbse_12_ec_2020.png);padding: 0; }
+div.Eco_2020_Outside_set_1_23_q::after {max-width:313px; width:100%;height:0;padding: 0 0 55.27156549520767% 0;}
+.Eco_2020_Outside_set_3_4_q {max-width:330px; max-height:183px; }
+.Eco_2020_Outside_set_3_4_q::after {content: '\00a0';display: inline-block; width:330px; height:183px; background-position: 2.857142857142857% 14.95176848874598%;background-size: 110.60606060606061% 439.89071038251365%;background-image: url(cbse_12_ec_2020.png);padding: 0; }
+div.Eco_2020_Outside_set_3_4_q::after {max-width:330px; width:100%;height:0;padding: 0 0 55.45454545454545% 0;}
+.Eco_2020_set_1_13_s {max-width:283px; max-height:199px; }
+.Eco_2020_set_1_13_s::after {content: '\00a0';display: inline-block; width:283px; height:199px; background-position: 1.2195121951219512% 99.83498349834983%;background-size: 128.97526501766785% 404.52261306532665%;background-image: url(cbse_12_ec_2020.png);padding: 0; }
+div.Eco_2020_set_1_13_s::after {max-width:283px; width:100%;height:0;padding: 0 0 70.31802120141343% 0;}
+.Eco_2020_set_1_16_q {max-width:324px; max-height:153px; }
+.Eco_2020_set_1_16_q::after {content: '\00a0';display: inline-block; width:324px; height:153px; background-position: 2.4390243902439024% 42.484662576687114%;background-size: 112.65432098765432% 526.1437908496732%;background-image: url(cbse_12_ec_2020.png);padding: 0; }
+div.Eco_2020_set_1_16_q::after {max-width:324px; width:100%;height:0;padding: 0 0 47.22222222222222% 0;}
+.Eco_2020_set_1_16_s {max-width:363px; max-height:91px; }
+.Eco_2020_set_1_16_s::after {content: '\00a0';display: inline-block; width:363px; height:91px; background-position: 50% 0.1400560224089636%;background-size: 100.55096418732782% 884.6153846153846%;background-image: url(cbse_12_ec_2020.png);padding: 0; }
+div.Eco_2020_set_1_16_s::after {max-width:363px; width:100%;height:0;padding: 0 0 25.068870523415978% 0;}
+
+/* $TexturePacker:SmartUpdate:a260aeea8d983b79f4afe08e43f9c6ab:0237602890089dfd1ed1f851e3c334ef:d808468c2df7c8aee65c8c8ef5566bd8$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.English_2019_outside_set_1_22_s {max-width:360px; max-height:222px; }
+.English_2019_outside_set_1_22_s::after {content: '\00a0';display: inline-block; width:360px; height:222px; background-position: 50% 50%;background-size: 100.55555555555556% 100.90090090090091%;background-image: url(cbse_12_en_2019.png);padding: 0; }
+div.English_2019_outside_set_1_22_s::after {max-width:360px; width:100%;height:0;padding: 0 0 61.666666666666664% 0;}
+
+/* $TexturePacker:SmartUpdate:c7d8e17f47a0b3ef700da07e3368e3c2:41e83469680d6373c54e3b548012c44b:a4faf0a9afdb8c47bc91b5cd34f77588$ */

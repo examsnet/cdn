@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Eco_2018_Re_Exam_10_s {max-width:375px; max-height:308px; }
+.Eco_2018_Re_Exam_10_s::after {content: '\00a0';display: inline-block; width:375px; height:308px; background-position: 2.5% 99.80506822612085%;background-size: 110.66666666666667% 266.5584415584416%;background-image: url(cbse_12_ec_2018.png);padding: 0; }
+div.Eco_2018_Re_Exam_10_s::after {max-width:375px; width:100%;height:0;padding: 0 0 82.13333333333334% 0;}
+.Eco_2018_Re_Exam_13_s {max-width:403px; max-height:305px; }
+.Eco_2018_Re_Exam_13_s::after {content: '\00a0';display: inline-block; width:403px; height:305px; background-position: 8.333333333333334% 39.92248062015504%;background-size: 102.97766749379653% 269.1803278688525%;background-image: url(cbse_12_ec_2018.png);padding: 0; }
+div.Eco_2018_Re_Exam_13_s::after {max-width:403px; width:100%;height:0;padding: 0 0 75.68238213399503% 0;}
+.Eco_2018_Re_Exam_9_s {max-width:413px; max-height:204px; }
+.Eco_2018_Re_Exam_9_s::after {content: '\00a0';display: inline-block; width:413px; height:204px; background-position: 50% 0.1620745542949757%;background-size: 100.48426150121065% 402.45098039215685%;background-image: url(cbse_12_ec_2018.png);padding: 0; }
+div.Eco_2018_Re_Exam_9_s::after {max-width:413px; width:100%;height:0;padding: 0 0 49.39467312348668% 0;}
+
+/* $TexturePacker:SmartUpdate:ced78fdab573d9bea3effc055a5fa980:a5b88413a0c79f608d6c7fa468068269:9a0608ad1e4da3a2ab33c7c7df22340d$ */

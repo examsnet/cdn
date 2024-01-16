@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Eco_2021_Term_1_10_q {max-width:275px; max-height:165px; }
+.Eco_2021_Term_1_10_q::after {content: '\00a0';display: inline-block; width:275px; height:165px; background-position: 50% 50%;background-size: 100.72727272727273% 101.21212121212122%;background-image: url(cbse_12_ec_2021.png);padding: 0; }
+div.Eco_2021_Term_1_10_q::after {max-width:275px; width:100%;height:0;padding: 0 0 60% 0;}
+
+/* $TexturePacker:SmartUpdate:7a8d510517720be6b49b31bc947a541c:2929cf310dbce2c94229e4ecef8819fa:4a00deed274cdd668892483e8f789ceb$ */

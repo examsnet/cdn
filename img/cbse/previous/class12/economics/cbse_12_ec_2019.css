@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Eco_2019_Outside_set_1_18_s {max-width:399px; max-height:308px; }
+.Eco_2019_Outside_set_1_18_s::after {content: '\00a0';display: inline-block; width:399px; height:308px; background-position: 50% 0.2145922746781116%;background-size: 100.50125313283208% 251.2987012987013%;background-image: url(cbse_12_ec_2019.png);padding: 0; }
+div.Eco_2019_Outside_set_1_18_s::after {max-width:399px; width:100%;height:0;padding: 0 0 77.19298245614036% 0;}
+.Eco_2019_Outside_set_1_19_s {max-width:304px; max-height:200px; }
+.Eco_2019_Outside_set_1_19_s::after {content: '\00a0';display: inline-block; width:304px; height:200px; background-position: 1.0309278350515463% 99.82578397212544%;background-size: 131.9078947368421% 387%;background-image: url(cbse_12_ec_2019.png);padding: 0; }
+div.Eco_2019_Outside_set_1_19_s::after {max-width:304px; width:100%;height:0;padding: 0 0 65.78947368421052% 0;}
+.Eco_2019_set_1_11_q {max-width:311px; max-height:262px; }
+.Eco_2019_set_1_11_q::after {content: '\00a0';display: inline-block; width:311px; height:262px; background-position: 1.1111111111111112% 60.546875%;background-size: 128.93890675241158% 295.41984732824426%;background-image: url(cbse_12_ec_2019.png);padding: 0; }
+div.Eco_2019_set_1_11_q::after {max-width:311px; width:100%;height:0;padding: 0 0 84.2443729903537% 0;}
+
+/* $TexturePacker:SmartUpdate:28effc7d372130aeaf8f01ed71a90518:42850b6ea216dbd4d6c83f46ab0ef885:dbc4eb850071c11835dc7db6d277f8bc$ */
