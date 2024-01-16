@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.2022_T2_S1_DELHI_Q_13 {max-width:550px; max-height:600px; }
+.2022_T2_S1_DELHI_Q_13::after {content: '\00a0';display: inline-block; width:550px; height:600px; background-position: 0.2109704641350211% 0.08389261744966443%;background-size: 186.1818181818182% 298.6666666666667%;background-image: url(cbase_soc_2022.png);padding: 0; }
+div.2022_T2_S1_DELHI_Q_13::after {max-width:550px; width:100%;height:0;padding: 0 0 109.0909090909091% 0;}
+.2022_T2_S1_DELHI_S_13 {max-width:533px; max-height:602px; }
+.2022_T2_S1_DELHI_S_13::after {content: '\00a0';display: inline-block; width:533px; height:602px; background-position: 0.20366598778004075% 50.588235294117645%;background-size: 192.1200750469043% 297.6744186046512%;background-image: url(cbase_soc_2022.png);padding: 0; }
+div.2022_T2_S1_DELHI_S_13::after {max-width:533px; width:100%;height:0;padding: 0 0 112.94559099437149% 0;}
+.2022_T2_S1_OUTSIDEDELHI_Q_13 {max-width:507px; max-height:583px; }
+.2022_T2_S1_OUTSIDEDELHI_Q_13::after {content: '\00a0';display: inline-block; width:507px; height:583px; background-position: 99.80657640232108% 99.66914805624484%;background-size: 201.9723865877712% 307.37564322469984%;background-image: url(cbase_soc_2022.png);padding: 0; }
+div.2022_T2_S1_OUTSIDEDELHI_Q_13::after {max-width:507px; width:100%;height:0;padding: 0 0 114.99013806706114% 0;}
+.2022_T2_S1_OUTSIDEDELHI_S_13 {max-width:514px; max-height:586px; }
+.2022_T2_S1_OUTSIDEDELHI_S_13::after {content: '\00a0';display: inline-block; width:514px; height:586px; background-position: 0.19607843137254902% 99.91708126036484%;background-size: 199.22178988326849% 305.80204778156997%;background-image: url(cbase_soc_2022.png);padding: 0; }
+div.2022_T2_S1_OUTSIDEDELHI_S_13::after {max-width:514px; width:100%;height:0;padding: 0 0 114.00778210116732% 0;}
+
+/* $TexturePacker:SmartUpdate:1e558c08d8988b26991dda8851e8217a:7a0ee089e2b73f34d7343fa98bcb79ce:1b39810f055145de5a4021a07c371970$ */

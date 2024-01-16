@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.2019_SET1_DELHI_S_26 {max-width:511px; max-height:616px; }
+.2019_SET1_DELHI_S_26::after {content: '\00a0';display: inline-block; width:511px; height:616px; background-position: 46.13935969868173% 0.3184713375796178%;background-size: 307.82778864970646% 150.97402597402598%;background-image: url(cbase_soc_2019.png);padding: 0; }
+div.2019_SET1_DELHI_S_26::after {max-width:511px; width:100%;height:0;padding: 0 0 120.54794520547945% 0;}
+.2019_SET1_DELHI_S_26_1 {max-width:488px; max-height:623px; }
+.2019_SET1_DELHI_S_26_1::after {content: '\00a0';display: inline-block; width:488px; height:623px; background-position: 0.09216589861751152% 0.3257328990228013%;background-size: 322.3360655737705% 149.2776886035313%;background-image: url(cbase_soc_2019.png);padding: 0; }
+div.2019_SET1_DELHI_S_26_1::after {max-width:488px; width:100%;height:0;padding: 0 0 127.6639344262295% 0;}
+.2019_SET1_OUTSIDE_DELHI_Q_26 {max-width:570px; max-height:462px; }
+.2019_SET1_OUTSIDE_DELHI_Q_26::after {content: '\00a0';display: inline-block; width:570px; height:462px; background-position: 99.90029910269192% 0.21367521367521367%;background-size: 275.96491228070175% 201.2987012987013%;background-image: url(cbase_soc_2019.png);padding: 0; }
+div.2019_SET1_OUTSIDE_DELHI_Q_26::after {max-width:570px; width:100%;height:0;padding: 0 0 81.05263157894737% 0;}
+.2019_SET1_OUTSIDE_DELHI_S_26 {max-width:569px; max-height:465px; }
+.2019_SET1_OUTSIDE_DELHI_S_26::after {content: '\00a0';display: inline-block; width:569px; height:465px; background-position: 99.800796812749% 99.78494623655914%;background-size: 276.4499121265378% 200%;background-image: url(cbase_soc_2019.png);padding: 0; }
+div.2019_SET1_OUTSIDE_DELHI_S_26::after {max-width:569px; width:100%;height:0;padding: 0 0 81.72231985940246% 0;}
+
+/* $TexturePacker:SmartUpdate:167526f21ccd58a0c59021633d55a5cb:b7e397c585b430706270838b3aa706a6:6e53edb37032731b46de26b4853a49b5$ */
