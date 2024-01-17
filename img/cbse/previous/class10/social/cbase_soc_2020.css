@@ -7,20 +7,20 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
-.2020_S1_DELHI_S_35 {max-width:513px; max-height:597px; }
-.2020_S1_DELHI_S_35::after {content: '\00a0';display: inline-block; width:513px; height:597px; background-position: 0.1996007984031936% 72.32779097387173%;background-size: 197.66081871345028% 241.03852596314908%;background-image: url(cbase_soc_2020.png);padding: 0; }
-div.2020_S1_DELHI_S_35::after {max-width:513px; width:100%;height:0;padding: 0 0 116.37426900584795% 0;}
-.2020_S1_DELHI_S_35_1 {max-width:520px; max-height:607px; }
-.2020_S1_DELHI_S_35_1::after {content: '\00a0';display: inline-block; width:520px; height:607px; background-position: 0.20242914979757085% 0.1201923076923077%;background-size: 195% 237.06754530477758%;background-image: url(cbase_soc_2020.png);padding: 0; }
-div.2020_S1_DELHI_S_35_1::after {max-width:520px; width:100%;height:0;padding: 0 0 116.73076923076923% 0;}
-.2020_S1_OUTSIDEDELHI_Q_8 {max-width:498px; max-height:334px; }
-.2020_S1_OUTSIDEDELHI_Q_8::after {content: '\00a0';display: inline-block; width:498px; height:334px; background-position: 99.8062015503876% 99.90950226244344%;background-size: 203.6144578313253% 430.8383233532934%;background-image: url(cbase_soc_2020.png);padding: 0; }
-div.2020_S1_OUTSIDEDELHI_Q_8::after {max-width:498px; width:100%;height:0;padding: 0 0 67.06827309236948% 0;}
-.2020_S1_OUTSIDEDELHI_S_35 {max-width:475px; max-height:548px; }
-.2020_S1_OUTSIDEDELHI_S_35::after {content: '\00a0';display: inline-block; width:475px; height:548px; background-position: 96.84601113172542% 62.28956228956229%;background-size: 213.47368421052633% 262.59124087591243%;background-image: url(cbase_soc_2020.png);padding: 0; }
-div.2020_S1_OUTSIDEDELHI_S_35::after {max-width:475px; width:100%;height:0;padding: 0 0 115.36842105263158% 0;}
-.2020_S1_OUTSIDEDELHI_S_35_1 {max-width:479px; max-height:553px; }
-.2020_S1_OUTSIDEDELHI_S_35_1::after {content: '\00a0';display: inline-block; width:479px; height:553px; background-position: 97.57009345794393% 0.11286681715575621%;background-size: 211.6910229645094% 260.21699819168174%;background-image: url(cbase_soc_2020.png);padding: 0; }
-div.2020_S1_OUTSIDEDELHI_S_35_1::after {max-width:479px; width:100%;height:0;padding: 0 0 115.44885177453027% 0;}
+.C2020_S1_DELHI_S_35 {max-width:513px; max-height:597px; }
+.C2020_S1_DELHI_S_35::after {content: '\00a0';display: inline-block; width:513px; height:597px; background-position: 0.1996007984031936% 72.32779097387173%;background-size: 197.66081871345028% 241.03852596314908%;background-image: url(cbase_soc_2020.png);padding: 0; }
+div.C2020_S1_DELHI_S_35::after {max-width:513px; width:100%;height:0;padding: 0 0 116.37426900584795% 0;}
+.C2020_S1_DELHI_S_35_1 {max-width:520px; max-height:607px; }
+.C2020_S1_DELHI_S_35_1::after {content: '\00a0';display: inline-block; width:520px; height:607px; background-position: 0.20242914979757085% 0.1201923076923077%;background-size: 195% 237.06754530477758%;background-image: url(cbase_soc_2020.png);padding: 0; }
+div.C2020_S1_DELHI_S_35_1::after {max-width:520px; width:100%;height:0;padding: 0 0 116.73076923076923% 0;}
+.C2020_S1_OUTSIDEDELHI_Q_8 {max-width:498px; max-height:334px; }
+.C2020_S1_OUTSIDEDELHI_Q_8::after {content: '\00a0';display: inline-block; width:498px; height:334px; background-position: 99.8062015503876% 99.90950226244344%;background-size: 203.6144578313253% 430.8383233532934%;background-image: url(cbase_soc_2020.png);padding: 0; }
+div.C2020_S1_OUTSIDEDELHI_Q_8::after {max-width:498px; width:100%;height:0;padding: 0 0 67.06827309236948% 0;}
+.C2020_S1_OUTSIDEDELHI_S_35 {max-width:475px; max-height:548px; }
+.C2020_S1_OUTSIDEDELHI_S_35::after {content: '\00a0';display: inline-block; width:475px; height:548px; background-position: 96.84601113172542% 62.28956228956229%;background-size: 213.47368421052633% 262.59124087591243%;background-image: url(cbase_soc_2020.png);padding: 0; }
+div.C2020_S1_OUTSIDEDELHI_S_35::after {max-width:475px; width:100%;height:0;padding: 0 0 115.36842105263158% 0;}
+.C2020_S1_OUTSIDEDELHI_S_35_1 {max-width:479px; max-height:553px; }
+.C2020_S1_OUTSIDEDELHI_S_35_1::after {content: '\00a0';display: inline-block; width:479px; height:553px; background-position: 97.57009345794393% 0.11286681715575621%;background-size: 211.6910229645094% 260.21699819168174%;background-image: url(cbase_soc_2020.png);padding: 0; }
+div.C2020_S1_OUTSIDEDELHI_S_35_1::after {max-width:479px; width:100%;height:0;padding: 0 0 115.44885177453027% 0;}
 
-/* $TexturePacker:SmartUpdate:d66d088657d3b5e015952a48277f5c2a:d5f46773806ee1c00f0929a8a7461df4:5b22a8c7fb21ea813b8614fdec24e6d6$ */
+/* $TexturePacker:SmartUpdate:47e8d5fc5c30a6de71a335dd12e58339:d5f46773806ee1c00f0929a8a7461df4:5b22a8c7fb21ea813b8614fdec24e6d6$ */

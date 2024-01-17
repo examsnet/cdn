@@ -7,8 +7,8 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
-.2018_DELHI_S_26 {max-width:496px; max-height:607px; }
-.2018_DELHI_S_26::after {content: '\00a0';display: inline-block; width:496px; height:607px; background-position: 50% 50%;background-size: 100.40322580645162% 100.32948929159802%;background-image: url(cbase_soc_2018.png);padding: 0; }
-div.2018_DELHI_S_26::after {max-width:496px; width:100%;height:0;padding: 0 0 122.37903225806451% 0;}
+.C2018_DELHI_S_26 {max-width:496px; max-height:607px; }
+.C2018_DELHI_S_26::after {content: '\00a0';display: inline-block; width:496px; height:607px; background-position: 50% 50%;background-size: 100.40322580645162% 100.32948929159802%;background-image: url(cbase_soc_2018.png);padding: 0; }
+div.C2018_DELHI_S_26::after {max-width:496px; width:100%;height:0;padding: 0 0 122.37903225806451% 0;}
 
-/* $TexturePacker:SmartUpdate:7c8416830cf98bf3318832ca5a3eeb67:b1bc9329d5f2f928559ebda45e15446b:934a40e9b5d65ecc32c0328ad4621ab4$ */
+/* $TexturePacker:SmartUpdate:0633f10f4c1799a54bdae9951fef60f5:b1bc9329d5f2f928559ebda45e15446b:934a40e9b5d65ecc32c0328ad4621ab4$ */

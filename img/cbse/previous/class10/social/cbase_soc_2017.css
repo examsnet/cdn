@@ -7,26 +7,26 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 
-.2017_DELHI_TERM2_SET1_Q_29 {max-width:450px; max-height:557px; }
-.2017_DELHI_TERM2_SET1_Q_29::after {content: '\00a0';display: inline-block; width:450px; height:557px; background-position: 0.2364066193853428% 43.84735202492212%;background-size: 194% 330.5206463195691%;background-image: url(cbase_soc_2017.png);padding: 0; }
-div.2017_DELHI_TERM2_SET1_Q_29::after {max-width:450px; width:100%;height:0;padding: 0 0 123.77777777777777% 0;}
-.2017_DELHI_TERM2_SET1_S_29 {max-width:454px; max-height:561px; }
-.2017_DELHI_TERM2_SET1_S_29::after {content: '\00a0';display: inline-block; width:454px; height:561px; background-position: 0.2386634844868735% 0.078125%;background-size: 192.2907488986784% 328.16399286987524%;background-image: url(cbase_soc_2017.png);padding: 0; }
-div.2017_DELHI_TERM2_SET1_S_29::after {max-width:454px; width:100%;height:0;padding: 0 0 123.568281938326% 0;}
-.2017_DELHI_TERM2_SET1_S_30 {max-width:447px; max-height:551px; }
-.2017_DELHI_TERM2_SET1_S_30::after {content: '\00a0';display: inline-block; width:447px; height:551px; background-position: 0.2347417840375587% 86.89922480620154%;background-size: 195.3020134228188% 334.1197822141561%;background-image: url(cbase_soc_2017.png);padding: 0; }
-div.2017_DELHI_TERM2_SET1_S_30::after {max-width:447px; width:100%;height:0;padding: 0 0 123.2662192393736% 0;}
-.2017_OUTSIDE_DELHI_TERM2_SET1_Q_29 {max-width:406px; max-height:436px; }
-.2017_OUTSIDE_DELHI_TERM2_SET1_Q_29::after {content: '\00a0';display: inline-block; width:406px; height:436px; background-position: 96.78800856531049% 66.19217081850533%;background-size: 215.02463054187191% 422.2477064220183%;background-image: url(cbase_soc_2017.png);padding: 0; }
-div.2017_OUTSIDE_DELHI_TERM2_SET1_Q_29::after {max-width:406px; width:100%;height:0;padding: 0 0 107.38916256157636% 0;}
-.2017_OUTSIDE_DELHI_TERM2_SET1_Q_30 {max-width:423px; max-height:473px; }
-.2017_OUTSIDE_DELHI_TERM2_SET1_Q_30::after {content: '\00a0';display: inline-block; width:423px; height:473px; background-position: 99.77777777777777% 99.92690058479532%;background-size: 206.38297872340425% 389.2177589852009%;background-image: url(cbase_soc_2017.png);padding: 0; }
-div.2017_OUTSIDE_DELHI_TERM2_SET1_Q_30::after {max-width:423px; width:100%;height:0;padding: 0 0 111.82033096926713% 0;}
-.2017_OUTSIDE_DELHI_TERM2_SET1_S_29 {max-width:416px; max-height:465px; }
-.2017_OUTSIDE_DELHI_TERM2_SET1_S_29::after {content: '\00a0';display: inline-block; width:416px; height:465px; background-position: 99.78118161925602% 0.07267441860465117%;background-size: 209.85576923076923% 395.9139784946237%;background-image: url(cbase_soc_2017.png);padding: 0; }
-div.2017_OUTSIDE_DELHI_TERM2_SET1_S_29::after {max-width:416px; width:100%;height:0;padding: 0 0 111.77884615384616% 0;}
-.2017_OUTSIDE_DELHI_TERM2_SET1_S_30 {max-width:414px; max-height:462px; }
-.2017_OUTSIDE_DELHI_TERM2_SET1_S_30::after {content: '\00a0';display: inline-block; width:414px; height:462px; background-position: 99.34640522875817% 33.86511965192168%;background-size: 210.8695652173913% 398.4848484848485%;background-image: url(cbase_soc_2017.png);padding: 0; }
-div.2017_OUTSIDE_DELHI_TERM2_SET1_S_30::after {max-width:414px; width:100%;height:0;padding: 0 0 111.59420289855072% 0;}
+.C2017_DELHI_TERM2_SET1_Q_29 {max-width:450px; max-height:557px; }
+.C2017_DELHI_TERM2_SET1_Q_29::after {content: '\00a0';display: inline-block; width:450px; height:557px; background-position: 0.2364066193853428% 43.84735202492212%;background-size: 194% 330.5206463195691%;background-image: url(cbase_soc_2017.png);padding: 0; }
+div.C2017_DELHI_TERM2_SET1_Q_29::after {max-width:450px; width:100%;height:0;padding: 0 0 123.77777777777777% 0;}
+.C2017_DELHI_TERM2_SET1_S_29 {max-width:454px; max-height:561px; }
+.C2017_DELHI_TERM2_SET1_S_29::after {content: '\00a0';display: inline-block; width:454px; height:561px; background-position: 0.2386634844868735% 0.078125%;background-size: 192.2907488986784% 328.16399286987524%;background-image: url(cbase_soc_2017.png);padding: 0; }
+div.C2017_DELHI_TERM2_SET1_S_29::after {max-width:454px; width:100%;height:0;padding: 0 0 123.568281938326% 0;}
+.C2017_DELHI_TERM2_SET1_S_30 {max-width:447px; max-height:551px; }
+.C2017_DELHI_TERM2_SET1_S_30::after {content: '\00a0';display: inline-block; width:447px; height:551px; background-position: 0.2347417840375587% 86.89922480620154%;background-size: 195.3020134228188% 334.1197822141561%;background-image: url(cbase_soc_2017.png);padding: 0; }
+div.C2017_DELHI_TERM2_SET1_S_30::after {max-width:447px; width:100%;height:0;padding: 0 0 123.2662192393736% 0;}
+.C2017_OUTSIDE_DELHI_TERM2_SET1_Q_29 {max-width:406px; max-height:436px; }
+.C2017_OUTSIDE_DELHI_TERM2_SET1_Q_29::after {content: '\00a0';display: inline-block; width:406px; height:436px; background-position: 96.78800856531049% 66.19217081850533%;background-size: 215.02463054187191% 422.2477064220183%;background-image: url(cbase_soc_2017.png);padding: 0; }
+div.C2017_OUTSIDE_DELHI_TERM2_SET1_Q_29::after {max-width:406px; width:100%;height:0;padding: 0 0 107.38916256157636% 0;}
+.C2017_OUTSIDE_DELHI_TERM2_SET1_Q_30 {max-width:423px; max-height:473px; }
+.C2017_OUTSIDE_DELHI_TERM2_SET1_Q_30::after {content: '\00a0';display: inline-block; width:423px; height:473px; background-position: 99.77777777777777% 99.92690058479532%;background-size: 206.38297872340425% 389.2177589852009%;background-image: url(cbase_soc_2017.png);padding: 0; }
+div.C2017_OUTSIDE_DELHI_TERM2_SET1_Q_30::after {max-width:423px; width:100%;height:0;padding: 0 0 111.82033096926713% 0;}
+.C2017_OUTSIDE_DELHI_TERM2_SET1_S_29 {max-width:416px; max-height:465px; }
+.C2017_OUTSIDE_DELHI_TERM2_SET1_S_29::after {content: '\00a0';display: inline-block; width:416px; height:465px; background-position: 99.78118161925602% 0.07267441860465117%;background-size: 209.85576923076923% 395.9139784946237%;background-image: url(cbase_soc_2017.png);padding: 0; }
+div.C2017_OUTSIDE_DELHI_TERM2_SET1_S_29::after {max-width:416px; width:100%;height:0;padding: 0 0 111.77884615384616% 0;}
+.C2017_OUTSIDE_DELHI_TERM2_SET1_S_30 {max-width:414px; max-height:462px; }
+.C2017_OUTSIDE_DELHI_TERM2_SET1_S_30::after {content: '\00a0';display: inline-block; width:414px; height:462px; background-position: 99.34640522875817% 33.86511965192168%;background-size: 210.8695652173913% 398.4848484848485%;background-image: url(cbase_soc_2017.png);padding: 0; }
+div.C2017_OUTSIDE_DELHI_TERM2_SET1_S_30::after {max-width:414px; width:100%;height:0;padding: 0 0 111.59420289855072% 0;}
 
-/* $TexturePacker:SmartUpdate:58ff424b02de666802f1dd7a2d9c5e3c:34a8c7181217fa9041f95e1c341491a8:50502a993941090c39d58cd8a959e033$ */
+/* $TexturePacker:SmartUpdate:acae1274c795f64fd1a33b11bf012131:34a8c7181217fa9041f95e1c341491a8:50502a993941090c39d58cd8a959e033$ */
