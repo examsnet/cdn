@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Eco_2015_outside_set_1_15_s {max-width:330px; max-height:253px; }
+.Eco_2015_outside_set_1_15_s::after {content: '\00a0';display: inline-block; width:330px; height:253px; background-position: 9.090909090909092% 35.40856031128405%;background-size: 103.33333333333333% 404.74308300395256%;background-image: url(cbse_12_ec_2015.png);padding: 0; }
+div.Eco_2015_outside_set_1_15_s::after {max-width:330px; width:100%;height:0;padding: 0 0 76.66666666666667% 0;}
+.Eco_2015_outside_set_1_16_s {max-width:323px; max-height:250px; }
+.Eco_2015_outside_set_1_16_s::after {content: '\00a0';display: inline-block; width:323px; height:250px; background-position: 5.555555555555555% 99.87080103359173%;background-size: 105.57275541795666% 409.6%;background-image: url(cbse_12_ec_2015.png);padding: 0; }
+div.Eco_2015_outside_set_1_16_s::after {max-width:323px; width:100%;height:0;padding: 0 0 77.39938080495357% 0;}
+.Eco_2015_set_1_16_s {max-width:339px; max-height:271px; }
+.Eco_2015_set_1_16_s::after {content: '\00a0';display: inline-block; width:339px; height:271px; background-position: 50% 0.13280212483399734%;background-size: 100.58997050147492% 377.859778597786%;background-image: url(cbse_12_ec_2015.png);padding: 0; }
+div.Eco_2015_set_1_16_s::after {max-width:339px; width:100%;height:0;padding: 0 0 79.9410029498525% 0;}
+.Eco_2015_set_1_17_s {max-width:330px; max-height:245px; }
+.Eco_2015_set_1_17_s::after {content: '\00a0';display: inline-block; width:330px; height:245px; background-position: 9.090909090909092% 67.65083440308088%;background-size: 103.33333333333333% 417.9591836734694%;background-image: url(cbse_12_ec_2015.png);padding: 0; }
+div.Eco_2015_set_1_17_s::after {max-width:330px; width:100%;height:0;padding: 0 0 74.24242424242425% 0;}
+
+/* $TexturePacker:SmartUpdate:c756822b9b63407a4b82c6e9a66c28b9:e134521b096248e0ef8859adb089d693:1434dd075f14ad3ad2e0b0e2b4f53089$ */
