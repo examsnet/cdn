@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Line_Graph_11_p {max-width:458px; max-height:375px; }
+.Line_Graph_11_p::after {content: '\00a0';display: inline-block; width:458px; height:375px; background-position: 32.20108695652174% 57.99457994579946%;background-size: 421.3973799126638% 296.8%;background-image: url(data_line_graph.png);padding: 0; }
+div.Line_Graph_11_p::after {max-width:458px; width:100%;height:0;padding: 0 0 81.87772925764192% 0;}
+.Line_Graph_16_p {max-width:472px; max-height:506px; }
+.Line_Graph_16_p::after {content: '\00a0';display: inline-block; width:472px; height:506px; background-position: 0.06858710562414266% 62.60296540362438%;background-size: 408.89830508474574% 219.9604743083004%;background-image: url(data_line_graph.png);padding: 0; }
+div.Line_Graph_16_p::after {max-width:472px; width:100%;height:0;padding: 0 0 107.20338983050847% 0;}
+.Line_Graph_1_p {max-width:449px; max-height:443px; }
+.Line_Graph_1_p::after {content: '\00a0';display: inline-block; width:449px; height:443px; background-position: 81.43146522619851% 0.14925373134328357%;background-size: 429.84409799554567% 251.2415349887133%;background-image: url(data_line_graph.png);padding: 0; }
+div.Line_Graph_1_p::after {max-width:449px; width:100%;height:0;padding: 0 0 98.66369710467706% 0;}
+.Line_Graph_21_p {max-width:487px; max-height:426px; }
+.Line_Graph_21_p::after {content: '\00a0';display: inline-block; width:487px; height:426px; background-position: 49.757449757449756% 0.14556040756914118%;background-size: 396.3039014373717% 261.2676056338028%;background-image: url(data_line_graph.png);padding: 0; }
+div.Line_Graph_21_p::after {max-width:487px; width:100%;height:0;padding: 0 0 87.47433264887064% 0;}
+.Line_Graph_26_p {max-width:414px; max-height:399px; }
+.Line_Graph_26_p::after {content: '\00a0';display: inline-block; width:414px; height:399px; background-position: 65.8311345646438% 99.15966386554622%;background-size: 466.1835748792271% 278.94736842105266%;background-image: url(data_line_graph.png);padding: 0; }
+div.Line_Graph_26_p::after {max-width:414px; width:100%;height:0;padding: 0 0 96.3768115942029% 0;}
+.Line_Graph_31_p {max-width:716px; max-height:378px; }
+.Line_Graph_31_p::after {content: '\00a0';display: inline-block; width:716px; height:378px; background-position: 0.08237232289950576% 0.1360544217687075%;background-size: 269.55307262569835% 294.44444444444446%;background-image: url(data_line_graph.png);padding: 0; }
+div.Line_Graph_31_p::after {max-width:716px; width:100%;height:0;padding: 0 0 52.79329608938548% 0;}
+.Line_Graph_6_p {max-width:411px; max-height:371px; }
+.Line_Graph_6_p::after {content: '\00a0';display: inline-block; width:411px; height:371px; background-position: 93.87755102040816% 61.320754716981135%;background-size: 469.58637469586375% 300%;background-image: url(data_line_graph.png);padding: 0; }
+div.Line_Graph_6_p::after {max-width:411px; width:100%;height:0;padding: 0 0 90.2676399026764% 0;}
+.Pie_charts_11_p {max-width:181px; max-height:225px; }
+.Pie_charts_11_p::after {content: '\00a0';display: inline-block; width:181px; height:225px; background-position: 97.65580331618068% 93.13063063063063%;background-size: 1066.2983425414366% 494.6666666666667%;background-image: url(data_line_graph.png);padding: 0; }
+div.Pie_charts_11_p::after {max-width:181px; width:100%;height:0;padding: 0 0 124.30939226519337% 0;}
+.Pie_charts_16_p {max-width:294px; max-height:183px; }
+.Pie_charts_16_p::after {content: '\00a0';display: inline-block; width:294px; height:183px; background-position: 86.36919315403424% 88.9247311827957%;background-size: 656.4625850340136% 608.1967213114754%;background-image: url(data_line_graph.png);padding: 0; }
+div.Pie_charts_16_p::after {max-width:294px; width:100%;height:0;padding: 0 0 62.244897959183675% 0;}
+.Pie_charts_1_p {max-width:523px; max-height:236px; }
+.Pie_charts_1_p::after {content: '\00a0';display: inline-block; width:523px; height:236px; background-position: 33.688699360341154% 91.67616875712656%;background-size: 369.0248565965583% 471.6101694915254%;background-image: url(data_line_graph.png);padding: 0; }
+div.Pie_charts_1_p::after {max-width:523px; width:100%;height:0;padding: 0 0 45.124282982791584% 0;}
+.Pie_charts_21_p {max-width:492px; max-height:262px; }
+.Pie_charts_21_p::after {content: '\00a0';display: inline-block; width:492px; height:262px; background-position: 64.8817802503477% 52.291421856639246%;background-size: 392.2764227642276% 424.80916030534354%;background-image: url(data_line_graph.png);padding: 0; }
+div.Pie_charts_21_p::after {max-width:492px; width:100%;height:0;padding: 0 0 53.2520325203252% 0;}
+.Pie_charts_26_p {max-width:446px; max-height:225px; }
+.Pie_charts_26_p::after {content: '\00a0';display: inline-block; width:446px; height:225px; background-position: 0.0673854447439353% 99.88738738738739%;background-size: 432.7354260089686% 494.6666666666667%;background-image: url(data_line_graph.png);padding: 0; }
+div.Pie_charts_26_p::after {max-width:446px; width:100%;height:0;padding: 0 0 50.44843049327354% 0;}
+.Pie_charts_31_p {max-width:271px; max-height:231px; }
+.Pie_charts_31_p::after {content: '\00a0';display: inline-block; width:271px; height:231px; background-position: 99.81916817359856% 0.11337868480725624%;background-size: 712.1771217712177% 481.8181818181818%;background-image: url(data_line_graph.png);padding: 0; }
+div.Pie_charts_31_p::after {max-width:271px; width:100%;height:0;padding: 0 0 85.23985239852398% 0;}
+.Pie_charts_6_p {max-width:273px; max-height:221px; }
+.Pie_charts_6_p::after {content: '\00a0';display: inline-block; width:273px; height:221px; background-position: 99.93964996982498% 26.121076233183857%;background-size: 706.959706959707% 503.61990950226243%;background-image: url(data_line_graph.png);padding: 0; }
+div.Pie_charts_6_p::after {max-width:273px; width:100%;height:0;padding: 0 0 80.95238095238095% 0;}
+
+/* $TexturePacker:SmartUpdate:f8bec82fc1483ef9bfd9c595a938c7e1:5975068afb0a56501762aa2e71604b5c:dfae75e22522f4b34b1a8def6fb42ae4$ */
