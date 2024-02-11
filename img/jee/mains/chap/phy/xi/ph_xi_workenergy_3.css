@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.jee_mn_29_jan_2024_s2_42 {max-width:308px; max-height:333px; }
+.jee_mn_29_jan_2024_s2_42::after {content: '\00a0';display: inline-block; width:308px; height:333px; background-position: 2.6315789473684212% 99.21875%;background-size: 112.33766233766234% 138.43843843843842%;background-image: url(ph_xi_workenergy_3.png);padding: 0; }
+div.jee_mn_29_jan_2024_s2_42::after {max-width:308px; width:100%;height:0;padding: 0 0 108.11688311688312% 0;}
+.jee_mn_30_jan_2024_s1_37 {max-width:344px; max-height:125px; }
+.jee_mn_30_jan_2024_s1_37::after {content: '\00a0';display: inline-block; width:344px; height:125px; background-position: 50% 0.2976190476190476%;background-size: 100.5813953488372% 368.8%;background-image: url(ph_xi_workenergy_3.png);padding: 0; }
+div.jee_mn_30_jan_2024_s1_37::after {max-width:344px; width:100%;height:0;padding: 0 0 36.33720930232558% 0;}
+
+/* $TexturePacker:SmartUpdate:930844a37fb5cd3872d0bb248223e6fe:0c3c430ece6a233cb0a9c2bf79e3e51f:e5e710775aec9670c3a53b1b03a0fce0$ */
