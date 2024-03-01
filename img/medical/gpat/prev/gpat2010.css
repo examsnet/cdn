@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.GPAT_2010_Q_20 {max-width:340px; max-height:188px; }
+.GPAT_2010_Q_20::after {content: '\00a0';display: inline-block; width:340px; height:188px; background-position: 50% 50%;background-size: 100.58823529411765% 101.06382978723404%;background-image: url(gpat2010.png);padding: 0; }
+div.GPAT_2010_Q_20::after {max-width:340px; width:100%;height:0;padding: 0 0 55.294117647058826% 0;}
+
+/* $TexturePacker:SmartUpdate:1471880a0078ee6ae1db2710f285195a:f9a09786be55d2deb92a04d89de9b1d4:00afb59cb9d72f4ad17279a919b52ff0$ */
