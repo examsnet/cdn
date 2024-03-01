@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Chemistry_2017_49_s {max-width:326px; max-height:130px; }
+.Chemistry_2017_49_s::after {content: '\00a0';display: inline-block; width:326px; height:130px; background-position: 1.3888888888888888% 99.41176470588235%;background-size: 122.08588957055214% 230.76923076923077%;background-image: url(icse_x_ch_2017.png);padding: 0; }
+div.Chemistry_2017_49_s::after {max-width:326px; width:100%;height:0;padding: 0 0 39.877300613496935% 0;}
+.Chemistry_2017_50_s {max-width:396px; max-height:167px; }
+.Chemistry_2017_50_s::after {content: '\00a0';display: inline-block; width:396px; height:167px; background-position: 50% 0.7518796992481203%;background-size: 100.5050505050505% 179.64071856287424%;background-image: url(icse_x_ch_2017.png);padding: 0; }
+div.Chemistry_2017_50_s::after {max-width:396px; width:100%;height:0;padding: 0 0 42.17171717171717% 0;}
+
+/* $TexturePacker:SmartUpdate:a4b4edf15837183dc5743bdac6aa52ba:9045997eb81ff9d88f4e55338c93cb4e:d7ac0c60d8dbed4034cc4c22fecf88cd$ */

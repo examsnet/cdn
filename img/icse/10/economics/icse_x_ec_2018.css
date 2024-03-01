@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Economic_2018_12_s {max-width:192px; max-height:199px; }
+.Economic_2018_12_s::after {content: '\00a0';display: inline-block; width:192px; height:199px; background-position: 99.6923076923077% 2.5641025641025643%;background-size: 269.2708333333333% 119.59798994974874%;background-image: url(icse_x_ec_2018.png);padding: 0; }
+div.Economic_2018_12_s::after {max-width:192px; width:100%;height:0;padding: 0 0 103.64583333333333% 0;}
+.Economic_2018_27_s {max-width:322px; max-height:236px; }
+.Economic_2018_27_s::after {content: '\00a0';display: inline-block; width:322px; height:236px; background-position: 0.5128205128205128% 50%;background-size: 160.55900621118013% 100.84745762711864%;background-image: url(icse_x_ec_2018.png);padding: 0; }
+div.Economic_2018_27_s::after {max-width:322px; width:100%;height:0;padding: 0 0 73.2919254658385% 0;}
+
+/* $TexturePacker:SmartUpdate:9c65b3374a208f632ed928360fb1d4ec:6b4300b3371e817baf3989f9a5eeef0d:2dbcf40a2080ec96e3f1812c29c9e593$ */

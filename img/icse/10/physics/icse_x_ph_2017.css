@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.ICSC_Physics_2017_12_s {max-width:320px; max-height:184px; }
+.ICSC_Physics_2017_12_s::after {content: '\00a0';display: inline-block; width:320px; height:184px; background-position: 97.10144927536231% 97.20394736842105%;background-size: 315.625% 430.4347826086956%;background-image: url(icse_x_ph_2017.png);padding: 0; }
+div.ICSC_Physics_2017_12_s::after {max-width:320px; width:100%;height:0;padding: 0 0 57.5% 0;}
+.ICSC_Physics_2017_1_s {max-width:284px; max-height:235px; }
+.ICSC_Physics_2017_1_s::after {content: '\00a0';display: inline-block; width:284px; height:235px; background-position: 89.25619834710744% 0.17953321364452424%;background-size: 355.63380281690144% 337.02127659574467%;background-image: url(icse_x_ph_2017.png);padding: 0; }
+div.ICSC_Physics_2017_1_s::after {max-width:284px; width:100%;height:0;padding: 0 0 82.74647887323944% 0;}
+.ICSC_Physics_2017_23_s {max-width:361px; max-height:114px; }
+.ICSC_Physics_2017_23_s::after {content: '\00a0';display: inline-block; width:361px; height:114px; background-position: 99.84591679506934% 34.95575221238938%;background-size: 279.77839335180056% 694.7368421052631%;background-image: url(icse_x_ph_2017.png);padding: 0; }
+div.ICSC_Physics_2017_23_s::after {max-width:361px; width:100%;height:0;padding: 0 0 31.57894736842105% 0;}
+.ICSC_Physics_2017_39_s {max-width:375px; max-height:171px; }
+.ICSC_Physics_2017_39_s::after {content: '\00a0';display: inline-block; width:375px; height:171px; background-position: 46.2992125984252% 95.16908212560386%;background-size: 269.3333333333333% 463.1578947368421%;background-image: url(icse_x_ph_2017.png);padding: 0; }
+div.ICSC_Physics_2017_39_s::after {max-width:375px; width:100%;height:0;padding: 0 0 45.6% 0;}
+.ICSC_Physics_2017_40_p {max-width:178px; max-height:166px; }
+.ICSC_Physics_2017_40_p::after {content: '\00a0';display: inline-block; width:178px; height:166px; background-position: 91.58653846153847% 56.23003194888179%;background-size: 567.4157303370787% 477.10843373493975%;background-image: url(icse_x_ph_2017.png);padding: 0; }
+div.ICSC_Physics_2017_40_p::after {max-width:178px; width:100%;height:0;padding: 0 0 93.25842696629213% 0;}
+.ICSC_Physics_2017_40_s {max-width:292px; max-height:229px; }
+.ICSC_Physics_2017_40_s::after {content: '\00a0';display: inline-block; width:292px; height:229px; background-position: 0.1392757660167131% 99.82238010657194%;background-size: 345.8904109589041% 345.8515283842795%;background-image: url(icse_x_ph_2017.png);padding: 0; }
+div.ICSC_Physics_2017_40_s::after {max-width:292px; width:100%;height:0;padding: 0 0 78.42465753424658% 0;}
+.ICSC_Physics_2017_42_p {max-width:391px; max-height:208px; }
+.ICSC_Physics_2017_42_p::after {content: '\00a0';display: inline-block; width:391px; height:208px; background-position: 0.16155088852988692% 60.445205479452056%;background-size: 258.31202046035804% 380.7692307692308%;background-image: url(icse_x_ph_2017.png);padding: 0; }
+div.ICSC_Physics_2017_42_p::after {max-width:391px; width:100%;height:0;padding: 0 0 53.19693094629156% 0;}
+.ICSC_Physics_2017_42_s {max-width:368px; max-height:237px; }
+.ICSC_Physics_2017_42_s::after {content: '\00a0';display: inline-block; width:368px; height:237px; background-position: 61.21495327102804% 63.6036036036036%;background-size: 274.45652173913044% 334.17721518987344%;background-image: url(icse_x_ph_2017.png);padding: 0; }
+div.ICSC_Physics_2017_42_s::after {max-width:368px; width:100%;height:0;padding: 0 0 64.40217391304348% 0;}
+.ICSC_Physics_2017_53_s {max-width:646px; max-height:351px; }
+.ICSC_Physics_2017_53_s::after {content: '\00a0';display: inline-block; width:646px; height:351px; background-position: 0.27472527472527475% 0.22675736961451248%;background-size: 156.34674922600618% 225.64102564102564%;background-image: url(icse_x_ph_2017.png);padding: 0; }
+div.ICSC_Physics_2017_53_s::after {max-width:646px; width:100%;height:0;padding: 0 0 54.3343653250774% 0;}
+
+/* $TexturePacker:SmartUpdate:90cbbf28d93d9342a7a4d1c79fe5ff62:cac88356955fae2e4be6fb08560d7492:c4cfa55b3816a548026dc67b677d8974$ */

@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Chemistry_2020_16_s {max-width:247px; max-height:149px; }
+.Chemistry_2020_16_s::after {content: '\00a0';display: inline-block; width:247px; height:149px; background-position: 52.09471766848816% 99.6415770609319%;background-size: 322.26720647773277% 287.248322147651%;background-image: url(icse_x_ch_2020.png);padding: 0; }
+div.Chemistry_2020_16_s::after {max-width:247px; width:100%;height:0;padding: 0 0 60.32388663967611% 0;}
+.Chemistry_2020_43_s {max-width:301px; max-height:131px; }
+.Chemistry_2020_43_s::after {content: '\00a0';display: inline-block; width:301px; height:131px; background-position: 99.79797979797979% 0.3367003367003367%;background-size: 264.4518272425249% 326.7175572519084%;background-image: url(icse_x_ch_2020.png);padding: 0; }
+div.Chemistry_2020_43_s::after {max-width:301px; width:100%;height:0;padding: 0 0 43.521594684385384% 0;}
+.Chemistry_2020_44_s {max-width:284px; max-height:175px; }
+.Chemistry_2020_44_s::after {content: '\00a0';display: inline-block; width:284px; height:175px; background-position: 0.1953125% 93.67588932806323%;background-size: 280.28169014084506% 244.57142857142858%;background-image: url(icse_x_ch_2020.png);padding: 0; }
+div.Chemistry_2020_44_s::after {max-width:284px; width:100%;height:0;padding: 0 0 61.61971830985915% 0;}
+.Chemistry_2020_45_s {max-width:270px; max-height:144px; }
+.Chemistry_2020_45_s::after {content: '\00a0';display: inline-block; width:270px; height:144px; background-position: 93.91634980988593% 46.83098591549296%;background-size: 294.81481481481484% 297.22222222222223%;background-image: url(icse_x_ch_2020.png);padding: 0; }
+div.Chemistry_2020_45_s::after {max-width:270px; width:100%;height:0;padding: 0 0 53.333333333333336% 0;}
+.Chemistry_2020_58_s {max-width:244px; max-height:133px; }
+.Chemistry_2020_58_s::after {content: '\00a0';display: inline-block; width:244px; height:133px; background-position: 96.73913043478261% 94.23728813559322%;background-size: 326.2295081967213% 321.8045112781955%;background-image: url(icse_x_ch_2020.png);padding: 0; }
+div.Chemistry_2020_58_s::after {max-width:244px; width:100%;height:0;padding: 0 0 54.50819672131148% 0;}
+.Chemistry_2020_58_s_1 {max-width:208px; max-height:173px; }
+.Chemistry_2020_58_s_1::after {content: '\00a0';display: inline-block; width:208px; height:173px; background-position: 48.46938775510204% 0.39215686274509803%;background-size: 382.6923076923077% 247.39884393063585%;background-image: url(icse_x_ch_2020.png);padding: 0; }
+div.Chemistry_2020_58_s_1::after {max-width:208px; width:100%;height:0;padding: 0 0 83.17307692307692% 0;}
+.Chemistry_2020_84_p {max-width:283px; max-height:235px; }
+.Chemistry_2020_84_p::after {content: '\00a0';display: inline-block; width:283px; height:235px; background-position: 0.1949317738791423% 0.5181347150259067%;background-size: 281.2720848056537% 182.12765957446808%;background-image: url(icse_x_ch_2020.png);padding: 0; }
+div.Chemistry_2020_84_p::after {max-width:283px; width:100%;height:0;padding: 0 0 83.03886925795052% 0;}
+
+/* $TexturePacker:SmartUpdate:b011ea50a1c50a2c269998fa918243d3:edc5dbd3a813e8ca9d1842b7407966a7:1ebbcb660a64ef2bf94203aeb3e8758f$ */

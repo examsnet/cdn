@@ -1,0 +1,56 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.ICSE_Math_2015_10_q {max-width:245px; max-height:128px; }
+.ICSE_Math_2015_10_q::after {content: '\00a0';display: inline-block; width:245px; height:128px; background-position: 97.36111111111111% 27.133757961783438%;background-size: 393.8775510204082% 713.28125%;background-image: url(icse_x_mt_2015.png);padding: 0; }
+div.ICSE_Math_2015_10_q::after {max-width:245px; width:100%;height:0;padding: 0 0 52.244897959183675% 0;}
+.ICSE_Math_2015_12_q {max-width:265px; max-height:147px; }
+.ICSE_Math_2015_12_q::after {content: '\00a0';display: inline-block; width:265px; height:147px; background-position: 42.857142857142854% 99.86945169712794%;background-size: 364.1509433962264% 621.0884353741496%;background-image: url(icse_x_mt_2015.png);padding: 0; }
+div.ICSE_Math_2015_12_q::after {max-width:265px; width:100%;height:0;padding: 0 0 55.471698113207545% 0;}
+.ICSE_Math_2015_12_s {max-width:284px; max-height:152px; }
+.ICSE_Math_2015_12_s::after {content: '\00a0';display: inline-block; width:284px; height:152px; background-position: 55.35976505139501% 41.26149802890933%;background-size: 339.7887323943662% 600.6578947368421%;background-image: url(icse_x_mt_2015.png);padding: 0; }
+div.ICSE_Math_2015_12_s::after {max-width:284px; width:100%;height:0;padding: 0 0 53.521126760563384% 0;}
+.ICSE_Math_2015_16_s {max-width:242px; max-height:211px; }
+.ICSE_Math_2015_16_s::after {content: '\00a0';display: inline-block; width:242px; height:211px; background-position: 96.95712309820193% 0.14245014245014245%;background-size: 398.7603305785124% 432.70142180094786%;background-image: url(icse_x_mt_2015.png);padding: 0; }
+div.ICSE_Math_2015_16_s::after {max-width:242px; width:100%;height:0;padding: 0 0 87.1900826446281% 0;}
+.ICSE_Math_2015_17_s {max-width:375px; max-height:378px; }
+.ICSE_Math_2015_17_s::after {content: '\00a0';display: inline-block; width:375px; height:378px; background-position: 0.1694915254237288% 0.18691588785046728%;background-size: 257.3333333333333% 241.53439153439155%;background-image: url(icse_x_mt_2015.png);padding: 0; }
+div.ICSE_Math_2015_17_s::after {max-width:375px; width:100%;height:0;padding: 0 0 100.8% 0;}
+.ICSE_Math_2015_24_p {max-width:278px; max-height:241px; }
+.ICSE_Math_2015_24_p::after {content: '\00a0';display: inline-block; width:278px; height:241px; background-position: 48.32605531295488% 69.49404761904762%;background-size: 347.1223021582734% 378.8381742738589%;background-image: url(icse_x_mt_2015.png);padding: 0; }
+div.ICSE_Math_2015_24_p::after {max-width:278px; width:100%;height:0;padding: 0 0 86.69064748201438% 0;}
+.ICSE_Math_2015_32_q {max-width:188px; max-height:147px; }
+.ICSE_Math_2015_32_q::after {content: '\00a0';display: inline-block; width:188px; height:147px; background-position: 96.78249678249678% 92.68929503916449%;background-size: 513.2978723404256% 621.0884353741496%;background-image: url(icse_x_mt_2015.png);padding: 0; }
+div.ICSE_Math_2015_32_q::after {max-width:188px; width:100%;height:0;padding: 0 0 78.19148936170212% 0;}
+.ICSE_Math_2015_32_s {max-width:185px; max-height:151px; }
+.ICSE_Math_2015_32_s::after {content: '\00a0';display: inline-block; width:185px; height:151px; background-position: 72.56410256410257% 99.34383202099738%;background-size: 521.6216216216217% 604.635761589404%;background-image: url(icse_x_mt_2015.png);padding: 0; }
+div.ICSE_Math_2015_32_s::after {max-width:185px; width:100%;height:0;padding: 0 0 81.62162162162163% 0;}
+.ICSE_Math_2015_3_s {max-width:242px; max-height:47px; }
+.ICSE_Math_2015_3_s::after {content: '\00a0';display: inline-block; width:242px; height:47px; background-position: 45.91977869986169% 81.87066974595842%;background-size: 398.7603305785124% 1942.5531914893618%;background-image: url(icse_x_mt_2015.png);padding: 0; }
+div.ICSE_Math_2015_3_s::after {max-width:242px; width:100%;height:0;padding: 0 0 19.421487603305785% 0;}
+.ICSE_Math_2015_40_q {max-width:178px; max-height:213px; }
+.ICSE_Math_2015_40_q::after {content: '\00a0';display: inline-block; width:178px; height:213px; background-position: 77.63659466327827% 70.28571428571429%;background-size: 542.1348314606741% 428.63849765258215%;background-image: url(icse_x_mt_2015.png);padding: 0; }
+div.ICSE_Math_2015_40_q::after {max-width:178px; width:100%;height:0;padding: 0 0 119.66292134831461% 0;}
+.ICSE_Math_2015_40_s {max-width:174px; max-height:217px; }
+.ICSE_Math_2015_40_s::after {content: '\00a0';display: inline-block; width:174px; height:217px; background-position: 99.87357774968395% 70.6896551724138%;background-size: 554.5977011494252% 420.73732718894007%;background-image: url(icse_x_mt_2015.png);padding: 0; }
+div.ICSE_Math_2015_40_s::after {max-width:174px; width:100%;height:0;padding: 0 0 124.71264367816092% 0;}
+.ICSE_Math_2015_41_s {max-width:330px; max-height:384px; }
+.ICSE_Math_2015_41_s::after {content: '\00a0';display: inline-block; width:330px; height:384px; background-position: 0.15748031496062992% 71.83364839319471%;background-size: 292.42424242424244% 237.76041666666666%;background-image: url(icse_x_mt_2015.png);padding: 0; }
+div.ICSE_Math_2015_41_s::after {max-width:330px; width:100%;height:0;padding: 0 0 116.36363636363636% 0;}
+.ICSE_Math_2015_47_p {max-width:275px; max-height:149px; }
+.ICSE_Math_2015_47_p::after {content: '\00a0';display: inline-block; width:275px; height:149px; background-position: 95.94202898550725% 44.76439790575916%;background-size: 350.90909090909093% 612.751677852349%;background-image: url(icse_x_mt_2015.png);padding: 0; }
+div.ICSE_Math_2015_47_p::after {max-width:275px; width:100%;height:0;padding: 0 0 54.18181818181818% 0;}
+.ICSE_Math_2015_52_s {max-width:323px; max-height:312px; }
+.ICSE_Math_2015_52_s::after {content: '\00a0';display: inline-block; width:323px; height:312px; background-position: 58.72274143302181% 0.16638935108153077%;background-size: 298.76160990712077% 292.62820512820514%;background-image: url(icse_x_mt_2015.png);padding: 0; }
+div.ICSE_Math_2015_52_s::after {max-width:323px; width:100%;height:0;padding: 0 0 96.59442724458205% 0;}
+.ICSE_Math_2015_7_s {max-width:298px; max-height:147px; }
+.ICSE_Math_2015_7_s::after {content: '\00a0';display: inline-block; width:298px; height:147px; background-position: 0.14992503748125938% 99.86945169712794%;background-size: 323.8255033557047% 621.0884353741496%;background-image: url(icse_x_mt_2015.png);padding: 0; }
+div.ICSE_Math_2015_7_s::after {max-width:298px; width:100%;height:0;padding: 0 0 49.328859060402685% 0;}
+
+/* $TexturePacker:SmartUpdate:f135b9cc8e6f45e036c65b8b983a36e0:3184be7449e7e69020be6db838ffcdc1:fdc555119a61ddbe8b88da0dcbf927f2$ */

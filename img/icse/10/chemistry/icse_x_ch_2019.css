@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Chemistry_2019_39_s {max-width:242px; max-height:66px; }
+.Chemistry_2019_39_s::after {content: '\00a0';display: inline-block; width:242px; height:66px; background-position: 0.373134328358209% 70.93596059113301%;background-size: 210.74380165289256% 407.57575757575756%;background-image: url(icse_x_ch_2019.png);padding: 0; }
+div.Chemistry_2019_39_s::after {max-width:242px; width:100%;height:0;padding: 0 0 27.272727272727273% 0;}
+.Chemistry_2019_40_s {max-width:112px; max-height:42px; }
+.Chemistry_2019_40_s::after {content: '\00a0';display: inline-block; width:112px; height:42px; background-position: 91.70854271356784% 0.44052863436123346%;background-size: 455.35714285714283% 640.4761904761905%;background-image: url(icse_x_ch_2019.png);padding: 0; }
+div.Chemistry_2019_40_s::after {max-width:112px; width:100%;height:0;padding: 0 0 37.5% 0;}
+.Chemistry_2019_41_s {max-width:218px; max-height:176px; }
+.Chemistry_2019_41_s::after {content: '\00a0';display: inline-block; width:218px; height:176px; background-position: 99.65753424657534% 98.9247311827957%;background-size: 233.94495412844037% 152.8409090909091%;background-image: url(icse_x_ch_2019.png);padding: 0; }
+div.Chemistry_2019_41_s::after {max-width:218px; width:100%;height:0;padding: 0 0 80.73394495412845% 0;}
+.Chemistry_2019_45_q {max-width:363px; max-height:90px; }
+.Chemistry_2019_45_q::after {content: '\00a0';display: inline-block; width:363px; height:90px; background-position: 0.6802721088435374% 0.5586592178770949%;background-size: 140.49586776859505% 298.8888888888889%;background-image: url(icse_x_ch_2019.png);padding: 0; }
+div.Chemistry_2019_45_q::after {max-width:363px; width:100%;height:0;padding: 0 0 24.793388429752067% 0;}
+.Chemistry_2019_85_q {max-width:289px; max-height:51px; }
+.Chemistry_2019_85_q::after {content: '\00a0';display: inline-block; width:289px; height:51px; background-position: 0.45248868778280543% 42.20183486238532%;background-size: 176.47058823529412% 527.4509803921569%;background-image: url(icse_x_ch_2019.png);padding: 0; }
+div.Chemistry_2019_85_q::after {max-width:289px; width:100%;height:0;padding: 0 0 17.647058823529413% 0;}
+
+/* $TexturePacker:SmartUpdate:49d444c87f80364eb53923dea02d85dc:b83e4520b1a5ac574cecec0c1c600dd2:ebd890156054c76bbd836b862a680dbb$ */

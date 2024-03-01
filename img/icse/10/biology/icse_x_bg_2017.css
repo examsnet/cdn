@@ -1,0 +1,47 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.ICSC_Bio_2017_32_p {max-width:163px; max-height:219px; }
+.ICSC_Bio_2017_32_p::after {content: '\00a0';display: inline-block; width:163px; height:219px; background-position: 75.29691211401425% 74.90494296577947%;background-size: 616.5644171779142% 340.1826484018265%;background-image: url(icse_x_bg_2017.png);padding: 0; }
+div.ICSC_Bio_2017_32_p::after {max-width:163px; width:100%;height:0;padding: 0 0 134.35582822085888% 0;}
+.ICSC_Bio_2017_37_p {max-width:284px; max-height:154px; }
+.ICSC_Bio_2017_37_p::after {content: '\00a0';display: inline-block; width:284px; height:154px; background-position: 41.19278779472954% 65.98984771573605%;background-size: 353.8732394366197% 483.76623376623377%;background-image: url(icse_x_bg_2017.png);padding: 0; }
+div.ICSC_Bio_2017_37_p::after {max-width:284px; width:100%;height:0;padding: 0 0 54.225352112676056% 0;}
+.ICSC_Bio_2017_40_s {max-width:309px; max-height:199px; }
+.ICSC_Bio_2017_40_s::after {content: '\00a0';display: inline-block; width:309px; height:199px; background-position: 46.55172413793103% 99.81684981684981%;background-size: 325.24271844660194% 374.3718592964824%;background-image: url(icse_x_bg_2017.png);padding: 0; }
+div.ICSC_Bio_2017_40_s::after {max-width:309px; width:100%;height:0;padding: 0 0 64.40129449838187% 0;}
+.ICSC_Bio_2017_47_p {max-width:332px; max-height:223px; }
+.ICSC_Bio_2017_47_p::after {content: '\00a0';display: inline-block; width:332px; height:223px; background-position: 52.30312035661218% 0.19157088122605365%;background-size: 302.71084337349396% 334.0807174887892%;background-image: url(icse_x_bg_2017.png);padding: 0; }
+div.ICSC_Bio_2017_47_p::after {max-width:332px; width:100%;height:0;padding: 0 0 67.16867469879519% 0;}
+.ICSC_Bio_2017_52_p {max-width:322px; max-height:179px; }
+.ICSC_Bio_2017_52_p::after {content: '\00a0';display: inline-block; width:322px; height:179px; background-position: 0.14641288433382138% 97.52650176678445%;background-size: 312.111801242236% 416.20111731843576%;background-image: url(icse_x_bg_2017.png);padding: 0; }
+div.ICSC_Bio_2017_52_p::after {max-width:322px; width:100%;height:0;padding: 0 0 55.590062111801245% 0;}
+.ICSC_Bio_2017_57_p {max-width:350px; max-height:278px; }
+.ICSC_Bio_2017_57_p::after {content: '\00a0';display: inline-block; width:350px; height:278px; background-position: 0.15267175572519084% 0.21413276231263384%;background-size: 287.14285714285717% 267.9856115107914%;background-image: url(icse_x_bg_2017.png);padding: 0; }
+div.ICSC_Bio_2017_57_p::after {max-width:350px; width:100%;height:0;padding: 0 0 79.42857142857143% 0;}
+.ICSC_Bio_2017_67_p {max-width:189px; max-height:186px; }
+.ICSC_Bio_2017_67_p::after {content: '\00a0';display: inline-block; width:189px; height:186px; background-position: 97.79411764705883% 70.4830053667263%;background-size: 531.7460317460317% 400.5376344086022%;background-image: url(icse_x_bg_2017.png);padding: 0; }
+div.ICSC_Bio_2017_67_p::after {max-width:189px; width:100%;height:0;padding: 0 0 98.41269841269842% 0;}
+.ICSC_Bio_2017_71_s {max-width:378px; max-height:164px; }
+.ICSC_Bio_2017_71_s::after {content: '\00a0';display: inline-block; width:378px; height:164px; background-position: 56.14035087719298% 38.7263339070568%;background-size: 265.87301587301585% 454.2682926829268%;background-image: url(icse_x_bg_2017.png);padding: 0; }
+div.ICSC_Bio_2017_71_s::after {max-width:378px; width:100%;height:0;padding: 0 0 43.386243386243386% 0;}
+.ICSC_Bio_2017_77_p {max-width:295px; max-height:271px; }
+.ICSC_Bio_2017_77_p::after {content: '\00a0';display: inline-block; width:295px; height:271px; background-position: 0.14084507042253522% 59.07172995780591%;background-size: 340.6779661016949% 274.9077490774908%;background-image: url(icse_x_bg_2017.png);padding: 0; }
+div.ICSC_Bio_2017_77_p::after {max-width:295px; width:100%;height:0;padding: 0 0 91.86440677966101% 0;}
+.ICSC_Bio_2017_81_s {max-width:273px; max-height:189px; }
+.ICSC_Bio_2017_81_s::after {content: '\00a0';display: inline-block; width:273px; height:189px; background-position: 99.86338797814207% 36.69064748201439%;background-size: 368.13186813186815% 394.1798941798942%;background-image: url(icse_x_bg_2017.png);padding: 0; }
+div.ICSC_Bio_2017_81_s::after {max-width:273px; width:100%;height:0;padding: 0 0 69.23076923076923% 0;}
+.ICSC_Bio_2017_93_s {max-width:176px; max-height:76px; }
+.ICSC_Bio_2017_93_s::after {content: '\00a0';display: inline-block; width:176px; height:76px; background-position: 76.47768395657418% 91.77877428998505%;background-size: 571.0227272727273% 980.2631578947369%;background-image: url(icse_x_bg_2017.png);padding: 0; }
+div.ICSC_Bio_2017_93_s::after {max-width:176px; width:100%;height:0;padding: 0 0 43.18181818181818% 0;}
+.ICSC_Bio_2017_97_p {max-width:307px; max-height:202px; }
+.ICSC_Bio_2017_97_p::after {content: '\00a0';display: inline-block; width:307px; height:202px; background-position: 98.13753581661891% 0.1841620626151013%;background-size: 327.36156351791533% 368.81188118811883%;background-image: url(icse_x_bg_2017.png);padding: 0; }
+div.ICSC_Bio_2017_97_p::after {max-width:307px; width:100%;height:0;padding: 0 0 65.79804560260587% 0;}
+
+/* $TexturePacker:SmartUpdate:8df2be93f27c67ab441958343c6373c3:12aaeb659ac1b2111a621b3df0b68f78:52b97896ceea548029889fba64855107$ */

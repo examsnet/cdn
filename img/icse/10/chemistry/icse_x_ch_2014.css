@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Chemistry_2014_39_p {max-width:186px; max-height:264px; }
+.Chemistry_2014_39_p::after {content: '\00a0';display: inline-block; width:186px; height:264px; background-position: 50% 50%;background-size: 101.0752688172043% 100.75757575757575%;background-image: url(icse_x_ch_2014.png);padding: 0; }
+div.Chemistry_2014_39_p::after {max-width:186px; width:100%;height:0;padding: 0 0 141.93548387096774% 0;}
+
+/* $TexturePacker:SmartUpdate:0bb7b88985af10bd95f3ebe331fe4253:36d5797dbbfdcc875def9e78d9ba2931:8744c0f258e2adb25652fe30ac6742f2$ */

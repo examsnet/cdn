@@ -1,0 +1,41 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.ICSC_Bio_2015_21_p {max-width:331px; max-height:210px; }
+.ICSC_Bio_2015_21_p::after {content: '\00a0';display: inline-block; width:331px; height:210px; background-position: 67.72946859903382% 82.6086956521739%;background-size: 412.6888217522659% 242.38095238095238%;background-image: url(icse_x_bg_2015.png);padding: 0; }
+div.ICSC_Bio_2015_21_p::after {max-width:331px; width:100%;height:0;padding: 0 0 63.4441087613293% 0;}
+.ICSC_Bio_2015_36_p {max-width:225px; max-height:166px; }
+.ICSC_Bio_2015_36_p::after {content: '\00a0';display: inline-block; width:225px; height:166px; background-position: 90.53461875547765% 60.349854227405245%;background-size: 607.1111111111111% 306.6265060240964%;background-image: url(icse_x_bg_2015.png);padding: 0; }
+div.ICSC_Bio_2015_36_p::after {max-width:225px; width:100%;height:0;padding: 0 0 73.77777777777777% 0;}
+.ICSC_Bio_2015_52_p {max-width:299px; max-height:237px; }
+.ICSC_Bio_2015_52_p::after {content: '\00a0';display: inline-block; width:299px; height:237px; background-position: 0.09372071227741331% 98.8970588235294%;background-size: 456.8561872909699% 214.76793248945148%;background-image: url(icse_x_bg_2015.png);padding: 0; }
+div.ICSC_Bio_2015_52_p::after {max-width:299px; width:100%;height:0;padding: 0 0 79.26421404682274% 0;}
+.ICSC_Bio_2015_63_p {max-width:332px; max-height:125px; }
+.ICSC_Bio_2015_63_p::after {content: '\00a0';display: inline-block; width:332px; height:125px; background-position: 99.90328820116054% 97.39583333333333%;background-size: 411.4457831325301% 407.2%;background-image: url(icse_x_bg_2015.png);padding: 0; }
+div.ICSC_Bio_2015_63_p::after {max-width:332px; width:100%;height:0;padding: 0 0 37.65060240963855% 0;}
+.ICSC_Bio_2015_73_p {max-width:250px; max-height:267px; }
+.ICSC_Bio_2015_73_p::after {content: '\00a0';display: inline-block; width:250px; height:267px; background-position: 0.08960573476702509% 0.4132231404958678%;background-size: 546.4% 190.63670411985018%;background-image: url(icse_x_bg_2015.png);padding: 0; }
+div.ICSC_Bio_2015_73_p::after {max-width:250px; width:100%;height:0;padding: 0 0 106.8% 0;}
+.ICSC_Bio_2015_78_s {max-width:272px; max-height:261px; }
+.ICSC_Bio_2015_78_s::after {content: '\00a0';display: inline-block; width:272px; height:261px; background-position: 23.03473491773309% 0.4032258064516129%;background-size: 502.20588235294116% 195.0191570881226%;background-image: url(icse_x_bg_2015.png);padding: 0; }
+div.ICSC_Bio_2015_78_s::after {max-width:272px; width:100%;height:0;padding: 0 0 95.95588235294117% 0;}
+.ICSC_Bio_2015_79_s {max-width:399px; max-height:245px; }
+.ICSC_Bio_2015_79_s::after {content: '\00a0';display: inline-block; width:399px; height:245px; background-position: 31.12719751809721% 99.62121212121212%;background-size: 342.35588972431077% 207.75510204081633%;background-image: url(icse_x_bg_2015.png);padding: 0; }
+div.ICSC_Bio_2015_79_s::after {max-width:399px; width:100%;height:0;padding: 0 0 61.40350877192982% 0;}
+.ICSC_Bio_2015_80_p {max-width:312px; max-height:245px; }
+.ICSC_Bio_2015_80_p::after {content: '\00a0';display: inline-block; width:312px; height:245px; background-position: 49.81024667931689% 0.3787878787878788%;background-size: 437.8205128205128% 207.75510204081633%;background-image: url(icse_x_bg_2015.png);padding: 0; }
+div.ICSC_Bio_2015_80_p::after {max-width:312px; width:100%;height:0;padding: 0 0 78.52564102564102% 0;}
+.ICSC_Bio_2015_83_s {max-width:280px; max-height:125px; }
+.ICSC_Bio_2015_83_s::after {content: '\00a0';display: inline-block; width:280px; height:125px; background-position: 97.14548802946592% 0.2604166666666667%;background-size: 487.85714285714283% 407.2%;background-image: url(icse_x_bg_2015.png);padding: 0; }
+div.ICSC_Bio_2015_83_s::after {max-width:280px; width:100%;height:0;padding: 0 0 44.642857142857146% 0;}
+.ICSC_Bio_2015_88_p {max-width:216px; max-height:205px; }
+.ICSC_Bio_2015_88_p::after {content: '\00a0';display: inline-block; width:216px; height:205px; background-position: 72.8695652173913% 0.32894736842105265%;background-size: 632.4074074074074% 248.29268292682926%;background-image: url(icse_x_bg_2015.png);padding: 0; }
+div.ICSC_Bio_2015_88_p::after {max-width:216px; width:100%;height:0;padding: 0 0 94.9074074074074% 0;}
+
+/* $TexturePacker:SmartUpdate:1550de0f4018dd11ca911726e251c849:924d37e129390d2b612e5e8cc9689907:2637ea7e01129c0ef0578427dd6858cf$ */

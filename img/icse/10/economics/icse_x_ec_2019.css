@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Economic_2019_11_s {max-width:338px; max-height:225px; }
+.Economic_2019_11_s::after {content: '\00a0';display: inline-block; width:338px; height:225px; background-position: 57.23684210526316% 0.45871559633027525%;background-size: 279.8816568047337% 196.88888888888889%;background-image: url(icse_x_ec_2019.png);padding: 0; }
+div.Economic_2019_11_s::after {max-width:338px; width:100%;height:0;padding: 0 0 66.5680473372781% 0;}
+.Economic_2019_16_s {max-width:309px; max-height:215px; }
+.Economic_2019_16_s::after {content: '\00a0';display: inline-block; width:309px; height:215px; background-position: 54.631083202511775% 99.56140350877193%;background-size: 306.14886731391584% 206.04651162790697%;background-image: url(icse_x_ec_2019.png);padding: 0; }
+div.Economic_2019_16_s::after {max-width:309px; width:100%;height:0;padding: 0 0 69.57928802588997% 0;}
+.Economic_2019_38_s {max-width:258px; max-height:252px; }
+.Economic_2019_38_s::after {content: '\00a0';display: inline-block; width:258px; height:252px; background-position: 99.8546511627907% 0.5235602094240838%;background-size: 366.6666666666667% 175.79365079365078%;background-image: url(icse_x_ec_2019.png);padding: 0; }
+div.Economic_2019_38_s::after {max-width:258px; width:100%;height:0;padding: 0 0 97.67441860465117% 0;}
+.Economic_2019_39_s {max-width:346px; max-height:365px; }
+.Economic_2019_39_s::after {content: '\00a0';display: inline-block; width:346px; height:365px; background-position: 0.16666666666666666% 1.2820512820512822%;background-size: 273.4104046242775% 121.36986301369863%;background-image: url(icse_x_ec_2019.png);padding: 0; }
+div.Economic_2019_39_s::after {max-width:346px; width:100%;height:0;padding: 0 0 105.49132947976878% 0;}
+
+/* $TexturePacker:SmartUpdate:873d1220f5e937b37bd6d27883bdd6f9:c1c02534867435dfc22650cb79e9cbaa:a5bf6416e819dc6b70903f23d42ffe62$ */
