@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.ibps_po_23_sep_2023_41_para {max-width:391px; max-height:356px; }
+.ibps_po_23_sep_2023_41_para::after {content: '\00a0';display: inline-block; width:391px; height:356px; background-position: 0.2702702702702703% 50%;background-size: 194.6291560102302% 100.56179775280899%;background-image: url(ibps_po_pre_n2023.png);padding: 0; }
+div.ibps_po_23_sep_2023_41_para::after {max-width:391px; width:100%;height:0;padding: 0 0 91.04859335038363% 0;}
+.ibps_po_23_sep_2023_41_para_1 {max-width:367px; max-height:343px; }
+.ibps_po_23_sep_2023_41_para_1::after {content: '\00a0';display: inline-block; width:367px; height:343px; background-position: 99.74619289340102% 6.666666666666667%;background-size: 207.35694822888283% 104.3731778425656%;background-image: url(ibps_po_pre_n2023.png);padding: 0; }
+div.ibps_po_23_sep_2023_41_para_1::after {max-width:367px; width:100%;height:0;padding: 0 0 93.46049046321527% 0;}
+
+/* $TexturePacker:SmartUpdate:ee809ca7be85d442c57db6d333505c71:91d926c75193adad5101fe30c77b256b:10b82176465a2f78f69e796a626b668c$ */
