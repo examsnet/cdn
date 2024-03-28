@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.cgtet_mat_2016_115 {max-width:187px; max-height:168px; }
+.cgtet_mat_2016_115::after {content: '\00a0';display: inline-block; width:187px; height:168px; background-position: 69.20415224913495% 1.2048192771084338%;background-size: 254.54545454545453% 149.4047619047619%;background-image: url(cgtet2016.png);padding: 0; }
+div.cgtet_mat_2016_115::after {max-width:187px; width:100%;height:0;padding: 0 0 89.83957219251337% 0;}
+.cgtet_mat_2016_129 {max-width:87px; max-height:134px; }
+.cgtet_mat_2016_129::after {content: '\00a0';display: inline-block; width:87px; height:134px; background-position: 99.74293059125964% 0.8547008547008547%;background-size: 547.1264367816092% 187.3134328358209%;background-image: url(cgtet2016.png);padding: 0; }
+div.cgtet_mat_2016_129::after {max-width:87px; width:100%;height:0;padding: 0 0 154.02298850574712% 0;}
+.cgtet_p1_2016_121 {max-width:198px; max-height:249px; }
+.cgtet_p1_2016_121::after {content: '\00a0';display: inline-block; width:198px; height:249px; background-position: 0.3597122302158273% 50%;background-size: 240.40404040404042% 100.80321285140562%;background-image: url(cgtet2016.png);padding: 0; }
+div.cgtet_p1_2016_121::after {max-width:198px; width:100%;height:0;padding: 0 0 125.75757575757575% 0;}
+
+/* $TexturePacker:SmartUpdate:d3aeba933c41ea209275806da8ada8c7:088a6f6513a00bff43f0a8de7003738e:c57c3085a73471b6c45dc4cb5d392ede$ */

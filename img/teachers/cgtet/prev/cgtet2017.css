@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.cgtet_mat_2017_100 {max-width:253px; max-height:221px; }
+.cgtet_mat_2017_100::after {content: '\00a0';display: inline-block; width:253px; height:221px; background-position: 23.993144815766925% 2.9411764705882355%;background-size: 561.2648221343874% 115.38461538461539%;background-image: url(cgtet2017.png);padding: 0; }
+div.cgtet_mat_2017_100::after {max-width:253px; width:100%;height:0;padding: 0 0 87.35177865612648% 0;}
+.cgtet_mat_2017_101 {max-width:267px; max-height:203px; }
+.cgtet_mat_2017_101::after {content: '\00a0';display: inline-block; width:267px; height:203px; background-position: 46.313963573287076% 1.9230769230769231%;background-size: 531.8352059925094% 125.61576354679804%;background-image: url(cgtet2017.png);padding: 0; }
+div.cgtet_mat_2017_101::after {max-width:267px; width:100%;height:0;padding: 0 0 76.02996254681648% 0;}
+.cgtet_mat_2017_113 {max-width:219px; max-height:180px; }
+.cgtet_mat_2017_113::after {content: '\00a0';display: inline-block; width:219px; height:180px; background-position: 66.77768526228144% 1.3333333333333333%;background-size: 648.4018264840182% 141.66666666666666%;background-image: url(cgtet2017.png);padding: 0; }
+div.cgtet_mat_2017_113::after {max-width:219px; width:100%;height:0;padding: 0 0 82.1917808219178% 0;}
+.cgtet_mat_2017_136 {max-width:163px; max-height:129px; }
+.cgtet_mat_2017_136::after {content: '\00a0';display: inline-block; width:163px; height:129px; background-position: 81.30469371519492% 0.7936507936507936%;background-size: 871.1656441717791% 197.67441860465115%;background-image: url(cgtet2017.png);padding: 0; }
+div.cgtet_mat_2017_136::after {max-width:163px; width:100%;height:0;padding: 0 0 79.14110429447852% 0;}
+.cgtet_mat_2017_146_1 {max-width:132px; max-height:123px; }
+.cgtet_mat_2017_146_1::after {content: '\00a0';display: inline-block; width:132px; height:123px; background-position: 79.34782608695652% 99.24242424242425%;background-size: 1075.7575757575758% 207.3170731707317%;background-image: url(cgtet2017.png);padding: 0; }
+div.cgtet_mat_2017_146_1::after {max-width:132px; width:100%;height:0;padding: 0 0 93.18181818181819% 0;}
+.cgtet_mat_2017_146_2 {max-width:131px; max-height:122px; }
+.cgtet_mat_2017_146_2::after {content: '\00a0';display: inline-block; width:131px; height:122px; background-position: 99.92242048099301% 93.98496240601504%;background-size: 1083.969465648855% 209.01639344262296%;background-image: url(cgtet2017.png);padding: 0; }
+div.cgtet_mat_2017_146_2::after {max-width:131px; width:100%;height:0;padding: 0 0 93.12977099236642% 0;}
+.cgtet_mat_2017_146_3 {max-width:132px; max-height:123px; }
+.cgtet_mat_2017_146_3::after {content: '\00a0';display: inline-block; width:132px; height:123px; background-position: 89.67391304347827% 99.24242424242425%;background-size: 1075.7575757575758% 207.3170731707317%;background-image: url(cgtet2017.png);padding: 0; }
+div.cgtet_mat_2017_146_3::after {max-width:132px; width:100%;height:0;padding: 0 0 93.18181818181819% 0;}
+.cgtet_mat_2017_146_4 {max-width:132px; max-height:123px; }
+.cgtet_mat_2017_146_4::after {content: '\00a0';display: inline-block; width:132px; height:123px; background-position: 92.0807453416149% 0.7575757575757576%;background-size: 1075.7575757575758% 207.3170731707317%;background-image: url(cgtet2017.png);padding: 0; }
+div.cgtet_mat_2017_146_4::after {max-width:132px; width:100%;height:0;padding: 0 0 93.18181818181819% 0;}
+.cgtet_mat_2017_99 {max-width:278px; max-height:225px; }
+.cgtet_mat_2017_99::after {content: '\00a0';display: inline-block; width:278px; height:225px; background-position: 0.08756567425569177% 3.3333333333333335%;background-size: 510.7913669064748% 113.33333333333333%;background-image: url(cgtet2017.png);padding: 0; }
+div.cgtet_mat_2017_99::after {max-width:278px; width:100%;height:0;padding: 0 0 80.93525179856115% 0;}
+
+/* $TexturePacker:SmartUpdate:f5f8d7de507b38fd9914e158c2af98d2:b26941a3cbb35599971ec5ca701e8918:606831ffd1dad80d9f8446df53a4a8ef$ */
