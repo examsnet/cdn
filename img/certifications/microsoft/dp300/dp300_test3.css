@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.MA_ARD_DP_300_T3_21 {max-width:704px; max-height:399px; }
+.MA_ARD_DP_300_T3_21::after {content: '\00a0';display: inline-block; width:704px; height:399px; background-position: 96.35036496350365% 99.8992950654582%;background-size: 236.2215909090909% 348.8721804511278%;background-image: url(dp300_test3.png);padding: 0; }
+div.MA_ARD_DP_300_T3_21::after {max-width:704px; width:100%;height:0;padding: 0 0 56.67613636363637% 0;}
+.MA_ARD_DP_300_T3_28 {max-width:922px; max-height:557px; }
+.MA_ARD_DP_300_T3_28::after {content: '\00a0';display: inline-block; width:922px; height:557px; background-position: 0.1349527665317139% 71.8562874251497%;background-size: 180.36876355748373% 249.91023339317775%;background-image: url(dp300_test3.png);padding: 0; }
+div.MA_ARD_DP_300_T3_28::after {max-width:922px; width:100%;height:0;padding: 0 0 60.41214750542299% 0;}
+.MA_ARD_DP_300_T3_30 {max-width:738px; max-height:499px; }
+.MA_ARD_DP_300_T3_30::after {content: '\00a0';display: inline-block; width:738px; height:499px; background-position: 99.89189189189189% 55.09518477043673%;background-size: 225.33875338753387% 278.95791583166334%;background-image: url(dp300_test3.png);padding: 0; }
+div.MA_ARD_DP_300_T3_30::after {max-width:738px; width:100%;height:0;padding: 0 0 67.61517615176152% 0;}
+.MA_ARD_DP_300_T3_32 {max-width:742px; max-height:598px; }
+.MA_ARD_DP_300_T3_32::after {content: '\00a0';display: inline-block; width:742px; height:598px; background-position: 0.10857763300760044% 0.12594458438287154%;background-size: 224.12398921832883% 232.77591973244148%;background-image: url(dp300_test3.png);padding: 0; }
+div.MA_ARD_DP_300_T3_32::after {max-width:742px; width:100%;height:0;padding: 0 0 80.59299191374663% 0;}
+.MA_ARD_DP_300_T3_7 {max-width:800px; max-height:490px; }
+.MA_ARD_DP_300_T3_7::after {content: '\00a0';display: inline-block; width:800px; height:490px; background-position: 86.21089223638471% 0.11086474501108648%;background-size: 207.875% 284.0816326530612%;background-image: url(dp300_test3.png);padding: 0; }
+div.MA_ARD_DP_300_T3_7::after {max-width:800px; width:100%;height:0;padding: 0 0 61.25% 0;}
+
+/* $TexturePacker:SmartUpdate:b49d142c3f9994ab49080d4575986c6c:dcd57ffe75bb7ff945d3719b5499b0ac:81650388f24ac7453f46f1338b862b1d$ */
