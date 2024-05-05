@@ -1,0 +1,71 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.CMAT_2023_S1_15 {max-width:243px; max-height:245px; }
+.CMAT_2023_S1_15::after {content: '\00a0';display: inline-block; width:243px; height:245px; background-position: 68.93453145057767% 97.65432098765432%;background-size: 420.5761316872428% 430.61224489795916%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S1_15::after {max-width:243px; width:100%;height:0;padding: 0 0 100.82304526748972% 0;}
+.CMAT_2023_S1_15_Sol {max-width:240px; max-height:239px; }
+.CMAT_2023_S1_15_Sol::after {content: '\00a0';display: inline-block; width:240px; height:239px; background-position: 99.87212276214834% 96.93627450980392%;background-size: 425.8333333333333% 441.4225941422594%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S1_15_Sol::after {max-width:240px; width:100%;height:0;padding: 0 0 99.58333333333333% 0;}
+.CMAT_2023_S1_22_Sol {max-width:230px; max-height:112px; }
+.CMAT_2023_S1_22_Sol::after {content: '\00a0';display: inline-block; width:230px; height:112px; background-position: 67.8030303030303% 33.61611876988335%;background-size: 444.3478260869565% 941.9642857142857%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S1_22_Sol::after {max-width:230px; width:100%;height:0;padding: 0 0 48.69565217391305% 0;}
+.CMAT_2023_S1_23_Sol {max-width:445px; max-height:39px; }
+.CMAT_2023_S1_23_Sol::after {content: '\00a0';display: inline-block; width:445px; height:39px; background-position: 0.1733102253032929% 0.0984251968503937%;background-size: 229.6629213483146% 2705.128205128205%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S1_23_Sol::after {max-width:445px; width:100%;height:0;padding: 0 0 8.764044943820224% 0;}
+.CMAT_2023_S1_23_Sol_1 {max-width:427px; max-height:49px; }
+.CMAT_2023_S1_23_Sol_1::after {content: '\00a0';display: inline-block; width:427px; height:49px; background-position: 75.12605042016807% 0.09940357852882704%;background-size: 239.34426229508196% 2153.061224489796%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S1_23_Sol_1::after {max-width:427px; width:100%;height:0;padding: 0 0 11.475409836065573% 0;}
+.CMAT_2023_S1_27 {max-width:150px; max-height:147px; }
+.CMAT_2023_S1_27::after {content: '\00a0';display: inline-block; width:150px; height:147px; background-position: 0.11467889908256881% 99.00881057268722%;background-size: 681.3333333333334% 717.6870748299319%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S1_27::after {max-width:150px; width:100%;height:0;padding: 0 0 98% 0;}
+.CMAT_2023_S1_27_Sol {max-width:244px; max-height:215px; }
+.CMAT_2023_S1_27_Sol::after {content: '\00a0';display: inline-block; width:244px; height:215px; background-position: 99.87146529562982% 6.071428571428571%;background-size: 418.8524590163934% 490.69767441860466%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S1_27_Sol::after {max-width:244px; width:100%;height:0;padding: 0 0 88.11475409836065% 0;}
+.CMAT_2023_S1_28_Sol {max-width:169px; max-height:125px; }
+.CMAT_2023_S1_28_Sol::after {content: '\00a0';display: inline-block; width:169px; height:125px; background-position: 62.95427901524033% 71.18279569892474%;background-size: 604.7337278106509% 844%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S1_28_Sol::after {max-width:169px; width:100%;height:0;padding: 0 0 73.96449704142012% 0;}
+.CMAT_2023_S1_29_Sol {max-width:216px; max-height:231px; }
+.CMAT_2023_S1_29_Sol::after {content: '\00a0';display: inline-block; width:216px; height:231px; background-position: 66.62531017369727% 52.18446601941748%;background-size: 473.14814814814815% 456.7099567099567%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S1_29_Sol::after {max-width:216px; width:100%;height:0;padding: 0 0 106.94444444444444% 0;}
+.CMAT_2023_S1_39 {max-width:217px; max-height:146px; }
+.CMAT_2023_S1_39::after {content: '\00a0';display: inline-block; width:217px; height:146px; background-position: 18.88198757763975% 98.8998899889989%;background-size: 470.96774193548384% 722.6027397260274%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S1_39::after {max-width:217px; width:100%;height:0;padding: 0 0 67.28110599078342% 0;}
+.CMAT_2023_S1_39_Sol {max-width:319px; max-height:204px; }
+.CMAT_2023_S1_39_Sol::after {content: '\00a0';display: inline-block; width:319px; height:204px; background-position: 0.1422475106685633% 11.98589894242068%;background-size: 320.37617554858934% 517.156862745098%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S1_39_Sol::after {max-width:319px; width:100%;height:0;padding: 0 0 63.94984326018809% 0;}
+.CMAT_2023_S1_40 {max-width:299px; max-height:295px; }
+.CMAT_2023_S1_40::after {content: '\00a0';display: inline-block; width:299px; height:295px; background-position: 0.13831258644536654% 40.39473684210526%;background-size: 341.80602006688963% 357.6271186440678%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S1_40::after {max-width:299px; width:100%;height:0;padding: 0 0 98.66220735785953% 0;}
+.CMAT_2023_S2_2 {max-width:276px; max-height:295px; }
+.CMAT_2023_S2_2::after {content: '\00a0';display: inline-block; width:276px; height:295px; background-position: 0.13404825737265416% 79.34210526315789%;background-size: 370.28985507246375% 357.6271186440678%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S2_2::after {max-width:276px; width:100%;height:0;padding: 0 0 106.8840579710145% 0;}
+.CMAT_2023_S2_26_Sol {max-width:223px; max-height:255px; }
+.CMAT_2023_S2_26_Sol::after {content: '\00a0';display: inline-block; width:223px; height:255px; background-position: 37.6720901126408% 39.625%;background-size: 458.29596412556054% 413.72549019607845%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S2_26_Sol::after {max-width:223px; width:100%;height:0;padding: 0 0 114.34977578475336% 0;}
+.CMAT_2023_S2_26_Sol_1 {max-width:260px; max-height:257px; }
+.CMAT_2023_S2_26_Sol_1::after {content: '\00a0';display: inline-block; width:260px; height:257px; background-position: 98.9501312335958% 66.79197994987469%;background-size: 393.0769230769231% 410.5058365758755%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S2_26_Sol_1::after {max-width:260px; width:100%;height:0;padding: 0 0 98.84615384615384% 0;}
+.CMAT_2023_S2_26_Sol_2 {max-width:258px; max-height:290px; }
+.CMAT_2023_S2_26_Sol_2::after {content: '\00a0';display: inline-block; width:258px; height:290px; background-position: 36.38743455497382% 78.82352941176471%;background-size: 396.1240310077519% 363.7931034482759%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S2_26_Sol_2::after {max-width:258px; width:100%;height:0;padding: 0 0 112.40310077519379% 0;}
+.CMAT_2023_S2_26_Sol_3 {max-width:243px; max-height:265px; }
+.CMAT_2023_S2_26_Sol_3::after {content: '\00a0';display: inline-block; width:243px; height:265px; background-position: 99.74326059050064% 33.79746835443038%;background-size: 420.5761316872428% 398.1132075471698%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S2_26_Sol_3::after {max-width:243px; width:100%;height:0;padding: 0 0 109.05349794238683% 0;}
+.CMAT_2023_S2_33 {max-width:379px; max-height:265px; }
+.CMAT_2023_S2_33::after {content: '\00a0';display: inline-block; width:379px; height:265px; background-position: 61.74183514774494% 6.455696202531645%;background-size: 269.6569920844327% 398.1132075471698%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S2_33::after {max-width:379px; width:100%;height:0;padding: 0 0 69.92084432717678% 0;}
+.CMAT_2023_S2_4 {max-width:154px; max-height:160px; }
+.CMAT_2023_S2_4::after {content: '\00a0';display: inline-block; width:154px; height:160px; background-position: 42.62672811059908% 99.88826815642459%;background-size: 663.6363636363636% 659.375%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S2_4::after {max-width:154px; width:100%;height:0;padding: 0 0 103.8961038961039% 0;}
+.CMAT_2023_S2_8_Sol {max-width:395px; max-height:60px; }
+.CMAT_2023_S2_8_Sol::after {content: '\00a0';display: inline-block; width:395px; height:60px; background-position: 0.1594896331738437% 4.1206030150753765%;background-size: 258.73417721518985% 1758.3333333333333%;background-image: url(cmat2023.png);padding: 0; }
+div.CMAT_2023_S2_8_Sol::after {max-width:395px; width:100%;height:0;padding: 0 0 15.189873417721518% 0;}
+
+/* $TexturePacker:SmartUpdate:e474b981558b1146e550a2f6cdba4418:8cbd2777ae2b31bf7977d7fd1177d035:ea5403e00e6861a6845a4406d71bb04d$ */
