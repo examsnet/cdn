@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.gate_cs_2016_s1_21 {max-width:184px; max-height:167px; }
+.gate_cs_2016_s1_21::after {content: '\00a0';display: inline-block; width:184px; height:167px; background-position: 95.14893617021276% 40.12738853503185%;background-size: 738.5869565217391% 288.0239520958084%;background-image: url(gate_cs_2016.png);padding: 0; }
+div.gate_cs_2016_s1_21::after {max-width:184px; width:100%;height:0;padding: 0 0 90.76086956521739% 0;}
+.gate_cs_2016_s1_40 {max-width:370px; max-height:157px; }
+.gate_cs_2016_s1_40::after {content: '\00a0';display: inline-block; width:370px; height:157px; background-position: 82.40647118301314% 93.82716049382717%;background-size: 367.2972972972973% 306.36942675159236%;background-image: url(gate_cs_2016.png);padding: 0; }
+div.gate_cs_2016_s1_40::after {max-width:370px; width:100%;height:0;padding: 0 0 42.432432432432435% 0;}
+.gate_cs_2016_s1_51 {max-width:358px; max-height:214px; }
+.gate_cs_2016_s1_51::after {content: '\00a0';display: inline-block; width:358px; height:214px; background-position: 0.0999000999000999% 99.62546816479401%;background-size: 379.60893854748605% 224.7663551401869%;background-image: url(gate_cs_2016.png);padding: 0; }
+div.gate_cs_2016_s1_51::after {max-width:358px; width:100%;height:0;padding: 0 0 59.77653631284916% 0;}
+.gate_cs_2016_s1_53 {max-width:416px; max-height:116px; }
+.gate_cs_2016_s1_53::after {content: '\00a0';display: inline-block; width:416px; height:116px; background-position: 38.17603393425239% 86.57534246575342%;background-size: 326.6826923076923% 414.6551724137931%;background-image: url(gate_cs_2016.png);padding: 0; }
+div.gate_cs_2016_s1_53::after {max-width:416px; width:100%;height:0;padding: 0 0 27.884615384615383% 0;}
+.gate_cs_2016_s2_10 {max-width:328px; max-height:314px; }
+.gate_cs_2016_s2_10::after {content: '\00a0';display: inline-block; width:328px; height:314px; background-position: 47.13870029097963% 0.5988023952095808%;background-size: 414.3292682926829% 153.18471337579618%;background-image: url(gate_cs_2016.png);padding: 0; }
+div.gate_cs_2016_s2_10::after {max-width:328px; width:100%;height:0;padding: 0 0 95.73170731707317% 0;}
+.gate_cs_2016_s2_49 {max-width:484px; max-height:264px; }
+.gate_cs_2016_s2_49::after {content: '\00a0';display: inline-block; width:484px; height:264px; background-position: 0.11428571428571428% 0.4608294930875576%;background-size: 280.78512396694214% 182.1969696969697%;background-image: url(gate_cs_2016.png);padding: 0; }
+div.gate_cs_2016_s2_49::after {max-width:484px; width:100%;height:0;padding: 0 0 54.54545454545455% 0;}
+.gate_cs_2016_s2_60 {max-width:302px; max-height:302px; }
+.gate_cs_2016_s2_60::after {content: '\00a0';display: inline-block; width:302px; height:302px; background-position: 77.1050141911069% 0.5586592178770949%;background-size: 450% 159.27152317880794%;background-image: url(gate_cs_2016.png);padding: 0; }
+div.gate_cs_2016_s2_60::after {max-width:302px; width:100%;height:0;padding: 0 0 100% 0;}
+.gate_cs_2016_s2_9 {max-width:240px; max-height:124px; }
+.gate_cs_2016_s2_9::after {content: '\00a0';display: inline-block; width:240px; height:124px; background-position: 99.91063449508489% 0.2801120448179272%;background-size: 566.25% 387.9032258064516%;background-image: url(gate_cs_2016.png);padding: 0; }
+div.gate_cs_2016_s2_9::after {max-width:240px; width:100%;height:0;padding: 0 0 51.666666666666664% 0;}
+
+/* $TexturePacker:SmartUpdate:bcc2104bf3e11668fe0875de7ba6e1b7:b86a28745d0ec0e280dbf4b126861973:d10c87870a290ec7c6dfab9ba2111660$ */
