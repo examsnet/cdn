@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.gate_cs_2013_s1_24 {max-width:234px; max-height:37px; }
+.gate_cs_2013_s1_24::after {content: '\00a0';display: inline-block; width:234px; height:37px; background-position: 0.2958579881656805% 99.39393939393939%;background-size: 244.44444444444446% 545.9459459459459%;background-image: url(gate_cs_2013.png);padding: 0; }
+div.gate_cs_2013_s1_24::after {max-width:234px; width:100%;height:0;padding: 0 0 15.811965811965813% 0;}
+.gate_cs_2013_s1_43 {max-width:136px; max-height:178px; }
+.gate_cs_2013_s1_43::after {content: '\00a0';display: inline-block; width:136px; height:178px; background-position: 99.77064220183486% 4.166666666666667%;background-size: 420.5882352941176% 113.48314606741573%;background-image: url(gate_cs_2013.png);padding: 0; }
+div.gate_cs_2013_s1_43::after {max-width:136px; width:100%;height:0;padding: 0 0 130.88235294117646% 0;}
+.gate_cs_2013_s1_48 {max-width:433px; max-height:162px; }
+.gate_cs_2013_s1_48::after {content: '\00a0';display: inline-block; width:433px; height:162px; background-position: 0.7194244604316546% 2.5%;background-size: 132.10161662817552% 124.69135802469135%;background-image: url(gate_cs_2013.png);padding: 0; }
+div.gate_cs_2013_s1_48::after {max-width:433px; width:100%;height:0;padding: 0 0 37.41339491916859% 0;}
+
+/* $TexturePacker:SmartUpdate:a0ad0ef6088bd66116c268e99920ab37:a2f3c9ba179cbc59c17d0d22a3e2e8ff:f89b996913e70eda7da393d33edcd29f$ */
