@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.sbi_clerk_10_jul_2021_s1_46_para {max-width:514px; max-height:330px; }
+.sbi_clerk_10_jul_2021_s1_46_para::after {content: '\00a0';display: inline-block; width:514px; height:330px; background-position: 0.19801980198019803% 0.17421602787456447%;background-size: 198.24902723735408% 273.93939393939394%;background-image: url(sbiclerk_prev.png);padding: 0; }
+div.sbi_clerk_10_jul_2021_s1_46_para::after {max-width:514px; width:100%;height:0;padding: 0 0 64.2023346303502% 0;}
+.sbi_clerk_11_jul_2021_s1_46_para {max-width:502px; max-height:289px; }
+.sbi_clerk_11_jul_2021_s1_46_para::after {content: '\00a0';display: inline-block; width:502px; height:289px; background-position: 99.80657640232108% 0.16260162601626016%;background-size: 202.98804780876495% 312.80276816608995%;background-image: url(sbiclerk_prev.png);padding: 0; }
+div.sbi_clerk_11_jul_2021_s1_46_para::after {max-width:502px; width:100%;height:0;padding: 0 0 57.569721115537845% 0;}
+.sbi_clerk_12_jul_2021_s1_56_para {max-width:362px; max-height:292px; }
+.sbi_clerk_12_jul_2021_s1_56_para::after {content: '\00a0';display: inline-block; width:362px; height:292px; background-position: 78.99543378995433% 47.549019607843135%;background-size: 281.49171270718233% 309.5890410958904%;background-image: url(sbiclerk_prev.png);padding: 0; }
+div.sbi_clerk_12_jul_2021_s1_56_para::after {max-width:362px; width:100%;height:0;padding: 0 0 80.66298342541437% 0;}
+.sbi_clerk_13_jul_2021_s1_46_para {max-width:368px; max-height:266px; }
+.sbi_clerk_13_jul_2021_s1_46_para::after {content: '\00a0';display: inline-block; width:368px; height:266px; background-position: 79.72350230414746% 91.53605015673982%;background-size: 276.9021739130435% 339.8496240601504%;background-image: url(sbiclerk_prev.png);padding: 0; }
+div.sbi_clerk_13_jul_2021_s1_46_para::after {max-width:368px; width:100%;height:0;padding: 0 0 72.28260869565217% 0;}
+.sbi_clerk_22_jun_2019_51_para {max-width:369px; max-height:241px; }
+.sbi_clerk_22_jun_2019_51_para::after {content: '\00a0';display: inline-block; width:369px; height:241px; background-position: 0.15384615384615385% 99.84917043740573%;background-size: 276.15176151761517% 375.103734439834%;background-image: url(sbiclerk_prev.png);padding: 0; }
+div.sbi_clerk_22_jun_2019_51_para::after {max-width:369px; width:100%;height:0;padding: 0 0 65.31165311653116% 0;}
+.sbi_clerk_5_jan_2024_s2_45_para {max-width:517px; max-height:329px; }
+.sbi_clerk_5_jan_2024_s2_45_para::after {content: '\00a0';display: inline-block; width:517px; height:329px; background-position: 0.199203187250996% 57.73913043478261%;background-size: 197.09864603481626% 274.7720364741641%;background-image: url(sbiclerk_prev.png);padding: 0; }
+div.sbi_clerk_5_jan_2024_s2_45_para::after {max-width:517px; width:100%;height:0;padding: 0 0 63.63636363636363% 0;}
+
+/* $TexturePacker:SmartUpdate:8a217ba38a517fdeb665a8baa315fa24:7be0e80f7e0ec4892bb3dc477d1b4794:7562118b52ce9c8cdff7da360b7c8778$ */
