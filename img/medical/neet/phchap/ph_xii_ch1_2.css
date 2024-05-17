@@ -1,0 +1,41 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.NEET_2022_PC_Q_47 {max-width:360px; max-height:168px; }
+.NEET_2022_PC_Q_47::after {content: '\00a0';display: inline-block; width:360px; height:168px; background-position: 30.427892234548334% 58.445945945945944%;background-size: 275.27777777777777% 276.1904761904762%;background-image: url(ph_xii_ch1_2.png);padding: 0; }
+div.NEET_2022_PC_Q_47::after {max-width:360px; width:100%;height:0;padding: 0 0 46.666666666666664% 0;}
+.NEET_2022_PC_S_47 {max-width:208px; max-height:162px; }
+.NEET_2022_PC_S_47::after {content: '\00a0';display: inline-block; width:208px; height:162px; background-position: 56.57726692209451% 0.33112582781456956%;background-size: 476.4423076923077% 286.41975308641975%;background-image: url(ph_xii_ch1_2.png);padding: 0; }
+div.NEET_2022_PC_S_47::after {max-width:208px; width:100%;height:0;padding: 0 0 77.88461538461539% 0;}
+.NEET_2022_PC_S_47_1 {max-width:161px; max-height:202px; }
+.NEET_2022_PC_S_47_1::after {content: '\00a0';display: inline-block; width:161px; height:202px; background-position: 0.12048192771084337% 0.3816793893129771%;background-size: 615.527950310559% 229.7029702970297%;background-image: url(ph_xii_ch1_2.png);padding: 0; }
+div.NEET_2022_PC_S_47_1::after {max-width:161px; width:100%;height:0;padding: 0 0 125.46583850931677% 0;}
+.NEET_2024_15_q {max-width:190px; max-height:183px; }
+.NEET_2024_15_q::after {content: '\00a0';display: inline-block; width:190px; height:183px; background-position: 0.12484394506866417% 72.59786476868328%;background-size: 521.578947368421% 253.55191256830602%;background-image: url(ph_xii_ch1_2.png);padding: 0; }
+div.NEET_2024_15_q::after {max-width:190px; width:100%;height:0;padding: 0 0 96.3157894736842% 0;}
+.NEET_2024_21_q {max-width:342px; max-height:126px; }
+.NEET_2024_21_q::after {content: '\00a0';display: inline-block; width:342px; height:126px; background-position: 95.53158705701078% 96.44970414201184%;background-size: 289.766081871345% 368.25396825396825%;background-image: url(ph_xii_ch1_2.png);padding: 0; }
+div.NEET_2024_21_q::after {max-width:342px; width:100%;height:0;padding: 0 0 36.8421052631579% 0;}
+.NEET_2024_21_s {max-width:338px; max-height:120px; }
+.NEET_2024_21_s::after {content: '\00a0';display: inline-block; width:338px; height:120px; background-position: 99.8468606431853% 0.29069767441860467%;background-size: 293.1952662721894% 386.6666666666667%;background-image: url(ph_xii_ch1_2.png);padding: 0; }
+div.NEET_2024_21_s::after {max-width:338px; width:100%;height:0;padding: 0 0 35.50295857988166% 0;}
+.NEET_2024_21_s_1 {max-width:348px; max-height:107px; }
+.NEET_2024_21_s_1::after {content: '\00a0';display: inline-block; width:348px; height:107px; background-position: 86.00311041990669% 61.06442577030813%;background-size: 284.7701149425287% 433.6448598130841%;background-image: url(ph_xii_ch1_2.png);padding: 0; }
+div.NEET_2024_21_s_1::after {max-width:348px; width:100%;height:0;padding: 0 0 30.74712643678161% 0;}
+.NEET_2024_36_s {max-width:333px; max-height:95px; }
+.NEET_2024_36_s::after {content: '\00a0';display: inline-block; width:333px; height:95px; background-position: 99.08814589665654% 33.06233062330623%;background-size: 297.5975975975976% 488.42105263157896%;background-image: url(ph_xii_ch1_2.png);padding: 0; }
+div.NEET_2024_36_s::after {max-width:333px; width:100%;height:0;padding: 0 0 28.52852852852853% 0;}
+.neet_2023_f1_phy_chem_25 {max-width:279px; max-height:171px; }
+.neet_2023_f1_phy_chem_25::after {content: '\00a0';display: inline-block; width:279px; height:171px; background-position: 22.89325842696629% 0.3412969283276451%;background-size: 355.19713261648747% 271.34502923976606%;background-image: url(ph_xii_ch1_2.png);padding: 0; }
+div.neet_2023_f1_phy_chem_25::after {max-width:279px; width:100%;height:0;padding: 0 0 61.29032258064516% 0;}
+.neet_2023_f1_phy_chem_47 {max-width:427px; max-height:121px; }
+.neet_2023_f1_phy_chem_47::after {content: '\00a0';display: inline-block; width:427px; height:121px; background-position: 34.04255319148936% 99.70845481049562%;background-size: 232.08430913348946% 383.4710743801653%;background-image: url(ph_xii_ch1_2.png);padding: 0; }
+div.neet_2023_f1_phy_chem_47::after {max-width:427px; width:100%;height:0;padding: 0 0 28.337236533957846% 0;}
+
+/* $TexturePacker:SmartUpdate:5c0d8edd921cd30d34a4474d6c8d9730:bbf87bb008e14ecdf545342d7a58eb89:95cf15b03946bc682c2cc8ab042d9506$ */

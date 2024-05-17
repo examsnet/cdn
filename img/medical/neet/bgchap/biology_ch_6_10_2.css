@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.NEET_2024_104_q {max-width:255px; max-height:130px; }
+.NEET_2024_104_q::after {content: '\00a0';display: inline-block; width:255px; height:130px; background-position: 99.33333333333333% 1.9230769230769231%;background-size: 158.8235294117647% 140%;background-image: url(biology_ch_6_10_2.png);padding: 0; }
+div.NEET_2024_104_q::after {max-width:255px; width:100%;height:0;padding: 0 0 50.98039215686274% 0;}
+.NEET_2024_116_q {max-width:147px; max-height:180px; }
+.NEET_2024_116_q::after {content: '\00a0';display: inline-block; width:147px; height:180px; background-position: 0.3875968992248062% 50%;background-size: 275.51020408163265% 101.11111111111111%;background-image: url(biology_ch_6_10_2.png);padding: 0; }
+div.NEET_2024_116_q::after {max-width:147px; width:100%;height:0;padding: 0 0 122.44897959183673% 0;}
+
+/* $TexturePacker:SmartUpdate:319b5054bf6aabefc7924ed4b2669e81:045d0679eecd8e2849e235c1d9943ae3:e674257f56df1e8669bf2f2da29e1351$ */
