@@ -6,30 +6,33 @@ Inline:     <i class="yourspritesname"></i>
 Responsive: <div class="yourspritesname"></div>
 */
 
-
 .Atoms_and_Nuclei_120_q {max-width:221px; max-height:142px; }
-.Atoms_and_Nuclei_120_q::after {content: '\00a0';display: inline-block; width:221px; height:142px; background-position: 37.731196054254006% 0.8771929824561403%;background-size: 466.9683257918552% 180.28169014084506%;background-image: url(ph_xii_ch9.png);padding: 0; }
+.Atoms_and_Nuclei_120_q::after {content: '\00a0';display: inline-block; width:221px; height:142px; background-position: 56.76500508646999% 0.8771929824561403%; background-size: 544.7963800904978% 180.28169014084506%; background-image: url(ph_xii_ch9_0.png);padding: 0; }
 div.Atoms_and_Nuclei_120_q::after {max-width:221px; width:100%;height:0;padding: 0 0 64.25339366515837% 0;}
 .Atoms_and_Nuclei_121_q {max-width:255px; max-height:118px; }
-.Atoms_and_Nuclei_121_q::after {content: '\00a0';display: inline-block; width:255px; height:118px; background-position: 77.60617760617761% 96.3768115942029%;background-size: 404.70588235294116% 216.94915254237287%;background-image: url(ph_xii_ch9.png);padding: 0; }
+.Atoms_and_Nuclei_121_q::after {content: '\00a0';display: inline-block; width:255px; height:118px; background-position: 88.19810326659642% 96.3768115942029%; background-size: 472.15686274509807% 216.94915254237287%; background-image: url(ph_xii_ch9_0.png);padding: 0; }
 div.Atoms_and_Nuclei_121_q::after {max-width:255px; width:100%;height:0;padding: 0 0 46.27450980392157% 0;}
 .Atoms_and_Nuclei_126_s {max-width:250px; max-height:131px; }
-.Atoms_and_Nuclei_126_s::after {content: '\00a0';display: inline-block; width:250px; height:131px; background-position: 67.51918158567774% 0.8%;background-size: 412.8% 195.4198473282443%;background-image: url(ph_xii_ch9.png);padding: 0; }
+.Atoms_and_Nuclei_126_s::after {content: '\00a0';display: inline-block; width:250px; height:131px; background-position: 81.76100628930817% 0.8%; background-size: 481.6% 195.4198473282443%; background-image: url(ph_xii_ch9_0.png);padding: 0; }
 div.Atoms_and_Nuclei_126_s::after {max-width:250px; width:100%;height:0;padding: 0 0 52.4% 0;}
 .Atoms_and_Nuclei_59_s {max-width:233px; max-height:109px; }
-.Atoms_and_Nuclei_59_s::after {content: '\00a0';display: inline-block; width:233px; height:109px; background-position: 97.49687108886107% 0.6802721088435374%;background-size: 442.9184549356223% 234.86238532110093%;background-image: url(ph_xii_ch9.png);padding: 0; }
+.Atoms_and_Nuclei_59_s::after {content: '\00a0';display: inline-block; width:233px; height:109px; background-position: 62.100926879505664% 97.95918367346938%; background-size: 516.7381974248927% 234.86238532110093%; background-image: url(ph_xii_ch9_0.png);padding: 0; }
 div.Atoms_and_Nuclei_59_s::after {max-width:233px; width:100%;height:0;padding: 0 0 46.78111587982833% 0;}
 .Atoms_and_Nuclei_68_s {max-width:172px; max-height:84px; }
-.Atoms_and_Nuclei_68_s::after {content: '\00a0';display: inline-block; width:172px; height:84px; background-position: 99.88372093023256% 64.53488372093024%;background-size: 600% 304.76190476190476%;background-image: url(ph_xii_ch9.png);padding: 0; }
+.Atoms_and_Nuclei_68_s::after {content: '\00a0';display: inline-block; width:172px; height:84px; background-position: 99.90310077519379% 0.5813953488372093%; background-size: 700% 304.76190476190476%; background-image: url(ph_xii_ch9_0.png);padding: 0; }
 div.Atoms_and_Nuclei_68_s::after {max-width:172px; width:100%;height:0;padding: 0 0 48.83720930232558% 0;}
+.NEET_2024_RE_ENG_34_q {max-width:251px; max-height:146px; }
+.NEET_2024_RE_ENG_34_q::after {content: '\00a0';display: inline-block; width:251px; height:146px; background-position: 32.10912906610703% 0.9090909090909091%; background-size: 479.6812749003984% 175.34246575342465%; background-image: url(ph_xii_ch9_0.png);padding: 0; }
+div.NEET_2024_RE_ENG_34_q::after {max-width:251px; width:100%;height:0;padding: 0 0 58.167330677290835% 0;}
 .np8_23sol {max-width:300px; max-height:99px; }
-.np8_23sol::after {content: '\00a0';display: inline-block; width:300px; height:99px; background-position: 0.1366120218579235% 99.36305732484077%;background-size: 344% 258.5858585858586%;background-image: url(ph_xii_ch9.png);padding: 0; }
+.np8_23sol::after {content: '\00a0';display: inline-block; width:300px; height:99px; background-position: 0.11061946902654868% 99.36305732484077%; background-size: 401.3333333333333% 258.5858585858586%; background-image: url(ph_xii_ch9_0.png);padding: 0; }
 div.np8_23sol::after {max-width:300px; width:100%;height:0;padding: 0 0 33% 0;}
 .np8_3sol {max-width:300px; max-height:95px; }
-.np8_3sol::after {content: '\00a0';display: inline-block; width:300px; height:95px; background-position: 41.256830601092894% 96.8944099378882%;background-size: 344% 269.4736842105263%;background-image: url(ph_xii_ch9.png);padding: 0; }
+.np8_3sol::after {content: '\00a0';display: inline-block; width:300px; height:95px; background-position: 33.4070796460177% 96.8944099378882%; background-size: 401.3333333333333% 269.4736842105263%; background-image: url(ph_xii_ch9_0.png);padding: 0; }
 div.np8_3sol::after {max-width:300px; width:100%;height:0;padding: 0 0 31.666666666666668% 0;}
 .np8_8sol {max-width:304px; max-height:154px; }
-.np8_8sol::after {content: '\00a0';display: inline-block; width:304px; height:154px; background-position: 0.13736263736263737% 0.9803921568627451%;background-size: 339.4736842105263% 166.23376623376623%;background-image: url(ph_xii_ch9.png);padding: 0; }
+.np8_8sol::after {content: '\00a0';display: inline-block; width:304px; height:154px; background-position: 0.1111111111111111% 0.9803921568627451%; background-size: 396.05263157894734% 166.23376623376623%; background-image: url(ph_xii_ch9_0.png);padding: 0; }
 div.np8_8sol::after {max-width:304px; width:100%;height:0;padding: 0 0 50.6578947368421% 0;}
 
-/* $TexturePacker:SmartUpdate:25d270a9ad88e2b8bed540257e89e0a9:03fad7f378f4fe56953a2afaa08499b2:6ea9948d9cb17491032d47cd626b2939$ */
+
+/* $TexturePacker:SmartUpdate:e4004e7604597b203c47d376978a2c5f:f4617f0b494e8e8891b0923ca0dbb66f:8e9478b8ee6a5bf70387475c6fdc2682$ */

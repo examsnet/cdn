@@ -6,21 +6,49 @@ Inline:     <i class="yourspritesname"></i>
 Responsive: <div class="yourspritesname"></div>
 */
 
-
 .NEET_2019_PC_Q2_35_s_1 {max-width:110px; max-height:104px; }
-.NEET_2019_PC_Q2_35_s_1::after {content: '\00a0';display: inline-block; width:110px; height:104px; background-position: 0.4065040650406504% 90.45871559633028%;background-size: 323.6363636363636% 624.0384615384615%;background-image: url(ch_xii_ch8.png);padding: 0; }
+.NEET_2019_PC_Q2_35_s_1::after {content: '\00a0';display: inline-block; width:110px; height:104px; background-position: 0.4065040650406504% 90.45871559633028%; background-size: 323.6363636363636% 624.0384615384615%; background-image: url(ch_xii_ch8_0.png);padding: 0; }
 div.NEET_2019_PC_Q2_35_s_1::after {max-width:110px; width:100%;height:0;padding: 0 0 94.54545454545455% 0;}
 .NEET_2019_PC_Q2_35_s_2 {max-width:97px; max-height:100px; }
-.NEET_2019_PC_Q2_35_s_2::after {content: '\00a0';display: inline-block; width:97px; height:100px; background-position: 43.24324324324324% 89.79963570127505%;background-size: 367.0103092783505% 649%;background-image: url(ch_xii_ch8.png);padding: 0; }
+.NEET_2019_PC_Q2_35_s_2::after {content: '\00a0';display: inline-block; width:97px; height:100px; background-position: 43.24324324324324% 89.79963570127505%; background-size: 367.0103092783505% 649%; background-image: url(ch_xii_ch8_0.png);padding: 0; }
 div.NEET_2019_PC_Q2_35_s_2::after {max-width:97px; width:100%;height:0;padding: 0 0 103.09278350515464% 0;}
 .NEET_2024_86_s {max-width:354px; max-height:491px; }
-.NEET_2024_86_s::after {content: '\00a0';display: inline-block; width:354px; height:491px; background-position: 50% 0.6329113924050633%;background-size: 100.56497175141243% 132.17922606924643%;background-image: url(ch_xii_ch8.png);padding: 0; }
+.NEET_2024_86_s::after {content: '\00a0';display: inline-block; width:354px; height:491px; background-position: 50% 0.6329113924050633%; background-size: 100.56497175141243% 132.17922606924643%; background-image: url(ch_xii_ch8_0.png);padding: 0; }
 div.NEET_2024_86_s::after {max-width:354px; width:100%;height:0;padding: 0 0 138.70056497175142% 0;}
 .n2014_73sol {max-width:115px; max-height:37px; }
-.n2014_73sol::after {content: '\00a0';display: inline-block; width:115px; height:37px; background-position: 0.4149377593360996% 97.7124183006536%;background-size: 309.5652173913044% 1754.054054054054%;background-image: url(ch_xii_ch8.png);padding: 0; }
+.n2014_73sol::after {content: '\00a0';display: inline-block; width:115px; height:37px; background-position: 0.4149377593360996% 97.7124183006536%; background-size: 309.5652173913044% 1754.054054054054%; background-image: url(ch_xii_ch8_0.png);padding: 0; }
 div.n2014_73sol::after {max-width:115px; width:100%;height:0;padding: 0 0 32.17391304347826% 0;}
 .n2015_14sol {max-width:189px; max-height:54px; }
-.n2015_14sol::after {content: '\00a0';display: inline-block; width:189px; height:54px; background-position: 70.05988023952096% 99.83193277310924%;background-size: 188.35978835978835% 1201.851851851852%;background-image: url(ch_xii_ch8.png);padding: 0; }
+.n2015_14sol::after {content: '\00a0';display: inline-block; width:189px; height:54px; background-position: 70.05988023952096% 99.83193277310924%; background-size: 188.35978835978835% 1201.851851851852%; background-image: url(ch_xii_ch8_0.png);padding: 0; }
 div.n2015_14sol::after {max-width:189px; width:100%;height:0;padding: 0 0 28.571428571428573% 0;}
 
-/* $TexturePacker:SmartUpdate:9da84fa7519cec15e28fc39c3522c521:a6a929bc16c18df5c873ab8256d0d549:a0e5d2926db0eb07c42fd53b27eea723$ */
+@keyframes NEET_2019_PC_Q2_35_s-frames {
+    0% { background-position: 0.4065040650406504% 90.45871559633028%;  }
+    50% { background-position: 43.24324324324324% 89.79963570127505%;  }
+}
+
+.NEET_2019_PC_Q2_35_s-animation {
+    max-width: 110px;
+    max-height: 104px;
+}
+.NEET_2019_PC_Q2_35_s-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 110px;
+    height: 104px;
+    padding: 0;
+    background-image: url(ch_xii_ch8_0.png);
+    background-size: 323.6363636363636% 624.0384615384615%; 
+    animation-name: NEET_2019_PC_Q2_35_s-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.NEET_2019_PC_Q2_35_s-animation::after {
+    max-width: 110px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 94.54545454545455% 0;
+}
+
+/* $TexturePacker:SmartUpdate:51bf0212e2ae28e028336815f13ba3d8:a6a929bc16c18df5c873ab8256d0d549:97a4df5abe446de84438eb0f2a365ea3$ */

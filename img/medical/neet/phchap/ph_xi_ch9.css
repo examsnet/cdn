@@ -6,105 +6,165 @@ Inline:     <i class="yourspritesname"></i>
 Responsive: <div class="yourspritesname"></div>
 */
 
-
 .NEET_2022_PC_Q_2 {max-width:245px; max-height:218px; }
-.NEET_2022_PC_Q_2::after {content: '\00a0';display: inline-block; width:245px; height:218px; background-position: 97.81209781209782% 0.08045052292839903%;background-size: 417.14285714285717% 670.183486238532%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.NEET_2022_PC_Q_2::after {content: '\00a0';display: inline-block; width:245px; height:218px; background-position: 97.81209781209782% 0.08045052292839903%; background-size: 417.14285714285717% 670.183486238532%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.NEET_2022_PC_Q_2::after {max-width:245px; width:100%;height:0;padding: 0 0 88.9795918367347% 0;}
 .NEET_2022_PC_S_2 {max-width:280px; max-height:207px; }
-.NEET_2022_PC_S_2::after {content: '\00a0';display: inline-block; width:280px; height:207px; background-position: 0.1347708894878706% 61.88197767145135%;background-size: 365% 705.7971014492754%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.NEET_2022_PC_S_2::after {content: '\00a0';display: inline-block; width:280px; height:207px; background-position: 0.1347708894878706% 61.88197767145135%; background-size: 365% 705.7971014492754%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.NEET_2022_PC_S_2::after {max-width:280px; width:100%;height:0;padding: 0 0 73.92857142857143% 0;}
 .NEET_2023_PHY_CHE_Q_10 {max-width:380px; max-height:287px; }
-.NEET_2023_PHY_CHE_Q_10::after {content: '\00a0';display: inline-block; width:380px; height:287px; background-position: 59.034267912772584% 0.08517887563884156%;background-size: 268.94736842105266% 509.05923344947735%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.NEET_2023_PHY_CHE_Q_10::after {content: '\00a0';display: inline-block; width:380px; height:287px; background-position: 59.034267912772584% 0.08517887563884156%; background-size: 268.94736842105266% 509.05923344947735%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.NEET_2023_PHY_CHE_Q_10::after {max-width:380px; width:100%;height:0;padding: 0 0 75.52631578947368% 0;}
 .NEET_2023_PHY_CHE_S_10 {max-width:377px; max-height:292px; }
-.NEET_2023_PHY_CHE_S_10::after {content: '\00a0';display: inline-block; width:377px; height:292px; background-position: 0.15503875968992248% 0.0855431993156544%;background-size: 271.0875331564987% 500.3424657534247%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.NEET_2023_PHY_CHE_S_10::after {content: '\00a0';display: inline-block; width:377px; height:292px; background-position: 0.15503875968992248% 0.0855431993156544%; background-size: 271.0875331564987% 500.3424657534247%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.NEET_2023_PHY_CHE_S_10::after {max-width:377px; width:100%;height:0;padding: 0 0 77.45358090185677% 0;}
 .NEET_2024_14_q {max-width:263px; max-height:185px; }
-.NEET_2024_14_q::after {content: '\00a0';display: inline-block; width:263px; height:185px; background-position: 37.15415019762846% 64.0282131661442%;background-size: 388.5931558935361% 789.7297297297297%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.NEET_2024_14_q::after {content: '\00a0';display: inline-block; width:263px; height:185px; background-position: 37.15415019762846% 64.0282131661442%; background-size: 388.5931558935361% 789.7297297297297%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.NEET_2024_14_q::after {max-width:263px; width:100%;height:0;padding: 0 0 70.34220532319392% 0;}
 .NEET_2024_40_q {max-width:246px; max-height:178px; }
-.NEET_2024_40_q::after {content: '\00a0';display: inline-block; width:246px; height:178px; background-position: 97.9381443298969% 17.1473109898675%;background-size: 415.4471544715447% 820.7865168539325%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.NEET_2024_40_q::after {content: '\00a0';display: inline-block; width:246px; height:178px; background-position: 97.9381443298969% 17.1473109898675%; background-size: 415.4471544715447% 820.7865168539325%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.NEET_2024_40_q::after {max-width:246px; width:100%;height:0;padding: 0 0 72.35772357723577% 0;}
 .P12016_115sol {max-width:320px; max-height:274px; }
-.P12016_115sol::after {content: '\00a0';display: inline-block; width:320px; height:274px; background-position: 53.98860398860399% 24.34709351305813%;background-size: 319.375% 533.2116788321168%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.P12016_115sol::after {content: '\00a0';display: inline-block; width:320px; height:274px; background-position: 53.98860398860399% 24.34709351305813%; background-size: 319.375% 533.2116788321168%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.P12016_115sol::after {max-width:320px; width:100%;height:0;padding: 0 0 85.625% 0;}
 .Thermodynamics_30_s {max-width:181px; max-height:144px; }
-.Thermodynamics_30_s::after {content: '\00a0';display: inline-block; width:181px; height:144px; background-position: 26.51605231866825% 99.54441913439635%;background-size: 564.6408839779006% 1014.5833333333334%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.Thermodynamics_30_s::after {content: '\00a0';display: inline-block; width:181px; height:144px; background-position: 26.51605231866825% 99.54441913439635%; background-size: 564.6408839779006% 1014.5833333333334%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.Thermodynamics_30_s::after {max-width:181px; width:100%;height:0;padding: 0 0 79.55801104972376% 0;}
 .Thermodynamics_64_s {max-width:193px; max-height:161px; }
-.Thermodynamics_64_s::after {content: '\00a0';display: inline-block; width:193px; height:161px; background-position: 24.246079613992762% 77.15384615384616%;background-size: 529.5336787564767% 907.4534161490683%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.Thermodynamics_64_s::after {content: '\00a0';display: inline-block; width:193px; height:161px; background-position: 24.246079613992762% 77.15384615384616%; background-size: 529.5336787564767% 907.4534161490683%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.Thermodynamics_64_s::after {max-width:193px; width:100%;height:0;padding: 0 0 83.41968911917098% 0;}
 .Thermodynamics_75_s {max-width:199px; max-height:179px; }
-.Thermodynamics_75_s::after {content: '\00a0';display: inline-block; width:199px; height:179px; background-position: 0.12150668286755771% 76.75507020280811%;background-size: 513.5678391959799% 816.2011173184358%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.Thermodynamics_75_s::after {content: '\00a0';display: inline-block; width:199px; height:179px; background-position: 0.12150668286755771% 76.75507020280811%; background-size: 513.5678391959799% 816.2011173184358%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.Thermodynamics_75_s::after {max-width:199px; width:100%;height:0;padding: 0 0 89.94974874371859% 0;}
 .Thermodynamics_79_q {max-width:181px; max-height:191px; }
-.Thermodynamics_79_q::after {content: '\00a0';display: inline-block; width:181px; height:191px; background-position: 64.92271105826397% 67.95275590551181%;background-size: 564.6408839779006% 764.9214659685864%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.Thermodynamics_79_q::after {content: '\00a0';display: inline-block; width:181px; height:191px; background-position: 64.92271105826397% 67.95275590551181%; background-size: 564.6408839779006% 764.9214659685864%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.Thermodynamics_79_q::after {max-width:181px; width:100%;height:0;padding: 0 0 105.52486187845304% 0;}
 .n2014_18 {max-width:300px; max-height:276px; }
-.n2014_18::after {content: '\00a0';display: inline-block; width:300px; height:276px; background-position: 0.13850415512465375% 24.810126582278482%;background-size: 340.6666666666667% 529.3478260869565%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.n2014_18::after {content: '\00a0';display: inline-block; width:300px; height:276px; background-position: 0.13850415512465375% 24.810126582278482%; background-size: 340.6666666666667% 529.3478260869565%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.n2014_18::after {max-width:300px; width:100%;height:0;padding: 0 0 92% 0;}
 .n2014_18sol {max-width:171px; max-height:151px; }
-.n2014_18sol::after {content: '\00a0';display: inline-block; width:171px; height:151px; background-position: 47.591069330199765% 98.54961832061069%;background-size: 597.6608187134503% 967.5496688741722%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.n2014_18sol::after {content: '\00a0';display: inline-block; width:171px; height:151px; background-position: 47.591069330199765% 98.54961832061069%; background-size: 597.6608187134503% 967.5496688741722%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.n2014_18sol::after {max-width:171px; width:100%;height:0;padding: 0 0 88.30409356725146% 0;}
 .n2015_137 {max-width:300px; max-height:204px; }
-.n2015_137::after {content: '\00a0';display: inline-block; width:300px; height:204px; background-position: 0.13850415512465375% 45.425616547334926%;background-size: 340.6666666666667% 716.1764705882352%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.n2015_137::after {content: '\00a0';display: inline-block; width:300px; height:204px; background-position: 0.13850415512465375% 45.425616547334926%; background-size: 340.6666666666667% 716.1764705882352%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.n2015_137::after {max-width:300px; width:100%;height:0;padding: 0 0 68% 0;}
 .n2015_170 {max-width:300px; max-height:291px; }
-.n2015_170::after {content: '\00a0';display: inline-block; width:300px; height:291px; background-position: 96.95290858725762% 34.1025641025641%;background-size: 340.6666666666667% 502.0618556701031%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.n2015_170::after {content: '\00a0';display: inline-block; width:300px; height:291px; background-position: 96.95290858725762% 34.1025641025641%; background-size: 340.6666666666667% 502.0618556701031%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.n2015_170::after {max-width:300px; width:100%;height:0;padding: 0 0 97% 0;}
 .n2017_9 {max-width:163px; max-height:128px; }
-.n2017_9::after {content: '\00a0';display: inline-block; width:163px; height:128px; background-position: 85.44819557625145% 99.92498124531133%;background-size: 626.9938650306749% 1141.40625%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.n2017_9::after {content: '\00a0';display: inline-block; width:163px; height:128px; background-position: 85.44819557625145% 99.92498124531133%; background-size: 626.9938650306749% 1141.40625%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.n2017_9::after {max-width:163px; width:100%;height:0;padding: 0 0 78.52760736196319% 0;}
 .n2018_35 {max-width:97px; max-height:79px; }
-.n2018_35::after {content: '\00a0';display: inline-block; width:97px; height:79px; background-position: 58.16216216216216% 76.33863965267727%;background-size: 1053.6082474226805% 1849.367088607595%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.n2018_35::after {content: '\00a0';display: inline-block; width:97px; height:79px; background-position: 58.16216216216216% 76.33863965267727%; background-size: 1053.6082474226805% 1849.367088607595%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.n2018_35::after {max-width:97px; width:100%;height:0;padding: 0 0 81.44329896907216% 0;}
 .neet_2015_pc_19_sol {max-width:320px; max-height:252px; }
-.neet_2015_pc_19_sol::after {content: '\00a0';display: inline-block; width:320px; height:252px; background-position: 43.01994301994302% 46.650124069478906%;background-size: 319.375% 579.7619047619048%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.neet_2015_pc_19_sol::after {content: '\00a0';display: inline-block; width:320px; height:252px; background-position: 43.01994301994302% 46.650124069478906%; background-size: 319.375% 579.7619047619048%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.neet_2015_pc_19_sol::after {max-width:320px; width:100%;height:0;padding: 0 0 78.75% 0;}
 .neet_re_ph_2022_6_a {max-width:221px; max-height:123px; }
-.neet_re_ph_2022_6_a::after {content: '\00a0';display: inline-block; width:221px; height:123px; background-position: 0.12484394506866417% 99.47683109118087%;background-size: 462.4434389140271% 1187.8048780487804%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.neet_re_ph_2022_6_a::after {content: '\00a0';display: inline-block; width:221px; height:123px; background-position: 0.12484394506866417% 99.47683109118087%; background-size: 462.4434389140271% 1187.8048780487804%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.neet_re_ph_2022_6_a::after {max-width:221px; width:100%;height:0;padding: 0 0 55.65610859728507% 0;}
 .neet_re_ph_2022_6_b {max-width:164px; max-height:149px; }
-.neet_re_ph_2022_6_b::after {content: '\00a0';display: inline-block; width:164px; height:149px; background-position: 65.26806526806527% 86.50914634146342%;background-size: 623.170731707317% 980.5369127516778%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.neet_re_ph_2022_6_b::after {content: '\00a0';display: inline-block; width:164px; height:149px; background-position: 65.26806526806527% 86.50914634146342%; background-size: 623.170731707317% 980.5369127516778%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.neet_re_ph_2022_6_b::after {max-width:164px; width:100%;height:0;padding: 0 0 90.85365853658537% 0;}
 .neet_re_ph_2022_6_c {max-width:193px; max-height:125px; }
-.neet_re_ph_2022_6_c::after {content: '\00a0';display: inline-block; width:193px; height:125px; background-position: 44.149577804583835% 87.2005988023952%;background-size: 529.5336787564767% 1168.8%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.neet_re_ph_2022_6_c::after {content: '\00a0';display: inline-block; width:193px; height:125px; background-position: 44.149577804583835% 87.2005988023952%; background-size: 529.5336787564767% 1168.8%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.neet_re_ph_2022_6_c::after {max-width:193px; width:100%;height:0;padding: 0 0 64.76683937823834% 0;}
 .neet_re_ph_2022_6_d {max-width:181px; max-height:166px; }
-.neet_re_ph_2022_6_d::after {content: '\00a0';display: inline-block; width:181px; height:166px; background-position: 0.11890606420927467% 89.88416988416988%;background-size: 564.6408839779006% 880.1204819277109%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.neet_re_ph_2022_6_d::after {content: '\00a0';display: inline-block; width:181px; height:166px; background-position: 0.11890606420927467% 89.88416988416988%; background-size: 564.6408839779006% 880.1204819277109%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.neet_re_ph_2022_6_d::after {max-width:181px; width:100%;height:0;padding: 0 0 91.71270718232044% 0;}
 .nt_ph_thermodyna_26 {max-width:172px; max-height:135px; }
-.nt_ph_thermodyna_26::after {content: '\00a0';display: inline-block; width:172px; height:135px; background-position: 85.6470588235294% 65.08295625942685%;background-size: 594.1860465116279% 1082.2222222222222%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.nt_ph_thermodyna_26::after {content: '\00a0';display: inline-block; width:172px; height:135px; background-position: 85.6470588235294% 65.08295625942685%; background-size: 594.1860465116279% 1082.2222222222222%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.nt_ph_thermodyna_26::after {max-width:172px; width:100%;height:0;padding: 0 0 78.48837209302326% 0;}
 .nt_ph_thermodyna_26_sol {max-width:182px; max-height:145px; }
-.nt_ph_thermodyna_26_sol::after {content: '\00a0';display: inline-block; width:182px; height:145px; background-position: 21.785714285714285% 88.5258358662614%;background-size: 561.5384615384615% 1007.5862068965517%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.nt_ph_thermodyna_26_sol::after {content: '\00a0';display: inline-block; width:182px; height:145px; background-position: 21.785714285714285% 88.5258358662614%; background-size: 561.5384615384615% 1007.5862068965517%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.nt_ph_thermodyna_26_sol::after {max-width:182px; width:100%;height:0;padding: 0 0 79.67032967032966% 0;}
 .nt_ph_thermodyna_27 {max-width:311px; max-height:171px; }
-.nt_ph_thermodyna_27::after {content: '\00a0';display: inline-block; width:311px; height:171px; background-position: 87.62306610407876% 53.565891472868216%;background-size: 328.61736334405145% 854.3859649122807%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.nt_ph_thermodyna_27::after {content: '\00a0';display: inline-block; width:311px; height:171px; background-position: 87.62306610407876% 53.565891472868216%; background-size: 328.61736334405145% 854.3859649122807%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.nt_ph_thermodyna_27::after {max-width:311px; width:100%;height:0;padding: 0 0 54.98392282958199% 0;}
 .nt_ph_thermodyna_30 {max-width:178px; max-height:135px; }
-.nt_ph_thermodyna_30::after {content: '\00a0';display: inline-block; width:178px; height:135px; background-position: 85.9004739336493% 79.56259426847662%;background-size: 574.1573033707865% 1082.2222222222222%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.nt_ph_thermodyna_30::after {content: '\00a0';display: inline-block; width:178px; height:135px; background-position: 85.9004739336493% 79.56259426847662%; background-size: 574.1573033707865% 1082.2222222222222%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.nt_ph_thermodyna_30::after {max-width:178px; width:100%;height:0;padding: 0 0 75.84269662921348% 0;}
 .nt_ph_thermodyna_34 {max-width:156px; max-height:162px; }
-.nt_ph_thermodyna_34::after {content: '\00a0';display: inline-block; width:156px; height:162px; background-position: 66.62817551963049% 98.92224788298691%;background-size: 655.1282051282051% 901.8518518518518%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.nt_ph_thermodyna_34::after {content: '\00a0';display: inline-block; width:156px; height:162px; background-position: 66.62817551963049% 98.92224788298691%; background-size: 655.1282051282051% 901.8518518518518%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.nt_ph_thermodyna_34::after {max-width:156px; width:100%;height:0;padding: 0 0 103.84615384615384% 0;}
 .nt_ph_thermodyna_34_sol {max-width:142px; max-height:143px; }
-.nt_ph_thermodyna_34_sol::after {content: '\00a0';display: inline-block; width:142px; height:143px; background-position: 44.88636363636363% 76.10015174506829%;background-size: 719.7183098591549% 1021.6783216783217%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.nt_ph_thermodyna_34_sol::after {content: '\00a0';display: inline-block; width:142px; height:143px; background-position: 44.88636363636363% 76.10015174506829%; background-size: 719.7183098591549% 1021.6783216783217%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.nt_ph_thermodyna_34_sol::after {max-width:142px; width:100%;height:0;padding: 0 0 100.70422535211267% 0;}
 .nt_ph_thermodyna_35a {max-width:123px; max-height:117px; }
-.nt_ph_thermodyna_35a::after {content: '\00a0';display: inline-block; width:123px; height:117px; background-position: 99.88876529477197% 97.61904761904762%;background-size: 830.8943089430894% 1248.7179487179487%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.nt_ph_thermodyna_35a::after {content: '\00a0';display: inline-block; width:123px; height:117px; background-position: 99.88876529477197% 97.61904761904762%; background-size: 830.8943089430894% 1248.7179487179487%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.nt_ph_thermodyna_35a::after {max-width:123px; width:100%;height:0;padding: 0 0 95.1219512195122% 0;}
 .nt_ph_thermodyna_35b {max-width:111px; max-height:122px; }
-.nt_ph_thermodyna_35b::after {content: '\00a0';display: inline-block; width:111px; height:122px; background-position: 98.90230515916575% 64.45108289768484%;background-size: 920.7207207207207% 1197.5409836065573%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.nt_ph_thermodyna_35b::after {content: '\00a0';display: inline-block; width:111px; height:122px; background-position: 98.90230515916575% 64.45108289768484%; background-size: 920.7207207207207% 1197.5409836065573%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.nt_ph_thermodyna_35b::after {max-width:111px; width:100%;height:0;padding: 0 0 109.90990990990991% 0;}
 .nt_ph_thermodyna_35c {max-width:115px; max-height:117px; }
-.nt_ph_thermodyna_35c::after {content: '\00a0';display: inline-block; width:115px; height:117px; background-position: 99.66923925027564% 73.36309523809524%;background-size: 888.695652173913% 1248.7179487179487%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.nt_ph_thermodyna_35c::after {content: '\00a0';display: inline-block; width:115px; height:117px; background-position: 99.66923925027564% 73.36309523809524%; background-size: 888.695652173913% 1248.7179487179487%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.nt_ph_thermodyna_35c::after {max-width:115px; width:100%;height:0;padding: 0 0 101.73913043478261% 0;}
 .nt_ph_thermodyna_35d {max-width:125px; max-height:120px; }
-.nt_ph_thermodyna_35d::after {content: '\00a0';display: inline-block; width:125px; height:120px; background-position: 98.88517279821627% 88.81431767337807%;background-size: 817.6% 1217.5%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.nt_ph_thermodyna_35d::after {content: '\00a0';display: inline-block; width:125px; height:120px; background-position: 98.88517279821627% 88.81431767337807%; background-size: 817.6% 1217.5%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.nt_ph_thermodyna_35d::after {max-width:125px; width:100%;height:0;padding: 0 0 96% 0;}
 .nt_ph_thermodyna_36 {max-width:152px; max-height:140px; }
-.nt_ph_thermodyna_36::after {content: '\00a0';display: inline-block; width:152px; height:140px; background-position: 84.36781609195403% 90.15897047691143%;background-size: 672.3684210526316% 1043.5714285714287%;background-image: url(ph_xi_ch9.png);padding: 0; }
+.nt_ph_thermodyna_36::after {content: '\00a0';display: inline-block; width:152px; height:140px; background-position: 84.36781609195403% 90.15897047691143%; background-size: 672.3684210526316% 1043.5714285714287%; background-image: url(ph_xi_ch9_0.png);padding: 0; }
 div.nt_ph_thermodyna_36::after {max-width:152px; width:100%;height:0;padding: 0 0 92.10526315789474% 0;}
 
-/* $TexturePacker:SmartUpdate:332bb66a4eae43ea86e25a693630182b:354d3d5467c7edaa9b412226e772a5d0:c5867830d4c4284f64b1bae00cd302b6$ */
+@keyframes n2015-frames {
+    0% { background-position: 0.13850415512465375% 45.425616547334926%;  }
+    50% { background-position: 96.95290858725762% 34.1025641025641%;  }
+}
+
+.n2015-animation {
+    max-width: 300px;
+    max-height: 204px;
+}
+.n2015-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 300px;
+    height: 204px;
+    padding: 0;
+    background-image: url(ph_xi_ch9_0.png);
+    background-size: 340.6666666666667% 716.1764705882352%; 
+    animation-name: n2015-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.n2015-animation::after {
+    max-width: 300px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 68% 0;
+}
+
+@keyframes nt_ph_thermodyna-frames {
+    0% { background-position: 85.6470588235294% 65.08295625942685%;  }
+    20% { background-position: 87.62306610407876% 53.565891472868216%;  }
+    40% { background-position: 85.9004739336493% 79.56259426847662%;  }
+    60% { background-position: 66.62817551963049% 98.92224788298691%;  }
+    80% { background-position: 84.36781609195403% 90.15897047691143%;  }
+}
+
+.nt_ph_thermodyna-animation {
+    max-width: 172px;
+    max-height: 135px;
+}
+.nt_ph_thermodyna-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 172px;
+    height: 135px;
+    padding: 0;
+    background-image: url(ph_xi_ch9_0.png);
+    background-size: 594.1860465116279% 1082.2222222222222%; 
+    animation-name: nt_ph_thermodyna-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.nt_ph_thermodyna-animation::after {
+    max-width: 172px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 78.48837209302326% 0;
+}
+
+/* $TexturePacker:SmartUpdate:a5eb70fc8f44263ae15c91ea44510872:354d3d5467c7edaa9b412226e772a5d0:614620cefbce9a906ff4b6dd7ee5f894$ */

@@ -6,39 +6,42 @@ Inline:     <i class="yourspritesname"></i>
 Responsive: <div class="yourspritesname"></div>
 */
 
-
 .NEET_2020_18_BIO_sol {max-width:389px; max-height:135px; }
-.NEET_2020_18_BIO_sol::after {content: '\00a0';display: inline-block; width:389px; height:135px; background-position: 0.15772870662460567% 99.93065187239945%;background-size: 262.9820051413882% 1168.148148148148%;background-image: url(biology_ch_11_15.png);padding: 0; }
+.NEET_2020_18_BIO_sol::after {content: '\00a0';display: inline-block; width:389px; height:135px; background-position: 50.78864353312303% 99.93761696818466%; background-size: 262.9820051413882% 1287.4074074074074%; background-image: url(biology_ch_11_15_0.png);padding: 0; }
 div.NEET_2020_18_BIO_sol::after {max-width:389px; width:100%;height:0;padding: 0 0 34.70437017994858% 0;}
+.NEET_2024_RE_ENG_150_q {max-width:376px; max-height:370px; }
+.NEET_2024_RE_ENG_150_q::after {content: '\00a0';display: inline-block; width:376px; height:370px; background-position: 0.1545595054095827% 66.73976608187135%; background-size: 272.0744680851064% 469.72972972972974%; background-image: url(biology_ch_11_15_0.png);padding: 0; }
+div.NEET_2024_RE_ENG_150_q::after {max-width:376px; width:100%;height:0;padding: 0 0 98.40425531914893% 0;}
 .n2014_110sol {max-width:164px; max-height:195px; }
-.n2014_110sol::after {content: '\00a0';display: inline-block; width:164px; height:195px; background-position: 53.783469150174625% 96.16497829232996%;background-size: 623.780487804878% 808.7179487179487%;background-image: url(biology_ch_11_15.png);padding: 0; }
+.n2014_110sol::after {content: '\00a0';display: inline-block; width:164px; height:195px; background-position: 44.0046565774156% 59.17044718081659%; background-size: 623.780487804878% 891.2820512820513%; background-image: url(biology_ch_11_15_0.png);padding: 0; }
 div.n2014_110sol::after {max-width:164px; width:100%;height:0;padding: 0 0 118.90243902439025% 0;}
 .nt_bg_min_nutrition_22 {max-width:460px; max-height:478px; }
-.nt_bg_min_nutrition_22::after {content: '\00a0';display: inline-block; width:460px; height:478px; background-position: 99.82238010657194% 50.409463148316654%;background-size: 222.3913043478261% 329.9163179916318%;background-image: url(biology_ch_11_15.png);padding: 0; }
+.nt_bg_min_nutrition_22::after {content: '\00a0';display: inline-block; width:460px; height:478px; background-position: 99.82238010657194% 43.96825396825397%; background-size: 222.3913043478261% 363.59832635983264%; background-image: url(biology_ch_11_15_0.png);padding: 0; }
 div.nt_bg_min_nutrition_22::after {max-width:460px; width:100%;height:0;padding: 0 0 103.91304347826087% 0;}
 .nt_bg_photosyn_plants_20 {max-width:460px; max-height:552px; }
-.nt_bg_photosyn_plants_20::after {content: '\00a0';display: inline-block; width:460px; height:552px; background-position: 99.82238010657194% 0.0975609756097561%;background-size: 222.3913043478261% 285.68840579710144%;background-image: url(biology_ch_11_15.png);padding: 0; }
+.nt_bg_photosyn_plants_20::after {content: '\00a0';display: inline-block; width:460px; height:552px; background-position: 99.82238010657194% 0.08431703204047218%; background-size: 222.3913043478261% 314.8550724637681%; background-image: url(biology_ch_11_15_0.png);padding: 0; }
 div.nt_bg_photosyn_plants_20::after {max-width:460px; width:100%;height:0;padding: 0 0 120% 0;}
 .nt_bg_plant_growth_38_sol {max-width:460px; max-height:295px; }
-.nt_bg_plant_growth_38_sol::after {content: '\00a0';display: inline-block; width:460px; height:295px; background-position: 82.06039076376554% 80.57722308892356%;background-size: 222.3913043478261% 534.5762711864406%;background-image: url(biology_ch_11_15.png);padding: 0; }
+.nt_bg_plant_growth_38_sol::after {content: '\00a0';display: inline-block; width:460px; height:295px; background-position: 96.44760213143873% 71.58697158697159%; background-size: 222.3913043478261% 589.1525423728814%; background-image: url(biology_ch_11_15_0.png);padding: 0; }
 div.nt_bg_plant_growth_38_sol::after {max-width:460px; width:100%;height:0;padding: 0 0 64.1304347826087% 0;}
 .nt_bg_plant_growth_49_sol {max-width:460px; max-height:323px; }
-.nt_bg_plant_growth_49_sol::after {content: '\00a0';display: inline-block; width:460px; height:323px; background-position: 0.17761989342806395% 57.496012759170654%;background-size: 222.3913043478261% 488.2352941176471%;background-image: url(biology_ch_11_15.png);padding: 0; }
+.nt_bg_plant_growth_49_sol::after {content: '\00a0';display: inline-block; width:460px; height:323px; background-position: 0.17761989342806395% 41.62544169611307%; background-size: 222.3913043478261% 538.0804953560372%; background-image: url(biology_ch_11_15_0.png);padding: 0; }
 div.nt_bg_plant_growth_49_sol::after {max-width:460px; width:100%;height:0;padding: 0 0 70.21739130434783% 0;}
 .nt_bg_respira_plants_19_sol {max-width:460px; max-height:254px; }
-.nt_bg_respira_plants_19_sol::after {content: '\00a0';display: inline-block; width:460px; height:254px; background-position: 0.17761989342806395% 78.98715041572184%;background-size: 222.3913043478261% 620.8661417322835%;background-image: url(biology_ch_11_15.png);padding: 0; }
+.nt_bg_respira_plants_19_sol::after {content: '\00a0';display: inline-block; width:460px; height:254px; background-position: 0.17761989342806395% 86.52291105121294%; background-size: 222.3913043478261% 684.2519685039371%; background-image: url(biology_ch_11_15_0.png);padding: 0; }
 div.nt_bg_respira_plants_19_sol::after {max-width:460px; width:100%;height:0;padding: 0 0 55.21739130434783% 0;}
 .nt_bg_respira_plants_25_sol {max-width:560px; max-height:131px; }
-.nt_bg_respira_plants_25_sol::after {content: '\00a0';display: inline-block; width:560px; height:131px; background-position: 0.2159827213822894% 40.73305670816044%;background-size: 182.67857142857142% 1203.8167938931297%;background-image: url(biology_ch_11_15.png);padding: 0; }
+.nt_bg_respira_plants_25_sol::after {content: '\00a0';display: inline-block; width:560px; height:131px; background-position: 99.78401727861771% 82.70068450528936%; background-size: 182.67857142857142% 1326.7175572519084%; background-image: url(biology_ch_11_15_0.png);padding: 0; }
 div.nt_bg_respira_plants_25_sol::after {max-width:560px; width:100%;height:0;padding: 0 0 23.392857142857142% 0;}
 .nt_bg_respira_plants_2_sol {max-width:560px; max-height:587px; }
-.nt_bg_respira_plants_2_sol::after {content: '\00a0';display: inline-block; width:560px; height:587px; background-position: 0.2159827213822894% 0.10101010101010101%;background-size: 182.67857142857142% 268.6541737649063%;background-image: url(biology_ch_11_15.png);padding: 0; }
+.nt_bg_respira_plants_2_sol::after {content: '\00a0';display: inline-block; width:560px; height:587px; background-position: 0.2159827213822894% 0.08688097306689835%; background-size: 182.67857142857142% 296.0817717206133%; background-image: url(biology_ch_11_15_0.png);padding: 0; }
 div.nt_bg_respira_plants_2_sol::after {max-width:560px; width:100%;height:0;padding: 0 0 104.82142857142857% 0;}
 .nt_bg_respira_plants_7 {max-width:460px; max-height:140px; }
-.nt_bg_respira_plants_7::after {content: '\00a0';display: inline-block; width:460px; height:140px; background-position: 0.17761989342806395% 90.46624913013223%;background-size: 222.3913043478261% 1126.4285714285713%;background-image: url(biology_ch_11_15.png);padding: 0; }
+.nt_bg_respira_plants_7::after {content: '\00a0';display: inline-block; width:460px; height:140px; background-position: 82.06039076376554% 91.42678347934918%; background-size: 222.3913043478261% 1241.4285714285713%; background-image: url(biology_ch_11_15_0.png);padding: 0; }
 div.nt_bg_respira_plants_7::after {max-width:460px; width:100%;height:0;padding: 0 0 30.434782608695652% 0;}
 .nt_bg_transport_plants_12 {max-width:320px; max-height:190px; }
-.nt_bg_transport_plants_12::after {content: '\00a0';display: inline-block; width:320px; height:190px; background-position: 89.1891891891892% 95.81831290555155%;background-size: 319.6875% 830%;background-image: url(biology_ch_11_15.png);padding: 0; }
+.nt_bg_transport_plants_12::after {content: '\00a0';display: inline-block; width:320px; height:190px; background-position: 0.1422475106685633% 99.4186046511628%; background-size: 319.6875% 914.7368421052631%; background-image: url(biology_ch_11_15_0.png);padding: 0; }
 div.nt_bg_transport_plants_12::after {max-width:320px; width:100%;height:0;padding: 0 0 59.375% 0;}
 
-/* $TexturePacker:SmartUpdate:94701e1abf3535773685ebcd481173a9:f7786aa81878b23c064206567a774b09:2e7549500642a2f707af409beb5174a1$ */
+
+/* $TexturePacker:SmartUpdate:bd03d12fca20ca996b728d79797fe37f:4d463ac6c445ab722c5f861fd7f20fa7:a08af6792aaeebfcf7d3450b82441f5a$ */

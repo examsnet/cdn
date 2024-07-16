@@ -6,27 +6,88 @@ Inline:     <i class="yourspritesname"></i>
 Responsive: <div class="yourspritesname"></div>
 */
 
-
 .NEET_2019_B_Q2_76_q {max-width:400px; max-height:127px; }
-.NEET_2019_B_Q2_76_q::after {content: '\00a0';display: inline-block; width:400px; height:127px; background-position: 0.15772870662460567% 80.05390835579514%;background-size: 258.5% 392.12598425196853%;background-image: url(biology_ch_36_40.png);padding: 0; }
+.NEET_2019_B_Q2_76_q::after {content: '\00a0';display: inline-block; width:400px; height:127px; background-position: 0.15772870662460567% 70.08086253369272%; background-size: 258.5% 392.12598425196853%; background-image: url(biology_ch_36_40_0.png);padding: 0; }
 div.NEET_2019_B_Q2_76_q::after {max-width:400px; width:100%;height:0;padding: 0 0 31.75% 0;}
 .NEET_2021_Biology_and_Botany_31_s {max-width:280px; max-height:77px; }
-.NEET_2021_Biology_and_Botany_31_s::after {content: '\00a0';display: inline-block; width:280px; height:77px; background-position: 53.315649867374006% 84.08551068883611%;background-size: 369.2857142857143% 646.7532467532468%;background-image: url(biology_ch_36_40.png);padding: 0; }
+.NEET_2021_Biology_and_Botany_31_s::after {content: '\00a0';display: inline-block; width:280px; height:77px; background-position: 53.315649867374006% 70.54631828978623%; background-size: 369.2857142857143% 646.7532467532468%; background-image: url(biology_ch_36_40_0.png);padding: 0; }
 div.NEET_2021_Biology_and_Botany_31_s::after {max-width:280px; width:100%;height:0;padding: 0 0 27.5% 0;}
+.NEET_2024_RE_ENG_140_q {max-width:128px; max-height:120px; }
+.NEET_2024_RE_ENG_140_q::after {content: '\00a0';display: inline-block; width:128px; height:120px; background-position: 44.370860927152314% 99.2063492063492%; background-size: 807.8125% 415%; background-image: url(biology_ch_36_40_0.png);padding: 0; }
+div.NEET_2024_RE_ENG_140_q::after {max-width:128px; width:100%;height:0;padding: 0 0 93.75% 0;}
 .n2014_177 {max-width:250px; max-height:238px; }
-.n2014_177::after {content: '\00a0';display: inline-block; width:250px; height:238px; background-position: 99.87244897959184% 99.61538461538461%;background-size: 413.6% 209.2436974789916%;background-image: url(biology_ch_36_40.png);padding: 0; }
+.n2014_177::after {content: '\00a0';display: inline-block; width:250px; height:238px; background-position: 99.87244897959184% 99.61538461538461%; background-size: 413.6% 209.2436974789916%; background-image: url(biology_ch_36_40_0.png);padding: 0; }
 div.n2014_177::after {max-width:250px; width:100%;height:0;padding: 0 0 95.2% 0;}
 .n2014_178 {max-width:250px; max-height:257px; }
-.n2014_178::after {content: '\00a0';display: inline-block; width:250px; height:257px; background-position: 99.87244897959184% 0.4149377593360996%;background-size: 413.6% 193.77431906614785%;background-image: url(biology_ch_36_40.png);padding: 0; }
+.n2014_178::after {content: '\00a0';display: inline-block; width:250px; height:257px; background-position: 99.87244897959184% 0.4149377593360996%; background-size: 413.6% 193.77431906614785%; background-image: url(biology_ch_36_40_0.png);padding: 0; }
 div.n2014_178::after {max-width:250px; width:100%;height:0;padding: 0 0 102.8% 0;}
 .nt_bg_ecosystem_25 {max-width:320px; max-height:93px; }
-.nt_bg_ecosystem_25::after {content: '\00a0';display: inline-block; width:320px; height:93px; background-position: 56.30252100840336% 64.19753086419753%;background-size: 323.125% 535.483870967742%;background-image: url(biology_ch_36_40.png);padding: 0; }
+.nt_bg_ecosystem_25::after {content: '\00a0';display: inline-block; width:320px; height:93px; background-position: 0.1400560224089636% 95.80246913580247%; background-size: 323.125% 535.483870967742%; background-image: url(biology_ch_36_40_0.png);padding: 0; }
 div.nt_bg_ecosystem_25::after {max-width:320px; width:100%;height:0;padding: 0 0 29.0625% 0;}
 .nt_bg_ecosystem_30 {max-width:460px; max-height:258px; }
-.nt_bg_ecosystem_30::after {content: '\00a0';display: inline-block; width:460px; height:258px; background-position: 56.09756097560975% 0.4166666666666667%;background-size: 224.7826086956522% 193.02325581395348%;background-image: url(biology_ch_36_40.png);padding: 0; }
+.nt_bg_ecosystem_30::after {content: '\00a0';display: inline-block; width:460px; height:258px; background-position: 0.17421602787456447% 0.4166666666666667%; background-size: 224.7826086956522% 193.02325581395348%; background-image: url(biology_ch_36_40_0.png);padding: 0; }
 div.nt_bg_ecosystem_30::after {max-width:460px; width:100%;height:0;padding: 0 0 56.08695652173913% 0;}
 .nt_bg_ecosystem_39 {max-width:320px; max-height:295px; }
-.nt_bg_ecosystem_39::after {content: '\00a0';display: inline-block; width:320px; height:295px; background-position: 0.1400560224089636% 0.49261083743842365%;background-size: 323.125% 168.8135593220339%;background-image: url(biology_ch_36_40.png);padding: 0; }
+.nt_bg_ecosystem_39::after {content: '\00a0';display: inline-block; width:320px; height:295px; background-position: 64.70588235294117% 0.49261083743842365%; background-size: 323.125% 168.8135593220339%; background-image: url(biology_ch_36_40_0.png);padding: 0; }
 div.nt_bg_ecosystem_39::after {max-width:320px; width:100%;height:0;padding: 0 0 92.1875% 0;}
 
-/* $TexturePacker:SmartUpdate:219a20700fda59791c76ff1101afa398:d9c26c85d94309b8350d3340669f53b4:e20a12b852ce709d71d7be3c968e0ca0$ */
+@keyframes n2014-frames {
+    0% { background-position: 99.87244897959184% 99.61538461538461%;  }
+    50% { background-position: 99.87244897959184% 0.4149377593360996%;  }
+}
+
+.n2014-animation {
+    max-width: 250px;
+    max-height: 238px;
+}
+.n2014-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 250px;
+    height: 238px;
+    padding: 0;
+    background-image: url(biology_ch_36_40_0.png);
+    background-size: 413.6% 209.2436974789916%; 
+    animation-name: n2014-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.n2014-animation::after {
+    max-width: 250px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 95.2% 0;
+}
+
+@keyframes nt_bg_ecosystem-frames {
+    0% { background-position: 0.1400560224089636% 95.80246913580247%;  }
+    33.33333333333333% { background-position: 0.17421602787456447% 0.4166666666666667%;  }
+    66.66666666666666% { background-position: 64.70588235294117% 0.49261083743842365%;  }
+}
+
+.nt_bg_ecosystem-animation {
+    max-width: 320px;
+    max-height: 93px;
+}
+.nt_bg_ecosystem-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 320px;
+    height: 93px;
+    padding: 0;
+    background-image: url(biology_ch_36_40_0.png);
+    background-size: 323.125% 535.483870967742%; 
+    animation-name: nt_bg_ecosystem-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.nt_bg_ecosystem-animation::after {
+    max-width: 320px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 29.0625% 0;
+}
+
+/* $TexturePacker:SmartUpdate:6327ffba3df82fd6b549956cdcd88dfc:88029168267531a4ac91ee84fcdfb6a1:705087cad928df4d8698fdf18689315f$ */
