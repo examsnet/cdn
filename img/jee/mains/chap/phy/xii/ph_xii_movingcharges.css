@@ -6,252 +6,467 @@ Inline:     <i class="yourspritesname"></i>
 Responsive: <div class="yourspritesname"></div>
 */
 
-
 .Magnetic_Effects_Curr_Mag_105_q {max-width:360px; max-height:270px; }
-.Magnetic_Effects_Curr_Mag_105_q::after {content: '\00a0';display: inline-block; width:360px; height:270px; background-position: 96.8583283935981% 37.44292237442922%;background-size: 568.6111111111111% 748.8888888888889%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_105_q::after {content: '\00a0';display: inline-block; width:360px; height:270px; background-position: 96.8583283935981% 37.44292237442922%; background-size: 568.6111111111111% 748.8888888888889%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_105_q::after {max-width:360px; width:100%;height:0;padding: 0 0 75% 0;}
 .Magnetic_Effects_Curr_Mag_106_s {max-width:384px; max-height:180px; }
-.Magnetic_Effects_Curr_Mag_106_s::after {content: '\00a0';display: inline-block; width:384px; height:180px; background-position: 26.343381389252947% 0.09149130832570906%;background-size: 497.3958333333333% 707.2222222222222%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_106_s::after {content: '\00a0';display: inline-block; width:384px; height:180px; background-position: 26.343381389252947% 0.09149130832570906%; background-size: 497.3958333333333% 707.2222222222222%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_106_s::after {max-width:384px; width:100%;height:0;padding: 0 0 46.875% 0;}
 .Magnetic_Effects_Curr_Mag_109_s {max-width:360px; max-height:247px; }
-.Magnetic_Effects_Curr_Mag_109_s::after {content: '\00a0';display: inline-block; width:360px; height:247px; background-position: 95.19857735625371% 52.225352112676056%;background-size: 568.6111111111111% 818.6234817813765%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_109_s::after {content: '\00a0';display: inline-block; width:360px; height:247px; background-position: 16.716064018968584% 82.70422535211267%; background-size: 568.6111111111111% 818.6234817813765%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_109_s::after {max-width:360px; width:100%;height:0;padding: 0 0 68.61111111111111% 0;}
 .Magnetic_Effects_Curr_Mag_110_s {max-width:320px; max-height:145px; }
-.Magnetic_Effects_Curr_Mag_110_s::after {content: '\00a0';display: inline-block; width:320px; height:145px; background-position: 37.924528301886795% 97.4290780141844%;background-size: 596.875% 877.9310344827586%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_110_s::after {content: '\00a0';display: inline-block; width:320px; height:145px; background-position: 37.924528301886795% 97.4290780141844%; background-size: 596.875% 877.9310344827586%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_110_s::after {max-width:320px; width:100%;height:0;padding: 0 0 45.3125% 0;}
 .Magnetic_Effects_Curr_Mag_114_s {max-width:320px; max-height:132px; }
-.Magnetic_Effects_Curr_Mag_114_s::after {content: '\00a0';display: inline-block; width:320px; height:132px; background-position: 73.45911949685535% 95.88080631025416%;background-size: 596.875% 964.3939393939394%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_114_s::after {content: '\00a0';display: inline-block; width:320px; height:132px; background-position: 73.45911949685535% 95.88080631025416%; background-size: 596.875% 964.3939393939394%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_114_s::after {max-width:320px; width:100%;height:0;padding: 0 0 41.25% 0;}
 .Magnetic_Effects_Curr_Mag_114_s_1 {max-width:320px; max-height:154px; }
-.Magnetic_Effects_Curr_Mag_114_s_1::after {content: '\00a0';display: inline-block; width:320px; height:154px; background-position: 17.735849056603772% 98.21268990169794%;background-size: 596.875% 826.6233766233767%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_114_s_1::after {content: '\00a0';display: inline-block; width:320px; height:154px; background-position: 17.735849056603772% 98.21268990169794%; background-size: 596.875% 826.6233766233767%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_114_s_1::after {max-width:320px; width:100%;height:0;padding: 0 0 48.125% 0;}
 .Magnetic_Effects_Curr_Mag_116_q {max-width:320px; max-height:204px; }
-.Magnetic_Effects_Curr_Mag_116_q::after {content: '\00a0';display: inline-block; width:320px; height:204px; background-position: 20.251572327044027% 60.523854069223574%;background-size: 596.875% 624.0196078431372%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_116_q::after {content: '\00a0';display: inline-block; width:320px; height:204px; background-position: 20.251572327044027% 60.523854069223574%; background-size: 596.875% 624.0196078431372%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_116_q::after {max-width:320px; width:100%;height:0;padding: 0 0 63.75% 0;}
 .Magnetic_Effects_Curr_Mag_116_q_1 {max-width:320px; max-height:198px; }
-.Magnetic_Effects_Curr_Mag_116_q_1::after {content: '\00a0';display: inline-block; width:320px; height:198px; background-position: 99.87421383647799% 38.7906976744186%;background-size: 596.875% 642.929292929293%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_116_q_1::after {content: '\00a0';display: inline-block; width:320px; height:198px; background-position: 99.87421383647799% 38.7906976744186%; background-size: 596.875% 642.929292929293%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_116_q_1::after {max-width:320px; width:100%;height:0;padding: 0 0 61.875% 0;}
 .Magnetic_Effects_Curr_Mag_116_q_2 {max-width:320px; max-height:204px; }
-.Magnetic_Effects_Curr_Mag_116_q_2::after {content: '\00a0';display: inline-block; width:320px; height:204px; background-position: 99.937106918239% 19.831618334892422%;background-size: 596.875% 624.0196078431372%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_116_q_2::after {content: '\00a0';display: inline-block; width:320px; height:204px; background-position: 99.937106918239% 19.831618334892422%; background-size: 596.875% 624.0196078431372%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_116_q_2::after {max-width:320px; width:100%;height:0;padding: 0 0 63.75% 0;}
 .Magnetic_Effects_Curr_Mag_116_q_3 {max-width:320px; max-height:204px; }
-.Magnetic_Effects_Curr_Mag_116_q_3::after {content: '\00a0';display: inline-block; width:320px; height:204px; background-position: 40.44025157232704% 60.523854069223574%;background-size: 596.875% 624.0196078431372%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_116_q_3::after {content: '\00a0';display: inline-block; width:320px; height:204px; background-position: 40.44025157232704% 60.523854069223574%; background-size: 596.875% 624.0196078431372%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_116_q_3::after {max-width:320px; width:100%;height:0;padding: 0 0 63.75% 0;}
 .Magnetic_Effects_Curr_Mag_118_q {max-width:320px; max-height:315px; }
-.Magnetic_Effects_Curr_Mag_118_q::after {content: '\00a0';display: inline-block; width:320px; height:315px; background-position: 37.23219455703532% 42.41359109548916%;background-size: 639.6875% 641.9047619047619%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_118_q::after {content: '\00a0';display: inline-block; width:320px; height:315px; background-position: 37.23219455703532% 42.41359109548916%; background-size: 639.6875% 641.9047619047619%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_118_q::after {max-width:320px; width:100%;height:0;padding: 0 0 98.4375% 0;}
 .Magnetic_Effects_Curr_Mag_120_q {max-width:360px; max-height:137px; }
-.Magnetic_Effects_Curr_Mag_120_q::after {content: '\00a0';display: inline-block; width:360px; height:137px; background-position: 71.25074096028453% 89.07161803713528%;background-size: 568.6111111111111% 1475.912408759124%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_120_q::after {content: '\00a0';display: inline-block; width:360px; height:137px; background-position: 71.25074096028453% 89.07161803713528%; background-size: 568.6111111111111% 1475.912408759124%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_120_q::after {max-width:360px; width:100%;height:0;padding: 0 0 38.05555555555556% 0;}
 .Magnetic_Effects_Curr_Mag_120_s {max-width:320px; max-height:158px; }
-.Magnetic_Effects_Curr_Mag_120_s::after {content: '\00a0';display: inline-block; width:320px; height:158px; background-position: 32.59988419224088% 99.62446351931331%;background-size: 639.6875% 1279.746835443038%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_120_s::after {content: '\00a0';display: inline-block; width:320px; height:158px; background-position: 32.59988419224088% 99.62446351931331%; background-size: 639.6875% 1279.746835443038%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_120_s::after {max-width:320px; width:100%;height:0;padding: 0 0 49.375% 0;}
 .Magnetic_Effects_Curr_Mag_12_s {max-width:400px; max-height:266px; }
-.Magnetic_Effects_Curr_Mag_12_s::after {content: '\00a0';display: inline-block; width:400px; height:266px; background-position: 85.30661809350335% 0.05694760820045558%;background-size: 511.75% 760.1503759398496%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_12_s::after {content: '\00a0';display: inline-block; width:400px; height:266px; background-position: 85.30661809350335% 0.05694760820045558%; background-size: 511.75% 760.1503759398496%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_12_s::after {max-width:400px; width:100%;height:0;padding: 0 0 66.5% 0;}
 .Magnetic_Effects_Curr_Mag_14_s {max-width:194px; max-height:234px; }
-.Magnetic_Effects_Curr_Mag_14_s::after {content: '\00a0';display: inline-block; width:194px; height:234px; background-position: 86.77156177156178% 99.90375360923966%;background-size: 984.5360824742268% 544.017094017094%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_14_s::after {content: '\00a0';display: inline-block; width:194px; height:234px; background-position: 86.77156177156178% 99.90375360923966%; background-size: 984.5360824742268% 544.017094017094%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_14_s::after {max-width:194px; width:100%;height:0;padding: 0 0 120.61855670103093% 0;}
 .Magnetic_Effects_Curr_Mag_16_q {max-width:211px; max-height:317px; }
-.Magnetic_Effects_Curr_Mag_16_q::after {content: '\00a0';display: inline-block; width:211px; height:317px; background-position: 98.36601307189542% 0.05865102639296188%;background-size: 970.1421800947867% 637.8548895899054%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_16_q::after {content: '\00a0';display: inline-block; width:211px; height:317px; background-position: 98.36601307189542% 0.05865102639296188%; background-size: 970.1421800947867% 637.8548895899054%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_16_q::after {max-width:211px; width:100%;height:0;padding: 0 0 150.23696682464455% 0;}
 .Magnetic_Effects_Curr_Mag_17_q {max-width:315px; max-height:264px; }
-.Magnetic_Effects_Curr_Mag_17_q::after {content: '\00a0';display: inline-block; width:315px; height:264px; background-position: 74.19168591224019% 65.47212741751991%;background-size: 649.8412698412699% 765.9090909090909%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_17_q::after {content: '\00a0';display: inline-block; width:315px; height:264px; background-position: 74.19168591224019% 65.47212741751991%; background-size: 649.8412698412699% 765.9090909090909%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_17_q::after {max-width:315px; width:100%;height:0;padding: 0 0 83.80952380952381% 0;}
 .Magnetic_Effects_Curr_Mag_17_s {max-width:320px; max-height:277px; }
-.Magnetic_Effects_Curr_Mag_17_s::after {content: '\00a0';display: inline-block; width:320px; height:277px; background-position: 74.40648523451071% 50.02865329512894%;background-size: 639.6875% 729.9638989169675%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_17_s::after {content: '\00a0';display: inline-block; width:320px; height:277px; background-position: 74.40648523451071% 50.02865329512894%; background-size: 639.6875% 729.9638989169675%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_17_s::after {max-width:320px; width:100%;height:0;padding: 0 0 86.5625% 0;}
 .Magnetic_Effects_Curr_Mag_31_s {max-width:228px; max-height:259px; }
-.Magnetic_Effects_Curr_Mag_31_s::after {content: '\00a0';display: inline-block; width:228px; height:259px; background-position: 64.44708680142688% 38.8560157790927%;background-size: 837.719298245614% 491.5057915057915%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_31_s::after {content: '\00a0';display: inline-block; width:228px; height:259px; background-position: 64.44708680142688% 38.8560157790927%; background-size: 837.719298245614% 491.5057915057915%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_31_s::after {max-width:228px; width:100%;height:0;padding: 0 0 113.59649122807018% 0;}
 .Magnetic_Effects_Curr_Mag_40_q {max-width:360px; max-height:287px; }
-.Magnetic_Effects_Curr_Mag_40_q::after {content: '\00a0';display: inline-block; width:360px; height:287px; background-position: 83.28393598103142% 15.446685878962535%;background-size: 568.6111111111111% 704.5296167247387%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_40_q::after {content: '\00a0';display: inline-block; width:360px; height:287px; background-position: 83.28393598103142% 15.446685878962535%; background-size: 568.6111111111111% 704.5296167247387%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_40_q::after {max-width:360px; width:100%;height:0;padding: 0 0 79.72222222222223% 0;}
 .Magnetic_Effects_Curr_Mag_41_s {max-width:320px; max-height:226px; }
-.Magnetic_Effects_Curr_Mag_41_s::after {content: '\00a0';display: inline-block; width:320px; height:226px; background-position: 99.94209612044007% 99.66592427616926%;background-size: 639.6875% 894.6902654867257%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_41_s::after {content: '\00a0';display: inline-block; width:320px; height:226px; background-position: 99.94209612044007% 99.66592427616926%; background-size: 639.6875% 894.6902654867257%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_41_s::after {max-width:320px; width:100%;height:0;padding: 0 0 70.625% 0;}
 .Magnetic_Effects_Curr_Mag_42_q {max-width:280px; max-height:381px; }
-.Magnetic_Effects_Curr_Mag_42_q::after {content: '\00a0';display: inline-block; width:280px; height:381px; background-position: 0.056593095642331635% 21.328458257160268%;background-size: 731.0714285714286% 530.7086614173228%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_42_q::after {content: '\00a0';display: inline-block; width:280px; height:381px; background-position: 0.056593095642331635% 21.328458257160268%; background-size: 731.0714285714286% 530.7086614173228%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_42_q::after {max-width:280px; width:100%;height:0;padding: 0 0 136.07142857142858% 0;}
 .Magnetic_Effects_Curr_Mag_43_s {max-width:360px; max-height:264px; }
-.Magnetic_Effects_Curr_Mag_43_s::after {content: '\00a0';display: inline-block; width:360px; height:264px; background-position: 16.716064018968584% 68.43003412969283%;background-size: 568.6111111111111% 765.9090909090909%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_43_s::after {content: '\00a0';display: inline-block; width:360px; height:264px; background-position: 16.716064018968584% 68.43003412969283%; background-size: 568.6111111111111% 765.9090909090909%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_43_s::after {max-width:360px; width:100%;height:0;padding: 0 0 73.33333333333333% 0;}
 .Magnetic_Effects_Curr_Mag_45_q {max-width:360px; max-height:303px; }
-.Magnetic_Effects_Curr_Mag_45_q::after {content: '\00a0';display: inline-block; width:360px; height:303px; background-position: 21.458209839952577% 18.964514252472366%;background-size: 568.6111111111111% 667.3267326732673%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_45_q::after {content: '\00a0';display: inline-block; width:360px; height:303px; background-position: 21.458209839952577% 18.964514252472366%; background-size: 568.6111111111111% 667.3267326732673%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_45_q::after {max-width:360px; width:100%;height:0;padding: 0 0 84.16666666666667% 0;}
 .Magnetic_Effects_Curr_Mag_46_q {max-width:320px; max-height:351px; }
-.Magnetic_Effects_Curr_Mag_46_q::after {content: '\00a0';display: inline-block; width:320px; height:351px; background-position: 62.76780544296468% 0.059844404548174746%;background-size: 639.6875% 576.0683760683761%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_46_q::after {content: '\00a0';display: inline-block; width:320px; height:351px; background-position: 62.76780544296468% 0.059844404548174746%; background-size: 639.6875% 576.0683760683761%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_46_q::after {max-width:320px; width:100%;height:0;padding: 0 0 109.6875% 0;}
 .Magnetic_Effects_Curr_Mag_46_s {max-width:280px; max-height:336px; }
-.Magnetic_Effects_Curr_Mag_46_s::after {content: '\00a0';display: inline-block; width:280px; height:336px; background-position: 99.94340690435767% 18.920521945432977%;background-size: 731.0714285714286% 601.7857142857143%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_46_s::after {content: '\00a0';display: inline-block; width:280px; height:336px; background-position: 99.94340690435767% 18.920521945432977%; background-size: 731.0714285714286% 601.7857142857143%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_46_s::after {max-width:280px; width:100%;height:0;padding: 0 0 120% 0;}
 .Magnetic_Effects_Curr_Mag_47_s {max-width:360px; max-height:133px; }
-.Magnetic_Effects_Curr_Mag_47_s::after {content: '\00a0';display: inline-block; width:360px; height:133px; background-position: 23.35483870967742% 45%;background-size: 530.5555555555555% 957.1428571428571%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_47_s::after {content: '\00a0';display: inline-block; width:360px; height:133px; background-position: 23.35483870967742% 45%; background-size: 530.5555555555555% 957.1428571428571%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_47_s::after {max-width:360px; width:100%;height:0;padding: 0 0 36.94444444444444% 0;}
 .Magnetic_Effects_Curr_Mag_49_q {max-width:400px; max-height:190px; }
-.Magnetic_Effects_Curr_Mag_49_q::after {content: '\00a0';display: inline-block; width:400px; height:190px; background-position: 80.44930176077717% 99.18122270742359%;background-size: 511.75% 1064.2105263157894%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_49_q::after {content: '\00a0';display: inline-block; width:400px; height:190px; background-position: 80.44930176077717% 99.18122270742359%; background-size: 511.75% 1064.2105263157894%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_49_q::after {max-width:400px; width:100%;height:0;padding: 0 0 47.5% 0;}
 .Magnetic_Effects_Curr_Mag_50_s {max-width:280px; max-height:241px; }
-.Magnetic_Effects_Curr_Mag_50_s::after {content: '\00a0';display: inline-block; width:280px; height:241px; background-position: 49.263803680981596% 36.724806201550386%;background-size: 682.1428571428571% 528.2157676348547%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_50_s::after {content: '\00a0';display: inline-block; width:280px; height:241px; background-position: 49.263803680981596% 36.724806201550386%; background-size: 682.1428571428571% 528.2157676348547%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_50_s::after {max-width:280px; width:100%;height:0;padding: 0 0 86.07142857142857% 0;}
 .Magnetic_Effects_Curr_Mag_51_s {max-width:138px; max-height:129px; }
-.Magnetic_Effects_Curr_Mag_51_s::after {content: '\00a0';display: inline-block; width:138px; height:129px; background-position: 95.03386004514672% 97.81468531468532%;background-size: 1384.0579710144928% 986.8217054263566%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_51_s::after {content: '\00a0';display: inline-block; width:138px; height:129px; background-position: 95.03386004514672% 97.81468531468532%; background-size: 1384.0579710144928% 986.8217054263566%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_51_s::after {max-width:138px; width:100%;height:0;padding: 0 0 93.47826086956522% 0;}
 .Magnetic_Effects_Curr_Mag_51_s_1 {max-width:226px; max-height:193px; }
-.Magnetic_Effects_Curr_Mag_51_s_1::after {content: '\00a0';display: inline-block; width:226px; height:193px; background-position: 77.96912114014252% 51.75925925925926%;background-size: 845.1327433628319% 659.5854922279793%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_51_s_1::after {content: '\00a0';display: inline-block; width:226px; height:193px; background-position: 77.96912114014252% 51.75925925925926%; background-size: 845.1327433628319% 659.5854922279793%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_51_s_1::after {max-width:226px; width:100%;height:0;padding: 0 0 85.39823008849558% 0;}
 .Magnetic_Effects_Curr_Mag_52_q {max-width:280px; max-height:344px; }
-.Magnetic_Effects_Curr_Mag_52_q::after {content: '\00a0';display: inline-block; width:280px; height:344px; background-position: 0.056593095642331635% 43.62336114421931%;background-size: 731.0714285714286% 587.7906976744187%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_52_q::after {content: '\00a0';display: inline-block; width:280px; height:344px; background-position: 0.056593095642331635% 43.62336114421931%; background-size: 731.0714285714286% 587.7906976744187%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_52_q::after {max-width:280px; width:100%;height:0;padding: 0 0 122.85714285714286% 0;}
 .Magnetic_Effects_Curr_Mag_52_s {max-width:360px; max-height:247px; }
-.Magnetic_Effects_Curr_Mag_52_s::after {content: '\00a0';display: inline-block; width:360px; height:247px; background-position: 16.716064018968584% 82.70422535211267%;background-size: 568.6111111111111% 818.6234817813765%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_52_s::after {content: '\00a0';display: inline-block; width:360px; height:247px; background-position: 95.19857735625371% 52.225352112676056%; background-size: 568.6111111111111% 818.6234817813765%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_52_s::after {max-width:360px; width:100%;height:0;padding: 0 0 68.61111111111111% 0;}
 .Magnetic_Effects_Curr_Mag_56_o_1 {max-width:252px; max-height:190px; }
-.Magnetic_Effects_Curr_Mag_56_o_1::after {content: '\00a0';display: inline-block; width:252px; height:190px; background-position: 80.57901085645356% 11.449676823638043%;background-size: 757.936507936508% 670%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_56_o_1::after {content: '\00a0';display: inline-block; width:252px; height:190px; background-position: 80.57901085645356% 11.449676823638043%; background-size: 757.936507936508% 670%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_56_o_1::after {max-width:252px; width:100%;height:0;padding: 0 0 75.39682539682539% 0;}
 .Magnetic_Effects_Curr_Mag_56_o_2 {max-width:310px; max-height:200px; }
-.Magnetic_Effects_Curr_Mag_56_o_2::after {content: '\00a0';display: inline-block; width:310px; height:200px; background-position: 96.25% 57.409133271202236%;background-size: 616.1290322580645% 636.5%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_56_o_2::after {content: '\00a0';display: inline-block; width:310px; height:200px; background-position: 96.25% 57.409133271202236%; background-size: 616.1290322580645% 636.5%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_56_o_2::after {max-width:310px; width:100%;height:0;padding: 0 0 64.51612903225806% 0;}
 .Magnetic_Effects_Curr_Mag_56_o_3 {max-width:243px; max-height:168px; }
-.Magnetic_Effects_Curr_Mag_56_o_3::after {content: '\00a0';display: inline-block; width:243px; height:168px; background-position: 55.42891421715657% 99.45701357466064%;background-size: 786.0082304526749% 757.7380952380952%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_56_o_3::after {content: '\00a0';display: inline-block; width:243px; height:168px; background-position: 55.42891421715657% 99.45701357466064%; background-size: 786.0082304526749% 757.7380952380952%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_56_o_3::after {max-width:243px; width:100%;height:0;padding: 0 0 69.1358024691358% 0;}
 .Magnetic_Effects_Curr_Mag_56_o_4 {max-width:309px; max-height:192px; }
-.Magnetic_Effects_Curr_Mag_56_o_4::after {content: '\00a0';display: inline-block; width:309px; height:192px; background-position: 60.212367270455964% 60.4995374653099%;background-size: 618.1229773462783% 663.0208333333334%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_56_o_4::after {content: '\00a0';display: inline-block; width:309px; height:192px; background-position: 60.212367270455964% 60.4995374653099%; background-size: 618.1229773462783% 663.0208333333334%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_56_o_4::after {max-width:309px; width:100%;height:0;padding: 0 0 62.13592233009709% 0;}
 .Magnetic_Effects_Curr_Mag_58_o_1 {max-width:279px; max-height:246px; }
-.Magnetic_Effects_Curr_Mag_58_o_1::after {content: '\00a0';display: inline-block; width:279px; height:246px; background-position: 69.71183323114654% 82.47322297955209%;background-size: 684.5878136200716% 517.479674796748%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_58_o_1::after {content: '\00a0';display: inline-block; width:279px; height:246px; background-position: 69.71183323114654% 82.47322297955209%; background-size: 684.5878136200716% 517.479674796748%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_58_o_1::after {max-width:279px; width:100%;height:0;padding: 0 0 88.17204301075269% 0;}
 .Magnetic_Effects_Curr_Mag_58_o_2 {max-width:287px; max-height:246px; }
-.Magnetic_Effects_Curr_Mag_58_o_2::after {content: '\00a0';display: inline-block; width:287px; height:246px; background-position: 17.375231053604438% 82.96007789678676%;background-size: 665.5052264808362% 517.479674796748%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_58_o_2::after {content: '\00a0';display: inline-block; width:287px; height:246px; background-position: 17.375231053604438% 82.96007789678676%; background-size: 665.5052264808362% 517.479674796748%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_58_o_2::after {max-width:287px; width:100%;height:0;padding: 0 0 85.71428571428571% 0;}
 .Magnetic_Effects_Curr_Mag_58_o_3 {max-width:277px; max-height:253px; }
-.Magnetic_Effects_Curr_Mag_58_o_3::after {content: '\00a0';display: inline-block; width:277px; height:253px; background-position: 52.20338983050848% 89.59864330130017%;background-size: 738.9891696750902% 799.2094861660079%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_58_o_3::after {content: '\00a0';display: inline-block; width:277px; height:253px; background-position: 52.20338983050848% 89.59864330130017%; background-size: 738.9891696750902% 799.2094861660079%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_58_o_3::after {max-width:277px; width:100%;height:0;padding: 0 0 91.33574007220217% 0;}
 .Magnetic_Effects_Curr_Mag_58_o_4 {max-width:285px; max-height:246px; }
-.Magnetic_Effects_Curr_Mag_58_o_4::after {content: '\00a0';display: inline-block; width:285px; height:246px; background-position: 35.07692307692308% 82.96007789678676%;background-size: 670.1754385964912% 517.479674796748%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_58_o_4::after {content: '\00a0';display: inline-block; width:285px; height:246px; background-position: 35.07692307692308% 82.96007789678676%; background-size: 670.1754385964912% 517.479674796748%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_58_o_4::after {max-width:285px; width:100%;height:0;padding: 0 0 86.3157894736842% 0;}
 .Magnetic_Effects_Curr_Mag_59_s {max-width:400px; max-height:178px; }
-.Magnetic_Effects_Curr_Mag_59_s::after {content: '\00a0';display: inline-block; width:400px; height:178px; background-position: 0.06622516556291391% 16.529680365296805%;background-size: 477.5% 715.1685393258427%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_59_s::after {content: '\00a0';display: inline-block; width:400px; height:178px; background-position: 0.06622516556291391% 16.529680365296805%; background-size: 477.5% 715.1685393258427%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_59_s::after {max-width:400px; width:100%;height:0;padding: 0 0 44.5% 0;}
 .Magnetic_Effects_Curr_Mag_60_o_1 {max-width:400px; max-height:194px; }
-.Magnetic_Effects_Curr_Mag_60_o_1::after {content: '\00a0';display: inline-block; width:400px; height:194px; background-position: 97.20704310868246% 76.80525164113786%;background-size: 511.75% 1042.2680412371135%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_60_o_1::after {content: '\00a0';display: inline-block; width:400px; height:194px; background-position: 97.20704310868246% 76.80525164113786%; background-size: 511.75% 1042.2680412371135%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_60_o_1::after {max-width:400px; width:100%;height:0;padding: 0 0 48.5% 0;}
 .Magnetic_Effects_Curr_Mag_60_o_2 {max-width:400px; max-height:179px; }
-.Magnetic_Effects_Curr_Mag_60_o_2::after {content: '\00a0';display: inline-block; width:400px; height:179px; background-position: 0.06622516556291391% 0.09140767824497258%;background-size: 477.5% 711.1731843575419%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_60_o_2::after {content: '\00a0';display: inline-block; width:400px; height:179px; background-position: 0.06622516556291391% 0.09140767824497258%; background-size: 477.5% 711.1731843575419%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_60_o_2::after {max-width:400px; width:100%;height:0;padding: 0 0 44.75% 0;}
 .Magnetic_Effects_Curr_Mag_60_o_3 {max-width:400px; max-height:182px; }
-.Magnetic_Effects_Curr_Mag_60_o_3::after {content: '\00a0';display: inline-block; width:400px; height:182px; background-position: 56.10200364298725% 99.94565217391305%;background-size: 511.75% 1110.989010989011%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_60_o_3::after {content: '\00a0';display: inline-block; width:400px; height:182px; background-position: 56.10200364298725% 99.94565217391305%; background-size: 511.75% 1110.989010989011%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_60_o_3::after {max-width:400px; width:100%;height:0;padding: 0 0 45.5% 0;}
 .Magnetic_Effects_Curr_Mag_60_o_4 {max-width:400px; max-height:190px; }
-.Magnetic_Effects_Curr_Mag_60_o_4::after {content: '\00a0';display: inline-block; width:400px; height:190px; background-position: 94.89981785063752% 87.28165938864629%;background-size: 511.75% 1064.2105263157894%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_60_o_4::after {content: '\00a0';display: inline-block; width:400px; height:190px; background-position: 94.89981785063752% 87.28165938864629%; background-size: 511.75% 1064.2105263157894%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_60_o_4::after {max-width:400px; width:100%;height:0;padding: 0 0 47.5% 0;}
 .Magnetic_Effects_Curr_Mag_61_s {max-width:280px; max-height:325px; }
-.Magnetic_Effects_Curr_Mag_61_s::after {content: '\00a0';display: inline-block; width:280px; height:325px; background-position: 56.819468024900964% 40.4242781378904%;background-size: 731.0714285714286% 622.1538461538462%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_61_s::after {content: '\00a0';display: inline-block; width:280px; height:325px; background-position: 56.819468024900964% 40.4242781378904%; background-size: 731.0714285714286% 622.1538461538462%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_61_s::after {max-width:280px; width:100%;height:0;padding: 0 0 116.07142857142857% 0;}
 .Magnetic_Effects_Curr_Mag_62_s {max-width:195px; max-height:301px; }
-.Magnetic_Effects_Curr_Mag_62_s::after {content: '\00a0';display: inline-block; width:195px; height:301px; background-position: 99.00874635568513% 84.05349794238683%;background-size: 979.4871794871794% 422.9235880398671%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_62_s::after {content: '\00a0';display: inline-block; width:195px; height:301px; background-position: 99.00874635568513% 84.05349794238683%; background-size: 979.4871794871794% 422.9235880398671%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_62_s::after {max-width:195px; width:100%;height:0;padding: 0 0 154.35897435897436% 0;}
 .Magnetic_Effects_Curr_Mag_64_s {max-width:280px; max-height:297px; }
-.Magnetic_Effects_Curr_Mag_64_s::after {content: '\00a0';display: inline-block; width:280px; height:297px; background-position: 0.056593095642331635% 80.28985507246377%;background-size: 731.0714285714286% 680.8080808080808%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_64_s::after {content: '\00a0';display: inline-block; width:280px; height:297px; background-position: 0.056593095642331635% 80.28985507246377%; background-size: 731.0714285714286% 680.8080808080808%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_64_s::after {max-width:280px; width:100%;height:0;padding: 0 0 106.07142857142857% 0;}
 .Magnetic_Effects_Curr_Mag_66_s {max-width:251px; max-height:243px; }
-.Magnetic_Effects_Curr_Mag_66_s::after {content: '\00a0';display: inline-block; width:251px; height:243px; background-position: 80.53044002411092% 30.58252427184466%;background-size: 760.9561752988047% 523.8683127572017%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_66_s::after {content: '\00a0';display: inline-block; width:251px; height:243px; background-position: 80.53044002411092% 30.58252427184466%; background-size: 760.9561752988047% 523.8683127572017%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_66_s::after {max-width:251px; width:100%;height:0;padding: 0 0 96.81274900398407% 0;}
 .Magnetic_Effects_Curr_Mag_75_q {max-width:280px; max-height:262px; }
-.Magnetic_Effects_Curr_Mag_75_q::after {content: '\00a0';display: inline-block; width:280px; height:262px; background-position: 68.1380871533673% 80.45454545454545%;background-size: 731.0714285714286% 771.7557251908397%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_75_q::after {content: '\00a0';display: inline-block; width:280px; height:262px; background-position: 68.1380871533673% 80.45454545454545%; background-size: 731.0714285714286% 771.7557251908397%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_75_q::after {max-width:280px; width:100%;height:0;padding: 0 0 93.57142857142857% 0;}
 .Magnetic_Effects_Curr_Mag_75_s {max-width:320px; max-height:316px; }
-.Magnetic_Effects_Curr_Mag_75_s::after {content: '\00a0';display: inline-block; width:320px; height:316px; background-position: 76.02779386218877% 32.590855803048065%;background-size: 639.6875% 639.873417721519%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_75_s::after {content: '\00a0';display: inline-block; width:320px; height:316px; background-position: 76.02779386218877% 32.590855803048065%; background-size: 639.6875% 639.873417721519%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_75_s::after {max-width:320px; width:100%;height:0;padding: 0 0 98.75% 0;}
 .Magnetic_Effects_Curr_Mag_77_q {max-width:320px; max-height:226px; }
-.Magnetic_Effects_Curr_Mag_77_q::after {content: '\00a0';display: inline-block; width:320px; height:226px; background-position: 0.06289308176100629% 53.00859598853868%;background-size: 596.875% 563.2743362831858%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_77_q::after {content: '\00a0';display: inline-block; width:320px; height:226px; background-position: 0.06289308176100629% 53.00859598853868%; background-size: 596.875% 563.2743362831858%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_77_q::after {max-width:320px; width:100%;height:0;padding: 0 0 70.625% 0;}
 .Magnetic_Effects_Curr_Mag_78_s {max-width:320px; max-height:210px; }
-.Magnetic_Effects_Curr_Mag_78_s::after {content: '\00a0';display: inline-block; width:320px; height:210px; background-position: 99.937106918239% 0.09407337723424271%;background-size: 596.875% 606.1904761904761%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_78_s::after {content: '\00a0';display: inline-block; width:320px; height:210px; background-position: 99.937106918239% 0.09407337723424271%; background-size: 596.875% 606.1904761904761%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_78_s::after {max-width:320px; width:100%;height:0;padding: 0 0 65.625% 0;}
 .Magnetic_Effects_Curr_Mag_79_q {max-width:280px; max-height:307px; }
-.Magnetic_Effects_Curr_Mag_79_q::after {content: '\00a0';display: inline-block; width:280px; height:307px; background-position: 0.056593095642331635% 62.798833819241985%;background-size: 731.0714285714286% 658.6319218241042%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_79_q::after {content: '\00a0';display: inline-block; width:280px; height:307px; background-position: 0.056593095642331635% 62.798833819241985%; background-size: 731.0714285714286% 658.6319218241042%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_79_q::after {max-width:280px; width:100%;height:0;padding: 0 0 109.64285714285714% 0;}
 .Magnetic_Effects_Curr_Mag_79_s {max-width:280px; max-height:400px; }
-.Magnetic_Effects_Curr_Mag_79_s::after {content: '\00a0';display: inline-block; width:280px; height:400px; background-position: 40.916808149405774% 19.91368680641184%;background-size: 731.0714285714286% 505.5%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_79_s::after {content: '\00a0';display: inline-block; width:280px; height:400px; background-position: 40.916808149405774% 19.91368680641184%; background-size: 731.0714285714286% 505.5%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_79_s::after {max-width:280px; width:100%;height:0;padding: 0 0 142.85714285714286% 0;}
 .Magnetic_Effects_Curr_Mag_81_o_1 {max-width:280px; max-height:262px; }
-.Magnetic_Effects_Curr_Mag_81_o_1::after {content: '\00a0';display: inline-block; width:280px; height:262px; background-position: 36.38936049801924% 90.56818181818181%;background-size: 731.0714285714286% 771.7557251908397%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_81_o_1::after {content: '\00a0';display: inline-block; width:280px; height:262px; background-position: 36.38936049801924% 90.56818181818181%; background-size: 731.0714285714286% 771.7557251908397%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_81_o_1::after {max-width:280px; width:100%;height:0;padding: 0 0 93.57142857142857% 0;}
 .Magnetic_Effects_Curr_Mag_81_o_2 {max-width:280px; max-height:253px; }
-.Magnetic_Effects_Curr_Mag_81_o_2::after {content: '\00a0';display: inline-block; width:280px; height:253px; background-position: 49.263803680981596% 12.254901960784315%;background-size: 682.1428571428571% 503.1620553359684%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_81_o_2::after {content: '\00a0';display: inline-block; width:280px; height:253px; background-position: 49.263803680981596% 12.254901960784315%; background-size: 682.1428571428571% 503.1620553359684%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_81_o_2::after {max-width:280px; width:100%;height:0;padding: 0 0 90.35714285714286% 0;}
 .Magnetic_Effects_Curr_Mag_81_o_3 {max-width:280px; max-height:258px; }
-.Magnetic_Effects_Curr_Mag_81_o_3::after {content: '\00a0';display: inline-block; width:280px; height:258px; background-position: 0.06134969325153374% 77.04433497536945%;background-size: 682.1428571428571% 493.4108527131783%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_81_o_3::after {content: '\00a0';display: inline-block; width:280px; height:258px; background-position: 0.06134969325153374% 77.04433497536945%; background-size: 682.1428571428571% 493.4108527131783%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_81_o_3::after {max-width:280px; width:100%;height:0;padding: 0 0 92.14285714285714% 0;}
 .Magnetic_Effects_Curr_Mag_81_o_4 {max-width:280px; max-height:246px; }
-.Magnetic_Effects_Curr_Mag_81_o_4::after {content: '\00a0';display: inline-block; width:280px; height:246px; background-position: 52.515337423312886% 82.96007789678676%;background-size: 682.1428571428571% 517.479674796748%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_81_o_4::after {content: '\00a0';display: inline-block; width:280px; height:246px; background-position: 52.515337423312886% 82.96007789678676%; background-size: 682.1428571428571% 517.479674796748%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_81_o_4::after {max-width:280px; width:100%;height:0;padding: 0 0 87.85714285714286% 0;}
 .Magnetic_Effects_Curr_Mag_81_s {max-width:400px; max-height:122px; }
-.Magnetic_Effects_Curr_Mag_81_s::after {content: '\00a0';display: inline-block; width:400px; height:122px; background-position: 78.67549668874172% 0.08688097306689835%;background-size: 477.5% 1043.4426229508197%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_81_s::after {content: '\00a0';display: inline-block; width:400px; height:122px; background-position: 78.67549668874172% 0.08688097306689835%; background-size: 477.5% 1043.4426229508197%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_81_s::after {max-width:400px; width:100%;height:0;padding: 0 0 30.5% 0;}
 .Magnetic_Effects_Curr_Mag_83_q {max-width:360px; max-height:324px; }
-.Magnetic_Effects_Curr_Mag_83_q::after {content: '\00a0';display: inline-block; width:360px; height:324px; background-position: 21.458209839952577% 0.05889281507656066%;background-size: 568.6111111111111% 624.074074074074%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_83_q::after {content: '\00a0';display: inline-block; width:360px; height:324px; background-position: 21.458209839952577% 0.05889281507656066%; background-size: 568.6111111111111% 624.074074074074%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_83_q::after {max-width:360px; width:100%;height:0;padding: 0 0 90% 0;}
 .Magnetic_Effects_Curr_Mag_83_q_1 {max-width:360px; max-height:321px; }
-.Magnetic_Effects_Curr_Mag_83_q_1::after {content: '\00a0';display: inline-block; width:360px; height:321px; background-position: 42.857142857142854% 0.058788947677836566%;background-size: 568.6111111111111% 629.9065420560747%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_83_q_1::after {content: '\00a0';display: inline-block; width:360px; height:321px; background-position: 42.857142857142854% 0.058788947677836566%; background-size: 568.6111111111111% 629.9065420560747%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_83_q_1::after {max-width:360px; width:100%;height:0;padding: 0 0 89.16666666666667% 0;}
 .Magnetic_Effects_Curr_Mag_84_o_1 {max-width:280px; max-height:269px; }
-.Magnetic_Effects_Curr_Mag_84_o_1::after {content: '\00a0';display: inline-block; width:280px; height:269px; background-position: 36.38936049801924% 75.52766685681688%;background-size: 731.0714285714286% 751.6728624535316%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_84_o_1::after {content: '\00a0';display: inline-block; width:280px; height:269px; background-position: 36.38936049801924% 75.52766685681688%; background-size: 731.0714285714286% 751.6728624535316%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_84_o_1::after {max-width:280px; width:100%;height:0;padding: 0 0 96.07142857142857% 0;}
 .Magnetic_Effects_Curr_Mag_84_o_2 {max-width:280px; max-height:262px; }
-.Magnetic_Effects_Curr_Mag_84_o_2::after {content: '\00a0';display: inline-block; width:280px; height:262px; background-position: 15.959252971137522% 97.5%;background-size: 731.0714285714286% 771.7557251908397%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_84_o_2::after {content: '\00a0';display: inline-block; width:280px; height:262px; background-position: 15.959252971137522% 97.5%; background-size: 731.0714285714286% 771.7557251908397%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_84_o_2::after {max-width:280px; width:100%;height:0;padding: 0 0 93.57142857142857% 0;}
 .Magnetic_Effects_Curr_Mag_84_o_3 {max-width:280px; max-height:266px; }
-.Magnetic_Effects_Curr_Mag_84_o_3::after {content: '\00a0';display: inline-block; width:280px; height:266px; background-position: 0.056593095642331635% 95.84282460136674%;background-size: 731.0714285714286% 760.1503759398496%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_84_o_3::after {content: '\00a0';display: inline-block; width:280px; height:266px; background-position: 0.056593095642331635% 95.84282460136674%; background-size: 731.0714285714286% 760.1503759398496%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_84_o_3::after {max-width:280px; width:100%;height:0;padding: 0 0 95% 0;}
 .Magnetic_Effects_Curr_Mag_84_o_4 {max-width:296px; max-height:283px; }
-.Magnetic_Effects_Curr_Mag_84_o_4::after {content: '\00a0';display: inline-block; width:296px; height:283px; background-position: 36.72187321530554% 59.804485336400234%;background-size: 691.5540540540541% 714.4876325088339%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_84_o_4::after {content: '\00a0';display: inline-block; width:296px; height:283px; background-position: 36.72187321530554% 59.804485336400234%; background-size: 691.5540540540541% 714.4876325088339%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_84_o_4::after {max-width:296px; width:100%;height:0;padding: 0 0 95.60810810810811% 0;}
 .Magnetic_Effects_Curr_Mag_85_q {max-width:308px; max-height:332px; }
-.Magnetic_Effects_Curr_Mag_85_q::after {content: '\00a0';display: inline-block; width:308px; height:332px; background-position: 57.734330074755604% 20.88757396449704%;background-size: 664.6103896103896% 609.0361445783133%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_85_q::after {content: '\00a0';display: inline-block; width:308px; height:332px; background-position: 57.734330074755604% 20.88757396449704%; background-size: 664.6103896103896% 609.0361445783133%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_85_q::after {max-width:308px; width:100%;height:0;padding: 0 0 107.79220779220779% 0;}
 .Magnetic_Effects_Curr_Mag_85_s {max-width:320px; max-height:272px; }
-.Magnetic_Effects_Curr_Mag_85_s::after {content: '\00a0';display: inline-block; width:320px; height:272px; background-position: 55.81933989577302% 57.82857142857143%;background-size: 639.6875% 743.3823529411765%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_85_s::after {content: '\00a0';display: inline-block; width:320px; height:272px; background-position: 55.81933989577302% 57.82857142857143%; background-size: 639.6875% 743.3823529411765%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_85_s::after {max-width:320px; width:100%;height:0;padding: 0 0 85% 0;}
 .Magnetic_Effects_Curr_Mag_86_q {max-width:360px; max-height:275px; }
-.Magnetic_Effects_Curr_Mag_86_q::after {content: '\00a0';display: inline-block; width:360px; height:275px; background-position: 16.716064018968584% 53.06239267315398%;background-size: 568.6111111111111% 735.2727272727273%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_86_q::after {content: '\00a0';display: inline-block; width:360px; height:275px; background-position: 16.716064018968584% 53.06239267315398%; background-size: 568.6111111111111% 735.2727272727273%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_86_q::after {max-width:360px; width:100%;height:0;padding: 0 0 76.38888888888889% 0;}
 .Magnetic_Effects_Curr_Mag_86_s {max-width:280px; max-height:220px; }
-.Magnetic_Effects_Curr_Mag_86_s::after {content: '\00a0';display: inline-block; width:280px; height:220px; background-position: 86.93251533742331% 77.58784425451093%;background-size: 682.1428571428571% 578.6363636363636%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_86_s::after {content: '\00a0';display: inline-block; width:280px; height:220px; background-position: 86.93251533742331% 77.58784425451093%; background-size: 682.1428571428571% 578.6363636363636%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_86_s::after {max-width:280px; width:100%;height:0;padding: 0 0 78.57142857142857% 0;}
 .Magnetic_Effects_Curr_Mag_87_q {max-width:360px; max-height:348px; }
-.Magnetic_Effects_Curr_Mag_87_q::after {content: '\00a0';display: inline-block; width:360px; height:348px; background-position: 0.05927682276229994% 0.05973715651135006%;background-size: 568.6111111111111% 581.0344827586207%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_87_q::after {content: '\00a0';display: inline-block; width:360px; height:348px; background-position: 0.05927682276229994% 0.05973715651135006%; background-size: 568.6111111111111% 581.0344827586207%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_87_q::after {max-width:360px; width:100%;height:0;padding: 0 0 96.66666666666667% 0;}
 .Magnetic_Effects_Curr_Mag_87_s {max-width:360px; max-height:228px; }
-.Magnetic_Effects_Curr_Mag_87_s::after {content: '\00a0';display: inline-block; width:360px; height:228px; background-position: 94.90219324244221% 65.49609810479376%;background-size: 568.6111111111111% 886.8421052631579%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_87_s::after {content: '\00a0';display: inline-block; width:360px; height:228px; background-position: 94.90219324244221% 65.49609810479376%; background-size: 568.6111111111111% 886.8421052631579%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_87_s::after {max-width:360px; width:100%;height:0;padding: 0 0 63.333333333333336% 0;}
 .Magnetic_Effects_Curr_Mag_88_q {max-width:360px; max-height:194px; }
-.Magnetic_Effects_Curr_Mag_88_q::after {content: '\00a0';display: inline-block; width:360px; height:194px; background-position: 0.06451612903225806% 33.364226135310474%;background-size: 530.5555555555555% 656.1855670103092%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_88_q::after {content: '\00a0';display: inline-block; width:360px; height:194px; background-position: 0.06451612903225806% 33.364226135310474%; background-size: 530.5555555555555% 656.1855670103092%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_88_q::after {max-width:360px; width:100%;height:0;padding: 0 0 53.888888888888886% 0;}
 .Magnetic_Effects_Curr_Mag_90_p {max-width:263px; max-height:299px; }
-.Magnetic_Effects_Curr_Mag_90_p::after {content: '\00a0';display: inline-block; width:263px; height:299px; background-position: 52.690582959641254% 74.57922228670922%;background-size: 778.3269961977186% 676.2541806020067%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_90_p::after {content: '\00a0';display: inline-block; width:263px; height:299px; background-position: 52.690582959641254% 74.57922228670922%; background-size: 778.3269961977186% 676.2541806020067%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_90_p::after {max-width:263px; width:100%;height:0;padding: 0 0 113.68821292775665% 0;}
 .Magnetic_Effects_Curr_Mag_90_q {max-width:360px; max-height:296px; }
-.Magnetic_Effects_Curr_Mag_90_q::after {content: '\00a0';display: inline-block; width:360px; height:296px; background-position: 16.716064018968584% 36.50057937427578%;background-size: 568.6111111111111% 683.1081081081081%;background-image: url(ph_xii_movingcharges-0.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_90_q::after {content: '\00a0';display: inline-block; width:360px; height:296px; background-position: 16.716064018968584% 36.50057937427578%; background-size: 568.6111111111111% 683.1081081081081%; background-image: url(ph_xii_movingcharges_0.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_90_q::after {max-width:360px; width:100%;height:0;padding: 0 0 82.22222222222223% 0;}
 .Magnetic_Effects_Curr_Mag_95_q {max-width:280px; max-height:226px; }
-.Magnetic_Effects_Curr_Mag_95_q::after {content: '\00a0';display: inline-block; width:280px; height:226px; background-position: 0.06134969325153374% 99.42693409742121%;background-size: 682.1428571428571% 563.2743362831858%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_95_q::after {content: '\00a0';display: inline-block; width:280px; height:226px; background-position: 0.06134969325153374% 99.42693409742121%; background-size: 682.1428571428571% 563.2743362831858%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_95_q::after {max-width:280px; width:100%;height:0;padding: 0 0 80.71428571428571% 0;}
 .Magnetic_Effects_Curr_Mag_95_s {max-width:251px; max-height:268px; }
-.Magnetic_Effects_Curr_Mag_95_s::after {content: '\00a0';display: inline-block; width:251px; height:268px; background-position: 65.34056660638939% 12.437810945273633%;background-size: 760.9561752988047% 475%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_95_s::after {content: '\00a0';display: inline-block; width:251px; height:268px; background-position: 65.34056660638939% 12.437810945273633%; background-size: 760.9561752988047% 475%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_95_s::after {max-width:251px; width:100%;height:0;padding: 0 0 106.77290836653387% 0;}
 .Magnetic_Effects_Curr_Mag_99_o_1 {max-width:400px; max-height:123px; }
-.Magnetic_Effects_Curr_Mag_99_o_1::after {content: '\00a0';display: inline-block; width:400px; height:123px; background-position: 52.11920529801324% 0.08695652173913043%;background-size: 477.5% 1034.959349593496%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_99_o_1::after {content: '\00a0';display: inline-block; width:400px; height:123px; background-position: 52.11920529801324% 0.08695652173913043%; background-size: 477.5% 1034.959349593496%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_99_o_1::after {max-width:400px; width:100%;height:0;padding: 0 0 30.75% 0;}
 .Magnetic_Effects_Curr_Mag_99_o_2 {max-width:400px; max-height:108px; }
-.Magnetic_Effects_Curr_Mag_99_o_2::after {content: '\00a0';display: inline-block; width:400px; height:108px; background-position: 26.62251655629139% 25.665236051502145%;background-size: 477.5% 1178.7037037037037%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_99_o_2::after {content: '\00a0';display: inline-block; width:400px; height:108px; background-position: 26.62251655629139% 25.665236051502145%; background-size: 477.5% 1178.7037037037037%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_99_o_2::after {max-width:400px; width:100%;height:0;padding: 0 0 27% 0;}
 .Magnetic_Effects_Curr_Mag_99_o_3 {max-width:400px; max-height:116px; }
-.Magnetic_Effects_Curr_Mag_99_o_3::after {content: '\00a0';display: inline-block; width:400px; height:116px; background-position: 26.62251655629139% 15.730337078651685%;background-size: 477.5% 1097.4137931034484%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_99_o_3::after {content: '\00a0';display: inline-block; width:400px; height:116px; background-position: 26.62251655629139% 15.730337078651685%; background-size: 477.5% 1097.4137931034484%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_99_o_3::after {max-width:400px; width:100%;height:0;padding: 0 0 29% 0;}
 .Magnetic_Effects_Curr_Mag_99_o_4 {max-width:400px; max-height:104px; }
-.Magnetic_Effects_Curr_Mag_99_o_4::after {content: '\00a0';display: inline-block; width:400px; height:104px; background-position: 23.973509933774835% 34.901625320787%;background-size: 477.5% 1224.0384615384614%;background-image: url(ph_xii_movingcharges-1.png);padding: 0; }
+.Magnetic_Effects_Curr_Mag_99_o_4::after {content: '\00a0';display: inline-block; width:400px; height:104px; background-position: 23.973509933774835% 34.901625320787%; background-size: 477.5% 1224.0384615384614%; background-image: url(ph_xii_movingcharges_1.png);padding: 0; }
 div.Magnetic_Effects_Curr_Mag_99_o_4::after {max-width:400px; width:100%;height:0;padding: 0 0 26% 0;}
 
-/* $TexturePacker:SmartUpdate:85e555e593e3afe75e979619b9c9d02b:a5f5eb6a4ed737d7252211905e490f1e:80874c7bf3f5d9f52591d56c108ae6e8$ */
+@keyframes Magnetic_Effects_Curr_Mag_116_q-frames {
+    0% { background-position: 91.95136074116967% 22.861842105263158%;  }
+    33.33333333333333% { background-position: 92.0092646207296% 11.66116611661166%;  }
+    66.66666666666666% { background-position: 37.23219455703532% 35.58855885588559%;  }
+}
+
+.Magnetic_Effects_Curr_Mag_116_q-animation {
+    max-width: 320px;
+    max-height: 198px;
+}
+.Magnetic_Effects_Curr_Mag_116_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 320px;
+    height: 198px;
+    padding: 0;
+    background-image: url(ph_xii_movingcharges_0.png);
+    background-size: 639.6875% 1021.2121212121212%; 
+    animation-name: Magnetic_Effects_Curr_Mag_116_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.Magnetic_Effects_Curr_Mag_116_q-animation::after {
+    max-width: 320px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 61.875% 0;
+}
+
+@keyframes Magnetic_Effects_Curr_Mag_56_o-frames {
+    0% { background-position: 74.42896935933148% 6.7685589519650655%;  }
+    25% { background-position: 88.65860679332182% 33.80900109769484%;  }
+    50% { background-position: 51.21951219512195% 59.277238403451996%;  }
+    75% { background-position: 55.466052934407365% 35.73770491803279%;  }
+}
+
+.Magnetic_Effects_Curr_Mag_56_o-animation {
+    max-width: 252px;
+    max-height: 190px;
+}
+.Magnetic_Effects_Curr_Mag_56_o-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 252px;
+    height: 190px;
+    padding: 0;
+    background-image: url(ph_xii_movingcharges_0.png);
+    background-size: 812.3015873015873% 1064.2105263157894%; 
+    animation-name: Magnetic_Effects_Curr_Mag_56_o-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.Magnetic_Effects_Curr_Mag_56_o-animation::after {
+    max-width: 252px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 75.39682539682539% 0;
+}
+
+@keyframes Magnetic_Effects_Curr_Mag_58_o-frames {
+    0% { background-position: 64.30995475113122% 47.69144144144144%;  }
+    25% { background-position: 16.022727272727273% 47.972972972972975%;  }
+    50% { background-position: 52.20338983050848% 89.59864330130017%;  }
+    75% { background-position: 32.349602724177075% 47.972972972972975%;  }
+}
+
+.Magnetic_Effects_Curr_Mag_58_o-animation {
+    max-width: 279px;
+    max-height: 246px;
+}
+.Magnetic_Effects_Curr_Mag_58_o-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 279px;
+    height: 246px;
+    padding: 0;
+    background-image: url(ph_xii_movingcharges_0.png);
+    background-size: 733.6917562724014% 821.9512195121952%; 
+    animation-name: Magnetic_Effects_Curr_Mag_58_o-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.Magnetic_Effects_Curr_Mag_58_o-animation::after {
+    max-width: 279px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 88.17204301075269% 0;
+}
+
+@keyframes Magnetic_Effects_Curr_Mag_60_o-frames {
+    0% { background-position: 97.20704310868246% 76.80525164113786%;  }
+    25% { background-position: 0.06071645415907711% 0.05425935973955507%;  }
+    50% { background-position: 56.10200364298725% 99.94565217391305%;  }
+    75% { background-position: 94.89981785063752% 87.28165938864629%;  }
+}
+
+.Magnetic_Effects_Curr_Mag_60_o-animation {
+    max-width: 400px;
+    max-height: 194px;
+}
+.Magnetic_Effects_Curr_Mag_60_o-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 400px;
+    height: 194px;
+    padding: 0;
+    background-image: url(ph_xii_movingcharges_0.png);
+    background-size: 511.75% 1042.2680412371135%; 
+    animation-name: Magnetic_Effects_Curr_Mag_60_o-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.Magnetic_Effects_Curr_Mag_60_o-animation::after {
+    max-width: 400px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 48.5% 0;
+}
+
+@keyframes Magnetic_Effects_Curr_Mag_81_o-frames {
+    0% { background-position: 36.38936049801924% 90.56818181818181%;  }
+    25% { background-position: 45.444255800792305% 7.066139061616733%;  }
+    50% { background-position: 0.056593095642331635% 44.33106575963719%;  }
+    75% { background-position: 48.44368986983588% 47.972972972972975%;  }
+}
+
+.Magnetic_Effects_Curr_Mag_81_o-animation {
+    max-width: 280px;
+    max-height: 262px;
+}
+.Magnetic_Effects_Curr_Mag_81_o-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 280px;
+    height: 262px;
+    padding: 0;
+    background-image: url(ph_xii_movingcharges_0.png);
+    background-size: 731.0714285714286% 771.7557251908397%; 
+    animation-name: Magnetic_Effects_Curr_Mag_81_o-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.Magnetic_Effects_Curr_Mag_81_o-animation::after {
+    max-width: 280px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 93.57142857142857% 0;
+}
+
+@keyframes Magnetic_Effects_Curr_Mag_84_o-frames {
+    0% { background-position: 36.38936049801924% 75.52766685681688%;  }
+    25% { background-position: 15.959252971137522% 97.5%;  }
+    50% { background-position: 0.056593095642331635% 95.84282460136674%;  }
+    75% { background-position: 36.72187321530554% 59.804485336400234%;  }
+}
+
+.Magnetic_Effects_Curr_Mag_84_o-animation {
+    max-width: 280px;
+    max-height: 269px;
+}
+.Magnetic_Effects_Curr_Mag_84_o-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 280px;
+    height: 269px;
+    padding: 0;
+    background-image: url(ph_xii_movingcharges_0.png);
+    background-size: 731.0714285714286% 751.6728624535316%; 
+    animation-name: Magnetic_Effects_Curr_Mag_84_o-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.Magnetic_Effects_Curr_Mag_84_o-animation::after {
+    max-width: 280px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 96.07142857142857% 0;
+}
+
+@keyframes Magnetic_Effects_Curr_Mag_99_o-frames {
+    0% { background-position: 47.783849423193686% 0.0526592943654555%;  }
+    25% { background-position: 24.408014571949% 15.62173458725183%;  }
+    50% { background-position: 24.408014571949% 9.548793284365162%;  }
+    75% { background-position: 21.979356405585914% 21.27215849843587%;  }
+}
+
+.Magnetic_Effects_Curr_Mag_99_o-animation {
+    max-width: 400px;
+    max-height: 123px;
+}
+.Magnetic_Effects_Curr_Mag_99_o-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 400px;
+    height: 123px;
+    padding: 0;
+    background-image: url(ph_xii_movingcharges_0.png);
+    background-size: 511.75% 1643.9024390243903%; 
+    animation-name: Magnetic_Effects_Curr_Mag_99_o-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.Magnetic_Effects_Curr_Mag_99_o-animation::after {
+    max-width: 400px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 30.75% 0;
+}
+
+/* $TexturePacker:SmartUpdate:a5ffcb36d54be4620a9ebe7fc0f28980:a5f5eb6a4ed737d7252211905e490f1e:5995d7331eb72a8fc5c066495301a2e2$ */

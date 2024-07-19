@@ -6,267 +6,411 @@ Inline:     <i class="yourspritesname"></i>
 Responsive: <div class="yourspritesname"></div>
 */
 
-
 .EIAC_10_s {max-width:458px; max-height:320px; }
-.EIAC_10_s::after {content: '\00a0';display: inline-block; width:458px; height:320px; background-position: 64.96490108487556% 14.186450492182976%;background-size: 442.1397379912664% 639.6875%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_10_s::after {content: '\00a0';display: inline-block; width:458px; height:320px; background-position: 64.96490108487556% 14.186450492182976%; background-size: 442.1397379912664% 639.6875%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_10_s::after {max-width:458px; width:100%;height:0;padding: 0 0 69.86899563318778% 0;}
 .EIAC_12_o_1 {max-width:357px; max-height:173px; }
-.EIAC_12_o_1::after {content: '\00a0';display: inline-block; width:357px; height:173px; background-position: 0.06009615384615385% 64.16837782340862%;background-size: 566.1064425770309% 663.0057803468208%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.EIAC_12_o_1::after {content: '\00a0';display: inline-block; width:357px; height:173px; background-position: 0.06093845216331505% 58.462946020128086%; background-size: 559.6638655462185% 731.7919075144508%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.EIAC_12_o_1::after {max-width:357px; width:100%;height:0;padding: 0 0 48.4593837535014% 0;}
 .EIAC_12_o_2 {max-width:349px; max-height:175px; }
-.EIAC_12_o_2::after {content: '\00a0';display: inline-block; width:349px; height:175px; background-position: 81.16028708133972% 0.102880658436214%;background-size: 579.0830945558739% 655.4285714285714%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.EIAC_12_o_2::after {content: '\00a0';display: inline-block; width:349px; height:175px; background-position: 82.41358399029716% 0.09165902841429881%; background-size: 572.4928366762177% 723.4285714285714%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.EIAC_12_o_2::after {max-width:349px; width:100%;height:0;padding: 0 0 50.1432664756447% 0;}
 .EIAC_12_o_3 {max-width:340px; max-height:181px; }
-.EIAC_12_o_3::after {content: '\00a0';display: inline-block; width:340px; height:181px; background-position: 32.1832242712671% 16.045548654244307%;background-size: 594.4117647058823% 633.7016574585635%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.EIAC_12_o_3::after {content: '\00a0';display: inline-block; width:340px; height:181px; background-position: 59.7708082026538% 13.91705069124424%; background-size: 587.6470588235294% 699.4475138121547%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.EIAC_12_o_3::after {max-width:340px; width:100%;height:0;padding: 0 0 53.23529411764706% 0;}
 .EIAC_12_o_4 {max-width:333px; max-height:167px; }
-.EIAC_12_o_4::after {content: '\00a0';display: inline-block; width:333px; height:167px; background-position: 25.9478672985782% 34.38775510204081%;background-size: 606.9069069069069% 686.8263473053893%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.EIAC_12_o_4::after {content: '\00a0';display: inline-block; width:333px; height:167px; background-position: 80% 16.10555050045496%; background-size: 600% 758.0838323353294%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.EIAC_12_o_4::after {max-width:333px; width:100%;height:0;padding: 0 0 50.150150150150154% 0;}
 .EIAC_16_q {max-width:361px; max-height:270px; }
-.EIAC_16_q::after {content: '\00a0';display: inline-block; width:361px; height:270px; background-position: 35.03605769230769% 42.20596510973551%;background-size: 560.9418282548477% 758.1481481481482%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_16_q::after {content: '\00a0';display: inline-block; width:361px; height:270px; background-position: 35.03605769230769% 42.20596510973551%; background-size: 560.9418282548477% 758.1481481481482%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_16_q::after {max-width:361px; width:100%;height:0;padding: 0 0 74.79224376731302% 0;}
 .EIAC_19_o_1 {max-width:235px; max-height:214px; }
-.EIAC_19_o_1::after {content: '\00a0';display: inline-block; width:235px; height:214px; background-position: 76.92737430167598% 66.72122204037098%;background-size: 861.7021276595744% 956.5420560747664%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_19_o_1::after {content: '\00a0';display: inline-block; width:235px; height:214px; background-position: 76.92737430167598% 66.72122204037098%; background-size: 861.7021276595744% 956.5420560747664%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_19_o_1::after {max-width:235px; width:100%;height:0;padding: 0 0 91.06382978723404% 0;}
 .EIAC_19_o_2 {max-width:239px; max-height:218px; }
-.EIAC_19_o_2::after {content: '\00a0';display: inline-block; width:239px; height:218px; background-position: 77.37961926091825% 43.13832695462001%;background-size: 847.2803347280335% 938.9908256880734%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_19_o_2::after {content: '\00a0';display: inline-block; width:239px; height:218px; background-position: 77.37961926091825% 43.13832695462001%; background-size: 847.2803347280335% 938.9908256880734%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_19_o_2::after {max-width:239px; width:100%;height:0;padding: 0 0 91.2133891213389% 0;}
 .EIAC_19_o_3 {max-width:232px; max-height:212px; }
-.EIAC_19_o_3::after {content: '\00a0';display: inline-block; width:232px; height:212px; background-position: 51.760760201229736% 96.79144385026738%;background-size: 871.1206896551724% 541.0377358490566%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.EIAC_19_o_3::after {content: '\00a0';display: inline-block; width:232px; height:212px; background-position: 67.15741789354473% 78.65275142314991%; background-size: 861.2068965517242% 597.1698113207547%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.EIAC_19_o_3::after {max-width:232px; width:100%;height:0;padding: 0 0 91.37931034482759% 0;}
 .EIAC_19_o_4 {max-width:238px; max-height:214px; }
-.EIAC_19_o_4::after {content: '\00a0';display: inline-block; width:238px; height:214px; background-position: 77.33631785114717% 54.99181669394435%;background-size: 850.8403361344538% 956.5420560747664%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_19_o_4::after {content: '\00a0';display: inline-block; width:238px; height:214px; background-position: 77.33631785114717% 54.99181669394435%; background-size: 850.8403361344538% 956.5420560747664%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_19_o_4::after {max-width:238px; width:100%;height:0;padding: 0 0 89.91596638655462% 0;}
 .EIAC_19_q {max-width:244px; max-height:237px; }
-.EIAC_19_q::after {content: '\00a0';display: inline-block; width:244px; height:237px; background-position: 67.97974113674732% 81.75824175824175%;background-size: 828.2786885245902% 483.9662447257384%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.EIAC_19_q::after {content: '\00a0';display: inline-block; width:244px; height:237px; background-position: 39.908779931584945% 56.268221574344025%; background-size: 818.8524590163935% 534.1772151898734%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.EIAC_19_q::after {max-width:244px; width:100%;height:0;padding: 0 0 97.1311475409836% 0;}
 .EIAC_22_q {max-width:272px; max-height:189px; }
-.EIAC_22_q::after {content: '\00a0';display: inline-block; width:272px; height:189px; background-position: 37.33562035448828% 91.64926931106471%;background-size: 743.0147058823529% 606.8783068783068%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.EIAC_22_q::after {content: '\00a0';display: inline-block; width:272px; height:189px; background-position: 97.33487833140208% 34.26183844011142%; background-size: 734.5588235294117% 669.8412698412699%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.EIAC_22_q::after {max-width:272px; width:100%;height:0;padding: 0 0 69.48529411764706% 0;}
 .EIAC_22_q_1 {max-width:591px; max-height:370px; }
-.EIAC_22_q_1::after {content: '\00a0';display: inline-block; width:591px; height:370px; background-position: 0.0697350069735007% 0.05963029218843172%;background-size: 342.6395939086294% 553.2432432432432%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_22_q_1::after {content: '\00a0';display: inline-block; width:591px; height:370px; background-position: 0.0697350069735007% 0.05963029218843172%; background-size: 342.6395939086294% 553.2432432432432%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_22_q_1::after {max-width:591px; width:100%;height:0;padding: 0 0 62.60575296108291% 0;}
 .EIAC_24_q {max-width:353px; max-height:392px; }
-.EIAC_24_q::after {content: '\00a0';display: inline-block; width:353px; height:392px; background-position: 35.46650717703349% 21.570996978851962%;background-size: 573.6543909348442% 522.1938775510204%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_24_q::after {content: '\00a0';display: inline-block; width:353px; height:392px; background-position: 35.46650717703349% 21.570996978851962%; background-size: 573.6543909348442% 522.1938775510204%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_24_q::after {max-width:353px; width:100%;height:0;padding: 0 0 111.04815864022663% 0;}
 .EIAC_26_q {max-width:424px; max-height:355px; }
-.EIAC_26_q::after {content: '\00a0';display: inline-block; width:424px; height:355px; background-position: 37.03935040599625% 0.0591016548463357%;background-size: 477.5943396226415% 576.6197183098592%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_26_q::after {content: '\00a0';display: inline-block; width:424px; height:355px; background-position: 37.03935040599625% 0.0591016548463357%; background-size: 477.5943396226415% 576.6197183098592%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_26_q::after {max-width:424px; width:100%;height:0;padding: 0 0 83.72641509433963% 0;}
 .EIAC_26_s {max-width:315px; max-height:249px; }
-.EIAC_26_s::after {content: '\00a0';display: inline-block; width:315px; height:249px; background-position: 15.614035087719298% 37.59733036707453%;background-size: 642.8571428571429% 822.0883534136547%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_26_s::after {content: '\00a0';display: inline-block; width:315px; height:249px; background-position: 15.614035087719298% 37.59733036707453%; background-size: 642.8571428571429% 822.0883534136547%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_26_s::after {max-width:315px; width:100%;height:0;padding: 0 0 79.04761904761905% 0;}
 .EIAC_27_q {max-width:608px; max-height:243px; }
-.EIAC_27_q::after {content: '\00a0';display: inline-block; width:608px; height:243px; background-position: 71.84191954834156% 0.05543237250554324%;background-size: 333.0592105263158% 842.3868312757202%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_27_q::after {content: '\00a0';display: inline-block; width:608px; height:243px; background-position: 71.84191954834156% 0.05543237250554324%; background-size: 333.0592105263158% 842.3868312757202%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_27_q::after {max-width:608px; width:100%;height:0;padding: 0 0 39.9671052631579% 0;}
 .EIAC_29_q {max-width:382px; max-height:172px; }
-.EIAC_29_q::after {content: '\00a0';display: inline-block; width:382px; height:172px; background-position: 0.06101281269066504% 46.35897435897436%;background-size: 529.0575916230366% 666.8604651162791%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.EIAC_29_q::after {content: '\00a0';display: inline-block; width:382px; height:172px; background-position: 0.06188118811881188% 42.59597806215722%; background-size: 523.0366492146596% 736.046511627907%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.EIAC_29_q::after {max-width:382px; width:100%;height:0;padding: 0 0 45.026178010471206% 0;}
 .EIAC_29_s {max-width:283px; max-height:211px; }
-.EIAC_29_s::after {content: '\00a0';display: inline-block; width:283px; height:211px; background-position: 74.8564867967853% 91.28540305010893%;background-size: 715.547703180212% 970.1421800947867%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_29_s::after {content: '\00a0';display: inline-block; width:283px; height:211px; background-position: 99.65014577259475% 14.881516587677725%; background-size: 706.0070671378091% 600%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.EIAC_29_s::after {max-width:283px; width:100%;height:0;padding: 0 0 74.5583038869258% 0;}
 .EIAC_2_o_1 {max-width:449px; max-height:154px; }
-.EIAC_2_o_1::after {content: '\00a0';display: inline-block; width:449px; height:154px; background-position: 0.06361323155216285% 16.31419939577039%;background-size: 450.1113585746102% 744.8051948051948%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.EIAC_2_o_1::after {content: '\00a0';display: inline-block; width:449px; height:154px; background-position: 34.925758553905744% 0.08992805755395683%; background-size: 444.988864142539% 822.077922077922%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.EIAC_2_o_1::after {max-width:449px; width:100%;height:0;padding: 0 0 34.29844097995546% 0;}
 .EIAC_2_o_2 {max-width:447px; max-height:153px; }
-.EIAC_2_o_2::after {content: '\00a0';display: inline-block; width:447px; height:153px; background-position: 34.3710292249047% 0.1006036217303823%;background-size: 452.12527964205816% 749.6732026143791%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.EIAC_2_o_2::after {content: '\00a0';display: inline-block; width:447px; height:153px; background-position: 0.06447453255963895% 28.032345013477087%; background-size: 446.97986577181206% 827.4509803921569%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.EIAC_2_o_2::after {max-width:447px; width:100%;height:0;padding: 0 0 34.22818791946309% 0;}
 .EIAC_2_o_3 {max-width:469px; max-height:149px; }
-.EIAC_2_o_3::after {content: '\00a0';display: inline-block; width:469px; height:149px; background-position: 50.12853470437018% 99.4731296101159%;background-size: 431.76972281449895% 1373.8255033557048%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_2_o_3::after {content: '\00a0';display: inline-block; width:469px; height:149px; background-position: 0.06540222367560497% 14.50313339301701%; background-size: 426.0127931769723% 849.6644295302013%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.EIAC_2_o_3::after {max-width:469px; width:100%;height:0;padding: 0 0 31.769722814498934% 0;}
 .EIAC_2_o_4 {max-width:452px; max-height:162px; }
-.EIAC_2_o_4::after {content: '\00a0';display: inline-block; width:452px; height:162px; background-position: 54.10044500953592% 84.82758620689656%;background-size: 448.0088495575221% 1263.5802469135801%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_2_o_4::after {content: '\00a0';display: inline-block; width:452px; height:162px; background-position: 54.10044500953592% 84.82758620689656%; background-size: 448.0088495575221% 1263.5802469135801%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_2_o_4::after {max-width:452px; width:100%;height:0;padding: 0 0 35.84070796460177% 0;}
 .EIAC_2_q {max-width:539px; max-height:160px; }
-.EIAC_2_q::after {content: '\00a0';display: inline-block; width:539px; height:160px; background-position: 0.06747638326585695% 0.10131712259371833%;background-size: 374.95361781076065% 716.875%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.EIAC_2_q::after {content: '\00a0';display: inline-block; width:539px; height:160px; background-position: 0.06854009595613433% 0.09041591320072333%; background-size: 370.6864564007421% 791.25%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.EIAC_2_q::after {max-width:539px; width:100%;height:0;padding: 0 0 29.68460111317254% 0;}
 .EIAC_32_s {max-width:272px; max-height:283px; }
-.EIAC_32_s::after {content: '\00a0';display: inline-block; width:272px; height:283px; background-position: 15.059897318881916% 52.49433106575964%;background-size: 744.4852941176471% 723.321554770318%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_32_s::after {content: '\00a0';display: inline-block; width:272px; height:283px; background-position: 15.059897318881916% 52.49433106575964%; background-size: 744.4852941176471% 723.321554770318%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_32_s::after {max-width:272px; width:100%;height:0;padding: 0 0 104.04411764705883% 0;}
 .EIAC_34_s {max-width:436px; max-height:134px; }
-.EIAC_34_s::after {content: '\00a0';display: inline-block; width:436px; height:134px; background-position: 0.06309148264984227% 31.29318854886476%;background-size: 463.5321100917431% 855.9701492537314%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.EIAC_34_s::after {content: '\00a0';display: inline-block; width:436px; height:134px; background-position: 49.84266834487099% 99.84317825405122%; background-size: 464.44954128440367% 1527.6119402985075%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_34_s::after {max-width:436px; width:100%;height:0;padding: 0 0 30.73394495412844% 0;}
 .EIAC_37_q {max-width:262px; max-height:233px; }
-.EIAC_37_q::after {content: '\00a0';display: inline-block; width:262px; height:233px; background-position: 11.344299489506524% 92.77839029768468%;background-size: 772.9007633587786% 878.5407725321888%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_37_q::after {content: '\00a0';display: inline-block; width:262px; height:233px; background-position: 73.96483267158253% 92.39250275633958%; background-size: 772.9007633587786% 878.5407725321888%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_37_q::after {max-width:262px; width:100%;height:0;padding: 0 0 88.93129770992367% 0;}
 .EIAC_37_s {max-width:270px; max-height:237px; }
-.EIAC_37_s::after {content: '\00a0';display: inline-block; width:270px; height:237px; background-position: 76.46723646723646% 79.4475138121547%;background-size: 750% 863.7130801687764%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_37_s::after {content: '\00a0';display: inline-block; width:270px; height:237px; background-position: 76.46723646723646% 79.4475138121547%; background-size: 750% 863.7130801687764%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_37_s::after {max-width:270px; width:100%;height:0;padding: 0 0 87.77777777777777% 0;}
 .EIAC_39_q {max-width:395px; max-height:353px; }
-.EIAC_39_q::after {content: '\00a0';display: inline-block; width:395px; height:353px; background-position: 99.8159509202454% 0.0590318772136954%;background-size: 512.6582278481013% 579.8866855524079%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_39_q::after {content: '\00a0';display: inline-block; width:395px; height:353px; background-position: 99.8159509202454% 0.0590318772136954%; background-size: 512.6582278481013% 579.8866855524079%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_39_q::after {max-width:395px; width:100%;height:0;padding: 0 0 89.36708860759494% 0;}
 .EIAC_3_q {max-width:394px; max-height:186px; }
-.EIAC_3_q::after {content: '\00a0';display: inline-block; width:394px; height:186px; background-position: 98.89638258736971% 86.45889306824289%;background-size: 513.9593908629441% 1100.5376344086021%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_3_q::after {content: '\00a0';display: inline-block; width:394px; height:186px; background-position: 98.89638258736971% 86.45889306824289%; background-size: 513.9593908629441% 1100.5376344086021%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_3_q::after {max-width:394px; width:100%;height:0;padding: 0 0 47.20812182741117% 0;}
 .EIAC_40_q {max-width:335px; max-height:264px; }
-.EIAC_40_q::after {content: '\00a0';display: inline-block; width:335px; height:264px; background-position: 95.44378698224853% 75.37857543466069%;background-size: 604.4776119402985% 775.3787878787879%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_40_q::after {content: '\00a0';display: inline-block; width:335px; height:264px; background-position: 95.44378698224853% 75.37857543466069%; background-size: 604.4776119402985% 775.3787878787879%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_40_q::after {max-width:335px; width:100%;height:0;padding: 0 0 78.80597014925372% 0;}
 .EIAC_40_s {max-width:345px; max-height:121px; }
-.EIAC_40_s::after {content: '\00a0';display: inline-block; width:345px; height:121px; background-position: 46.42857142857143% 91.48494288681205%;background-size: 586.9565217391304% 1691.7355371900826%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_40_s::after {content: '\00a0';display: inline-block; width:345px; height:121px; background-position: 32.72837265577738% 13.624454148471616%; background-size: 579.1304347826087% 1046.280991735537%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.EIAC_40_s::after {max-width:345px; width:100%;height:0;padding: 0 0 35.072463768115945% 0;}
 .EIAC_41_o_1 {max-width:198px; max-height:243px; }
-.EIAC_41_o_1::after {content: '\00a0';display: inline-block; width:198px; height:243px; background-position: 79.70378496982995% 58.73893805309734%;background-size: 1020.7070707070707% 472.0164609053498%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.EIAC_41_o_1::after {content: '\00a0';display: inline-block; width:198px; height:243px; background-position: 54.833333333333336% 71.55425219941348%; background-size: 1009.0909090909091% 520.9876543209876%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.EIAC_41_o_1::after {max-width:198px; width:100%;height:0;padding: 0 0 122.72727272727273% 0;}
 .EIAC_41_o_2 {max-width:198px; max-height:249px; }
-.EIAC_41_o_2::after {content: '\00a0';display: inline-block; width:198px; height:249px; background-position: 0.05473453749315818% 90.43381535038932%;background-size: 1022.7272727272727% 822.0883534136547%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_41_o_2::after {content: '\00a0';display: inline-block; width:198px; height:249px; background-position: 0.05473453749315818% 90.43381535038932%; background-size: 1022.7272727272727% 822.0883534136547%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_41_o_2::after {max-width:198px; width:100%;height:0;padding: 0 0 125.75757575757575% 0;}
 .EIAC_41_o_3 {max-width:200px; max-height:238px; }
-.EIAC_41_o_3::after {content: '\00a0';display: inline-block; width:200px; height:238px; background-position: 79.79132344865458% 85.25852585258527%;background-size: 1010.5% 481.93277310924367%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.EIAC_41_o_3::after {content: '\00a0';display: inline-block; width:200px; height:238px; background-position: 90.43381535038932% 83.75486381322958%; background-size: 999% 531.9327731092437%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.EIAC_41_o_3::after {max-width:200px; width:100%;height:0;padding: 0 0 119% 0;}
 .EIAC_41_o_4 {max-width:205px; max-height:254px; }
-.EIAC_41_o_4::after {content: '\00a0';display: inline-block; width:205px; height:254px; background-position: 0.054945054945054944% 76.46402677077523%;background-size: 987.8048780487804% 805.9055118110236%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_41_o_4::after {content: '\00a0';display: inline-block; width:205px; height:254px; background-position: 0.054945054945054944% 76.46402677077523%; background-size: 987.8048780487804% 805.9055118110236%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_41_o_4::after {max-width:205px; width:100%;height:0;padding: 0 0 123.90243902439025% 0;}
 .EIAC_41_q {max-width:272px; max-height:240px; }
-.EIAC_41_q::after {content: '\00a0';display: inline-block; width:272px; height:240px; background-position: 13.63377067883628% 66.96181516325402%;background-size: 744.4852941176471% 852.9166666666666%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_41_q::after {content: '\00a0';display: inline-block; width:272px; height:240px; background-position: 13.63377067883628% 66.96181516325402%; background-size: 744.4852941176471% 852.9166666666666%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_41_q::after {max-width:272px; width:100%;height:0;padding: 0 0 88.23529411764706% 0;}
 .EIAC_43_s {max-width:155px; max-height:147px; }
-.EIAC_43_s::after {content: '\00a0';display: inline-block; width:155px; height:147px; background-position: 99.62486602357986% 49.1%;background-size: 1303.8709677419354% 780.2721088435375%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.EIAC_43_s::after {content: '\00a0';display: inline-block; width:155px; height:147px; background-position: 60.160427807486634% 92.73684210526316%; background-size: 1306.4516129032259% 1392.5170068027212%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_43_s::after {max-width:155px; width:100%;height:0;padding: 0 0 94.83870967741936% 0;}
 .EIAC_45_q {max-width:436px; max-height:249px; }
-.EIAC_45_q::after {content: '\00a0';display: inline-block; width:436px; height:249px; background-position: 59.47136563876652% 43.882091212458285%;background-size: 464.44954128440367% 822.0883534136547%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_45_q::after {content: '\00a0';display: inline-block; width:436px; height:249px; background-position: 59.47136563876652% 43.882091212458285%; background-size: 464.44954128440367% 822.0883534136547%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_45_q::after {max-width:436px; width:100%;height:0;padding: 0 0 57.11009174311926% 0;}
 .EIAC_45_s {max-width:352px; max-height:270px; }
-.EIAC_45_s::after {content: '\00a0';display: inline-block; width:352px; height:270px; background-position: 96.89181111775254% 60.382667416994934%;background-size: 575.2840909090909% 758.1481481481482%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_45_s::after {content: '\00a0';display: inline-block; width:352px; height:270px; background-position: 96.89181111775254% 60.382667416994934%; background-size: 575.2840909090909% 758.1481481481482%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_45_s::after {max-width:352px; width:100%;height:0;padding: 0 0 76.70454545454545% 0;}
 .EIAC_47_q {max-width:362px; max-height:195px; }
-.EIAC_47_q::after {content: '\00a0';display: inline-block; width:362px; height:195px; background-position: 95.49007817197835% 96.97624190064795%;background-size: 559.3922651933701% 1049.7435897435898%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_47_q::after {content: '\00a0';display: inline-block; width:362px; height:195px; background-position: 94.2273000601323% 96.97624190064795%; background-size: 559.3922651933701% 1049.7435897435898%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_47_q::after {max-width:362px; width:100%;height:0;padding: 0 0 53.86740331491713% 0;}
 .EIAC_52_q {max-width:372px; max-height:290px; }
-.EIAC_52_q::after {content: '\00a0';display: inline-block; width:372px; height:290px; background-position: 32.48638838475499% 58.11041548093341%;background-size: 544.3548387096774% 705.8620689655172%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_52_q::after {content: '\00a0';display: inline-block; width:372px; height:290px; background-position: 32.48638838475499% 58.11041548093341%; background-size: 544.3548387096774% 705.8620689655172%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_52_q::after {max-width:372px; width:100%;height:0;padding: 0 0 77.95698924731182% 0;}
 .EIAC_52_s {max-width:402px; max-height:256px; }
-.EIAC_52_s::after {content: '\00a0';display: inline-block; width:402px; height:256px; background-position: 99.93838570548367% 45.561139028475715%;background-size: 503.7313432835821% 799.609375%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_52_s::after {content: '\00a0';display: inline-block; width:402px; height:256px; background-position: 99.93838570548367% 45.561139028475715%; background-size: 503.7313432835821% 799.609375%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_52_s::after {max-width:402px; width:100%;height:0;padding: 0 0 63.681592039801% 0;}
 .EIAC_7_q {max-width:460px; max-height:187px; }
-.EIAC_7_q::after {content: '\00a0';display: inline-block; width:460px; height:187px; background-position: 58.146964856230035% 66.23655913978494%;background-size: 440.2173913043478% 1094.6524064171124%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_7_q::after {content: '\00a0';display: inline-block; width:460px; height:187px; background-position: 58.146964856230035% 66.23655913978494%; background-size: 440.2173913043478% 1094.6524064171124%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_7_q::after {max-width:460px; width:100%;height:0;padding: 0 0 40.65217391304348% 0;}
 .EIAC_7_s {max-width:466px; max-height:192px; }
-.EIAC_7_s::after {content: '\00a0';display: inline-block; width:466px; height:192px; background-position: 58.370750481077614% 56.01078167115903%;background-size: 434.54935622317595% 1066.1458333333333%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_7_s::after {content: '\00a0';display: inline-block; width:466px; height:192px; background-position: 58.370750481077614% 56.01078167115903%; background-size: 434.54935622317595% 1066.1458333333333%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_7_s::after {max-width:466px; width:100%;height:0;padding: 0 0 41.201716738197426% 0;}
 .EIAC_8_s {max-width:154px; max-height:143px; }
-.EIAC_8_s::after {content: '\00a0';display: inline-block; width:154px; height:143px; background-position: 99.57150508837708% 63.645418326693225%;background-size: 1312.3376623376623% 802.0979020979021%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.EIAC_8_s::after {content: '\00a0';display: inline-block; width:154px; height:143px; background-position: 99.07809110629067% 92.78717720391808%; background-size: 1297.4025974025974% 885.3146853146853%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.EIAC_8_s::after {max-width:154px; width:100%;height:0;padding: 0 0 92.85714285714286% 0;}
 .EIAC_9_s {max-width:265px; max-height:482px; }
-.EIAC_9_s::after {content: '\00a0';display: inline-block; width:265px; height:482px; background-position: 0.056818181818181816% 23.769968051118212%;background-size: 764.1509433962265% 424.68879668049794%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.EIAC_9_s::after {content: '\00a0';display: inline-block; width:265px; height:482px; background-position: 0.056818181818181816% 23.769968051118212%; background-size: 764.1509433962265% 424.68879668049794%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.EIAC_9_s::after {max-width:265px; width:100%;height:0;padding: 0 0 181.88679245283018% 0;}
 .JEEMAINS_10APRIL_2023_S1_Q_59 {max-width:333px; max-height:161px; }
-.JEEMAINS_10APRIL_2023_S1_Q_59::after {content: '\00a0';display: inline-block; width:333px; height:161px; background-position: 22.748815165876778% 51.217038539553755%;background-size: 606.9069069069069% 712.4223602484471%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEEMAINS_10APRIL_2023_S1_Q_59::after {content: '\00a0';display: inline-block; width:333px; height:161px; background-position: 28.28828828828829% 25.15837104072398%; background-size: 600% 786.335403726708%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEEMAINS_10APRIL_2023_S1_Q_59::after {max-width:333px; width:100%;height:0;padding: 0 0 48.348348348348345% 0;}
 .JEEMAINS_10APRIL_2023_S2_S_52 {max-width:297px; max-height:168px; }
-.JEEMAINS_10APRIL_2023_S2_S_52::after {content: '\00a0';display: inline-block; width:297px; height:168px; background-position: 93.79350348027842% 19.918283963227783%;background-size: 680.4713804713805% 682.7380952380952%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEEMAINS_10APRIL_2023_S2_S_52::after {content: '\00a0';display: inline-block; width:297px; height:168px; background-position: 38.27160493827161% 92.4408014571949%; background-size: 672.7272727272727% 753.5714285714286%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEEMAINS_10APRIL_2023_S2_S_52::after {max-width:297px; width:100%;height:0;padding: 0 0 56.56565656565657% 0;}
 .JEEMAINS_11APRIL_2023_S1_Q_52 {max-width:313px; max-height:193px; }
-.JEEMAINS_11APRIL_2023_S1_Q_52::after {content: '\00a0';display: inline-block; width:313px; height:193px; background-position: 99.94145199063232% 0.10482180293501048%;background-size: 645.6869009584665% 594.300518134715%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEEMAINS_11APRIL_2023_S1_Q_52::after {content: '\00a0';display: inline-block; width:313px; height:193px; background-position: 20% 90.49394221808015%; background-size: 638.3386581469648% 655.958549222798%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEEMAINS_11APRIL_2023_S1_Q_52::after {max-width:313px; width:100%;height:0;padding: 0 0 61.66134185303515% 0;}
 .JEEMAINS_11APRIL_2023_S2_Q_52 {max-width:316px; max-height:303px; }
-.JEEMAINS_11APRIL_2023_S2_Q_52::after {content: '\00a0';display: inline-block; width:316px; height:303px; background-position: 15.623171445289643% 21.3302752293578%;background-size: 640.8227848101266% 675.5775577557756%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.JEEMAINS_11APRIL_2023_S2_Q_52::after {content: '\00a0';display: inline-block; width:316px; height:303px; background-position: 15.623171445289643% 21.3302752293578%; background-size: 640.8227848101266% 675.5775577557756%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.JEEMAINS_11APRIL_2023_S2_Q_52::after {max-width:316px; width:100%;height:0;padding: 0 0 95.88607594936708% 0;}
 .JEEMAINS_11APRIL_2023_S2_S_51 {max-width:652px; max-height:222px; }
-.JEEMAINS_11APRIL_2023_S2_S_51::after {content: '\00a0';display: inline-block; width:652px; height:222px; background-position: 68.97305171158048% 31.013698630136986%;background-size: 310.5828220858896% 922.072072072072%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.JEEMAINS_11APRIL_2023_S2_S_51::after {content: '\00a0';display: inline-block; width:652px; height:222px; background-position: 68.97305171158048% 31.013698630136986%; background-size: 310.5828220858896% 922.072072072072%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.JEEMAINS_11APRIL_2023_S2_S_51::after {max-width:652px; width:100%;height:0;padding: 0 0 34.04907975460123% 0;}
 .JEEMAINS_13APRIL_2023_S1_Q_57 {max-width:365px; max-height:217px; }
-.JEEMAINS_13APRIL_2023_S1_Q_57::after {content: '\00a0';display: inline-block; width:365px; height:217px; background-position: 30.843373493975903% 71.69398907103825%;background-size: 554.7945205479452% 943.3179723502304%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.JEEMAINS_13APRIL_2023_S1_Q_57::after {content: '\00a0';display: inline-block; width:365px; height:217px; background-position: 30.843373493975903% 71.69398907103825%; background-size: 554.7945205479452% 943.3179723502304%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.JEEMAINS_13APRIL_2023_S1_Q_57::after {max-width:365px; width:100%;height:0;padding: 0 0 59.45205479452055% 0;}
 .JEEMAINS_15APRIL_2023_S1_S_52 {max-width:332px; max-height:145px; }
-.JEEMAINS_15APRIL_2023_S1_S_52::after {content: '\00a0';display: inline-block; width:332px; height:145px; background-position: 73.83343177790904% 99.2639327024185%;background-size: 609.9397590361446% 1411.7241379310344%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.JEEMAINS_15APRIL_2023_S1_S_52::after {content: '\00a0';display: inline-block; width:332px; height:145px; background-position: 46.78086237448316% 92.63932702418506%; background-size: 609.9397590361446% 1411.7241379310344%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.JEEMAINS_15APRIL_2023_S1_S_52::after {max-width:332px; width:100%;height:0;padding: 0 0 43.674698795180724% 0;}
 .JEEMAINS_24JAN_2023_S2_S_9 {max-width:256px; max-height:135px; }
-.JEEMAINS_24JAN_2023_S2_S_9::after {content: '\00a0';display: inline-block; width:256px; height:135px; background-position: 38.35694050991501% 73.3201581027668%;background-size: 789.453125% 849.6296296296297%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEEMAINS_24JAN_2023_S2_S_9::after {content: '\00a0';display: inline-block; width:256px; height:135px; background-position: 11.305822498586773% 99.84309623430963%; background-size: 791.015625% 1516.2962962962963%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.JEEMAINS_24JAN_2023_S2_S_9::after {max-width:256px; width:100%;height:0;padding: 0 0 52.734375% 0;}
 .JEEMAINS_25JAN_S2_S_15 {max-width:262px; max-height:256px; }
-.JEEMAINS_25JAN_S2_S_15::after {content: '\00a0';display: inline-block; width:262px; height:256px; background-position: 0.05672149744753262% 47.73869346733668%;background-size: 772.9007633587786% 799.609375%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.JEEMAINS_25JAN_S2_S_15::after {content: '\00a0';display: inline-block; width:262px; height:256px; background-position: 0.05672149744753262% 47.73869346733668%; background-size: 772.9007633587786% 799.609375%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.JEEMAINS_25JAN_S2_S_15::after {max-width:262px; width:100%;height:0;padding: 0 0 97.70992366412214% 0;}
 .JEEMAINS_30JAN_S1_Q_27 {max-width:335px; max-height:192px; }
-.JEEMAINS_30JAN_S1_Q_27::after {content: '\00a0';display: inline-block; width:335px; height:192px; background-position: 0.05931198102016608% 83.66492146596859%;background-size: 603.2835820895523% 597.3958333333334%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEEMAINS_30JAN_S1_Q_27::after {content: '\00a0';display: inline-block; width:335px; height:192px; background-position: 0.06013229104028864% 75.69832402234637%; background-size: 596.4179104477612% 659.375%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEEMAINS_30JAN_S1_Q_27::after {max-width:335px; width:100%;height:0;padding: 0 0 57.3134328358209% 0;}
 .JEEMAINS_30JAN_S1_S_27 {max-width:340px; max-height:218px; }
-.JEEMAINS_30JAN_S1_S_27::after {content: '\00a0';display: inline-block; width:340px; height:218px; background-position: 30.26706231454006% 83.65226899945326%;background-size: 595.5882352941177% 938.9908256880734%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.JEEMAINS_30JAN_S1_S_27::after {content: '\00a0';display: inline-block; width:340px; height:218px; background-position: 30.26706231454006% 83.65226899945326%; background-size: 595.5882352941177% 938.9908256880734%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.JEEMAINS_30JAN_S1_S_27::after {max-width:340px; width:100%;height:0;padding: 0 0 64.11764705882354% 0;}
 .JEEMAINS_6APRIL_2023_S2_S_54 {max-width:237px; max-height:258px; }
-.JEEMAINS_6APRIL_2023_S2_S_54::after {content: '\00a0';display: inline-block; width:237px; height:258px; background-position: 0.05592841163310962% 62.15762996087199%;background-size: 854.4303797468355% 793.4108527131783%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.JEEMAINS_6APRIL_2023_S2_S_54::after {content: '\00a0';display: inline-block; width:237px; height:258px; background-position: 0.05592841163310962% 62.15762996087199%; background-size: 854.4303797468355% 793.4108527131783%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.JEEMAINS_6APRIL_2023_S2_S_54::after {max-width:237px; width:100%;height:0;padding: 0 0 108.86075949367088% 0;}
 .JEEM_16_Mar_S1_20 {max-width:316px; max-height:138px; }
-.JEEM_16_Mar_S1_20::after {content: '\00a0';display: inline-block; width:316px; height:138px; background-position: 0.05865102639296188% 98.31516352824579%;background-size: 639.5569620253165% 831.1594202898551%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEEM_16_Mar_S1_20::after {content: '\00a0';display: inline-block; width:316px; height:138px; background-position: 26.694411414982163% 39.00709219858156%; background-size: 632.2784810126582% 917.3913043478261%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEEM_16_Mar_S1_20::after {max-width:316px; width:100%;height:0;padding: 0 0 43.67088607594937% 0;}
 .JEEM_16_Mar_S1_20sol {max-width:273px; max-height:160px; }
-.JEEM_16_Mar_S1_20sol::after {content: '\00a0';display: inline-block; width:273px; height:160px; background-position: 53.432494279176204% 75.37993920972644%;background-size: 740.2930402930403% 716.875%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEEM_16_Mar_S1_20sol::after {content: '\00a0';display: inline-block; width:273px; height:160px; background-position: 97.3913043478261% 50.54249547920434%; background-size: 731.8681318681319% 791.25%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEEM_16_Mar_S1_20sol::after {max-width:273px; width:100%;height:0;padding: 0 0 58.608058608058606% 0;}
 .JEEM_16_Mar_S2_17 {max-width:134px; max-height:122px; }
-.JEEM_16_Mar_S2_17::after {content: '\00a0';display: inline-block; width:134px; height:122px; background-position: 78.10682178741406% 18.7012987012987%;background-size: 1511.1940298507463% 1677.8688524590164%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.JEEM_16_Mar_S2_17::after {content: '\00a0';display: inline-block; width:134px; height:122px; background-position: 78.10682178741406% 18.7012987012987%; background-size: 1511.1940298507463% 1677.8688524590164%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.JEEM_16_Mar_S2_17::after {max-width:134px; width:100%;height:0;padding: 0 0 91.04477611940298% 0;}
 .JEEM_16_Mar_S2_17sol {max-width:198px; max-height:170px; }
-.JEEM_16_Mar_S2_17sol::after {content: '\00a0';display: inline-block; width:198px; height:170px; background-position: 0.05473453749315818% 99.94672349493874%;background-size: 1022.7272727272727% 1204.1176470588234%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.JEEM_16_Mar_S2_17sol::after {content: '\00a0';display: inline-block; width:198px; height:170px; background-position: 0.05473453749315818% 99.94672349493874%; background-size: 1022.7272727272727% 1204.1176470588234%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.JEEM_16_Mar_S2_17sol::after {max-width:198px; width:100%;height:0;padding: 0 0 85.85858585858585% 0;}
 .JEEM_16_Mar_S2_17sola {max-width:199px; max-height:194px; }
-.JEEM_16_Mar_S2_17sola::after {content: '\00a0';display: inline-block; width:199px; height:194px; background-position: 90.77936333699232% 74.29171038824764%;background-size: 1015.5778894472362% 591.2371134020618%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEEM_16_Mar_S2_17sola::after {content: '\00a0';display: inline-block; width:199px; height:194px; background-position: 64.98054474708171% 97.20149253731343%; background-size: 1004.0201005025126% 652.5773195876288%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEEM_16_Mar_S2_17sola::after {max-width:199px; width:100%;height:0;padding: 0 0 97.48743718592965% 0;}
 .JEE_1_Feb_2024_Shift_1_52_s {max-width:302px; max-height:231px; }
-.JEE_1_Feb_2024_Shift_1_52_s::after {content: '\00a0';display: inline-block; width:302px; height:231px; background-position: 12.013929193267556% 79.90088105726872%;background-size: 670.5298013245033% 886.1471861471862%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.JEE_1_Feb_2024_Shift_1_52_s::after {content: '\00a0';display: inline-block; width:302px; height:231px; background-position: 12.013929193267556% 79.90088105726872%; background-size: 670.5298013245033% 886.1471861471862%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.JEE_1_Feb_2024_Shift_1_52_s::after {max-width:302px; width:100%;height:0;padding: 0 0 76.49006622516556% 0;}
 .JEE_29_Jan_2024_Shift_1_53_s {max-width:249px; max-height:228px; }
-.JEE_29_Jan_2024_Shift_1_53_s::after {content: '\00a0';display: inline-block; width:249px; height:228px; background-position: 53.04740406320542% 56.03917301414581%;background-size: 811.6465863453815% 503.0701754385965%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEE_29_Jan_2024_Shift_1_53_s::after {content: '\00a0';display: inline-block; width:249px; height:228px; background-position: 54.03087478559177% 48.458574181117534%; background-size: 802.4096385542168% 555.2631578947369%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEE_29_Jan_2024_Shift_1_53_s::after {max-width:249px; width:100%;height:0;padding: 0 0 91.56626506024097% 0;}
 .JEE_30_Jan_2024_Shift_1_39_s {max-width:288px; max-height:155px; }
-.JEE_30_Jan_2024_Shift_1_39_s::after {content: '\00a0';display: inline-block; width:288px; height:155px; background-position: 70.05193306405079% 37.80241935483871%;background-size: 701.7361111111111% 740%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEE_30_Jan_2024_Shift_1_39_s::after {content: '\00a0';display: inline-block; width:288px; height:155px; background-position: 99.94152046783626% 0.09000900090009001%; background-size: 693.75% 816.7741935483871%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEE_30_Jan_2024_Shift_1_39_s::after {max-width:288px; width:100%;height:0;padding: 0 0 53.81944444444444% 0;}
 .JEE_31_Jan_2024_Shift_1_57_s {max-width:221px; max-height:222px; }
-.JEE_31_Jan_2024_Shift_1_57_s::after {content: '\00a0';display: inline-block; width:221px; height:222px; background-position: 39.888888888888886% 56.108108108108105%;background-size: 914.4796380090497% 516.6666666666666%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEE_31_Jan_2024_Shift_1_57_s::after {content: '\00a0';display: inline-block; width:221px; height:222px; background-position: 82.04839617332583% 48.46743295019157%; background-size: 904.0723981900453% 570.2702702702703%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEE_31_Jan_2024_Shift_1_57_s::after {max-width:221px; width:100%;height:0;padding: 0 0 100.4524886877828% 0;}
+.JEE_MAIN_4APRIL_2024_S2_S_57 {max-width:176px; max-height:124px; }
+.JEE_MAIN_4APRIL_2024_S2_S_57::after {content: '\00a0';display: inline-block; width:176px; height:124px; background-position: 54.171240395170145% 85.46409807355516%; background-size: 1135.2272727272727% 1020.9677419354839%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
+div.JEE_MAIN_4APRIL_2024_S2_S_57::after {max-width:176px; width:100%;height:0;padding: 0 0 70.45454545454545% 0;}
+.JEE_MAIN_5APRIL_2024_S1_Q_42 {max-width:167px; max-height:166px; }
+.JEE_MAIN_5APRIL_2024_S1_Q_42::after {content: '\00a0';display: inline-block; width:167px; height:166px; background-position: 43.96504642271982% 25.272727272727273%; background-size: 1196.4071856287426% 762.6506024096385%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
+div.JEE_MAIN_5APRIL_2024_S1_Q_42::after {max-width:167px; width:100%;height:0;padding: 0 0 99.40119760479043% 0;}
+.JEE_MAIN_8APRIL_2024_S1_Q_53 {max-width:274px; max-height:225px; }
+.JEE_MAIN_8APRIL_2024_S1_Q_53::after {content: '\00a0';display: inline-block; width:274px; height:225px; background-position: 11.42204454597373% 92.37102085620198%; background-size: 739.051094890511% 909.7777777777778%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
+div.JEE_MAIN_8APRIL_2024_S1_Q_53::after {max-width:274px; width:100%;height:0;padding: 0 0 82.11678832116789% 0;}
+.JEE_MAIN_9APRIL_2024_S1_S_58 {max-width:205px; max-height:160px; }
+.JEE_MAIN_9APRIL_2024_S1_S_58::after {content: '\00a0';display: inline-block; width:205px; height:160px; background-position: 87.95315114333519% 99.45750452079567%; background-size: 974.6341463414634% 791.25%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
+div.JEE_MAIN_9APRIL_2024_S1_S_58::after {max-width:205px; width:100%;height:0;padding: 0 0 78.04878048780488% 0;}
+.JEE_MAIN_9APRIL_2024_S1_S_58_1 {max-width:207px; max-height:158px; }
+.JEE_MAIN_9APRIL_2024_S1_S_58_1::after {content: '\00a0';display: inline-block; width:207px; height:158px; background-position: 76.43774427694025% 97.29241877256318%; background-size: 965.2173913043479% 801.2658227848101%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
+div.JEE_MAIN_9APRIL_2024_S1_S_58_1::after {max-width:207px; width:100%;height:0;padding: 0 0 76.32850241545894% 0;}
+.JEE_MAIN_9APRIL_2024_S2_Q_36 {max-width:277px; max-height:160px; }
+.JEE_MAIN_9APRIL_2024_S2_Q_36::after {content: '\00a0';display: inline-block; width:277px; height:160px; background-position: 73.50377687391051% 31.193490054249548%; background-size: 721.2996389891697% 791.25%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
+div.JEE_MAIN_9APRIL_2024_S2_Q_36::after {max-width:277px; width:100%;height:0;padding: 0 0 57.761732851985556% 0;}
+.JEE_MAIN_9APRIL_2024_S2_S_36 {max-width:247px; max-height:109px; }
+.JEE_MAIN_9APRIL_2024_S2_S_36::after {content: '\00a0';display: inline-block; width:247px; height:109px; background-position: 68.24671616219304% 62.14347450302507%; background-size: 808.9068825910931% 1161.467889908257%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
+div.JEE_MAIN_9APRIL_2024_S2_S_36::after {max-width:247px; width:100%;height:0;padding: 0 0 44.12955465587044% 0;}
 .JEE_Main_1_Sep_2021_Shift_2_2_Q {max-width:463px; max-height:178px; }
-.JEE_Main_1_Sep_2021_Shift_2_2_Q::after {content: '\00a0';display: inline-block; width:463px; height:178px; background-position: 56.20998719590269% 75.9764579989299%;background-size: 437.3650107991361% 1150%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.JEE_Main_1_Sep_2021_Shift_2_2_Q::after {content: '\00a0';display: inline-block; width:463px; height:178px; background-position: 56.20998719590269% 75.9764579989299%; background-size: 437.3650107991361% 1150%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.JEE_Main_1_Sep_2021_Shift_2_2_Q::after {max-width:463px; width:100%;height:0;padding: 0 0 38.44492440604752% 0;}
 .JEE_Main_1_Sep_2021_Shift_2_2_Q_2_S {max-width:174px; max-height:126px; }
-.JEE_Main_1_Sep_2021_Shift_2_2_Q_2_S::after {content: '\00a0';display: inline-block; width:174px; height:126px; background-position: 10.804970286331713% 99.79177511712649%;background-size: 1163.7931034482758% 1624.6031746031747%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.JEE_Main_1_Sep_2021_Shift_2_2_Q_2_S::after {content: '\00a0';display: inline-block; width:174px; height:126px; background-position: 41.99561403508772% 39.03508771929825%; background-size: 1148.2758620689656% 1004.7619047619048%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEE_Main_1_Sep_2021_Shift_2_2_Q_2_S::after {max-width:174px; width:100%;height:0;padding: 0 0 72.41379310344827% 0;}
 .JEE_Main_20_July_2021_mor_18_q {max-width:299px; max-height:460px; }
-.JEE_Main_20_July_2021_mor_18_q::after {content: '\00a0';display: inline-block; width:299px; height:460px; background-position: 93.97450753186558% 22.36925015752993%;background-size: 677.257525083612% 445%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.JEE_Main_20_July_2021_mor_18_q::after {content: '\00a0';display: inline-block; width:299px; height:460px; background-position: 93.97450753186558% 22.36925015752993%; background-size: 677.257525083612% 445%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.JEE_Main_20_July_2021_mor_18_q::after {max-width:299px; width:100%;height:0;padding: 0 0 153.84615384615384% 0;}
 .JEE_Main_27_Aug_2021_Shift_1_14_Q {max-width:367px; max-height:149px; }
-.JEE_Main_27_Aug_2021_Shift_1_14_Q::after {content: '\00a0';display: inline-block; width:367px; height:149px; background-position: 59.794437726723096% 0.10020040080160321%;background-size: 550.6811989100818% 769.7986577181208%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEE_Main_27_Aug_2021_Shift_1_14_Q::after {content: '\00a0';display: inline-block; width:367px; height:149px; background-position: 60.76026977314531% 0.08952551477170993%; background-size: 544.4141689373297% 849.6644295302013%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEE_Main_27_Aug_2021_Shift_1_14_Q::after {max-width:367px; width:100%;height:0;padding: 0 0 40.59945504087194% 0;}
 .JEE_Main_27_Aug_2021_Shift_1_14_Q_1_O {max-width:315px; max-height:197px; }
-.JEE_Main_27_Aug_2021_Shift_1_14_Q_1_O::after {content: '\00a0';display: inline-block; width:315px; height:197px; background-position: 19.753810082063307% 91.89473684210526%;background-size: 641.5873015873016% 582.2335025380711%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEE_Main_27_Aug_2021_Shift_1_14_Q_1_O::after {content: '\00a0';display: inline-block; width:315px; height:197px; background-position: 22.816399286987522% 54.162768942937326%; background-size: 634.2857142857143% 642.6395939086294%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEE_Main_27_Aug_2021_Shift_1_14_Q_1_O::after {max-width:315px; width:100%;height:0;padding: 0 0 62.53968253968254% 0;}
 .JEE_Main_27_Aug_2021_Shift_1_14_Q_1_S {max-width:277px; max-height:169px; }
-.JEE_Main_27_Aug_2021_Shift_1_14_Q_1_S::after {content: '\00a0';display: inline-block; width:277px; height:169px; background-position: 53.669724770642205% 35.2760736196319%;background-size: 729.6028880866426% 678.698224852071%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEE_Main_27_Aug_2021_Shift_1_14_Q_1_S::after {content: '\00a0';display: inline-block; width:277px; height:169px; background-position: 57.35037768739105% 30.355515041020965%; background-size: 721.2996389891697% 749.112426035503%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEE_Main_27_Aug_2021_Shift_1_14_Q_1_S::after {max-width:277px; width:100%;height:0;padding: 0 0 61.01083032490975% 0;}
 .JEE_Main_27_Aug_2021_Shift_1_14_Q_2_O {max-width:314px; max-height:193px; }
-.JEE_Main_27_Aug_2021_Shift_1_14_Q_2_O::after {content: '\00a0';display: inline-block; width:314px; height:193px; background-position: 57.93790275336848% 15.828092243186584%;background-size: 643.6305732484077% 594.300518134715%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEE_Main_27_Aug_2021_Shift_1_14_Q_2_O::after {content: '\00a0';display: inline-block; width:314px; height:193px; background-position: 21.31828978622328% 72.41379310344827%; background-size: 636.3057324840764% 655.958549222798%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEE_Main_27_Aug_2021_Shift_1_14_Q_2_O::after {max-width:314px; width:100%;height:0;padding: 0 0 61.46496815286624% 0;}
 .JEE_Main_27_Aug_2021_Shift_1_14_Q_3_O {max-width:312px; max-height:197px; }
-.JEE_Main_27_Aug_2021_Shift_1_14_Q_3_O::after {content: '\00a0';display: inline-block; width:312px; height:197px; background-position: 76.30193095377413% 18.63157894736842%;background-size: 647.7564102564103% 582.2335025380711%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEE_Main_27_Aug_2021_Shift_1_14_Q_3_O::after {content: '\00a0';display: inline-block; width:312px; height:197px; background-position: 39.97627520759193% 76.42656688493919%; background-size: 640.3846153846154% 642.6395939086294%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEE_Main_27_Aug_2021_Shift_1_14_Q_3_O::after {max-width:312px; width:100%;height:0;padding: 0 0 63.14102564102564% 0;}
 .JEE_Main_27_Aug_2021_Shift_1_14_Q_4_O {max-width:317px; max-height:205px; }
-.JEE_Main_27_Aug_2021_Shift_1_14_Q_4_O::after {content: '\00a0';display: inline-block; width:317px; height:205px; background-position: 21.068075117370892% 70.80679405520169%;background-size: 637.5394321766562% 559.5121951219512%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEE_Main_27_Aug_2021_Shift_1_14_Q_4_O::after {content: '\00a0';display: inline-block; width:317px; height:205px; background-position: 0.0594883997620464% 94.81621112158341%; background-size: 630.2839116719243% 617.560975609756%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEE_Main_27_Aug_2021_Shift_1_14_Q_4_O::after {max-width:317px; width:100%;height:0;padding: 0 0 64.66876971608833% 0;}
 .JEE_Main_27_Aug_2021_Shift_2_10_Q {max-width:227px; max-height:139px; }
-.JEE_Main_27_Aug_2021_Shift_2_10_Q::after {content: '\00a0';display: inline-block; width:227px; height:139px; background-position: 92.19620958751393% 89.58333333333333%;background-size: 890.3083700440528% 825.1798561151079%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEE_Main_27_Aug_2021_Shift_2_10_Q::after {content: '\00a0';display: inline-block; width:227px; height:139px; background-position: 94.86166007905139% 63.88642413487134%; background-size: 880.1762114537445% 910.7913669064748%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEE_Main_27_Aug_2021_Shift_2_10_Q::after {max-width:227px; width:100%;height:0;padding: 0 0 61.23348017621145% 0;}
 .JEE_Main_27_July_2021_evening_24_q {max-width:219px; max-height:164px; }
-.JEE_Main_27_July_2021_evening_24_q::after {content: '\00a0';display: inline-block; width:219px; height:164px; background-position: 64.31742508324085% 99.89827060020346%;background-size: 922.8310502283105% 699.390243902439%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEE_Main_27_July_2021_evening_24_q::after {content: '\00a0';display: inline-block; width:219px; height:164px; background-position: 53.344575604272066% 99.90925589836661%; background-size: 912.3287671232877% 771.9512195121952%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEE_Main_27_July_2021_evening_24_q::after {max-width:219px; width:100%;height:0;padding: 0 0 74.88584474885845% 0;}
 .JEE_Main_31_Aug_2021_Shift_1_10_Q_1_S {max-width:144px; max-height:114px; }
-.JEE_Main_31_Aug_2021_Shift_1_10_Q_1_S::after {content: '\00a0';display: inline-block; width:144px; height:114px; background-position: 78.52206273258905% 12.674599068804966%;background-size: 1406.25% 1795.6140350877192%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.JEE_Main_31_Aug_2021_Shift_1_10_Q_1_S::after {content: '\00a0';display: inline-block; width:144px; height:114px; background-position: 78.52206273258905% 12.674599068804966%; background-size: 1406.25% 1795.6140350877192%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.JEE_Main_31_Aug_2021_Shift_1_10_Q_1_S::after {max-width:144px; width:100%;height:0;padding: 0 0 79.16666666666667% 0;}
 .JEE_Main_31_Aug_2021_Shift_2_17_Q {max-width:236px; max-height:131px; }
-.JEE_Main_31_Aug_2021_Shift_2_17_Q::after {content: '\00a0';display: inline-block; width:236px; height:131px; background-position: 77.25490196078431% 99.80314960629921%;background-size: 856.3559322033898% 875.5725190839695%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.JEE_Main_31_Aug_2021_Shift_2_17_Q::after {content: '\00a0';display: inline-block; width:236px; height:131px; background-position: 81.8955732122588% 64.22907488986785%; background-size: 846.6101694915254% 966.412213740458%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.JEE_Main_31_Aug_2021_Shift_2_17_Q::after {max-width:236px; width:100%;height:0;padding: 0 0 55.50847457627118% 0;}
 .jee_mains_26_jun_2022_s1_55_sol {max-width:300px; max-height:126px; }
-.jee_mains_26_jun_2022_s1_55_sol::after {content: '\00a0';display: inline-block; width:300px; height:126px; background-position: 93.95700174317257% 35.6513222331048%;background-size: 673.6666666666666% 910.3174603174604%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.jee_mains_26_jun_2022_s1_55_sol::after {content: '\00a0';display: inline-block; width:300px; height:126px; background-position: 71.2463768115942% 99.42738157209787%; background-size: 675% 1624.6031746031747%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.jee_mains_26_jun_2022_s1_55_sol::after {max-width:300px; width:100%;height:0;padding: 0 0 42% 0;}
 .jee_mains_26_jun_2022_s2_42 {max-width:300px; max-height:93px; }
-.jee_mains_26_jun_2022_s2_42::after {content: '\00a0';display: inline-block; width:300px; height:93px; background-position: 93.89889599070308% 98.95635673624288%;background-size: 673.6666666666666% 1233.3333333333333%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.jee_mains_26_jun_2022_s2_42::after {content: '\00a0';display: inline-block; width:300px; height:93px; background-position: 18.78680800942285% 99.31798806479114%; background-size: 666% 1361.2903225806451%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.jee_mains_26_jun_2022_s2_42::after {max-width:300px; width:100%;height:0;padding: 0 0 31% 0;}
 .jee_mn_24_jan_2023_s2_9 {max-width:262px; max-height:212px; }
-.jee_mn_24_jan_2023_s2_9::after {content: '\00a0';display: inline-block; width:262px; height:212px; background-position: 67.65207504263786% 56.79144385026738%;background-size: 771.3740458015267% 541.0377358490566%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.jee_mn_24_jan_2023_s2_9::after {content: '\00a0';display: inline-block; width:262px; height:212px; background-position: 68.83640552995392% 48.007590132827325%; background-size: 762.5954198473282% 597.1698113207547%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.jee_mn_24_jan_2023_s2_9::after {max-width:262px; width:100%;height:0;padding: 0 0 80.91603053435115% 0;}
 .jee_mn_25_jul_2022_s1_73 {max-width:206px; max-height:216px; }
-.jee_mn_25_jul_2022_s1_73::after {content: '\00a0';display: inline-block; width:206px; height:216px; background-position: 91.01928374655647% 52.7389903329753%;background-size: 981.0679611650486% 531.0185185185185%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.jee_mn_25_jul_2022_s1_73::after {content: '\00a0';display: inline-block; width:206px; height:216px; background-position: 79.18526785714286% 82%; background-size: 969.9029126213592% 586.1111111111111%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.jee_mn_25_jul_2022_s1_73::after {max-width:206px; width:100%;height:0;padding: 0 0 104.85436893203884% 0;}
 .jee_mn_27_jul_2022_s2_45_sol {max-width:316px; max-height:230px; }
-.jee_mn_27_jul_2022_s2_45_sol::after {content: '\00a0';display: inline-block; width:316px; height:230px; background-position: 27.091866588648333% 96.25756741882223%;background-size: 640.8227848101266% 890%;background-image: url(ph_xii_electinduction-0.png);padding: 0; }
+.jee_mn_27_jul_2022_s2_45_sol::after {content: '\00a0';display: inline-block; width:316px; height:230px; background-position: 27.794031597425395% 96.25756741882223%; background-size: 640.8227848101266% 890%; background-image: url(ph_xii_electinduction_0.png);padding: 0; }
 div.jee_mn_27_jul_2022_s2_45_sol::after {max-width:316px; width:100%;height:0;padding: 0 0 72.78481012658227% 0;}
 .jee_mn_30_jan_2024_s1_39 {max-width:163px; max-height:181px; }
-.jee_mn_30_jan_2024_s1_39::after {content: '\00a0';display: inline-block; width:163px; height:181px; background-position: 41.55005382131324% 34.886128364389236%;background-size: 1239.877300613497% 633.7016574585635%;background-image: url(ph_xii_electinduction-1.png);padding: 0; }
+.jee_mn_30_jan_2024_s1_39::after {content: '\00a0';display: inline-block; width:163px; height:181px; background-position: 99.56403269754769% 79.26267281105991%; background-size: 1225.7668711656443% 699.4475138121547%; background-image: url(ph_xii_electinduction_1.png);padding: 0; }
 div.jee_mn_30_jan_2024_s1_39::after {max-width:163px; width:100%;height:0;padding: 0 0 111.04294478527608% 0;}
 
-/* $TexturePacker:SmartUpdate:727881bc4c22c2ea2b7ef46a2a4d3c00:91f0d941b35deb74faf0372638ed2e4f:694854b7392a6daec720b569d9ccdf46$ */
+@keyframes EIAC_12_o-frames {
+    0% { background-position: 0.05995203836930456% 34.09818569903949%;  }
+    25% { background-position: 81.08591885441527% 0.053418803418803416%;  }
+    50% { background-position: 58.81305637982196% 8.092175777063236%;  }
+    75% { background-position: 78.72340425531915% 9.414893617021276%;  }
+}
+
+.EIAC_12_o-animation {
+    max-width: 357px;
+    max-height: 173px;
+}
+.EIAC_12_o-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 357px;
+    height: 173px;
+    padding: 0;
+    background-image: url(ph_xii_electinduction_0.png);
+    background-size: 567.2268907563025% 1183.236994219653%; 
+    animation-name: EIAC_12_o-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.EIAC_12_o-animation::after {
+    max-width: 357px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 48.4593837535014% 0;
+}
+
+@keyframes EIAC_19_o-frames {
+    0% { background-position: 76.92737430167598% 66.72122204037098%;  }
+    25% { background-position: 77.37961926091825% 43.13832695462001%;  }
+    50% { background-position: 66.14612381483548% 45.177111716621255%;  }
+    75% { background-position: 77.33631785114717% 54.99181669394435%;  }
+}
+
+.EIAC_19_o-animation {
+    max-width: 235px;
+    max-height: 214px;
+}
+.EIAC_19_o-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 235px;
+    height: 214px;
+    padding: 0;
+    background-image: url(ph_xii_electinduction_0.png);
+    background-size: 861.7021276595744% 956.5420560747664%; 
+    animation-name: EIAC_19_o-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.EIAC_19_o-animation::after {
+    max-width: 235px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 91.06382978723404% 0;
+}
+
+@keyframes EIAC_2_o-frames {
+    0% { background-position: 34.32741116751269% 0.05282620179609086%;  }
+    25% { background-position: 0.06337135614702155% 16.473072861668427%;  }
+    50% { background-position: 0.06426735218508997% 8.535300316122234%;  }
+    75% { background-position: 54.10044500953592% 84.82758620689656%;  }
+}
+
+.EIAC_2_o-animation {
+    max-width: 449px;
+    max-height: 154px;
+}
+.EIAC_2_o-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 449px;
+    height: 154px;
+    padding: 0;
+    background-image: url(ph_xii_electinduction_0.png);
+    background-size: 451.0022271714922% 1329.2207792207791%; 
+    animation-name: EIAC_2_o-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.EIAC_2_o-animation::after {
+    max-width: 449px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 34.29844097995546% 0;
+}
+
+@keyframes EIAC_41_o-frames {
+    0% { background-position: 54.02298850574713% 40.57649667405765%;  }
+    25% { background-position: 0.05473453749315818% 90.43381535038932%;  }
+    50% { background-position: 89.0958904109589% 47.59535655058043%;  }
+    75% { background-position: 0.054945054945054944% 76.46402677077523%;  }
+}
+
+.EIAC_41_o-animation {
+    max-width: 198px;
+    max-height: 243px;
+}
+.EIAC_41_o-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 198px;
+    height: 243px;
+    padding: 0;
+    background-image: url(ph_xii_electinduction_0.png);
+    background-size: 1022.7272727272727% 842.3868312757202%; 
+    animation-name: EIAC_41_o-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.EIAC_41_o-animation::after {
+    max-width: 198px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 122.72727272727273% 0;
+}
+
+/* $TexturePacker:SmartUpdate:c60f5940138e795656d2d2449ac20f02:77dbcdbf230887401819bae6c414459a:f3bdbc617b14553399449f0b087081eb$ */
