@@ -6,21 +6,49 @@ Inline:     <i class="yourspritesname"></i>
 Responsive: <div class="yourspritesname"></div>
 */
 
-
 .GENERALPRINCIPLES_ISOLATIONOFELEMENTS_Q_10 {max-width:339px; max-height:194px; }
-.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_Q_10::after {content: '\00a0';display: inline-block; width:339px; height:194px; background-position: 12.5% 99.91603694374476%;background-size: 102.3598820058997% 713.9175257731958%;background-image: url(ch_xii_ch1.png);padding: 0; }
+.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_Q_10::after {content: '\00a0';display: inline-block; width:339px; height:194px; background-position: 12.5% 99.91603694374476%; background-size: 102.3598820058997% 713.9175257731958%; background-image: url(ch_xii_ch1_0.png);padding: 0; }
 div.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_Q_10::after {max-width:339px; width:100%;height:0;padding: 0 0 57.227138643067846% 0;}
 .GENERALPRINCIPLES_ISOLATIONOFELEMENTS_Q_25 {max-width:338px; max-height:318px; }
-.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_Q_25::after {content: '\00a0';display: inline-block; width:338px; height:318px; background-position: 11.11111111111111% 32.33364573570759%;background-size: 102.66272189349112% 435.5345911949685%;background-image: url(ch_xii_ch1.png);padding: 0; }
+.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_Q_25::after {content: '\00a0';display: inline-block; width:338px; height:318px; background-position: 11.11111111111111% 32.33364573570759%; background-size: 102.66272189349112% 435.5345911949685%; background-image: url(ch_xii_ch1_0.png);padding: 0; }
 div.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_Q_25::after {max-width:338px; width:100%;height:0;padding: 0 0 94.0828402366864% 0;}
 .GENERALPRINCIPLES_ISOLATIONOFELEMENTS_SOL_7 {max-width:218px; max-height:223px; }
-.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_SOL_7::after {content: '\00a0';display: inline-block; width:218px; height:223px; background-position: 0.7751937984496124% 83.13253012048193%;background-size: 159.1743119266055% 621.0762331838565%;background-image: url(ch_xii_ch1.png);padding: 0; }
+.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_SOL_7::after {content: '\00a0';display: inline-block; width:218px; height:223px; background-position: 0.7751937984496124% 83.13253012048193%; background-size: 159.1743119266055% 621.0762331838565%; background-image: url(ch_xii_ch1_0.png);padding: 0; }
 div.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_SOL_7::after {max-width:218px; width:100%;height:0;padding: 0 0 102.29357798165138% 0;}
 .JEEMAIN_25FEB_SHIFT1_Q_60 {max-width:263px; max-height:301px; }
-.JEEMAIN_25FEB_SHIFT1_Q_60::after {content: '\00a0';display: inline-block; width:263px; height:301px; background-position: 1.1904761904761905% 61.254612546125465%;background-size: 131.93916349809885% 460.13289036544853%;background-image: url(ch_xii_ch1.png);padding: 0; }
+.JEEMAIN_25FEB_SHIFT1_Q_60::after {content: '\00a0';display: inline-block; width:263px; height:301px; background-position: 1.1904761904761905% 61.254612546125465%; background-size: 131.93916349809885% 460.13289036544853%; background-image: url(ch_xii_ch1_0.png);padding: 0; }
 div.JEEMAIN_25FEB_SHIFT1_Q_60::after {max-width:263px; width:100%;height:0;padding: 0 0 114.44866920152091% 0;}
 .JEEM_17_Mar_S1_50 {max-width:345px; max-height:343px; }
-.JEEM_17_Mar_S1_50::after {content: '\00a0';display: inline-block; width:345px; height:343px; background-position: 50% 0.09596928982725528%;background-size: 100.57971014492753% 403.79008746355686%;background-image: url(ch_xii_ch1.png);padding: 0; }
+.JEEM_17_Mar_S1_50::after {content: '\00a0';display: inline-block; width:345px; height:343px; background-position: 50% 0.09596928982725528%; background-size: 100.57971014492753% 403.79008746355686%; background-image: url(ch_xii_ch1_0.png);padding: 0; }
 div.JEEM_17_Mar_S1_50::after {max-width:345px; width:100%;height:0;padding: 0 0 99.42028985507247% 0;}
 
-/* $TexturePacker:SmartUpdate:fd88664d2058408fae918aed60256ff3:b5c0e4983761946bd5963cc8934943e1:94c416ed8d6b1eb92fe77e72ccaf80cb$ */
+@keyframes GENERALPRINCIPLES_ISOLATIONOFELEMENTS_Q-frames {
+    0% { background-position: 12.5% 99.91603694374476%;  }
+    50% { background-position: 11.11111111111111% 32.33364573570759%;  }
+}
+
+.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_Q-animation {
+    max-width: 339px;
+    max-height: 194px;
+}
+.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_Q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 339px;
+    height: 194px;
+    padding: 0;
+    background-image: url(ch_xii_ch1_0.png);
+    background-size: 102.3598820058997% 713.9175257731958%; 
+    animation-name: GENERALPRINCIPLES_ISOLATIONOFELEMENTS_Q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.GENERALPRINCIPLES_ISOLATIONOFELEMENTS_Q-animation::after {
+    max-width: 339px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 57.227138643067846% 0;
+}
+
+/* $TexturePacker:SmartUpdate:3a5549b732301d731233acf478ce6041:b5c0e4983761946bd5963cc8934943e1:81cff3db42cb0d94375bd2a272d1ce4f$ */

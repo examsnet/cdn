@@ -6,18 +6,52 @@ Inline:     <i class="yourspritesname"></i>
 Responsive: <div class="yourspritesname"></div>
 */
 
-
 .JEEMAINS_10APRIL_2023_S2_S_64 {max-width:260px; max-height:177px; }
-.JEEMAINS_10APRIL_2023_S2_S_64::after {content: '\00a0';display: inline-block; width:260px; height:177px; background-position: 0.8695652173913043% 0.43859649122807015%;background-size: 144.23076923076923% 228.8135593220339%;background-image: url(ch_xi_ch3_1.png);padding: 0; }
+.JEEMAINS_10APRIL_2023_S2_S_64::after {content: '\00a0';display: inline-block; width:260px; height:177px; background-position: 64.17391304347827% 50%; background-size: 542.3076923076923% 101.12994350282486%; background-image: url(ch_xi_ch3_1_0.png);padding: 0; }
 div.JEEMAINS_10APRIL_2023_S2_S_64::after {max-width:260px; width:100%;height:0;padding: 0 0 68.07692307692308% 0;}
 .JEEMAINS_10APRIL_2023_S2_S_76 {max-width:328px; max-height:137px; }
-.JEEMAINS_10APRIL_2023_S2_S_76::after {content: '\00a0';display: inline-block; width:328px; height:137px; background-position: 2.127659574468085% 66.7910447761194%;background-size: 114.32926829268293% 295.6204379562044%;background-image: url(ch_xi_ch3_1.png);padding: 0; }
+.JEEMAINS_10APRIL_2023_S2_S_76::after {content: '\00a0';display: inline-block; width:328px; height:137px; background-position: 37.800369685767095% 2.380952380952381%; background-size: 429.8780487804878% 130.65693430656935%; background-image: url(ch_xi_ch3_1_0.png);padding: 0; }
 div.JEEMAINS_10APRIL_2023_S2_S_76::after {max-width:328px; width:100%;height:0;padding: 0 0 41.76829268292683% 0;}
 .JEEMAINS_11APRIL_2023_S1_S_64 {max-width:112px; max-height:107px; }
-.JEEMAINS_11APRIL_2023_S1_S_64::after {content: '\00a0';display: inline-block; width:112px; height:107px; background-position: 99.61977186311788% 0.33557046979865773%;background-size: 334.82142857142856% 378.50467289719626%;background-image: url(ch_xi_ch3_1.png);padding: 0; }
+.JEEMAINS_11APRIL_2023_S1_S_64::after {content: '\00a0';display: inline-block; width:112px; height:107px; background-position: 99.92295839753467% 1.3888888888888888%; background-size: 1258.9285714285713% 167.28971962616822%; background-image: url(ch_xi_ch3_1_0.png);padding: 0; }
 div.JEEMAINS_11APRIL_2023_S1_S_64::after {max-width:112px; width:100%;height:0;padding: 0 0 95.53571428571429% 0;}
+.JEE_MAIN_4APRIL_2024_S1_S_80 {max-width:297px; max-height:83px; }
+.JEE_MAIN_4APRIL_2024_S1_S_80::after {content: '\00a0';display: inline-block; width:297px; height:83px; background-position: 89.75741239892183% 1.0416666666666667%; background-size: 474.74747474747477% 215.66265060240963%; background-image: url(ch_xi_ch3_1_0.png);padding: 0; }
+div.JEE_MAIN_4APRIL_2024_S1_S_80::after {max-width:297px; width:100%;height:0;padding: 0 0 27.946127946127945% 0;}
+.JEE_MAIN_4APRIL_2024_S2_S_76 {max-width:407px; max-height:176px; }
+.JEE_MAIN_4APRIL_2024_S2_S_76::after {content: '\00a0';display: inline-block; width:407px; height:176px; background-position: 0.09970089730807577% 33.333333333333336%; background-size: 346.43734643734643% 101.70454545454545%; background-image: url(ch_xi_ch3_1_0.png);padding: 0; }
+div.JEE_MAIN_4APRIL_2024_S2_S_76::after {max-width:407px; width:100%;height:0;padding: 0 0 43.24324324324324% 0;}
 .jee_mn_31_jan_2024_s2_80 {max-width:272px; max-height:87px; }
-.jee_mn_31_jan_2024_s2_80::after {content: '\00a0';display: inline-block; width:272px; height:87px; background-position: 0.970873786407767% 99.68553459119497%;background-size: 137.86764705882354% 465.51724137931035%;background-image: url(ch_xi_ch3_1.png);padding: 0; }
+.jee_mn_31_jan_2024_s2_80::after {content: '\00a0';display: inline-block; width:272px; height:87px; background-position: 87.78558875219683% 92.3913043478261%; background-size: 518.3823529411765% 205.7471264367816%; background-image: url(ch_xi_ch3_1_0.png);padding: 0; }
 div.jee_mn_31_jan_2024_s2_80::after {max-width:272px; width:100%;height:0;padding: 0 0 31.985294117647058% 0;}
 
-/* $TexturePacker:SmartUpdate:f835622dd865e5898ed5bcdec06c450f:2a57b5e27f1a8b50accaaf07b7f2c8d4:4dd93dbcd26d7abff31967842c0a3516$ */
+@keyframes JEEMAINS_10APRIL_2023_S2_S-frames {
+    0% { background-position: 64.17391304347827% 50%;  }
+    50% { background-position: 37.800369685767095% 2.380952380952381%;  }
+}
+
+.JEEMAINS_10APRIL_2023_S2_S-animation {
+    max-width: 260px;
+    max-height: 177px;
+}
+.JEEMAINS_10APRIL_2023_S2_S-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 260px;
+    height: 177px;
+    padding: 0;
+    background-image: url(ch_xi_ch3_1_0.png);
+    background-size: 542.3076923076923% 101.12994350282486%; 
+    animation-name: JEEMAINS_10APRIL_2023_S2_S-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.JEEMAINS_10APRIL_2023_S2_S-animation::after {
+    max-width: 260px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 68.07692307692308% 0;
+}
+
+/* $TexturePacker:SmartUpdate:14cd6c25ffad2442b9f7b88ce1edfa2c:0fe38dea756b719d972f723ee4438512:5b11ba6eb39b10a74c399a1791e3917a$ */

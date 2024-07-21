@@ -6,27 +6,55 @@ Inline:     <i class="yourspritesname"></i>
 Responsive: <div class="yourspritesname"></div>
 */
 
-
 .HYDROGEN_SOL_14 {max-width:281px; max-height:109px; }
-.HYDROGEN_SOL_14::after {content: '\00a0';display: inline-block; width:281px; height:109px; background-position: 51.39664804469274% 62.36933797909408%;background-size: 354.80427046263344% 363.302752293578%;background-image: url(ch_xi_ch9.png);padding: 0; }
+.HYDROGEN_SOL_14::after {content: '\00a0';display: inline-block; width:281px; height:109px; background-position: 51.39664804469274% 62.36933797909408%; background-size: 354.80427046263344% 363.302752293578%; background-image: url(ch_xi_ch9_0.png);padding: 0; }
 div.HYDROGEN_SOL_14::after {max-width:281px; width:100%;height:0;padding: 0 0 38.79003558718861% 0;}
 .HYDROGEN_SOL_4 {max-width:282px; max-height:70px; }
-.HYDROGEN_SOL_4::after {content: '\00a0';display: inline-block; width:282px; height:70px; background-position: 90.9090909090909% 54.29447852760736%;background-size: 353.54609929078015% 565.7142857142857%;background-image: url(ch_xi_ch9.png);padding: 0; }
+.HYDROGEN_SOL_4::after {content: '\00a0';display: inline-block; width:282px; height:70px; background-position: 90.9090909090909% 54.29447852760736%; background-size: 353.54609929078015% 565.7142857142857%; background-image: url(ch_xi_ch9_0.png);padding: 0; }
 div.HYDROGEN_SOL_4::after {max-width:282px; width:100%;height:0;padding: 0 0 24.822695035460992% 0;}
 .JEEMAINS_24JAN_2023_S2_S_36 {max-width:348px; max-height:177px; }
-.JEEMAINS_24JAN_2023_S2_S_36::after {content: '\00a0';display: inline-block; width:348px; height:177px; background-position: 38.82896764252696% 0.45662100456621%;background-size: 286.4942528735632% 223.72881355932202%;background-image: url(ch_xi_ch9.png);padding: 0; }
+.JEEMAINS_24JAN_2023_S2_S_36::after {content: '\00a0';display: inline-block; width:348px; height:177px; background-position: 38.82896764252696% 0.45662100456621%; background-size: 286.4942528735632% 223.72881355932202%; background-image: url(ch_xi_ch9_0.png);padding: 0; }
 div.JEEMAINS_24JAN_2023_S2_S_36::after {max-width:348px; width:100%;height:0;padding: 0 0 50.86206896551724% 0;}
 .JEEMAINS_31JAN_S1_S_44 {max-width:418px; max-height:106px; }
-.JEEMAINS_31JAN_S1_S_44::after {content: '\00a0';display: inline-block; width:418px; height:106px; background-position: 63.55785837651123% 99.65517241379311%;background-size: 238.51674641148324% 373.58490566037733%;background-image: url(ch_xi_ch9.png);padding: 0; }
+.JEEMAINS_31JAN_S1_S_44::after {content: '\00a0';display: inline-block; width:418px; height:106px; background-position: 63.55785837651123% 99.65517241379311%; background-size: 238.51674641148324% 373.58490566037733%; background-image: url(ch_xi_ch9_0.png);padding: 0; }
 div.JEEMAINS_31JAN_S1_S_44::after {max-width:418px; width:100%;height:0;padding: 0 0 25.358851674641148% 0;}
 .JEEM_16_Mar_S2_41sol {max-width:395px; max-height:175px; }
-.JEEM_16_Mar_S2_41sol::after {content: '\00a0';display: inline-block; width:395px; height:175px; background-position: 99.83388704318936% 0.45248868778280543%;background-size: 252.40506329113924% 226.28571428571428%;background-image: url(ch_xi_ch9.png);padding: 0; }
+.JEEM_16_Mar_S2_41sol::after {content: '\00a0';display: inline-block; width:395px; height:175px; background-position: 99.83388704318936% 0.45248868778280543%; background-size: 252.40506329113924% 226.28571428571428%; background-image: url(ch_xi_ch9_0.png);padding: 0; }
 div.JEEM_16_Mar_S2_41sol::after {max-width:395px; width:100%;height:0;padding: 0 0 44.30379746835443% 0;}
 .JEE_Main_20_July_2021_mor_39_s {max-width:366px; max-height:159px; }
-.JEE_Main_20_July_2021_mor_39_s::after {content: '\00a0';display: inline-block; width:366px; height:159px; background-position: 0.15847860538827258% 97.46835443037975%;background-size: 272.40437158469945% 249.0566037735849%;background-image: url(ch_xi_ch9.png);padding: 0; }
+.JEE_Main_20_July_2021_mor_39_s::after {content: '\00a0';display: inline-block; width:366px; height:159px; background-position: 0.15847860538827258% 97.46835443037975%; background-size: 272.40437158469945% 249.0566037735849%; background-image: url(ch_xi_ch9_0.png);padding: 0; }
 div.JEE_Main_20_July_2021_mor_39_s::after {max-width:366px; width:100%;height:0;padding: 0 0 43.442622950819676% 0;}
 .jee_mn_29_jul_2022_s1_67_sol {max-width:250px; max-height:229px; }
-.jee_mn_29_jul_2022_s1_67_sol::after {content: '\00a0';display: inline-block; width:250px; height:229px; background-position: 0.13386880856760375% 0.5988023952095808%;background-size: 398.8% 172.92576419213975%;background-image: url(ch_xi_ch9.png);padding: 0; }
+.jee_mn_29_jul_2022_s1_67_sol::after {content: '\00a0';display: inline-block; width:250px; height:229px; background-position: 0.13386880856760375% 0.5988023952095808%; background-size: 398.8% 172.92576419213975%; background-image: url(ch_xi_ch9_0.png);padding: 0; }
 div.jee_mn_29_jul_2022_s1_67_sol::after {max-width:250px; width:100%;height:0;padding: 0 0 91.6% 0;}
 
-/* $TexturePacker:SmartUpdate:79fa52f1f562bf1aed0e4595283a15a6:2621c08e39553968098f5b7455b398e0:e0b1bf73923a105b6b425429253747af$ */
+@keyframes HYDROGEN_SOL-frames {
+    0% { background-position: 90.9090909090909% 54.29447852760736%;  }
+    50% { background-position: 51.39664804469274% 62.36933797909408%;  }
+}
+
+.HYDROGEN_SOL-animation {
+    max-width: 282px;
+    max-height: 70px;
+}
+.HYDROGEN_SOL-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 282px;
+    height: 70px;
+    padding: 0;
+    background-image: url(ch_xi_ch9_0.png);
+    background-size: 353.54609929078015% 565.7142857142857%; 
+    animation-name: HYDROGEN_SOL-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.HYDROGEN_SOL-animation::after {
+    max-width: 282px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 24.822695035460992% 0;
+}
+
+/* $TexturePacker:SmartUpdate:03a1f906682b8bef5914574824db9fc2:2621c08e39553968098f5b7455b398e0:138e260d51071081e570453f9c746003$ */
