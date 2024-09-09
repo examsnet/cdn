@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.ntpc_cbt2_10_may_2022_l4_s1_120 {max-width:508px; max-height:326px; }
+.ntpc_cbt2_10_may_2022_l4_s1_120::after {content: '\00a0';display: inline-block; width:508px; height:326px; background-position: 0.2617801047120419% 50%; background-size: 175.1968503937008% 100.61349693251533%; background-image: url(ntpc_cbt2_2022_set1_0.png);padding: 0; }
+div.ntpc_cbt2_10_may_2022_l4_s1_120::after {max-width:508px; width:100%;height:0;padding: 0 0 64.1732283464567% 0;}
+.ntpc_cbt2_9_may_2022_l6_120 {max-width:379px; max-height:263px; }
+.ntpc_cbt2_9_may_2022_l6_120::after {content: '\00a0';display: inline-block; width:379px; height:263px; background-position: 99.80430528375734% 1.5384615384615385%; background-size: 234.82849604221636% 124.7148288973384%; background-image: url(ntpc_cbt2_2022_set1_0.png);padding: 0; }
+div.ntpc_cbt2_9_may_2022_l6_120::after {max-width:379px; width:100%;height:0;padding: 0 0 69.39313984168865% 0;}
+
+
+/* $TexturePacker:SmartUpdate:d118784ed5bd06217eb2b851ecf5ef2e:057cfbce063dac36489a9200905f4b29:11a2c4bdaea13aadd641d7c1a0e2dad1$ */
