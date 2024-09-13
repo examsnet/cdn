@@ -1,0 +1,92 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.uk_car_cat7_13 {max-width:293px; max-height:200px; }
+.uk_car_cat7_13::after {content: '\00a0';display: inline-block; width:293px; height:200px; background-position: 44.089920232052215% 50%; background-size: 570.6484641638225% 101%; background-image: url(cat7_0.png);padding: 0; }
+div.uk_car_cat7_13::after {max-width:293px; width:100%;height:0;padding: 0 0 68.25938566552901% 0;}
+.uk_car_cat7_18 {max-width:305px; max-height:200px; }
+.uk_car_cat7_18::after {content: '\00a0';display: inline-block; width:305px; height:200px; background-position: 0.07315288953913679% 50%; background-size: 548.1967213114754% 101%; background-image: url(cat7_0.png);padding: 0; }
+div.uk_car_cat7_18::after {max-width:305px; width:100%;height:0;padding: 0 0 65.57377049180327% 0;}
+.uk_car_cat7_1_1 {max-width:230px; max-height:200px; }
+.uk_car_cat7_1_1::after {content: '\00a0';display: inline-block; width:230px; height:200px; background-position: 62.552011095700415% 50%; background-size: 726.9565217391304% 101%; background-image: url(cat7_0.png);padding: 0; }
+div.uk_car_cat7_1_1::after {max-width:230px; width:100%;height:0;padding: 0 0 86.95652173913044% 0;}
+.uk_car_cat7_1_2 {max-width:202px; max-height:200px; }
+.uk_car_cat7_1_2::after {content: '\00a0';display: inline-block; width:202px; height:200px; background-position: 77.07482993197279% 50%; background-size: 827.7227722772277% 101%; background-image: url(cat7_0.png);padding: 0; }
+div.uk_car_cat7_1_2::after {max-width:202px; width:100%;height:0;padding: 0 0 99.00990099009901% 0;}
+.uk_car_cat7_1_3 {max-width:134px; max-height:200px; }
+.uk_car_cat7_1_3::after {content: '\00a0';display: inline-block; width:134px; height:200px; background-position: 99.93498049414825% 50%; background-size: 1247.7611940298507% 101%; background-image: url(cat7_0.png);padding: 0; }
+div.uk_car_cat7_1_3::after {max-width:134px; width:100%;height:0;padding: 0 0 149.2537313432836% 0;}
+.uk_car_cat7_1_4 {max-width:200px; max-height:200px; }
+.uk_car_cat7_1_4::after {content: '\00a0';display: inline-block; width:200px; height:200px; background-position: 90.76086956521739% 50%; background-size: 836% 101%; background-image: url(cat7_0.png);padding: 0; }
+div.uk_car_cat7_1_4::after {max-width:200px; width:100%;height:0;padding: 0 0 100% 0;}
+.uk_car_cat7_8 {max-width:300px; max-height:200px; }
+.uk_car_cat7_8::after {content: '\00a0';display: inline-block; width:300px; height:200px; background-position: 22.37609329446064% 50%; background-size: 557.3333333333334% 101%; background-image: url(cat7_0.png);padding: 0; }
+div.uk_car_cat7_8::after {max-width:300px; width:100%;height:0;padding: 0 0 66.66666666666667% 0;}
+
+@keyframes uk_car_cat7-frames {
+    0% { background-position: 22.37609329446064% 50%;  }
+    33.33333333333333% { background-position: 44.089920232052215% 50%;  }
+    66.66666666666666% { background-position: 0.07315288953913679% 50%;  }
+}
+
+.uk_car_cat7-animation {
+    max-width: 300px;
+    max-height: 200px;
+}
+.uk_car_cat7-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    padding: 0;
+    background-image: url(cat7_0.png);
+    background-size: 557.3333333333334% 101%; 
+    animation-name: uk_car_cat7-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.uk_car_cat7-animation::after {
+    max-width: 300px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 66.66666666666667% 0;
+}
+
+@keyframes uk_car_cat7_1-frames {
+    0% { background-position: 62.552011095700415% 50%;  }
+    25% { background-position: 77.07482993197279% 50%;  }
+    50% { background-position: 99.93498049414825% 50%;  }
+    75% { background-position: 90.76086956521739% 50%;  }
+}
+
+.uk_car_cat7_1-animation {
+    max-width: 230px;
+    max-height: 200px;
+}
+.uk_car_cat7_1-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 230px;
+    height: 200px;
+    padding: 0;
+    background-image: url(cat7_0.png);
+    background-size: 726.9565217391304% 101%; 
+    animation-name: uk_car_cat7_1-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.uk_car_cat7_1-animation::after {
+    max-width: 230px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 86.95652173913044% 0;
+}
+
+/* $TexturePacker:SmartUpdate:c6215bb7912b85986f1c99a8c677acf3:972fa4e5eaf2e12eb1d73401686f0581:21ac5a79981acc5bd9b23b41ec1cd2c6$ */

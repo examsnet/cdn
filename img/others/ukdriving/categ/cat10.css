@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.uk_car_cat10_24 {max-width:200px; max-height:200px; }
+.uk_car_cat10_24::after {content: '\00a0';display: inline-block; width:200px; height:200px; background-position: 61.89349112426036% 50%; background-size: 522.5% 101%; background-image: url(cat10_0.png);padding: 0; }
+div.uk_car_cat10_24::after {max-width:200px; width:100%;height:0;padding: 0 0 100% 0;}
+.uk_car_cat10_3 {max-width:320px; max-height:198px; }
+.uk_car_cat10_3::after {content: '\00a0';display: inline-block; width:320px; height:198px; background-position: 99.86206896551724% 25%; background-size: 326.5625% 102.02020202020202%; background-image: url(cat10_0.png);padding: 0; }
+div.uk_car_cat10_3::after {max-width:320px; width:100%;height:0;padding: 0 0 61.875% 0;}
+.uk_car_cat10_50 {max-width:300px; max-height:200px; }
+.uk_car_cat10_50::after {content: '\00a0';display: inline-block; width:300px; height:200px; background-position: 0.1342281879194631% 50%; background-size: 348.3333333333333% 101%; background-image: url(cat10_0.png);padding: 0; }
+div.uk_car_cat10_50::after {max-width:300px; width:100%;height:0;padding: 0 0 66.66666666666667% 0;}
+.uk_car_cat10_78 {max-width:220px; max-height:200px; }
+.uk_car_cat10_78::after {content: '\00a0';display: inline-block; width:220px; height:200px; background-position: 36.60606060606061% 50%; background-size: 475% 101%; background-image: url(cat10_0.png);padding: 0; }
+div.uk_car_cat10_78::after {max-width:220px; width:100%;height:0;padding: 0 0 90.9090909090909% 0;}
+
+@keyframes uk_car_cat10-frames {
+    0% { background-position: 99.86206896551724% 25%;  }
+    25% { background-position: 61.89349112426036% 50%;  }
+    50% { background-position: 0.1342281879194631% 50%;  }
+    75% { background-position: 36.60606060606061% 50%;  }
+}
+
+.uk_car_cat10-animation {
+    max-width: 320px;
+    max-height: 198px;
+}
+.uk_car_cat10-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 320px;
+    height: 198px;
+    padding: 0;
+    background-image: url(cat10_0.png);
+    background-size: 326.5625% 102.02020202020202%; 
+    animation-name: uk_car_cat10-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.uk_car_cat10-animation::after {
+    max-width: 320px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 61.875% 0;
+}
+
+/* $TexturePacker:SmartUpdate:1b28dd9ba5d2a2478ce17cd655af3fdd:74aa532301ae352e59fffbda4337fcdf:1ca0a27bd6a7e8b3f8e95216bae4609b$ */

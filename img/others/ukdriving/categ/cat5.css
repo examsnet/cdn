@@ -1,0 +1,56 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.uk_car_cat5_25_1 {max-width:320px; max-height:64px; }
+.uk_car_cat5_25_1::after {content: '\00a0';display: inline-block; width:320px; height:64px; background-position: 50% 43.39887640449438%; background-size: 100.625% 1212.5%; background-image: url(cat5_0.png);padding: 0; }
+div.uk_car_cat5_25_1::after {max-width:320px; width:100%;height:0;padding: 0 0 20% 0;}
+.uk_car_cat5_25_2 {max-width:320px; max-height:180px; }
+.uk_car_cat5_25_2::after {content: '\00a0';display: inline-block; width:320px; height:180px; background-position: 50% 0.16778523489932887%; background-size: 100.625% 431.1111111111111%; background-image: url(cat5_0.png);padding: 0; }
+div.uk_car_cat5_25_2::after {max-width:320px; width:100%;height:0;padding: 0 0 56.25% 0;}
+.uk_car_cat5_25_3 {max-width:320px; max-height:126px; }
+.uk_car_cat5_25_3::after {content: '\00a0';display: inline-block; width:320px; height:126px; background-position: 50% 28%; background-size: 100.625% 615.8730158730159%; background-image: url(cat5_0.png);padding: 0; }
+div.uk_car_cat5_25_3::after {max-width:320px; width:100%;height:0;padding: 0 0 39.375% 0;}
+.uk_car_cat5_25_4 {max-width:230px; max-height:200px; }
+.uk_car_cat5_25_4::after {content: '\00a0';display: inline-block; width:230px; height:200px; background-position: 1.0869565217391304% 99.82638888888889%; background-size: 140% 388%; background-image: url(cat5_0.png);padding: 0; }
+div.uk_car_cat5_25_4::after {max-width:230px; width:100%;height:0;padding: 0 0 86.95652173913044% 0;}
+.uk_car_cat5_33 {max-width:301px; max-height:200px; }
+.uk_car_cat5_33::after {content: '\00a0';display: inline-block; width:301px; height:200px; background-position: 4.761904761904762% 64.93055555555556%; background-size: 106.97674418604652% 388%; background-image: url(cat5_0.png);padding: 0; }
+div.uk_car_cat5_33::after {max-width:301px; width:100%;height:0;padding: 0 0 66.44518272425249% 0;}
+
+@keyframes uk_car_cat5_25-frames {
+    0% { background-position: 50% 43.39887640449438%;  }
+    25% { background-position: 50% 0.16778523489932887%;  }
+    50% { background-position: 50% 28%;  }
+    75% { background-position: 1.0869565217391304% 99.82638888888889%;  }
+}
+
+.uk_car_cat5_25-animation {
+    max-width: 320px;
+    max-height: 64px;
+}
+.uk_car_cat5_25-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 320px;
+    height: 64px;
+    padding: 0;
+    background-image: url(cat5_0.png);
+    background-size: 100.625% 1212.5%; 
+    animation-name: uk_car_cat5_25-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.uk_car_cat5_25-animation::after {
+    max-width: 320px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 20% 0;
+}
+
+/* $TexturePacker:SmartUpdate:49d533d3f94c70d52a7cfa2752e4f2fa:dc200271a38588ed1fa5012f81757edf:aac7f36dc36319a51345a66d15c572ee$ */
