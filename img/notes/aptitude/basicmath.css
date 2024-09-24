@@ -6,22 +6,25 @@ Inline:     <i class="yourspritesname"></i>
 Responsive: <div class="yourspritesname"></div>
 */
 
+.allegations_1 {max-width:892px; max-height:458px; }
+.allegations_1::after {content: '\00a0';display: inline-block; width:892px; height:458px; background-position: 0.16447368421052633% 71.94029850746269%; background-size: 168.16143497757847% 392.5764192139738%; background-image: url(basicmath_0.png);padding: 0; }
+div.allegations_1::after {max-width:892px; width:100%;height:0;padding: 0 0 51.34529147982063% 0;}
 .decimals_1 {max-width:1498px; max-height:962px; }
-.decimals_1::after {content: '\00a0';display: inline-block; width:1498px; height:962px; background-position: 50% 0.25839793281653745%; background-size: 100.13351134846462% 140.22869022869023%; background-image: url(basicmath_0.png);padding: 0; }
+.decimals_1::after {content: '\00a0';display: inline-block; width:1498px; height:962px; background-position: 50% 0.11961722488038277%; background-size: 100.13351134846462% 186.9022869022869%; background-image: url(basicmath_0.png);padding: 0; }
 div.decimals_1::after {max-width:1498px; width:100%;height:0;padding: 0 0 64.21895861148198% 0;}
 .logarithms_1 {max-width:416px; max-height:384px; }
-.logarithms_1::after {content: '\00a0';display: inline-block; width:416px; height:384px; background-position: 0.09225092250922509% 99.89637305699482%; background-size: 360.5769230769231% 351.3020833333333%; background-image: url(basicmath_0.png);padding: 0; }
+.logarithms_1::after {content: '\00a0';display: inline-block; width:416px; height:384px; background-position: 82.47232472324723% 68.17538896746818%; background-size: 360.5769230769231% 468.2291666666667%; background-image: url(basicmath_0.png);padding: 0; }
 div.logarithms_1::after {max-width:416px; width:100%;height:0;padding: 0 0 92.3076923076923% 0;}
 .logarithms_2 {max-width:410px; max-height:374px; }
-.logarithms_2::after {content: '\00a0';display: inline-block; width:410px; height:374px; background-position: 38.34862385321101% 98.87179487179488%; background-size: 365.8536585365854% 360.6951871657754%; background-image: url(basicmath_0.png);padding: 0; }
+.logarithms_2::after {content: '\00a0';display: inline-block; width:410px; height:374px; background-position: 0.09174311926605505% 99.92977528089888%; background-size: 365.8536585365854% 480.7486631016043%; background-image: url(basicmath_0.png);padding: 0; }
 div.logarithms_2::after {max-width:410px; width:100%;height:0;padding: 0 0 91.21951219512195% 0;}
 .number_system_1 {max-width:398px; max-height:376px; }
-.number_system_1::after {content: '\00a0';display: inline-block; width:398px; height:376px; background-position: 75.22686025408349% 99.07502569373072%; background-size: 376.88442211055275% 358.77659574468083%; background-image: url(basicmath_0.png);padding: 0; }
+.number_system_1::after {content: '\00a0';display: inline-block; width:398px; height:376px; background-position: 81.12522686025409% 94.86638537271449%; background-size: 376.88442211055275% 478.1914893617021%; background-image: url(basicmath_0.png);padding: 0; }
 div.number_system_1::after {max-width:398px; width:100%;height:0;padding: 0 0 94.47236180904522% 0;}
 
 @keyframes logarithms-frames {
-    0% { background-position: 0.09225092250922509% 99.89637305699482%;  }
-    50% { background-position: 38.34862385321101% 98.87179487179488%;  }
+    0% { background-position: 82.47232472324723% 68.17538896746818%;  }
+    50% { background-position: 0.09174311926605505% 99.92977528089888%;  }
 }
 
 .logarithms-animation {
@@ -35,7 +38,7 @@ div.number_system_1::after {max-width:398px; width:100%;height:0;padding: 0 0 94
     height: 384px;
     padding: 0;
     background-image: url(basicmath_0.png);
-    background-size: 360.5769230769231% 351.3020833333333%; 
+    background-size: 360.5769230769231% 468.2291666666667%; 
     animation-name: logarithms-frames;
     animation-timing-function: steps(1);
     animation-duration: 1s;
@@ -48,4 +51,4 @@ div.logarithms-animation::after {
     padding: 0 0 92.3076923076923% 0;
 }
 
-/* $TexturePacker:SmartUpdate:8223c73f5aac67c5512e23c8caa32fc5:5ae32d63426719521661191fbcf7d7eb:125a5403c90c18ecdb43c8c30c750e8a$ */
+/* $TexturePacker:SmartUpdate:843f8d397ba4192f4baf0d985a5026f6:bc785265c79a603e0d9726ce977ffa16:125a5403c90c18ecdb43c8c30c750e8a$ */
