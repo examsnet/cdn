@@ -1,0 +1,81 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.allegations_1 {max-width:400px; max-height:205px; }
+.allegations_1::after {content: '\00a0';display: inline-block; width:400px; height:205px; background-position: 0.06531678641410843% 3.0303030303030303%; background-size: 482.75% 116.09756097560975%; background-image: url(alligations_0.png);padding: 0; }
+div.allegations_1::after {max-width:400px; width:100%;height:0;padding: 0 0 51.25% 0;}
+.allegations_10 {max-width:256px; max-height:145px; }
+.allegations_10::after {content: '\00a0';display: inline-block; width:256px; height:145px; background-position: 47.940298507462686% 1.075268817204301%; background-size: 754.296875% 164.13793103448276%; background-image: url(alligations_0.png);padding: 0; }
+div.allegations_10::after {max-width:256px; width:100%;height:0;padding: 0 0 56.640625% 0;}
+.allegations_11 {max-width:156px; max-height:96px; }
+.allegations_11::after {content: '\00a0';display: inline-block; width:156px; height:96px; background-position: 59.83098591549296% 95.07042253521126%; background-size: 1237.820512820513% 247.91666666666666%; background-image: url(alligations_0.png);padding: 0; }
+div.allegations_11::after {max-width:156px; width:100%;height:0;padding: 0 0 61.53846153846154% 0;}
+.allegations_2 {max-width:400px; max-height:203px; }
+.allegations_2::after {content: '\00a0';display: inline-block; width:400px; height:203px; background-position: 26.25734813847159% 2.857142857142857%; background-size: 482.75% 117.24137931034483%; background-image: url(alligations_0.png);padding: 0; }
+div.allegations_2::after {max-width:400px; width:100%;height:0;padding: 0 0 50.75% 0;}
+.allegations_3 {max-width:318px; max-height:133px; }
+.allegations_3::after {content: '\00a0';display: inline-block; width:318px; height:133px; background-position: 65.71605703657781% 0.9523809523809523%; background-size: 607.2327044025158% 178.94736842105263%; background-image: url(alligations_0.png);padding: 0; }
+div.allegations_3::after {max-width:318px; width:100%;height:0;padding: 0 0 41.82389937106918% 0;}
+.allegations_4 {max-width:207px; max-height:95px; }
+.allegations_4::after {content: '\00a0';display: inline-block; width:207px; height:95px; background-position: 70.70765661252901% 94.4055944055944%; background-size: 932.8502415458937% 250.52631578947367%; background-image: url(alligations_0.png);padding: 0; }
+div.allegations_4::after {max-width:207px; width:100%;height:0;padding: 0 0 45.893719806763286% 0;}
+.allegations_5 {max-width:267px; max-height:104px; }
+.allegations_5::after {content: '\00a0';display: inline-block; width:267px; height:104px; background-position: 85.75721153846153% 92.53731343283582%; background-size: 723.2209737827716% 228.84615384615384%; background-image: url(alligations_0.png);padding: 0; }
+div.allegations_5::after {max-width:267px; width:100%;height:0;padding: 0 0 38.951310861423224% 0;}
+.allegations_6 {max-width:235px; max-height:115px; }
+.allegations_6::after {content: '\00a0';display: inline-block; width:235px; height:115px; background-position: 99.94103773584905% 99.1869918699187%; background-size: 821.7021276595744% 206.95652173913044%; background-image: url(alligations_0.png);padding: 0; }
+div.allegations_6::after {max-width:235px; width:100%;height:0;padding: 0 0 48.93617021276596% 0;}
+.allegations_7 {max-width:248px; max-height:122px; }
+.allegations_7::after {content: '\00a0';display: inline-block; width:248px; height:122px; background-position: 81.93701723113487% 0.8620689655172413%; background-size: 778.6290322580645% 195.08196721311475%; background-image: url(alligations_0.png);padding: 0; }
+div.allegations_7::after {max-width:248px; width:100%;height:0;padding: 0 0 49.193548387096776% 0;}
+.allegations_8 {max-width:258px; max-height:87px; }
+.allegations_8::after {content: '\00a0';display: inline-block; width:258px; height:87px; background-position: 47.9976090854752% 97.35099337748345%; background-size: 748.4496124031008% 273.5632183908046%; background-image: url(alligations_0.png);padding: 0; }
+div.allegations_8::after {max-width:258px; width:100%;height:0;padding: 0 0 33.72093023255814% 0;}
+.allegations_9 {max-width:270px; max-height:120px; }
+.allegations_9::after {content: '\00a0';display: inline-block; width:270px; height:120px; background-position: 98.01324503311258% 0.847457627118644%; background-size: 715.1851851851852% 198.33333333333334%; background-image: url(alligations_0.png);padding: 0; }
+div.allegations_9::after {max-width:270px; width:100%;height:0;padding: 0 0 44.44444444444444% 0;}
+
+@keyframes allegations-frames {
+    0% { background-position: 0.06531678641410843% 3.0303030303030303%;  }
+    9.090909090909092% { background-position: 26.25734813847159% 2.857142857142857%;  }
+    18.181818181818183% { background-position: 65.71605703657781% 0.9523809523809523%;  }
+    27.27272727272727% { background-position: 70.70765661252901% 94.4055944055944%;  }
+    36.36363636363637% { background-position: 85.75721153846153% 92.53731343283582%;  }
+    45.45454545454545% { background-position: 99.94103773584905% 99.1869918699187%;  }
+    54.54545454545454% { background-position: 81.93701723113487% 0.8620689655172413%;  }
+    63.63636363636363% { background-position: 47.9976090854752% 97.35099337748345%;  }
+    72.72727272727273% { background-position: 98.01324503311258% 0.847457627118644%;  }
+    81.81818181818183% { background-position: 47.940298507462686% 1.075268817204301%;  }
+    90.9090909090909% { background-position: 59.83098591549296% 95.07042253521126%;  }
+}
+
+.allegations-animation {
+    max-width: 400px;
+    max-height: 205px;
+}
+.allegations-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 400px;
+    height: 205px;
+    padding: 0;
+    background-image: url(alligations_0.png);
+    background-size: 482.75% 116.09756097560975%; 
+    animation-name: allegations-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.allegations-animation::after {
+    max-width: 400px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 51.25% 0;
+}
+
+/* $TexturePacker:SmartUpdate:689c0bb59d116f23f8fad1ede991754c:5cbf960abf3a346b1cd9778edb726c5a:e8e103f15c5eb4785db3127f1fed32a4$ */

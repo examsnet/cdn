@@ -6,57 +6,22 @@ Inline:     <i class="yourspritesname"></i>
 Responsive: <div class="yourspritesname"></div>
 */
 
-.allegations_1 {max-width:400px; max-height:205px; }
-.allegations_1::after {content: '\00a0';display: inline-block; width:400px; height:205px; background-position: 0.06591957811470006% 99.89637305699482%; background-size: 479.25% 570.7317073170732%; background-image: url(basicmath_0.png);padding: 0; }
-div.allegations_1::after {max-width:400px; width:100%;height:0;padding: 0 0 51.25% 0;}
-.allegations_2 {max-width:400px; max-height:203px; }
-.allegations_2::after {content: '\00a0';display: inline-block; width:400px; height:203px; background-position: 26.499670402109427% 99.68976215098242%; background-size: 479.25% 576.3546798029556%; background-image: url(basicmath_0.png);padding: 0; }
-div.allegations_2::after {max-width:400px; width:100%;height:0;padding: 0 0 50.75% 0;}
 .decimals_1 {max-width:1498px; max-height:962px; }
-.decimals_1::after {content: '\00a0';display: inline-block; width:1498px; height:962px; background-position: 0.2386634844868735% 0.4807692307692308%; background-size: 127.97062750333778% 121.62162162162163%; background-image: url(basicmath_0.png);padding: 0; }
+.decimals_1::after {content: '\00a0';display: inline-block; width:1498px; height:962px; background-position: 50% 0.25839793281653745%; background-size: 100.13351134846462% 140.22869022869023%; background-image: url(basicmath_0.png);padding: 0; }
 div.decimals_1::after {max-width:1498px; width:100%;height:0;padding: 0 0 64.21895861148198% 0;}
 .logarithms_1 {max-width:416px; max-height:384px; }
-.logarithms_1::after {content: '\00a0';display: inline-block; width:416px; height:384px; background-position: 99.93337774816789% 0.1272264631043257%; background-size: 460.8173076923077% 304.6875%; background-image: url(basicmath_0.png);padding: 0; }
+.logarithms_1::after {content: '\00a0';display: inline-block; width:416px; height:384px; background-position: 0.09225092250922509% 99.89637305699482%; background-size: 360.5769230769231% 351.3020833333333%; background-image: url(basicmath_0.png);padding: 0; }
 div.logarithms_1::after {max-width:416px; width:100%;height:0;padding: 0 0 92.3076923076923% 0;}
 .logarithms_2 {max-width:410px; max-height:374px; }
-.logarithms_2::after {content: '\00a0';display: inline-block; width:410px; height:374px; background-position: 99.53550099535501% 48.49246231155779%; background-size: 467.5609756097561% 312.83422459893046%; background-image: url(basicmath_0.png);padding: 0; }
+.logarithms_2::after {content: '\00a0';display: inline-block; width:410px; height:374px; background-position: 38.34862385321101% 98.87179487179488%; background-size: 365.8536585365854% 360.6951871657754%; background-image: url(basicmath_0.png);padding: 0; }
 div.logarithms_2::after {max-width:410px; width:100%;height:0;padding: 0 0 91.21951219512195% 0;}
 .number_system_1 {max-width:398px; max-height:376px; }
-.number_system_1::after {content: '\00a0';display: inline-block; width:398px; height:376px; background-position: 98.74917709019091% 95.84382871536523%; background-size: 481.65829145728645% 311.17021276595744%; background-image: url(basicmath_0.png);padding: 0; }
+.number_system_1::after {content: '\00a0';display: inline-block; width:398px; height:376px; background-position: 75.22686025408349% 99.07502569373072%; background-size: 376.88442211055275% 358.77659574468083%; background-image: url(basicmath_0.png);padding: 0; }
 div.number_system_1::after {max-width:398px; width:100%;height:0;padding: 0 0 94.47236180904522% 0;}
 
-@keyframes allegations-frames {
-    0% { background-position: 0.06591957811470006% 99.89637305699482%;  }
-    50% { background-position: 26.499670402109427% 99.68976215098242%;  }
-}
-
-.allegations-animation {
-    max-width: 400px;
-    max-height: 205px;
-}
-.allegations-animation::after {
-    content: '\00a0';
-    display: inline-block;
-    width: 400px;
-    height: 205px;
-    padding: 0;
-    background-image: url(basicmath_0.png);
-    background-size: 479.25% 570.7317073170732%; 
-    animation-name: allegations-frames;
-    animation-timing-function: steps(1);
-    animation-duration: 1s;
-    animation-iteration-count: infinite;
-}
-div.allegations-animation::after {
-    max-width: 400px;
-    width: 100%;
-    height: 0;
-    padding: 0 0 51.25% 0;
-}
-
 @keyframes logarithms-frames {
-    0% { background-position: 99.93337774816789% 0.1272264631043257%;  }
-    50% { background-position: 99.53550099535501% 48.49246231155779%;  }
+    0% { background-position: 0.09225092250922509% 99.89637305699482%;  }
+    50% { background-position: 38.34862385321101% 98.87179487179488%;  }
 }
 
 .logarithms-animation {
@@ -70,7 +35,7 @@ div.allegations-animation::after {
     height: 384px;
     padding: 0;
     background-image: url(basicmath_0.png);
-    background-size: 460.8173076923077% 304.6875%; 
+    background-size: 360.5769230769231% 351.3020833333333%; 
     animation-name: logarithms-frames;
     animation-timing-function: steps(1);
     animation-duration: 1s;
@@ -83,4 +48,4 @@ div.logarithms-animation::after {
     padding: 0 0 92.3076923076923% 0;
 }
 
-/* $TexturePacker:SmartUpdate:f2d4e63fd2966765cabf6a7b31f8dfb7:4ed70137370a517a3e3ad3437fa7741b:125a5403c90c18ecdb43c8c30c750e8a$ */
+/* $TexturePacker:SmartUpdate:eaa01d8f7f6e6cb581f1f96050d77bb5:5ae32d63426719521661191fbcf7d7eb:125a5403c90c18ecdb43c8c30c750e8a$ */
