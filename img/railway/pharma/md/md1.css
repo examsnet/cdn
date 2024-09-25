@@ -1,0 +1,56 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.rrb_pharma_md1_44_1 {max-width:187px; max-height:77px; }
+.rrb_pharma_md1_44_1::after {content: '\00a0';display: inline-block; width:187px; height:77px; background-position: 3.8461538461538463% 55.27638190954774%; background-size: 113.90374331550802% 616.8831168831168%; background-image: url(md1_0.png);padding: 0; }
+div.rrb_pharma_md1_44_1::after {max-width:187px; width:100%;height:0;padding: 0 0 41.1764705882353% 0;}
+.rrb_pharma_md1_44_2 {max-width:183px; max-height:87px; }
+.rrb_pharma_md1_44_2::after {content: '\00a0';display: inline-block; width:183px; height:87px; background-position: 3.3333333333333335% 76.80412371134021%; background-size: 116.39344262295081% 545.9770114942529%; background-image: url(md1_0.png);padding: 0; }
+div.rrb_pharma_md1_44_2::after {max-width:183px; width:100%;height:0;padding: 0 0 47.540983606557376% 0;}
+.rrb_pharma_md1_44_3 {max-width:182px; max-height:88px; }
+.rrb_pharma_md1_44_3::after {content: '\00a0';display: inline-block; width:182px; height:88px; background-position: 3.225806451612903% 99.74160206718346%; background-size: 117.03296703296704% 539.7727272727273%; background-image: url(md1_0.png);padding: 0; }
+div.rrb_pharma_md1_44_3::after {max-width:182px; width:100%;height:0;padding: 0 0 48.35164835164835% 0;}
+.rrb_pharma_md1_44_4 {max-width:193px; max-height:91px; }
+.rrb_pharma_md1_44_4::after {content: '\00a0';display: inline-block; width:193px; height:91px; background-position: 5% 33.333333333333336%; background-size: 110.36269430051813% 521.978021978022%; background-image: url(md1_0.png);padding: 0; }
+div.rrb_pharma_md1_44_4::after {max-width:193px; width:100%;height:0;padding: 0 0 47.15025906735751% 0;}
+.rrb_pharma_md1_62 {max-width:211px; max-height:126px; }
+.rrb_pharma_md1_62::after {content: '\00a0';display: inline-block; width:211px; height:126px; background-position: 50% 0.28653295128939826%; background-size: 100.9478672985782% 376.984126984127%; background-image: url(md1_0.png);padding: 0; }
+div.rrb_pharma_md1_62::after {max-width:211px; width:100%;height:0;padding: 0 0 59.71563981042654% 0;}
+
+@keyframes rrb_pharma_md1_44-frames {
+    0% { background-position: 3.8461538461538463% 55.27638190954774%;  }
+    25% { background-position: 3.3333333333333335% 76.80412371134021%;  }
+    50% { background-position: 3.225806451612903% 99.74160206718346%;  }
+    75% { background-position: 5% 33.333333333333336%;  }
+}
+
+.rrb_pharma_md1_44-animation {
+    max-width: 187px;
+    max-height: 77px;
+}
+.rrb_pharma_md1_44-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 187px;
+    height: 77px;
+    padding: 0;
+    background-image: url(md1_0.png);
+    background-size: 113.90374331550802% 616.8831168831168%; 
+    animation-name: rrb_pharma_md1_44-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.rrb_pharma_md1_44-animation::after {
+    max-width: 187px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 41.1764705882353% 0;
+}
+
+/* $TexturePacker:SmartUpdate:7a17544a55c048a06e62ece28f0f8005:120d3353bc4eaf05f3fe6c5bd36f9449:33f7031f1b4de4a2076e17f1006bdab8$ */
