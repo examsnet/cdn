@@ -1,0 +1,48 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.ctet_21_jan_2024_115 {max-width:280px; max-height:62px; }
+.ctet_21_jan_2024_115::after {content: '\00a0';display: inline-block; width:280px; height:62px; background-position: 1.492537313432836% 50%; background-size: 123.92857142857143% 103.2258064516129%; background-image: url(ctet2_2024_0.png);padding: 0; }
+div.ctet_21_jan_2024_115::after {max-width:280px; width:100%;height:0;padding: 0 0 22.142857142857142% 0;}
+.ctet_21_jan_2024_82 {max-width:64px; max-height:28px; }
+.ctet_21_jan_2024_82::after {content: '\00a0';display: inline-block; width:64px; height:28px; background-position: 99.64664310954063% 2.7777777777777777%; background-size: 542.1875% 228.57142857142858%; background-image: url(ctet2_2024_0.png);padding: 0; }
+div.ctet_21_jan_2024_82::after {max-width:64px; width:100%;height:0;padding: 0 0 43.75% 0;}
+.ctet_21_s_jan_2024_115 {max-width:280px; max-height:62px; }
+.ctet_21_s_jan_2024_115::after {content: '\00a0';display: inline-block; width:280px; height:62px; background-position: 1.492537313432836% 50%; background-size: 123.92857142857143% 103.2258064516129%; background-image: url(ctet2_2024_0.png);padding: 0; }
+div.ctet_21_s_jan_2024_115::after {max-width:280px; width:100%;height:0;padding: 0 0 22.142857142857142% 0;}
+
+@keyframes ctet_21_jan_2024-frames {
+    0% { background-position: 99.64664310954063% 2.7777777777777777%;  }
+    50% { background-position: 1.492537313432836% 50%;  }
+}
+
+.ctet_21_jan_2024-animation {
+    max-width: 64px;
+    max-height: 28px;
+}
+.ctet_21_jan_2024-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 64px;
+    height: 28px;
+    padding: 0;
+    background-image: url(ctet2_2024_0.png);
+    background-size: 542.1875% 228.57142857142858%; 
+    animation-name: ctet_21_jan_2024-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.ctet_21_jan_2024-animation::after {
+    max-width: 64px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 43.75% 0;
+}
+
+/* $TexturePacker:SmartUpdate:238959c12702d5cc15c7b34104482b8b:278c3c2ccfd96e37ecfac73fedb8733f:cabb3705ed83673aa2b3a03ec7f3043d$ */
