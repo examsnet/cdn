@@ -34,10 +34,10 @@ div.jee_mn_23_jan_2025_s1_q_56::after {max-width:666px; width:100%;height:0;padd
 .jee_mn_23_jan_2025_s1_q_56a::after {content: '\00a0';display: inline-block; width:368px; height:158px; background-position: 87.00248756218906% 50.57937427578216%; background-size: 536.9565217391304% 1192.4050632911392%; background-image: url(jee_mn_23_jan_2025_s1_1.png);padding: 0; }
 div.jee_mn_23_jan_2025_s1_q_56a::after {max-width:368px; width:100%;height:0;padding: 0 0 42.93478260869565% 0;}
 .jee_mn_23_jan_2025_s1_q_56b {max-width:392px; max-height:228px; }
-.jee_mn_23_jan_2025_s1_q_56b::after {content: '\00a0';display: inline-block; width:392px; height:228px; background-position: 29.476248477466505% 75.57294577976523%; background-size: 518.8775510204082% 884.6491228070175%; background-image: url(jee_mn_23_jan_2025_s1_0.png);padding: 0; }
+.jee_mn_23_jan_2025_s1_q_56b::after {content: '\00a0';display: inline-block; width:392px; height:228px; background-position: 0.06313131313131314% 88.88888888888889%; background-size: 504.0816326530612% 826.3157894736842%; background-image: url(jee_mn_23_jan_2025_s1_1.png);padding: 0; }
 div.jee_mn_23_jan_2025_s1_q_56b::after {max-width:392px; width:100%;height:0;padding: 0 0 58.16326530612245% 0;}
 .jee_mn_23_jan_2025_s1_q_56c {max-width:350px; max-height:170px; }
-.jee_mn_23_jan_2025_s1_q_56c::after {content: '\00a0';display: inline-block; width:350px; height:170px; background-position: 0.06150061500615006% 85.88098016336056%; background-size: 564.5714285714286% 1108.235294117647%; background-image: url(jee_mn_23_jan_2025_s1_1.png);padding: 0; }
+.jee_mn_23_jan_2025_s1_q_56c::after {content: '\00a0';display: inline-block; width:350px; height:170px; background-position: 0.06150061500615006% 99.24154025670946%; background-size: 564.5714285714286% 1108.235294117647%; background-image: url(jee_mn_23_jan_2025_s1_1.png);padding: 0; }
 div.jee_mn_23_jan_2025_s1_q_56c::after {max-width:350px; width:100%;height:0;padding: 0 0 48.57142857142857% 0;}
 .jee_mn_23_jan_2025_s1_q_68 {max-width:544px; max-height:882px; }
 .jee_mn_23_jan_2025_s1_q_68::after {content: '\00a0';display: inline-block; width:544px; height:882px; background-position: 60.939597315436245% 67.31277533039648%; background-size: 373.8970588235294% 228.6848072562358%; background-image: url(jee_mn_23_jan_2025_s1_0.png);padding: 0; }
@@ -66,6 +66,9 @@ div.jee_mn_23_jan_2025_s1_sol_30::after {max-width:484px; width:100%;height:0;pa
 .jee_mn_23_jan_2025_s1_sol_35 {max-width:666px; max-height:360px; }
 .jee_mn_23_jan_2025_s1_sol_35::after {content: '\00a0';display: inline-block; width:666px; height:360px; background-position: 7.142857142857143% 62.88441145281018%; background-size: 102.10210210210211% 361.94444444444446%; background-image: url(jee_mn_23_jan_2025_s1_2.png);padding: 0; }
 div.jee_mn_23_jan_2025_s1_sol_35::after {max-width:666px; width:100%;height:0;padding: 0 0 54.054054054054056% 0;}
+.jee_mn_23_jan_2025_s1_sol_36 {max-width:374px; max-height:262px; }
+.jee_mn_23_jan_2025_s1_sol_36::after {content: '\00a0';display: inline-block; width:374px; height:262px; background-position: 29.156626506024097% 77.03703703703704%; background-size: 543.8502673796792% 769.8473282442748%; background-image: url(jee_mn_23_jan_2025_s1_0.png);padding: 0; }
+div.jee_mn_23_jan_2025_s1_sol_36::after {max-width:374px; width:100%;height:0;padding: 0 0 70.05347593582887% 0;}
 .jee_mn_23_jan_2025_s1_sol_37 {max-width:246px; max-height:310px; }
 .jee_mn_23_jan_2025_s1_sol_37::after {content: '\00a0';display: inline-block; width:246px; height:310px; background-position: 27.069351230425056% 60.984182776801404%; background-size: 826.829268292683% 650.6451612903226%; background-image: url(jee_mn_23_jan_2025_s1_0.png);padding: 0; }
 div.jee_mn_23_jan_2025_s1_sol_37::after {max-width:246px; width:100%;height:0;padding: 0 0 126.01626016260163% 0;}
@@ -141,24 +144,25 @@ div.jee_mn_23_jan_2025_s1_q-animation::after {
 
 @keyframes jee_mn_23_jan_2025_s1_sol-frames {
     0% { background-position: 0.06281407035175879% 65.42115262824572%;  }
-    5.263157894736842% { background-position: 0.07102272727272728% 57.15997603355303%;  }
-    10.526315789473683% { background-position: 0.08333333333333333% 99.93906154783669%;  }
-    15.789473684210526% { background-position: 33.53474320241692% 91.63023110555902%;  }
-    21.052631578947366% { background-position: 94.52702702702703% 27.577482605945605%;  }
-    26.31578947368421% { background-position: 0.07374631268436578% 0.06949270326615706%;  }
-    31.57894736842105% { background-position: 25.995316159250585% 60.374050263004094%;  }
-    36.84210526315789% { background-position: 99.93548387096774% 98.40255591054313%;  }
-    42.10526315789473% { background-position: 0.07309941520467836% 35.787567893783944%;  }
-    47.368421052631575% { background-position: 27.069351230425056% 60.984182776801404%;  }
-    52.63157894736842% { background-position: 93.2245922208281% 78.92918825561313%;  }
-    57.89473684210527% { background-position: 96.00271002710028% 0.06207324643078833%;  }
-    63.1578947368421% { background-position: 58.10276679841897% 36.910148674854554%;  }
-    68.42105263157895% { background-position: 78.10858143607706% 0.0796812749003984%;  }
-    73.68421052631578% { background-position: 98.70923913043478% 73.22128851540616%;  }
-    78.94736842105263% { background-position: 0.07374631268436578% 0.05837711617046118%;  }
-    84.21052631578947% { background-position: 0.08665511265164645% 37.06070287539936%;  }
-    89.47368421052632% { background-position: 63.2375189107413% 94.92795389048992%;  }
-    94.73684210526315% { background-position: 0.08741258741258741% 0.08019246190858059%;  }
+    5% { background-position: 0.07102272727272728% 57.15997603355303%;  }
+    10% { background-position: 0.08333333333333333% 99.93906154783669%;  }
+    15% { background-position: 33.53474320241692% 91.63023110555902%;  }
+    20% { background-position: 94.52702702702703% 27.577482605945605%;  }
+    25% { background-position: 0.07374631268436578% 0.06949270326615706%;  }
+    30% { background-position: 25.995316159250585% 60.374050263004094%;  }
+    35% { background-position: 99.93548387096774% 98.40255591054313%;  }
+    40% { background-position: 0.07309941520467836% 35.787567893783944%;  }
+    45% { background-position: 29.156626506024097% 77.03703703703704%;  }
+    50% { background-position: 27.069351230425056% 60.984182776801404%;  }
+    55.00000000000001% { background-position: 93.2245922208281% 78.92918825561313%;  }
+    60% { background-position: 96.00271002710028% 0.06207324643078833%;  }
+    65% { background-position: 58.10276679841897% 36.910148674854554%;  }
+    70% { background-position: 78.10858143607706% 0.0796812749003984%;  }
+    75% { background-position: 98.70923913043478% 73.22128851540616%;  }
+    80% { background-position: 0.07374631268436578% 0.05837711617046118%;  }
+    85% { background-position: 0.08665511265164645% 37.06070287539936%;  }
+    90% { background-position: 63.2375189107413% 94.92795389048992%;  }
+    95% { background-position: 0.08741258741258741% 0.08019246190858059%;  }
 }
 
 .jee_mn_23_jan_2025_s1_sol-animation {
@@ -185,4 +189,4 @@ div.jee_mn_23_jan_2025_s1_sol-animation::after {
     padding: 0 0 99.09502262443439% 0;
 }
 
-/* $TexturePacker:SmartUpdate:5c377fe4a2639c0a0015f4022e5e00c0:59563a406196902862b95f164bda8f8a:ae3539148caa8542946e1a689b3391d5$ */
+/* $TexturePacker:SmartUpdate:a6c6d6b1a5b8995e11233748e656ed23:ae4e27fc77f6f512aeb637de258c6c85:ae3539148caa8542946e1a689b3391d5$ */
