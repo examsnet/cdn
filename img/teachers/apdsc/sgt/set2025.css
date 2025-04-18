@@ -1,0 +1,51 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.apdsc_sgt_2025_mock_1_100 {max-width:164px; max-height:142px; }
+.apdsc_sgt_2025_mock_1_100::after {content: '\00a0';display: inline-block; width:164px; height:142px; background-position: 0.08718395815170009% 0.5208333333333334%; background-size: 799.390243902439% 235.2112676056338%; background-image: url(set2025_0.png);padding: 0; }
+div.apdsc_sgt_2025_mock_1_100::after {max-width:164px; width:100%;height:0;padding: 0 0 86.58536585365853% 0;}
+.apdsc_sgt_2025_mock_1_92 {max-width:533px; max-height:327px; }
+.apdsc_sgt_2025_mock_1_92::after {content: '\00a0';display: inline-block; width:533px; height:327px; background-position: 46.27249357326478% 14.285714285714286%; background-size: 245.96622889305817% 102.14067278287462%; background-image: url(set2025_0.png);padding: 0; }
+div.apdsc_sgt_2025_mock_1_92::after {max-width:533px; width:100%;height:0;padding: 0 0 61.350844277673545% 0;}
+.apdsc_sgt_2025_mock_2_98 {max-width:193px; max-height:261px; }
+.apdsc_sgt_2025_mock_2_98::after {content: '\00a0';display: inline-block; width:193px; height:261px; background-position: 14.847942754919499% 1.36986301369863%; background-size: 679.2746113989638% 127.96934865900383%; background-image: url(set2025_0.png);padding: 0; }
+div.apdsc_sgt_2025_mock_2_98::after {max-width:193px; width:100%;height:0;padding: 0 0 135.23316062176167% 0;}
+.apdsc_sgt_2025_mock_5_100 {max-width:416px; max-height:332px; }
+.apdsc_sgt_2025_mock_5_100::after {content: '\00a0';display: inline-block; width:416px; height:332px; background-position: 99.88826815642459% 50%; background-size: 315.1442307692308% 100.60240963855422%; background-image: url(set2025_0.png);padding: 0; }
+div.apdsc_sgt_2025_mock_5_100::after {max-width:416px; width:100%;height:0;padding: 0 0 79.8076923076923% 0;}
+
+@keyframes apdsc_sgt_2025_mock_1-frames {
+    0% { background-position: 46.27249357326478% 14.285714285714286%;  }
+    50% { background-position: 0.08718395815170009% 0.5208333333333334%;  }
+}
+
+.apdsc_sgt_2025_mock_1-animation {
+    max-width: 533px;
+    max-height: 327px;
+}
+.apdsc_sgt_2025_mock_1-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 533px;
+    height: 327px;
+    padding: 0;
+    background-image: url(set2025_0.png);
+    background-size: 245.96622889305817% 102.14067278287462%; 
+    animation-name: apdsc_sgt_2025_mock_1-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.apdsc_sgt_2025_mock_1-animation::after {
+    max-width: 533px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 61.350844277673545% 0;
+}
+
+/* $TexturePacker:SmartUpdate:5d66acf6cc33bb8b8f1a345ec28178b4:6260946b0225bdcb7b5a1f96bee02e5d:f6a1b2e7bdc7cde054d3e59f5d7077eb$ */
