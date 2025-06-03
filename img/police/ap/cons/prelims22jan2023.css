@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.ap_police_prelims_22_jan_2023_82 {max-width:448px; max-height:90px; }
+.ap_police_prelims_22_jan_2023_82::after {content: '\00a0';display: inline-block; width:448px; height:90px; background-position: 50% 50%; background-size: 100.44642857142857% 102.22222222222223%; background-image: url(prelims22jan2023_0.png);padding: 0; }
+div.ap_police_prelims_22_jan_2023_82::after {max-width:448px; width:100%;height:0;padding: 0 0 20.089285714285715% 0;}
+
+
+/* $TexturePacker:SmartUpdate:af047bc6b78d3df8c84772d3969ad5d5:a1f39b4ab56130c10a8d57aa2f42fed7:c350653ac69b0e2d71b11c67d6d7f8b0$ */
