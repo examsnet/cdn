@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.sbipo_4_nov_2023_s2_36_para {max-width:286px; max-height:340px; }
+.sbipo_4_nov_2023_s2_36_para::after {content: '\00a0';display: inline-block; width:286px; height:340px; background-position: 28.844221105527637% 14.285714285714286%; background-size: 447.9020979020979% 102.05882352941177%; background-image: url(sbipo2023_0.png);padding: 0; }
+div.sbipo_4_nov_2023_s2_36_para::after {max-width:286px; width:100%;height:0;padding: 0 0 118.88111888111888% 0;}
+.sbipo_4_nov_2023_s2_36_para_1 {max-width:285px; max-height:345px; }
+.sbipo_4_nov_2023_s2_36_para_1::after {content: '\00a0';display: inline-block; width:285px; height:345px; background-position: 0.10040160642570281% 50%; background-size: 449.4736842105263% 100.57971014492753%; background-image: url(sbipo2023_0.png);padding: 0; }
+div.sbipo_4_nov_2023_s2_36_para_1::after {max-width:285px; width:100%;height:0;padding: 0 0 121.05263157894737% 0;}
+.sbipo_6_nov_2023_s1_31_para {max-width:286px; max-height:316px; }
+.sbipo_6_nov_2023_s1_31_para::after {content: '\00a0';display: inline-block; width:286px; height:316px; background-position: 57.688442211055275% 3.225806451612903%; background-size: 447.9020979020979% 109.81012658227849%; background-image: url(sbipo2023_0.png);padding: 0; }
+div.sbipo_6_nov_2023_s1_31_para::after {max-width:286px; width:100%;height:0;padding: 0 0 110.4895104895105% 0;}
+.sbipo_6_nov_2023_s2_56_para {max-width:188px; max-height:236px; }
+.sbipo_6_nov_2023_s2_56_para::after {content: '\00a0';display: inline-block; width:188px; height:236px; background-position: 99.90850869167429% 0.9009009009009009%; background-size: 681.3829787234042% 147.03389830508473%; background-image: url(sbipo2023_0.png);padding: 0; }
+div.sbipo_6_nov_2023_s2_56_para::after {max-width:188px; width:100%;height:0;padding: 0 0 125.53191489361703% 0;}
+.sbipo_6_nov_2023_s2_56_para_1 {max-width:230px; max-height:278px; }
+.sbipo_6_nov_2023_s2_56_para_1::after {content: '\00a0';display: inline-block; width:230px; height:278px; background-position: 81.92197906755472% 1.4492753623188406%; background-size: 556.9565217391304% 124.82014388489209%; background-image: url(sbipo2023_0.png);padding: 0; }
+div.sbipo_6_nov_2023_s2_56_para_1::after {max-width:230px; width:100%;height:0;padding: 0 0 120.8695652173913% 0;}
+
+
+/* $TexturePacker:SmartUpdate:d1c8968a09c3b908f38a4542e8efb59b:67b51cc87facac4e49731becc1796c94:d94e5bb88da5e4b14da588b13fa6b6ae$ */
