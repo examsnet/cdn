@@ -6,352 +6,356 @@ Inline:     <i class="yourspritesname"></i>
 Responsive: <div class="yourspritesname"></div>
 */
 
+.neet_2025_pc_q_1 {max-width:380px; max-height:204px; }
+.neet_2025_pc_q_1::after {content: '\00a0';display: inline-block; width:380px; height:204px; background-position: 34.85302939412117% 47.12581344902386%; background-size: 538.6842105263158% 1003.9215686274509%; background-image: url(neet2025_0.png);padding: 0; }
+div.neet_2025_pc_q_1::after {max-width:380px; width:100%;height:0;padding: 0 0 53.68421052631579% 0;}
 .neet_2025_pc_q_112 {max-width:139px; max-height:169px; }
-.neet_2025_pc_q_112::after {content: '\00a0';display: inline-block; width:139px; height:169px; background-position: 67.9549114331723% 68.88769478774853%; background-size: 1440.2877697841727% 1201.1834319526627%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_112::after {content: '\00a0';display: inline-block; width:139px; height:169px; background-position: 23.11320754716981% 28.951569984034062%; background-size: 1472.6618705035971% 1211.8343195266273%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_112::after {max-width:139px; width:100%;height:0;padding: 0 0 121.58273381294964% 0;}
 .neet_2025_pc_q_15 {max-width:366px; max-height:189px; }
-.neet_2025_pc_q_15::after {content: '\00a0';display: inline-block; width:366px; height:189px; background-position: 26.9559902200489% 90.16838674633351%; background-size: 546.9945355191256% 1074.0740740740741%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_15::after {content: '\00a0';display: inline-block; width:366px; height:189px; background-position: 67.22189173111244% 64.81979558902636%; background-size: 559.2896174863388% 1083.5978835978835%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_15::after {max-width:366px; width:100%;height:0;padding: 0 0 51.63934426229508% 0;}
 .neet_2025_pc_q_155 {max-width:195px; max-height:244px; }
-.neet_2025_pc_q_155::after {content: '\00a0';display: inline-block; width:195px; height:244px; background-position: 41.67127836192584% 59.57446808510638%; background-size: 1026.6666666666667% 831.9672131147541%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_155::after {content: '\00a0';display: inline-block; width:195px; height:244px; background-position: 20.464362850971924% 61.30820399113082%; background-size: 1049.7435897435898% 839.344262295082%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_155::after {max-width:195px; width:100%;height:0;padding: 0 0 125.12820512820512% 0;}
 .neet_2025_pc_q_164a {max-width:370px; max-height:182px; }
-.neet_2025_pc_q_164a::after {content: '\00a0';display: inline-block; width:370px; height:182px; background-position: 49.509803921568626% 90.04329004329004%; background-size: 541.081081081081% 1115.3846153846155%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_164a::after {content: '\00a0';display: inline-block; width:370px; height:182px; background-position: 95.46809779367919% 58.68167202572347%; background-size: 553.2432432432432% 1125.2747252747254%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_164a::after {max-width:370px; width:100%;height:0;padding: 0 0 49.189189189189186% 0;}
 .neet_2025_pc_q_164b {max-width:371px; max-height:175px; }
-.neet_2025_pc_q_164b::after {content: '\00a0';display: inline-block; width:371px; height:175px; background-position: 58.859595340282034% 80.21563342318059%; background-size: 539.622641509434% 1160%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_164b::after {content: '\00a0';display: inline-block; width:371px; height:175px; background-position: 69.21241050119332% 54.938601174586225%; background-size: 551.7520215633423% 1170.2857142857142%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_164b::after {max-width:371px; width:100%;height:0;padding: 0 0 47.16981132075472% 0;}
 .neet_2025_pc_q_164c {max-width:387px; max-height:176px; }
-.neet_2025_pc_q_164c::after {content: '\00a0';display: inline-block; width:387px; height:176px; background-position: 89.6594427244582% 49.35275080906149%; background-size: 517.312661498708% 1153.409090909091%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_164c::after {content: '\00a0';display: inline-block; width:387px; height:176px; background-position: 0.060240963855421686% 43.53632478632478%; background-size: 528.9405684754522% 1163.6363636363637%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_164c::after {max-width:387px; width:100%;height:0;padding: 0 0 45.47803617571059% 0;}
 .neet_2025_pc_q_164d {max-width:387px; max-height:179px; }
-.neet_2025_pc_q_164d::after {content: '\00a0';display: inline-block; width:387px; height:179px; background-position: 26.563467492260063% 99.94597514856834%; background-size: 517.312661498708% 1134.0782122905027%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_164d::after {content: '\00a0';display: inline-block; width:387px; height:179px; background-position: 98.97590361445783% 27.073301230604603%; background-size: 528.9405684754522% 1144.1340782122904%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_164d::after {max-width:387px; width:100%;height:0;padding: 0 0 46.253229974160206% 0;}
 .neet_2025_pc_q_22 {max-width:586px; max-height:277px; }
-.neet_2025_pc_q_22::after {content: '\00a0';display: inline-block; width:586px; height:277px; background-position: 41.666666666666664% 0.05704506560182544%; background-size: 341.6382252559727% 732.8519855595667%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_22::after {content: '\00a0';display: inline-block; width:586px; height:277px; background-position: 40.38329911019849% 0.05646527385657821%; background-size: 349.3174061433447% 739.3501805054152%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_22::after {max-width:586px; width:100%;height:0;padding: 0 0 47.26962457337884% 0;}
 .neet_2025_pc_q_25 {max-width:269px; max-height:118px; }
-.neet_2025_pc_q_25::after {content: '\00a0';display: inline-block; width:269px; height:118px; background-position: 99.94229659549913% 57.11297071129707%; background-size: 744.2379182156134% 1720.3389830508474%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_25::after {content: '\00a0';display: inline-block; width:269px; height:118px; background-position: 99.32508436445444% 78.9119170984456%; background-size: 760.9665427509294% 1735.593220338983%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_25::after {max-width:269px; width:100%;height:0;padding: 0 0 43.86617100371747% 0;}
 .neet_2025_pc_q_30 {max-width:150px; max-height:150px; }
-.neet_2025_pc_q_30::after {content: '\00a0';display: inline-block; width:150px; height:150px; background-position: 78.18574514038878% 87.02127659574468%; background-size: 1334.6666666666667% 1353.3333333333333%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_30::after {content: '\00a0';display: inline-block; width:150px; height:150px; background-position: 22.61465471797575% 37.61854583772392%; background-size: 1364.6666666666667% 1365.3333333333333%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_30::after {max-width:150px; width:100%;height:0;padding: 0 0 100% 0;}
 .neet_2025_pc_q_36 {max-width:249px; max-height:201px; }
-.neet_2025_pc_q_36::after {content: '\00a0';display: inline-block; width:249px; height:201px; background-position: 67.59840273816314% 55.38545653362493%; background-size: 804.0160642570281% 1009.9502487562189%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_36::after {content: '\00a0';display: inline-block; width:249px; height:201px; background-position: 85.26140155728588% 99.94585814834868%; background-size: 822.0883534136547% 1018.905472636816%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_36::after {max-width:249px; width:100%;height:0;padding: 0 0 80.72289156626506% 0;}
 .neet_2025_pc_q_41 {max-width:268px; max-height:203px; }
-.neet_2025_pc_q_41::after {content: '\00a0';display: inline-block; width:268px; height:203px; background-position: 99.88465974625144% 66.28352490421456%; background-size: 747.0149253731344% 1000%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_41::after {content: '\00a0';display: inline-block; width:268px; height:203px; background-position: 99.26925238898258% 88.99728997289972%; background-size: 763.8059701492538% 1008.8669950738916%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_41::after {max-width:268px; width:100%;height:0;padding: 0 0 75.74626865671642% 0;}
 .neet_2025_pc_q_45 {max-width:308px; max-height:216px; }
-.neet_2025_pc_q_45::after {content: '\00a0';display: inline-block; width:308px; height:216px; background-position: 67.35537190082644% 38.20286659316428%; background-size: 650% 939.8148148148148%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_45::after {content: '\00a0';display: inline-block; width:308px; height:216px; background-position: 99.02242668200115% 3.438864628820961%; background-size: 664.6103896103896% 948.1481481481482%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_45::after {max-width:308px; width:100%;height:0;padding: 0 0 70.12987012987013% 0;}
 .neet_2025_pc_q_46 {max-width:356px; max-height:113px; }
-.neet_2025_pc_q_46::after {content: '\00a0';display: inline-block; width:356px; height:113px; background-position: 49.63547995139733% 96.34846113719354%; background-size: 562.3595505617977% 1796.4601769911505%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_46::after {content: '\00a0';display: inline-block; width:356px; height:113px; background-position: 0.05913660555884092% 83.87596899224806%; background-size: 575% 1812.3893805309735%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_46::after {max-width:356px; width:100%;height:0;padding: 0 0 31.741573033707866% 0;}
 .neet_2025_pc_q_53a {max-width:95px; max-height:42px; }
-.neet_2025_pc_q_53a::after {content: '\00a0';display: inline-block; width:95px; height:42px; background-position: 83.79653906659675% 99.64788732394366%; background-size: 2107.3684210526317% 4833.333333333333%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_53a::after {content: '\00a0';display: inline-block; width:95px; height:42px; background-position: 54.91803278688525% 19.84047856430708%; background-size: 2154.7368421052633% 4876.190476190476%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_53a::after {max-width:95px; width:100%;height:0;padding: 0 0 44.21052631578947% 0;}
 .neet_2025_pc_q_53b {max-width:102px; max-height:42px; }
-.neet_2025_pc_q_53b::after {content: '\00a0';display: inline-block; width:102px; height:42px; background-position: 24.42105263157895% 14.738430583501007%; background-size: 1962.7450980392157% 4833.333333333333%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_53b::after {content: '\00a0';display: inline-block; width:102px; height:42px; background-position: 55.11568123393316% 17.69690927218345%; background-size: 2006.862745098039% 4876.190476190476%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_53b::after {max-width:102px; width:100%;height:0;padding: 0 0 41.1764705882353% 0;}
 .neet_2025_pc_q_58a {max-width:221px; max-height:52px; }
-.neet_2025_pc_q_58a::after {content: '\00a0';display: inline-block; width:221px; height:52px; background-position: 87.1420550252667% 79.87866531850354%; background-size: 905.8823529411765% 3903.846153846154%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_58a::after {content: '\00a0';display: inline-block; width:221px; height:52px; background-position: 0.054764512595837894% 99.8496993987976%; background-size: 926.2443438914028% 3938.4615384615386%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_58a::after {max-width:221px; width:100%;height:0;padding: 0 0 23.529411764705884% 0;}
 .neet_2025_pc_q_58b {max-width:235px; max-height:66px; }
-.neet_2025_pc_q_58b::after {content: '\00a0';display: inline-block; width:235px; height:66px; background-position: 67.06281833616299% 61.86354378818737%; background-size: 851.9148936170212% 3075.757575757576%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_58b::after {content: '\00a0';display: inline-block; width:235px; height:66px; background-position: 22.85276073619632% 98.83040935672514%; background-size: 654.8936170212766% 359.09090909090907%; background-image: url(neet2025_1.png);padding: 0; }
 div.neet_2025_pc_q_58b::after {max-width:235px; width:100%;height:0;padding: 0 0 28.085106382978722% 0;}
 .neet_2025_pc_q_58c {max-width:240px; max-height:76px; }
-.neet_2025_pc_q_58c::after {content: '\00a0';display: inline-block; width:240px; height:76px; background-position: 88.0817253121453% 76.91914022517912%; background-size: 834.1666666666666% 2671.0526315789475%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_58c::after {content: '\00a0';display: inline-block; width:240px; height:76px; background-position: 98.67183176535694% 97.16024340770791%; background-size: 852.9166666666666% 2694.7368421052633%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_58c::after {max-width:240px; width:100%;height:0;padding: 0 0 31.666666666666668% 0;}
 .neet_2025_pc_q_58d {max-width:309px; max-height:61px; }
-.neet_2025_pc_q_58d::after {content: '\00a0';display: inline-block; width:309px; height:61px; background-position: 48.25753101004135% 99.59370238699847%; background-size: 647.8964401294498% 3327.8688524590166%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_58d::after {content: '\00a0';display: inline-block; width:309px; height:61px; background-position: 99.07940161104717% 0.050327126321087066%; background-size: 662.4595469255663% 3357.377049180328%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_58d::after {max-width:309px; width:100%;height:0;padding: 0 0 19.741100323624597% 0;}
 .neet_2025_pc_q_6 {max-width:373px; max-height:254px; }
-.neet_2025_pc_q_6::after {content: '\00a0';display: inline-block; width:373px; height:254px; background-position: 23.265807243707798% 59.909909909909906%; background-size: 536.7292225201072% 799.2125984251968%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_6::after {content: '\00a0';display: inline-block; width:373px; height:254px; background-position: 34.40860215053763% 59.86622073578595%; background-size: 548.7935656836461% 806.2992125984252%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_6::after {max-width:373px; width:100%;height:0;padding: 0 0 68.09651474530831% 0;}
 .neet_2025_pc_q_60 {max-width:196px; max-height:73px; }
-.neet_2025_pc_q_60::after {content: '\00a0';display: inline-block; width:196px; height:73px; background-position: 88.53820598006645% 83.44404701073071%; background-size: 1021.4285714285714% 2780.821917808219%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_60::after {content: '\00a0';display: inline-block; width:196px; height:73px; background-position: 20.475418692598595% 52.25316455696203%; background-size: 1044.3877551020407% 2805.4794520547944%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_60::after {max-width:196px; width:100%;height:0;padding: 0 0 37.244897959183675% 0;}
 .neet_2025_pc_q_64a {max-width:217px; max-height:118px; }
-.neet_2025_pc_q_64a::after {content: '\00a0';display: inline-block; width:217px; height:118px; background-position: 92.15017064846417% 15.751445086705202%; background-size: 235.02304147465438% 686.4406779661017%; background-image: url(neet2025_1.png);padding: 0; }
+.neet_2025_pc_q_64a::after {content: '\00a0';display: inline-block; width:217px; height:118px; background-position: 83.77049180327869% 85.5958549222798%; background-size: 943.3179723502304% 1735.593220338983%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_64a::after {max-width:217px; width:100%;height:0;padding: 0 0 54.3778801843318% 0;}
 .neet_2025_pc_q_64b {max-width:266px; max-height:155px; }
-.neet_2025_pc_q_64b::after {content: '\00a0';display: inline-block; width:266px; height:155px; background-position: 0.4098360655737705% 19.84732824427481%; background-size: 191.72932330827066% 522.5806451612904%; background-image: url(neet2025_1.png);padding: 0; }
+.neet_2025_pc_q_64b::after {content: '\00a0';display: inline-block; width:266px; height:155px; background-position: 99.92144540455617% 1.2195121951219512%; background-size: 578.5714285714286% 152.90322580645162%; background-image: url(neet2025_1.png);padding: 0; }
 div.neet_2025_pc_q_64b::after {max-width:266px; width:100%;height:0;padding: 0 0 58.27067669172932% 0;}
 .neet_2025_pc_q_64c {max-width:280px; max-height:148px; }
-.neet_2025_pc_q_64c::after {content: '\00a0';display: inline-block; width:280px; height:148px; background-position: 99.94192799070848% 16.418703506907544%; background-size: 715% 1371.6216216216217%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_64c::after {content: '\00a0';display: inline-block; width:280px; height:148px; background-position: 68.81720430107526% 79.10526315789474%; background-size: 731.0714285714286% 1383.7837837837837%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_64c::after {max-width:280px; width:100%;height:0;padding: 0 0 52.857142857142854% 0;}
 .neet_2025_pc_q_64d {max-width:279px; max-height:150px; }
-.neet_2025_pc_q_64d::after {content: '\00a0';display: inline-block; width:279px; height:150px; background-position: 99.94196169471851% 0.05319148936170213%; background-size: 717.5627240143369% 1353.3333333333333%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_64d::after {content: '\00a0';display: inline-block; width:279px; height:150px; background-position: 52.94117647058823% 79.34668071654373%; background-size: 733.6917562724014% 1365.3333333333333%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_64d::after {max-width:279px; width:100%;height:0;padding: 0 0 53.763440860215056% 0;}
 .neet_2025_pc_q_7 {max-width:306px; max-height:102px; }
-.neet_2025_pc_q_7::after {content: '\00a0';display: inline-block; width:306px; height:102px; background-position: 67.27594339622641% 47.19917012448133%; background-size: 654.2483660130719% 1990.1960784313726%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_7::after {content: '\00a0';display: inline-block; width:306px; height:102px; background-position: 12.8661688684664% 99.74306269270298%; background-size: 668.9542483660131% 2007.8431372549019%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_7::after {max-width:306px; width:100%;height:0;padding: 0 0 33.333333333333336% 0;}
 .neet_2025_pc_q_75 {max-width:255px; max-height:116px; }
-.neet_2025_pc_q_75::after {content: '\00a0';display: inline-block; width:255px; height:116px; background-position: 0.39215686274509803% 41.210374639769455%; background-size: 200% 698.2758620689655%; background-image: url(neet2025_1.png);padding: 0; }
+.neet_2025_pc_q_75::after {content: '\00a0';display: inline-block; width:255px; height:116px; background-position: 83.53794642857143% 66.14906832298136%; background-size: 802.7450980392157% 1765.5172413793102%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_75::after {max-width:255px; width:100%;height:0;padding: 0 0 45.490196078431374% 0;}
 .neet_2025_pc_q_81a {max-width:157px; max-height:64px; }
-.neet_2025_pc_q_81a::after {content: '\00a0';display: inline-block; width:157px; height:64px; background-position: 86.61246612466125% 97.45676500508647%; background-size: 1275.1592356687897% 3171.875%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_81a::after {content: '\00a0';display: inline-block; width:157px; height:64px; background-position: 52.48677248677249% 38.35685483870968%; background-size: 1303.8216560509554% 3200%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_81a::after {max-width:157px; width:100%;height:0;padding: 0 0 40.76433121019108% 0;}
 .neet_2025_pc_q_81b {max-width:123px; max-height:68px; }
-.neet_2025_pc_q_81b::after {content: '\00a0';display: inline-block; width:123px; height:68px; background-position: 98.19052687599788% 86.64627930682977%; background-size: 1627.6422764227643% 2985.294117647059%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_81b::after {content: '\00a0';display: inline-block; width:123px; height:68px; background-position: 11.642411642411643% 94.54545454545455%; background-size: 1664.2276422764228% 3011.764705882353%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_81b::after {max-width:123px; width:100%;height:0;padding: 0 0 55.28455284552845% 0;}
 .neet_2025_pc_q_81c {max-width:68px; max-height:69px; }
-.neet_2025_pc_q_81c::after {content: '\00a0';display: inline-block; width:68px; height:69px; background-position: 85.16028955532575% 66.0377358490566%; background-size: 2944.1176470588234% 2942.0289855072465%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_81c::after {content: '\00a0';display: inline-block; width:68px; height:69px; background-position: 77.41283476503284% 51.99595755432036%; background-size: 3010.294117647059% 2968.1159420289855%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_81c::after {max-width:68px; width:100%;height:0;padding: 0 0 101.47058823529412% 0;}
 .neet_2025_pc_q_81d {max-width:124px; max-height:67px; }
-.neet_2025_pc_q_81d::after {content: '\00a0';display: inline-block; width:124px; height:67px; background-position: 95.52715654952077% 94.24350483953133%; background-size: 1614.516129032258% 3029.8507462686566%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_81d::after {content: '\00a0';display: inline-block; width:124px; height:67px; background-position: 11.648465938637546% 91.06511862695608%; background-size: 1650.8064516129032% 3056.716417910448%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_81d::after {max-width:124px; width:100%;height:0;padding: 0 0 54.03225806451613% 0;}
 .neet_2025_pc_q_82 {max-width:300px; max-height:68px; }
-.neet_2025_pc_q_82::after {content: '\00a0';display: inline-block; width:300px; height:68px; background-position: 68.97767332549941% 99.38837920489297%; background-size: 667.3333333333334% 2985.294117647059%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_82::after {content: '\00a0';display: inline-block; width:300px; height:68px; background-position: 43.82566585956417% 97.63313609467455%; background-size: 513% 348.52941176470586%; background-image: url(neet2025_1.png);padding: 0; }
 div.neet_2025_pc_q_82::after {max-width:300px; width:100%;height:0;padding: 0 0 22.666666666666668% 0;}
 .neet_2025_pc_q_82a {max-width:93px; max-height:64px; }
-.neet_2025_pc_q_82a::after {content: '\00a0';display: inline-block; width:93px; height:64px; background-position: 98.74279727606077% 80.51881993896237%; background-size: 2152.6881720430106% 3171.875%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_82a::after {content: '\00a0';display: inline-block; width:93px; height:64px; background-position: 54.8618219037871% 22.22782258064516%; background-size: 2201.0752688172042% 3200%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_82a::after {max-width:93px; width:100%;height:0;padding: 0 0 68.81720430107526% 0;}
 .neet_2025_pc_q_82b {max-width:104px; max-height:75px; }
-.neet_2025_pc_q_82b::after {content: '\00a0';display: inline-block; width:104px; height:75px; background-position: 56.21707060063225% 14.271099744245523%; background-size: 1925% 2706.6666666666665%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_82b::after {content: '\00a0';display: inline-block; width:104px; height:75px; background-position: 55.172413793103445% 14.1409021794222%; background-size: 1968.2692307692307% 2730.6666666666665%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_82b::after {max-width:104px; width:100%;height:0;padding: 0 0 72.11538461538461% 0;}
 .neet_2025_pc_q_82c {max-width:105px; max-height:72px; }
-.neet_2025_pc_q_82c::after {content: '\00a0';display: inline-block; width:105px; height:72px; background-position: 94.41222983658407% 90.755873340143%; background-size: 1906.6666666666667% 2819.4444444444443%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_82c::after {content: '\00a0';display: inline-block; width:105px; height:72px; background-position: 78.93923789907312% 89.6255060728745%; background-size: 1949.5238095238096% 2844.4444444444443%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_82c::after {max-width:105px; width:100%;height:0;padding: 0 0 68.57142857142857% 0;}
 .neet_2025_pc_q_82d {max-width:125px; max-height:66px; }
-.neet_2025_pc_q_82d::after {content: '\00a0';display: inline-block; width:125px; height:66px; background-position: 93.55354288758657% 97.65784114052953%; background-size: 1601.6% 3075.757575757576%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_82d::after {content: '\00a0';display: inline-block; width:125px; height:66px; background-position: 11.65452653485952% 87.63874873864783%; background-size: 1637.6% 3103.030303030303%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_82d::after {max-width:125px; width:100%;height:0;padding: 0 0 52.8% 0;}
 .neet_2025_pc_q_8a {max-width:242px; max-height:159px; }
-.neet_2025_pc_q_8a::after {content: '\00a0';display: inline-block; width:242px; height:159px; background-position: 91.7910447761194% 83.10291858678956%; background-size: 210.74380165289256% 509.4339622641509%; background-image: url(neet2025_1.png);padding: 0; }
+.neet_2025_pc_q_8a::after {content: '\00a0';display: inline-block; width:242px; height:159px; background-position: 79.33693138010794% 1.2820512820512822%; background-size: 635.9504132231405% 149.0566037735849%; background-image: url(neet2025_1.png);padding: 0; }
 div.neet_2025_pc_q_8a::after {max-width:242px; width:100%;height:0;padding: 0 0 65.70247933884298% 0;}
 .neet_2025_pc_q_8b {max-width:240px; max-height:163px; }
-.neet_2025_pc_q_8b::after {content: '\00a0';display: inline-block; width:240px; height:163px; background-position: 79.79568671963678% 69.3626138189609%; background-size: 834.1666666666666% 1245.398773006135%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_8b::after {content: '\00a0';display: inline-block; width:240px; height:163px; background-position: 41.801385681293304% 1.3513513513513513%; background-size: 641.25% 145.39877300613497%; background-image: url(neet2025_1.png);padding: 0; }
 div.neet_2025_pc_q_8b::after {max-width:240px; width:100%;height:0;padding: 0 0 67.91666666666667% 0;}
 .neet_2025_pc_q_8c {max-width:244px; max-height:160px; }
-.neet_2025_pc_q_8c::after {content: '\00a0';display: inline-block; width:244px; height:160px; background-position: 0.37593984962406013% 62%; background-size: 209.01639344262296% 506.25%; background-image: url(neet2025_1.png);padding: 0; }
+.neet_2025_pc_q_8c::after {content: '\00a0';display: inline-block; width:244px; height:160px; background-position: 60.54054054054054% 1.2987012987012987%; background-size: 630.7377049180328% 148.125%; background-image: url(neet2025_1.png);padding: 0; }
 div.neet_2025_pc_q_8c::after {max-width:244px; width:100%;height:0;padding: 0 0 65.57377049180327% 0;}
 .neet_2025_pc_q_8d {max-width:244px; max-height:167px; }
-.neet_2025_pc_q_8d::after {content: '\00a0';display: inline-block; width:244px; height:167px; background-position: 96.61654135338345% 58.009331259720064%; background-size: 209.01639344262296% 485.02994011976045%; background-image: url(neet2025_1.png);padding: 0; }
+.neet_2025_pc_q_8d::after {content: '\00a0';display: inline-block; width:244px; height:167px; background-position: 23.01158301158301% 1.4285714285714286%; background-size: 630.7377049180328% 141.91616766467067%; background-image: url(neet2025_1.png);padding: 0; }
 div.neet_2025_pc_q_8d::after {max-width:244px; width:100%;height:0;padding: 0 0 68.44262295081967% 0;}
 .neet_2025_pc_q_9 {max-width:476px; max-height:77px; }
-.neet_2025_pc_q_9::after {content: '\00a0';display: inline-block; width:476px; height:77px; background-position: 38.663171690694625% 14.285714285714286%; background-size: 420.5882352941176% 2636.3636363636365%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_9::after {content: '\00a0';display: inline-block; width:476px; height:77px; background-position: 74.22024188415023% 23.28767123287671%; background-size: 430.0420168067227% 2659.7402597402597%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_9::after {max-width:476px; width:100%;height:0;padding: 0 0 16.176470588235293% 0;}
 .neet_2025_pc_q_90 {max-width:273px; max-height:102px; }
-.neet_2025_pc_q_90::after {content: '\00a0';display: inline-block; width:273px; height:102px; background-position: 67.90052053209948% 95.79875518672199%; background-size: 733.3333333333334% 1990.1960784313726%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_90::after {content: '\00a0';display: inline-block; width:273px; height:102px; background-position: 76.04284103720406% 71.68550873586845%; background-size: 749.8168498168499% 2007.8431372549019%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_90::after {max-width:273px; width:100%;height:0;padding: 0 0 37.362637362637365% 0;}
 .neet_2025_pc_q_90a {max-width:175px; max-height:88px; }
-.neet_2025_pc_q_90a::after {content: '\00a0';display: inline-block; width:175px; height:88px; background-position: 52.23880597014925% 97.09141274238227%; background-size: 291.42857142857144% 920.4545454545455%; background-image: url(neet2025_1.png);padding: 0; }
+.neet_2025_pc_q_90a::after {content: '\00a0';display: inline-block; width:175px; height:88px; background-position: 50.74786324786325% 63.62244897959184%; background-size: 1169.7142857142858% 2327.2727272727275%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_90a::after {max-width:175px; width:100%;height:0;padding: 0 0 50.285714285714285% 0;}
 .neet_2025_pc_q_90b {max-width:179px; max-height:86px; }
-.neet_2025_pc_q_90b::after {content: '\00a0';display: inline-block; width:179px; height:86px; background-position: 0.3021148036253776% 77.90055248618785%; background-size: 284.91620111731845% 941.8604651162791%; background-image: url(neet2025_1.png);padding: 0; }
+.neet_2025_pc_q_90b::after {content: '\00a0';display: inline-block; width:179px; height:86px; background-position: 50.856531049250535% 59.123343527013255%; background-size: 1143.5754189944134% 2381.3953488372094%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_90b::after {max-width:179px; width:100%;height:0;padding: 0 0 48.04469273743017% 0;}
 .neet_2025_pc_q_90c {max-width:158px; max-height:87px; }
-.neet_2025_pc_q_90c::after {content: '\00a0';display: inline-block; width:158px; height:87px; background-position: 99.7159090909091% 96.95712309820193%; background-size: 322.7848101265823% 931.0344827586207%; background-image: url(neet2025_1.png);padding: 0; }
+.neet_2025_pc_q_90c::after {content: '\00a0';display: inline-block; width:158px; height:87px; background-position: 52.5145579671784% 34.31922488526262%; background-size: 1295.5696202531647% 2354.022988505747%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_90c::after {max-width:158px; width:100%;height:0;padding: 0 0 55.063291139240505% 0;}
 .neet_2025_pc_q_90d {max-width:180px; max-height:93px; }
-.neet_2025_pc_q_90d::after {content: '\00a0';display: inline-block; width:180px; height:93px; background-position: 52.6344676180022% 50.54207537429014%; background-size: 1112.2222222222222% 2182.7956989247314%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_90d::after {content: '\00a0';display: inline-block; width:180px; height:93px; background-position: 20.835565077664704% 47.97953964194373%; background-size: 1137.2222222222222% 2202.1505376344085%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_90d::after {max-width:180px; width:100%;height:0;padding: 0 0 51.666666666666664% 0;}
 .neet_2025_pc_q_91 {max-width:410px; max-height:233px; }
-.neet_2025_pc_q_91::after {content: '\00a0';display: inline-block; width:410px; height:233px; background-position: 68.27889447236181% 25.542570951585976%; background-size: 488.2926829268293% 871.244635193133%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_q_91::after {content: '\00a0';display: inline-block; width:410px; height:233px; background-position: 35.491753207086134% 34.98622589531681%; background-size: 499.2682926829268% 878.9699570815451%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_q_91::after {max-width:410px; width:100%;height:0;padding: 0 0 56.829268292682926% 0;}
 .neet_2025_pc_sol_1 {max-width:197px; max-height:144px; }
-.neet_2025_pc_sol_1::after {content: '\00a0';display: inline-block; width:197px; height:144px; background-position: 85.62300319488818% 34.234234234234236%; background-size: 258.88324873096445% 562.5%; background-image: url(neet2025_1.png);padding: 0; }
+.neet_2025_pc_sol_1::after {content: '\00a0';display: inline-block; width:197px; height:144px; background-position: 52% 49.84243697478992%; background-size: 1039.0862944162436% 1422.2222222222222%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_1::after {max-width:197px; width:100%;height:0;padding: 0 0 73.09644670050761% 0;}
 .neet_2025_pc_sol_112 {max-width:268px; max-height:182px; }
-.neet_2025_pc_sol_112::after {content: '\00a0';display: inline-block; width:268px; height:182px; background-position: 67.99307958477509% 90.04329004329004%; background-size: 747.0149253731344% 1115.3846153846155%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_112::after {content: '\00a0';display: inline-block; width:268px; height:182px; background-position: 69.64586846543001% 99.57127545551982%; background-size: 763.8059701492538% 1125.2747252747254%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_112::after {max-width:268px; width:100%;height:0;padding: 0 0 67.91044776119404% 0;}
 .neet_2025_pc_sol_155 {max-width:173px; max-height:108px; }
-.neet_2025_pc_sol_155::after {content: '\00a0';display: inline-block; width:173px; height:108px; background-position: 0.29673590504451036% 99.85754985754986%; background-size: 294.7976878612717% 750%; background-image: url(neet2025_1.png);padding: 0; }
+.neet_2025_pc_sol_155::after {content: '\00a0';display: inline-block; width:173px; height:108px; background-position: 20.22411953041622% 69.63917525773196%; background-size: 1183.236994219653% 1896.2962962962963%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_155::after {max-width:173px; width:100%;height:0;padding: 0 0 62.42774566473989% 0;}
 .neet_2025_pc_sol_16 {max-width:305px; max-height:205px; }
-.neet_2025_pc_sol_16::after {content: '\00a0';display: inline-block; width:305px; height:205px; background-position: 56.57041838538598% 70.24657534246575%; background-size: 656.3934426229508% 990.2439024390244%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_16::after {content: '\00a0';display: inline-block; width:305px; height:205px; background-position: 70.43628013777267% 89.63646228974498%; background-size: 671.1475409836065% 999.0243902439024%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_16::after {max-width:305px; width:100%;height:0;padding: 0 0 67.21311475409836% 0;}
 .neet_2025_pc_sol_175 {max-width:238px; max-height:107px; }
-.neet_2025_pc_sol_175::after {content: '\00a0';display: inline-block; width:238px; height:107px; background-position: 99.26470588235294% 0.1422475106685633%; background-size: 214.28571428571428% 757.0093457943925%; background-image: url(neet2025_1.png);padding: 0; }
+.neet_2025_pc_sol_175::after {content: '\00a0';display: inline-block; width:238px; height:107px; background-position: 61.359867330016584% 71.87017001545595%; background-size: 860.0840336134454% 1914.018691588785%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_175::after {max-width:238px; width:100%;height:0;padding: 0 0 44.95798319327731% 0;}
 .neet_2025_pc_sol_17a {max-width:191px; max-height:72px; }
-.neet_2025_pc_sol_17a::after {content: '\00a0';display: inline-block; width:191px; height:72px; background-position: 88.29376035339591% 90.755873340143%; background-size: 1048.1675392670156% 2819.4444444444443%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_17a::after {content: '\00a0';display: inline-block; width:191px; height:72px; background-position: 20.959051724137932% 43.7753036437247%; background-size: 1071.7277486910996% 2844.4444444444443%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_17a::after {max-width:191px; width:100%;height:0;padding: 0 0 37.696335078534034% 0;}
 .neet_2025_pc_sol_17b {max-width:194px; max-height:65px; }
-.neet_2025_pc_sol_17b::after {content: '\00a0';display: inline-block; width:194px; height:65px; background-position: 88.44026548672566% 94.14758269720102%; background-size: 1031.958762886598% 3123.076923076923%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_17b::after {content: '\00a0';display: inline-block; width:194px; height:65px; background-position: 51.268213707501346% 55.16893595562279%; background-size: 1055.1546391752577% 3150.769230769231%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_17b::after {max-width:194px; width:100%;height:0;padding: 0 0 33.50515463917526% 0;}
 .neet_2025_pc_sol_18 {max-width:245px; max-height:69px; }
-.neet_2025_pc_sol_18::after {content: '\00a0';display: inline-block; width:245px; height:69px; background-position: 91.00739897552647% 87.04742478327384%; background-size: 817.1428571428571% 2942.0289855072465%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_18::after {content: '\00a0';display: inline-block; width:245px; height:69px; background-position: 98.94561598224195% 93.27943405760485%; background-size: 835.5102040816327% 2968.1159420289855%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_18::after {max-width:245px; width:100%;height:0;padding: 0 0 28.163265306122447% 0;}
 .neet_2025_pc_sol_22 {max-width:219px; max-height:176px; }
-.neet_2025_pc_sol_22::after {content: '\00a0';display: inline-block; width:219px; height:176px; background-position: 74.70555243970836% 78.69471413160734%; background-size: 914.1552511415525% 1153.409090909091%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_22::after {content: '\00a0';display: inline-block; width:219px; height:176px; background-position: 55.74398249452954% 99.67948717948718%; background-size: 934.703196347032% 1163.6363636363637%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_22::after {max-width:219px; width:100%;height:0;padding: 0 0 80.36529680365297% 0;}
 .neet_2025_pc_sol_23a {max-width:88px; max-height:116px; }
-.neet_2025_pc_sol_23a::after {content: '\00a0';display: inline-block; width:88px; height:116px; background-position: 93.83490073145245% 82.70637408568443%; background-size: 2275% 1750%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_23a::after {content: '\00a0';display: inline-block; width:88px; height:116px; background-position: 54.72179683511996% 26.19047619047619%; background-size: 2326.1363636363635% 1765.5172413793102%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_23a::after {max-width:88px; width:100%;height:0;padding: 0 0 131.8181818181818% 0;}
 .neet_2025_pc_sol_23b {max-width:211px; max-height:184px; }
-.neet_2025_pc_sol_23b::after {content: '\00a0';display: inline-block; width:211px; height:184px; background-position: 48.85538805136795% 33.315276273022754%; background-size: 948.8151658767772% 1103.2608695652175%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_23b::after {content: '\00a0';display: inline-block; width:211px; height:184px; background-position: 19.498910675381264% 92.16738197424893%; background-size: 970.1421800947867% 1113.0434782608695%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_23b::after {max-width:211px; width:100%;height:0;padding: 0 0 87.20379146919431% 0;}
 .neet_2025_pc_sol_25 {max-width:268px; max-height:128px; }
-.neet_2025_pc_sol_25::after {content: '\00a0';display: inline-block; width:268px; height:128px; background-position: 0.4132231404958678% 0.1466275659824047%; background-size: 190.29850746268656% 632.8125%; background-image: url(neet2025_1.png);padding: 0; }
+.neet_2025_pc_sol_25::after {content: '\00a0';display: inline-block; width:268px; height:128px; background-position: 84.14839797639124% 79.32291666666667%; background-size: 763.8059701492538% 1600%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_25::after {max-width:268px; width:100%;height:0;padding: 0 0 47.76119402985075% 0;}
 .neet_2025_pc_sol_3 {max-width:296px; max-height:178px; }
-.neet_2025_pc_sol_3::after {content: '\00a0';display: inline-block; width:296px; height:178px; background-position: 49.47245017584994% 43.196544276457885%; background-size: 676.3513513513514% 1140.4494382022472%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_3::after {content: '\00a0';display: inline-block; width:296px; height:178px; background-position: 41.233580810965165% 99.94652406417113%; background-size: 691.5540540540541% 1150.561797752809%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_3::after {max-width:296px; width:100%;height:0;padding: 0 0 60.13513513513514% 0;}
 .neet_2025_pc_sol_30 {max-width:173px; max-height:169px; }
-.neet_2025_pc_sol_30::after {content: '\00a0';display: inline-block; width:173px; height:169px; background-position: 98.90650628758884% 36.00214938205266%; background-size: 1157.2254335260116% 1201.1834319526627%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_30::after {content: '\00a0';display: inline-block; width:173px; height:169px; background-position: 49.946638207043755% 71.1016498137307%; background-size: 1183.236994219653% 1211.8343195266273%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_30::after {max-width:173px; width:100%;height:0;padding: 0 0 97.6878612716763% 0;}
 .neet_2025_pc_sol_36 {max-width:222px; max-height:255px; }
-.neet_2025_pc_sol_36::after {content: '\00a0';display: inline-block; width:222px; height:255px; background-position: 84.15730337078652% 25.859154929577464%; background-size: 901.8018018018018% 796.0784313725491%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_36::after {content: '\00a0';display: inline-block; width:222px; height:255px; background-position: 0.0547945205479452% 96.87674288901283%; background-size: 922.072072072072% 803.1372549019608%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_36::after {max-width:222px; width:100%;height:0;padding: 0 0 114.86486486486487% 0;}
 .neet_2025_pc_sol_37 {max-width:235px; max-height:208px; }
-.neet_2025_pc_sol_37::after {content: '\00a0';display: inline-block; width:235px; height:208px; background-position: 53.70684776457272% 58.89132821075741%; background-size: 851.9148936170212% 975.9615384615385%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_37::after {content: '\00a0';display: inline-block; width:235px; height:208px; background-position: 54.69094922737307% 90.05434782608695%; background-size: 871.063829787234% 984.6153846153846%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_37::after {max-width:235px; width:100%;height:0;padding: 0 0 88.51063829787235% 0;}
 .neet_2025_pc_sol_4 {max-width:427px; max-height:159px; }
-.neet_2025_pc_sol_4::after {content: '\00a0';display: inline-block; width:427px; height:159px; background-position: 0.06349206349206349% 98.8241582041689%; background-size: 468.8524590163934% 1276.7295597484276%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_4::after {content: '\00a0';display: inline-block; width:427px; height:159px; background-position: 0.06172839506172839% 34.67443091582848%; background-size: 479.3911007025761% 1288.0503144654087%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_4::after {max-width:427px; width:100%;height:0;padding: 0 0 37.23653395784543% 0;}
 .neet_2025_pc_sol_40 {max-width:360px; max-height:327px; }
-.neet_2025_pc_sol_40::after {content: '\00a0';display: inline-block; width:360px; height:327px; background-position: 29.415347137637028% 38.22665883734586%; background-size: 556.1111111111111% 620.7951070336392%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_40::after {content: '\00a0';display: inline-block; width:360px; height:327px; background-position: 34.084173088322466% 77.22254503195816%; background-size: 568.6111111111111% 626.2996941896024%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_40::after {max-width:360px; width:100%;height:0;padding: 0 0 90.83333333333333% 0;}
 .neet_2025_pc_sol_41 {max-width:268px; max-height:211px; }
-.neet_2025_pc_sol_41::after {content: '\00a0';display: inline-block; width:268px; height:211px; background-position: 99.25028835063438% 25.178669598680592%; background-size: 747.0149253731344% 962.085308056872%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_41::after {content: '\00a0';display: inline-block; width:268px; height:211px; background-position: 40.58459808881394% 90.20141535111595%; background-size: 763.8059701492538% 970.6161137440758%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_41::after {max-width:268px; width:100%;height:0;padding: 0 0 78.73134328358209% 0;}
 .neet_2025_pc_sol_42 {max-width:211px; max-height:257px; }
-.neet_2025_pc_sol_42::after {content: '\00a0';display: inline-block; width:211px; height:257px; background-position: 48.85538805136795% 20.135363790186126%; background-size: 948.8151658767772% 789.8832684824903%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_42::after {content: '\00a0';display: inline-block; width:211px; height:257px; background-position: 19.607843137254903% 81.51870463428253%; background-size: 970.1421800947867% 796.8871595330739%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_42::after {max-width:211px; width:100%;height:0;padding: 0 0 121.80094786729858% 0;}
 .neet_2025_pc_sol_45 {max-width:296px; max-height:202px; }
-.neet_2025_pc_sol_45::after {content: '\00a0';display: inline-block; width:296px; height:202px; background-position: 84.11488862837045% 59.73741794310722%; background-size: 676.3513513513514% 1004.950495049505%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_45::after {content: '\00a0';display: inline-block; width:296px; height:202px; background-position: 0.08045052292839903% 2.857142857142857%; background-size: 519.9324324324324% 117.32673267326733%; background-image: url(neet2025_1.png);padding: 0; }
 div.neet_2025_pc_sol_45::after {max-width:296px; width:100%;height:0;padding: 0 0 68.24324324324324% 0;}
 .neet_2025_pc_sol_46 {max-width:414px; max-height:114px; }
-.neet_2025_pc_sol_46::after {content: '\00a0';display: inline-block; width:414px; height:114px; background-position: 23.866498740554157% 68.84133611691023%; background-size: 483.57487922705315% 1780.701754385965%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_46::after {content: '\00a0';display: inline-block; width:414px; height:114px; background-position: 99.44886711573791% 35.47052740434333%; background-size: 494.44444444444446% 1796.4912280701753%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_46::after {max-width:414px; width:100%;height:0;padding: 0 0 27.536231884057973% 0;}
 .neet_2025_pc_sol_54a {max-width:134px; max-height:79px; }
-.neet_2025_pc_sol_54a::after {content: '\00a0';display: inline-block; width:134px; height:79px; background-position: 95.98501070663812% 77.03741670937981%; background-size: 1494.0298507462687% 2569.6202531645567%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_54a::after {content: '\00a0';display: inline-block; width:134px; height:79px; background-position: 90.5338078291815% 99.36708860759494%; background-size: 1148.5074626865671% 300%; background-image: url(neet2025_1.png);padding: 0; }
 div.neet_2025_pc_sol_54a::after {max-width:134px; width:100%;height:0;padding: 0 0 58.95522388059702% 0;}
 .neet_2025_pc_sol_54b {max-width:150px; max-height:122px; }
-.neet_2025_pc_sol_54b::after {content: '\00a0';display: inline-block; width:150px; height:122px; background-position: 78.18574514038878% 93.65828092243187%; background-size: 1334.6666666666667% 1663.9344262295083%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_54b::after {content: '\00a0';display: inline-block; width:150px; height:122px; background-position: 52.293094359515024% 42.88681204569055%; background-size: 1364.6666666666667% 1678.688524590164%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_54b::after {max-width:150px; width:100%;height:0;padding: 0 0 81.33333333333333% 0;}
 .neet_2025_pc_sol_58 {max-width:439px; max-height:361px; }
-.neet_2025_pc_sol_58::after {content: '\00a0';display: inline-block; width:439px; height:361px; background-position: 0.06397952655150352% 89.09526662672259%; background-size: 456.0364464692483% 562.3268698060942%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_58::after {content: '\00a0';display: inline-block; width:439px; height:361px; background-position: 0.06218905472636816% 17.36810906935388%; background-size: 466.2870159453303% 567.3130193905818%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_58::after {max-width:439px; width:100%;height:0;padding: 0 0 82.23234624145786% 0;}
 .neet_2025_pc_sol_59 {max-width:462px; max-height:406px; }
-.neet_2025_pc_sol_59::after {content: '\00a0';display: inline-block; width:462px; height:406px; background-position: 0.06493506493506493% 18.041871921182267%; background-size: 433.3333333333333% 500%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_59::after {content: '\00a0';display: inline-block; width:462px; height:406px; background-position: 73.24921135646687% 37.880633373934224%; background-size: 443.0735930735931% 504.4334975369458%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_59::after {max-width:462px; width:100%;height:0;padding: 0 0 87.87878787878788% 0;}
 .neet_2025_pc_sol_60 {max-width:481px; max-height:355px; }
-.neet_2025_pc_sol_60::after {content: '\00a0';display: inline-block; width:481px; height:355px; background-position: 0.06574621959237344% 41.791044776119406%; background-size: 416.2162162162162% 571.830985915493%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_60::after {content: '\00a0';display: inline-block; width:481px; height:355px; background-position: 37.675606641123885% 16.479621972829296%; background-size: 425.57172557172555% 576.9014084507043%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_60::after {max-width:481px; width:100%;height:0;padding: 0 0 73.8045738045738% 0;}
 .neet_2025_pc_sol_64 {max-width:273px; max-height:156px; }
-.neet_2025_pc_sol_64::after {content: '\00a0';display: inline-block; width:273px; height:156px; background-position: 99.59514170040485% 8.110992529348986%; background-size: 733.3333333333334% 1301.2820512820513%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_64::after {content: '\00a0';display: inline-block; width:273px; height:156px; background-position: 98.8162344983089% 72.19873150105708%; background-size: 749.8168498168499% 1312.820512820513%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_64::after {max-width:273px; width:100%;height:0;padding: 0 0 57.142857142857146% 0;}
 .neet_2025_pc_sol_65 {max-width:588px; max-height:291px; }
-.neet_2025_pc_sol_65::after {content: '\00a0';display: inline-block; width:588px; height:291px; background-position: 0.07072135785007072% 0.05750431282346176%; background-size: 340.4761904761905% 697.5945017182131%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_65::after {content: '\00a0';display: inline-block; width:588px; height:291px; background-position: 0.06854009595613433% 0.056915196357427436%; background-size: 348.1292517006803% 703.7800687285223%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_65::after {max-width:588px; width:100%;height:0;padding: 0 0 49.48979591836735% 0;}
 .neet_2025_pc_sol_66a {max-width:149px; max-height:330px; }
-.neet_2025_pc_sol_66a::after {content: '\00a0';display: inline-block; width:149px; height:330px; background-position: 43.712898003237996% 77%; background-size: 1343.6241610738255% 615.1515151515151%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_66a::after {content: '\00a0';display: inline-block; width:149px; height:330px; background-position: 30.136986301369863% 96.44935972060536%; background-size: 1373.8255033557048% 620.6060606060606%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_66a::after {max-width:149px; width:100%;height:0;padding: 0 0 221.4765100671141% 0;}
 .neet_2025_pc_sol_66b {max-width:143px; max-height:250px; }
-.neet_2025_pc_sol_66b::after {content: '\00a0';display: inline-block; width:143px; height:250px; background-position: 98.7627756858526% 47.19101123595506%; background-size: 1400% 812%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_66b::after {content: '\00a0';display: inline-block; width:143px; height:250px; background-position: 23.16176470588235% 16.295884315906562%; background-size: 1431.4685314685314% 819.2%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_66b::after {max-width:143px; width:100%;height:0;padding: 0 0 174.82517482517483% 0;}
 .neet_2025_pc_sol_6a {max-width:410px; max-height:293px; }
-.neet_2025_pc_sol_6a::after {content: '\00a0';display: inline-block; width:410px; height:293px; background-position: 29.14572864321608% 20.552677029360968%; background-size: 488.2926829268293% 692.8327645051195%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_6a::after {content: '\00a0';display: inline-block; width:410px; height:293px; background-position: 99.20586438607208% 45.64102564102564%; background-size: 499.2682926829268% 698.9761092150171%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_6a::after {max-width:410px; width:100%;height:0;padding: 0 0 71.46341463414635% 0;}
 .neet_2025_pc_sol_6b {max-width:358px; max-height:199px; }
-.neet_2025_pc_sol_6b::after {content: '\00a0';display: inline-block; width:358px; height:199px; background-position: 88.19951338199513% 39.049699617695246%; background-size: 559.2178770949721% 1020.1005025125628%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_6b::after {content: '\00a0';display: inline-block; width:358px; height:199px; background-position: 0.05920663114268798% 76.96051919956733%; background-size: 571.7877094972067% 1029.145728643216%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_6b::after {max-width:358px; width:100%;height:0;padding: 0 0 55.58659217877095% 0;}
 .neet_2025_pc_sol_75a {max-width:53px; max-height:81px; }
-.neet_2025_pc_sol_75a::after {content: '\00a0';display: inline-block; width:53px; height:81px; background-position: 55.77219086711134% 35.556695741405846%; background-size: 3777.3584905660377% 2506.1728395061727%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_75a::after {content: '\00a0';display: inline-block; width:53px; height:81px; background-position: 76.83049147442327% 55.87188612099644%; background-size: 3862.264150943396% 2528.395061728395%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_75a::after {max-width:53px; width:100%;height:0;padding: 0 0 152.83018867924528% 0;}
 .neet_2025_pc_sol_75b {max-width:122px; max-height:96px; }
-.neet_2025_pc_sol_75b::after {content: '\00a0';display: inline-block; width:122px; height:96px; background-position: 78.45744680851064% 98.75904860392968%; background-size: 1640.983606557377% 2114.5833333333335%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_75b::after {content: '\00a0';display: inline-block; width:122px; height:96px; background-position: 84.31168831168831% 71.46516393442623%; background-size: 1677.8688524590164% 2133.3333333333335%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_75b::after {max-width:122px; width:100%;height:0;padding: 0 0 78.68852459016394% 0;}
 .neet_2025_pc_sol_75c {max-width:79px; max-height:49px; }
-.neet_2025_pc_sol_75c::after {content: '\00a0';display: inline-block; width:79px; height:49px; background-position: 85.64742589703589% 68.90459363957598%; background-size: 2534.1772151898736% 4142.857142857143%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_75c::after {content: '\00a0';display: inline-block; width:79px; height:49px; background-position: 54.47154471544715% 31.165582791395696%; background-size: 2591.1392405063293% 4179.591836734694%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_75c::after {max-width:79px; width:100%;height:0;padding: 0 0 62.0253164556962% 0;}
 .neet_2025_pc_sol_81 {max-width:377px; max-height:430px; }
-.neet_2025_pc_sol_81::after {content: '\00a0';display: inline-block; width:377px; height:430px; background-position: 0.06153846153846154% 66%; background-size: 531.0344827586207% 472.09302325581393%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_81::after {content: '\00a0';display: inline-block; width:377px; height:430px; background-position: 0.059880239520958084% 61.31025957972806%; background-size: 542.9708222811671% 476.27906976744185%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_81::after {max-width:377px; width:100%;height:0;padding: 0 0 114.05835543766578% 0;}
 .neet_2025_pc_sol_82 {max-width:368px; max-height:225px; }
-.neet_2025_pc_sol_82::after {content: '\00a0';display: inline-block; width:368px; height:225px; background-position: 26.988984088127296% 79.44598337950139%; background-size: 544.0217391304348% 902.2222222222222%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_82::after {content: '\00a0';display: inline-block; width:368px; height:225px; background-position: 99.94044073853485% 15.359297860669226%; background-size: 556.25% 910.2222222222222%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_82::after {max-width:368px; width:100%;height:0;padding: 0 0 61.141304347826086% 0;}
 .neet_2025_pc_sol_85 {max-width:500px; max-height:219px; }
-.neet_2025_pc_sol_85::after {content: '\00a0';display: inline-block; width:500px; height:219px; background-position: 78.36218375499334% 13.19712865819989%; background-size: 400.4% 926.9406392694063%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_85::after {content: '\00a0';display: inline-block; width:500px; height:219px; background-position: 76.08274078862314% 13.067249863313286%; background-size: 409.4% 935.1598173515981%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_85::after {max-width:500px; width:100%;height:0;padding: 0 0 43.8% 0;}
 .neet_2025_pc_sol_89 {max-width:289px; max-height:87px; }
-.neet_2025_pc_sol_89::after {content: '\00a0';display: inline-block; width:289px; height:87px; background-position: 96.14711033274956% 72.82552753474009%; background-size: 692.7335640138408% 2333.3333333333335%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_89::after {content: '\00a0';display: inline-block; width:289px; height:87px; background-position: 99.7155858930603% 65.17083120856705%; background-size: 708.3044982698962% 2354.022988505747%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_89::after {max-width:289px; width:100%;height:0;padding: 0 0 30.103806228373703% 0;}
 .neet_2025_pc_sol_9 {max-width:475px; max-height:84px; }
-.neet_2025_pc_sol_9::after {content: '\00a0';display: inline-block; width:475px; height:84px; background-position: 31.63064833005894% 50.30832476875642%; background-size: 421.4736842105263% 2416.6666666666665%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_9::after {content: '\00a0';display: inline-block; width:475px; height:84px; background-position: 73.85496183206106% 27.34215885947047%; background-size: 430.94736842105266% 2438.095238095238%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_9::after {max-width:475px; width:100%;height:0;padding: 0 0 17.68421052631579% 0;}
 .neet_2025_pc_sol_90 {max-width:544px; max-height:237px; }
-.neet_2025_pc_sol_90::after {content: '\00a0';display: inline-block; width:544px; height:237px; background-position: 80.72702331961591% 0.05577244841048522%; background-size: 368.0147058823529% 856.5400843881856%; background-image: url(neet2025_0.png);padding: 0; }
+.neet_2025_pc_sol_90::after {content: '\00a0';display: inline-block; width:544px; height:237px; background-position: 78.31004657351963% 0.05521811154058531%; background-size: 376.2867647058824% 864.1350210970464%; background-image: url(neet2025_0.png);padding: 0; }
 div.neet_2025_pc_sol_90::after {max-width:544px; width:100%;height:0;padding: 0 0 43.56617647058823% 0;}
 
 @keyframes neet_2025_pc_q-frames {
-    0% { background-position: 23.265807243707798% 59.909909909909906%;  }
-    5.555555555555555% { background-position: 67.27594339622641% 47.19917012448133%;  }
-    11.11111111111111% { background-position: 38.663171690694625% 14.285714285714286%;  }
-    16.666666666666664% { background-position: 26.9559902200489% 90.16838674633351%;  }
-    22.22222222222222% { background-position: 41.666666666666664% 0.05704506560182544%;  }
-    27.77777777777778% { background-position: 99.94229659549913% 57.11297071129707%;  }
-    33.33333333333333% { background-position: 78.18574514038878% 87.02127659574468%;  }
-    38.88888888888889% { background-position: 67.59840273816314% 55.38545653362493%;  }
-    44.44444444444444% { background-position: 99.88465974625144% 66.28352490421456%;  }
-    50% { background-position: 67.35537190082644% 38.20286659316428%;  }
-    55.55555555555556% { background-position: 49.63547995139733% 96.34846113719354%;  }
-    61.111111111111114% { background-position: 88.53820598006645% 83.44404701073071%;  }
-    66.66666666666666% { background-position: 0.057240984544934176% 14.942528735632184%;  }
-    72.22222222222221% { background-position: 68.97767332549941% 99.38837920489297%;  }
-    77.77777777777779% { background-position: 67.90052053209948% 95.79875518672199%;  }
-    83.33333333333334% { background-position: 68.27889447236181% 25.542570951585976%;  }
-    88.88888888888889% { background-position: 67.9549114331723% 68.88769478774853%;  }
-    94.44444444444444% { background-position: 41.67127836192584% 59.57446808510638%;  }
+    0% { background-position: 34.85302939412117% 47.12581344902386%;  }
+    5.263157894736842% { background-position: 34.40860215053763% 59.86622073578595%;  }
+    10.526315789473683% { background-position: 12.8661688684664% 99.74306269270298%;  }
+    15.789473684210526% { background-position: 74.22024188415023% 23.28767123287671%;  }
+    21.052631578947366% { background-position: 67.22189173111244% 64.81979558902636%;  }
+    26.31578947368421% { background-position: 40.38329911019849% 0.05646527385657821%;  }
+    31.57894736842105% { background-position: 99.32508436445444% 78.9119170984456%;  }
+    36.84210526315789% { background-position: 22.61465471797575% 37.61854583772392%;  }
+    42.10526315789473% { background-position: 85.26140155728588% 99.94585814834868%;  }
+    47.368421052631575% { background-position: 99.26925238898258% 88.99728997289972%;  }
+    52.63157894736842% { background-position: 99.02242668200115% 3.438864628820961%;  }
+    57.89473684210527% { background-position: 0.05913660555884092% 83.87596899224806%;  }
+    63.1578947368421% { background-position: 20.475418692598595% 52.25316455696203%;  }
+    68.42105263157895% { background-position: 83.53794642857143% 66.14906832298136%;  }
+    73.68421052631578% { background-position: 31.081854607899256% 8.333333333333334%;  }
+    78.94736842105263% { background-position: 76.04284103720406% 71.68550873586845%;  }
+    84.21052631578947% { background-position: 35.491753207086134% 34.98622589531681%;  }
+    89.47368421052632% { background-position: 23.11320754716981% 28.951569984034062%;  }
+    94.73684210526315% { background-position: 20.464362850971924% 61.30820399113082%;  }
 }
 
 .neet_2025_pc_q-animation {
-    max-width: 373px;
-    max-height: 254px;
+    max-width: 380px;
+    max-height: 204px;
 }
 .neet_2025_pc_q-animation::after {
     content: '\00a0';
     display: inline-block;
-    width: 373px;
-    height: 254px;
+    width: 380px;
+    height: 204px;
     padding: 0;
     background-image: url(neet2025_0.png);
-    background-size: 536.7292225201072% 799.2125984251968%; 
+    background-size: 538.6842105263158% 1003.9215686274509%; 
     animation-name: neet_2025_pc_q-frames;
     animation-timing-function: steps(1);
     animation-duration: 1s;
     animation-iteration-count: infinite;
 }
 div.neet_2025_pc_q-animation::after {
-    max-width: 373px;
+    max-width: 380px;
     width: 100%;
     height: 0;
-    padding: 0 0 68.09651474530831% 0;
+    padding: 0 0 53.68421052631579% 0;
 }
 
 @keyframes neet_2025_pc_sol-frames {
-    0% { background-position: 14.847645429362881% 12.089077412513255%;  }
-    3.4482758620689653% { background-position: 49.47245017584994% 43.196544276457885%;  }
-    6.896551724137931% { background-position: 0.06349206349206349% 98.8241582041689%;  }
-    10.344827586206897% { background-position: 31.63064833005894% 50.30832476875642%;  }
-    13.793103448275861% { background-position: 56.57041838538598% 70.24657534246575%;  }
-    17.24137931034483% { background-position: 91.00739897552647% 87.04742478327384%;  }
-    20.689655172413794% { background-position: 74.70555243970836% 78.69471413160734%;  }
-    24.137931034482758% { background-position: 0.05767012687427912% 0.052576235541535225%;  }
-    27.586206896551722% { background-position: 98.90650628758884% 36.00214938205266%;  }
-    31.03448275862069% { background-position: 84.15730337078652% 25.859154929577464%;  }
-    34.48275862068966% { background-position: 53.70684776457272% 58.89132821075741%;  }
-    37.93103448275862% { background-position: 29.415347137637028% 38.22665883734586%;  }
-    41.37931034482759% { background-position: 99.25028835063438% 25.178669598680592%;  }
-    44.827586206896555% { background-position: 48.85538805136795% 20.135363790186126%;  }
-    48.275862068965516% { background-position: 84.11488862837045% 59.73741794310722%;  }
-    51.724137931034484% { background-position: 23.866498740554157% 68.84133611691023%;  }
-    55.172413793103445% { background-position: 0.06397952655150352% 89.09526662672259%;  }
-    58.620689655172406% { background-position: 0.06493506493506493% 18.041871921182267%;  }
-    62.06896551724138% { background-position: 0.06574621959237344% 41.791044776119406%;  }
-    65.51724137931035% { background-position: 99.59514170040485% 8.110992529348986%;  }
-    68.96551724137932% { background-position: 0.07072135785007072% 0.05750431282346176%;  }
-    72.41379310344827% { background-position: 0.06153846153846154% 66%;  }
-    75.86206896551724% { background-position: 26.988984088127296% 79.44598337950139%;  }
-    79.3103448275862% { background-position: 78.36218375499334% 13.19712865819989%;  }
-    82.75862068965517% { background-position: 96.14711033274956% 72.82552753474009%;  }
-    86.20689655172413% { background-position: 80.72702331961591% 0.05577244841048522%;  }
-    89.65517241379311% { background-position: 67.99307958477509% 90.04329004329004%;  }
-    93.10344827586206% { background-position: 0.05467468562055768% 36.47242455775234%;  }
-    96.55172413793103% { background-position: 15.306122448979592% 0.052002080083203325%;  }
+    0% { background-position: 52% 49.84243697478992%;  }
+    3.4482758620689653% { background-position: 41.233580810965165% 99.94652406417113%;  }
+    6.896551724137931% { background-position: 0.06172839506172839% 34.67443091582848%;  }
+    10.344827586206897% { background-position: 73.85496183206106% 27.34215885947047%;  }
+    13.793103448275861% { background-position: 70.43628013777267% 89.63646228974498%;  }
+    17.24137931034483% { background-position: 98.94561598224195% 93.27943405760485%;  }
+    20.689655172413794% { background-position: 55.74398249452954% 99.67948717948718%;  }
+    24.137931034482758% { background-position: 84.14839797639124% 79.32291666666667%;  }
+    27.586206896551722% { background-position: 49.946638207043755% 71.1016498137307%;  }
+    31.03448275862069% { background-position: 0.0547945205479452% 96.87674288901283%;  }
+    34.48275862068966% { background-position: 54.69094922737307% 90.05434782608695%;  }
+    37.93103448275862% { background-position: 34.084173088322466% 77.22254503195816%;  }
+    41.37931034482759% { background-position: 40.58459808881394% 90.20141535111595%;  }
+    44.827586206896555% { background-position: 19.607843137254903% 81.51870463428253%;  }
+    48.275862068965516% { background-position: 0.05711022272986865% 0.05417118093174431%;  }
+    51.724137931034484% { background-position: 99.44886711573791% 35.47052740434333%;  }
+    55.172413793103445% { background-position: 0.06218905472636816% 17.36810906935388%;  }
+    58.620689655172406% { background-position: 73.24921135646687% 37.880633373934224%;  }
+    62.06896551724138% { background-position: 37.675606641123885% 16.479621972829296%;  }
+    65.51724137931035% { background-position: 98.8162344983089% 72.19873150105708%;  }
+    68.96551724137932% { background-position: 0.06854009595613433% 0.056915196357427436%;  }
+    72.41379310344827% { background-position: 0.059880239520958084% 61.31025957972806%;  }
+    75.86206896551724% { background-position: 99.94044073853485% 15.359297860669226%;  }
+    79.3103448275862% { background-position: 76.08274078862314% 13.067249863313286%;  }
+    82.75862068965517% { background-position: 99.7155858930603% 65.17083120856705%;  }
+    86.20689655172413% { background-position: 78.31004657351963% 0.05521811154058531%;  }
+    89.65517241379311% { background-position: 69.64586846543001% 99.57127545551982%;  }
+    93.10344827586206% { background-position: 20.22411953041622% 69.63917525773196%;  }
+    96.55172413793103% { background-position: 61.359867330016584% 71.87017001545595%;  }
 }
 
 .neet_2025_pc_sol-animation {
@@ -365,7 +369,7 @@ div.neet_2025_pc_q-animation::after {
     height: 144px;
     padding: 0;
     background-image: url(neet2025_0.png);
-    background-size: 1016.243654822335% 1409.7222222222222%; 
+    background-size: 1039.0862944162436% 1422.2222222222222%; 
     animation-name: neet_2025_pc_sol-frames;
     animation-timing-function: steps(1);
     animation-duration: 1s;
@@ -378,4 +382,4 @@ div.neet_2025_pc_sol-animation::after {
     padding: 0 0 73.09644670050761% 0;
 }
 
-/* $TexturePacker:SmartUpdate:7587632029d6e631220e94f486f7b4bb:5bd41fdb07c072e116dc8b88b54052e9:bf1fd4c4bbe683375756c6f0e587c074$ */
+/* $TexturePacker:SmartUpdate:b1c866b9e21cb51233dd27ed80d169fe:dac51a6eff77b9a58e48bbdfd3186333:bf1fd4c4bbe683375756c6f0e587c074$ */

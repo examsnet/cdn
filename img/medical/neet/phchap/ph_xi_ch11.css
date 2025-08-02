@@ -7,50 +7,87 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 .P12016_102sol {max-width:400px; max-height:130px; }
-.P12016_102sol::after {content: '\00a0';display: inline-block; width:400px; height:130px; background-position: 53.047775947281714% 0.18050541516245489%; background-size: 251.75% 526.1538461538462%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
+.P12016_102sol::after {content: '\00a0';display: inline-block; width:400px; height:130px; background-position: 99.93493819128172% 0.273972602739726%; background-size: 484.25% 380.7692307692308%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
 div.P12016_102sol::after {max-width:400px; width:100%;height:0;padding: 0 0 32.5% 0;}
 .P12016_125sola {max-width:144px; max-height:286px; }
-.P12016_125sola::after {content: '\00a0';display: inline-block; width:144px; height:286px; background-position: 74.6234067207416% 99.74874371859296%; background-size: 699.3055555555555% 239.16083916083917%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
+.P12016_125sola::after {content: '\00a0';display: inline-block; width:144px; height:286px; background-position: 28.276631344116005% 0.4784688995215311%; background-size: 1345.138888888889% 173.07692307692307%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
 div.P12016_125sola::after {max-width:144px; width:100%;height:0;padding: 0 0 198.61111111111111% 0;}
 .P12016_125solb {max-width:144px; max-height:332px; }
-.P12016_125solb::after {content: '\00a0';display: inline-block; width:144px; height:332px; background-position: 99.65237543453071% 66.19318181818181%; background-size: 699.3055555555555% 206.02409638554218%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
+.P12016_125solb::after {content: '\00a0';display: inline-block; width:144px; height:332px; background-position: 0.05577244841048522% 0.6134969325153374%; background-size: 1345.138888888889% 149.09638554216866%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
 div.P12016_125solb::after {max-width:144px; width:100%;height:0;padding: 0 0 230.55555555555554% 0;}
 .P12016_133sol {max-width:320px; max-height:262px; }
-.P12016_133sol::after {content: '\00a0';display: inline-block; width:320px; height:262px; background-position: 0.14556040756914118% 0.23696682464454977%; background-size: 314.6875% 261.0687022900763%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
+.P12016_133sol::after {content: '\00a0';display: inline-block; width:320px; height:262px; background-position: 40.32158317872604% 0.4291845493562232%; background-size: 605.3125% 188.93129770992365%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
 div.P12016_133sol::after {max-width:320px; width:100%;height:0;padding: 0 0 81.875% 0;}
 .Waves_20_s {max-width:320px; max-height:116px; }
-.Waves_20_s::after {content: '\00a0';display: inline-block; width:320px; height:116px; background-position: 46.87045123726347% 23.239436619718308%; background-size: 314.6875% 589.6551724137931%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
+.Waves_20_s::after {content: '\00a0';display: inline-block; width:320px; height:116px; background-position: 98.51576994434137% 95.77836411609499%; background-size: 605.3125% 426.7241379310345%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
 div.Waves_20_s::after {max-width:320px; width:100%;height:0;padding: 0 0 36.25% 0;}
 .Waves_21_s {max-width:217px; max-height:97px; }
-.Waves_21_s::after {content: '\00a0';display: inline-block; width:217px; height:97px; background-position: 99.87341772151899% 96.42248722316866%; background-size: 464.0552995391705% 705.1546391752578%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
+.Waves_21_s::after {content: '\00a0';display: inline-block; width:217px; height:97px; background-position: 56.56976744186046% 46.733668341708544%; background-size: 892.6267281105991% 510.30927835051546%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
 div.Waves_21_s::after {max-width:217px; width:100%;height:0;padding: 0 0 44.70046082949309% 0;}
 .Waves_30_s {max-width:339px; max-height:191px; }
-.Waves_30_s::after {content: '\00a0';display: inline-block; width:339px; height:191px; background-position: 0.1497005988023952% 53.54969574036511%; background-size: 297.05014749262534% 358.1151832460733%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
+.Waves_30_s::after {content: '\00a0';display: inline-block; width:339px; height:191px; background-position: 40.36295369211514% 94.73684210526316%; background-size: 571.3864306784661% 259.16230366492147%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
 div.Waves_30_s::after {max-width:339px; width:100%;height:0;padding: 0 0 56.342182890855455% 0;}
 .Waves_46_s {max-width:302px; max-height:155px; }
-.Waves_46_s::after {content: '\00a0';display: inline-block; width:302px; height:155px; background-position: 48.36879432624114% 47.06994328922495%; background-size: 333.44370860927154% 441.2903225806452%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
+.Waves_46_s::after {content: '\00a0';display: inline-block; width:302px; height:155px; background-position: 60.24464831804281% 83.52941176470588%; background-size: 641.3907284768212% 319.35483870967744%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
 div.Waves_46_s::after {max-width:302px; width:100%;height:0;padding: 0 0 51.324503311258276% 0;}
 .Waves_57_s {max-width:304px; max-height:63px; }
-.Waves_57_s::after {content: '\00a0';display: inline-block; width:304px; height:63px; background-position: 0.1422475106685633% 99.03381642512078%; background-size: 331.25% 1085.7142857142858%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
+.Waves_57_s::after {content: '\00a0';display: inline-block; width:304px; height:63px; background-position: 78.87323943661971% 99.76851851851852%; background-size: 637.171052631579% 785.7142857142857%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
 div.Waves_57_s::after {max-width:304px; width:100%;height:0;padding: 0 0 20.723684210526315% 0;}
 .Waves_78_s {max-width:328px; max-height:81px; }
-.Waves_78_s::after {content: '\00a0';display: inline-block; width:328px; height:81px; background-position: 94.69808541973491% 25.041459369817577%; background-size: 307.0121951219512% 844.4444444444445%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
+.Waves_78_s::after {content: '\00a0';display: inline-block; width:328px; height:81px; background-position: 99.00559353635799% 67.8743961352657%; background-size: 590.5487804878048% 611.1111111111111%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
 div.Waves_78_s::after {max-width:328px; width:100%;height:0;padding: 0 0 24.695121951219512% 0;}
 .neet_2015_pc_24_sol {max-width:250px; max-height:148px; }
-.neet_2015_pc_24_sol::after {content: '\00a0';display: inline-block; width:250px; height:148px; background-position: 46.49933949801849% 75.55970149253731%; background-size: 402.8% 462.1621621621622%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
+.neet_2015_pc_24_sol::after {content: '\00a0';display: inline-block; width:250px; height:148px; background-position: 91.04919976289271% 38.04034582132565%; background-size: 774.8% 334.4594594594595%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
 div.neet_2015_pc_24_sol::after {max-width:250px; width:100%;height:0;padding: 0 0 59.2% 0;}
 .neet_2015_pc_25_sol {max-width:250px; max-height:120px; }
-.neet_2015_pc_25_sol::after {content: '\00a0';display: inline-block; width:250px; height:120px; background-position: 46.49933949801849% 98.22695035460993%; background-size: 402.8% 570%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
+.neet_2015_pc_25_sol::after {content: '\00a0';display: inline-block; width:250px; height:120px; background-position: 70.59869590989923% 42.666666666666664%; background-size: 774.8% 412.5%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
 div.neet_2015_pc_25_sol::after {max-width:250px; width:100%;height:0;padding: 0 0 48% 0;}
 .neet_2015_pc_26 {max-width:250px; max-height:149px; }
-.neet_2015_pc_26::after {content: '\00a0';display: inline-block; width:250px; height:149px; background-position: 95.50858652575958% 0.18691588785046728%; background-size: 402.8% 459.06040268456377%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
+.neet_2015_pc_26::after {content: '\00a0';display: inline-block; width:250px; height:149px; background-position: 76.34854771784232% 81.21387283236994%; background-size: 774.8% 332.2147651006711%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
 div.neet_2015_pc_26::after {max-width:250px; width:100%;height:0;padding: 0 0 59.6% 0;}
+.neet_2025_pc_sol_23b {max-width:211px; max-height:184px; }
+.neet_2025_pc_sol_23b::after {content: '\00a0';display: inline-block; width:211px; height:184px; background-position: 56.373117033603705% 0.3215434083601286%; background-size: 918.0094786729858% 269.0217391304348%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
+div.neet_2025_pc_sol_23b::after {max-width:211px; width:100%;height:0;padding: 0 0 87.20379146919431% 0;}
+.neet_2025_pc_sol_4 {max-width:427px; max-height:159px; }
+.neet_2025_pc_sol_4::after {content: '\00a0';display: inline-block; width:427px; height:159px; background-position: 0.06622516556291391% 99.4047619047619%; background-size: 453.62997658079627% 311.3207547169811%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
+div.neet_2025_pc_sol_4::after {max-width:427px; width:100%;height:0;padding: 0 0 37.23653395784543% 0;}
+.neet_2025_pc_sol_40 {max-width:360px; max-height:327px; }
+.neet_2025_pc_sol_40::after {content: '\00a0';display: inline-block; width:360px; height:327px; background-position: 9.258084971464807% 0.5952380952380952%; background-size: 538.0555555555555% 151.37614678899084%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
+div.neet_2025_pc_sol_40::after {max-width:360px; width:100%;height:0;padding: 0 0 90.83333333333333% 0;}
 .p22016_165sola {max-width:350px; max-height:158px; }
-.p22016_165sola::after {content: '\00a0';display: inline-block; width:350px; height:158px; background-position: 0.15220700152207% 86.69201520912547%; background-size: 287.7142857142857% 432.9113924050633%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
+.p22016_165sola::after {content: '\00a0';display: inline-block; width:350px; height:158px; background-position: 74.66918714555766% 0.29673590504451036%; background-size: 553.4285714285714% 313.2911392405063%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
 div.p22016_165sola::after {max-width:350px; width:100%;height:0;padding: 0 0 45.142857142857146% 0;}
 .p22016_165solb {max-width:215px; max-height:163px; }
-.p22016_165solb::after {content: '\00a0';display: inline-block; width:215px; height:163px; background-position: 81.31313131313131% 44.72168905950096%; background-size: 468.3720930232558% 419.6319018404908%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
+.p22016_165solb::after {content: '\00a0';display: inline-block; width:215px; height:163px; background-position: 24.912891986062718% 99.09638554216868%; background-size: 900.9302325581396% 303.680981595092%; background-image: url(ph_xi_ch11_0.png);padding: 0; }
 div.p22016_165solb::after {max-width:215px; width:100%;height:0;padding: 0 0 75.81395348837209% 0;}
 
+@keyframes neet_2025_pc_sol-frames {
+    0% { background-position: 0.06622516556291391% 99.4047619047619%;  }
+    50% { background-position: 9.258084971464807% 0.5952380952380952%;  }
+}
 
-/* $TexturePacker:SmartUpdate:3a57c3fa1d408d27b8561e73aab8fe28:3ce16a9246618a5405ce741948969f8d:74d0d143e21a70b26ac6e2776a0b26ac$ */
+.neet_2025_pc_sol-animation {
+    max-width: 427px;
+    max-height: 159px;
+}
+.neet_2025_pc_sol-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 427px;
+    height: 159px;
+    padding: 0;
+    background-image: url(ph_xi_ch11_0.png);
+    background-size: 453.62997658079627% 311.3207547169811%; 
+    animation-name: neet_2025_pc_sol-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.neet_2025_pc_sol-animation::after {
+    max-width: 427px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 37.23653395784543% 0;
+}
+
+/* $TexturePacker:SmartUpdate:4619efdcf9ec43f743845d5f07c522ce:dea46074e6dfc907d09241517c76c1ff:74d0d143e21a70b26ac6e2776a0b26ac$ */
