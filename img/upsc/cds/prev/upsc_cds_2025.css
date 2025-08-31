@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.upsc_cds_i_2025_math_96_para {max-width:285px; max-height:456px; }
+.upsc_cds_i_2025_math_96_para::after {content: '\00a0';display: inline-block; width:285px; height:456px; background-position: 50% 50%; background-size: 100.70175438596492% 100.43859649122807%; background-image: url(upsc_cds_2025_0.png);padding: 0; }
+div.upsc_cds_i_2025_math_96_para::after {max-width:285px; width:100%;height:0;padding: 0 0 160% 0;}
+
+
+/* $TexturePacker:SmartUpdate:423b3eb9e187fcb838914a2d91bc1168:fc09178ef6ba455a99b3d9c439d8d986:c139a30817b6dd1bf7e88cfde96268b1$ */
