@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.tntet_2013_math_148 {max-width:166px; max-height:145px; }
+.tntet_2013_math_148::after {content: '\00a0';display: inline-block; width:166px; height:145px; background-position: 50% 50%; background-size: 101.20481927710843% 101.37931034482759%; background-image: url(tntet_2013_0.png);padding: 0; }
+div.tntet_2013_math_148::after {max-width:166px; width:100%;height:0;padding: 0 0 87.34939759036145% 0;}
+
+
+/* $TexturePacker:SmartUpdate:aee5c9894eef288556364a5e8881bdf6:551ea43beb840600ea68f9e2aae1b1ed:7b42489a7df1dad6f41ccfa800f3aabd$ */
