@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.upsssc_24_aug_2021_s1_81_para {max-width:427px; max-height:304px; }
+.upsssc_24_aug_2021_s1_81_para::after {content: '\00a0';display: inline-block; width:427px; height:304px; background-position: 41.109298531810765% 5.555555555555555%; background-size: 387.11943793911007% 105.92105263157895%; background-image: url(upssscpet_2021_0.png);padding: 0; }
+div.upsssc_24_aug_2021_s1_81_para::after {max-width:427px; width:100%;height:0;padding: 0 0 71.1943793911007% 0;}
+.upsssc_24_aug_2021_s1_86_para {max-width:502px; max-height:320px; }
+.upsssc_24_aug_2021_s1_86_para::after {content: '\00a0';display: inline-block; width:502px; height:320px; background-position: 0.08688097306689835% 50%; background-size: 329.2828685258964% 100.625%; background-image: url(upssscpet_2021_0.png);padding: 0; }
+div.upsssc_24_aug_2021_s1_86_para::after {max-width:502px; width:100%;height:0;padding: 0 0 63.745019920318725% 0;}
+.upsssc_24_aug_2021_s2_81_para {max-width:367px; max-height:301px; }
+.upsssc_24_aug_2021_s2_81_para::after {content: '\00a0';display: inline-block; width:367px; height:301px; background-position: 72.47278382581649% 4.761904761904762%; background-size: 450.40871934604905% 106.97674418604652%; background-image: url(upssscpet_2021_0.png);padding: 0; }
+div.upsssc_24_aug_2021_s2_81_para::after {max-width:367px; width:100%;height:0;padding: 0 0 82.01634877384195% 0;}
+.upsssc_24_aug_2021_s2_86_para {max-width:352px; max-height:273px; }
+.upsssc_24_aug_2021_s2_86_para::after {content: '\00a0';display: inline-block; width:352px; height:273px; background-position: 99.92313604919293% 2.0408163265306123%; background-size: 469.60227272727275% 117.94871794871794%; background-image: url(upssscpet_2021_0.png);padding: 0; }
+div.upsssc_24_aug_2021_s2_86_para::after {max-width:352px; width:100%;height:0;padding: 0 0 77.55681818181819% 0;}
+
+
+/* $TexturePacker:SmartUpdate:0f7bbdb01100c96b1382149d7900a344:1957b3f7be550fd7d09e50f51b1f146c:bdcd110836126f8b43729c771d6a5c42$ */
