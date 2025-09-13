@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.ibps_rrb_po_20_aug_2022_s1_51_para {max-width:492px; max-height:315px; }
+.ibps_rrb_po_20_aug_2022_s1_51_para::after {content: '\00a0';display: inline-block; width:492px; height:315px; background-position: 0.24213075060532688% 57.712305025996535%; background-size: 183.9430894308943% 283.1746031746032%; background-image: url(rrbpo_2022_0.png);padding: 0; }
+div.ibps_rrb_po_20_aug_2022_s1_51_para::after {max-width:492px; width:100%;height:0;padding: 0 0 64.02439024390245% 0;}
+.ibps_rrb_po_20_aug_2022_s2_46_para {max-width:659px; max-height:331px; }
+.ibps_rrb_po_20_aug_2022_s2_46_para::after {content: '\00a0';display: inline-block; width:659px; height:331px; background-position: 0.4065040650406504% 0.17825311942959002%; background-size: 137.32928679817906% 269.48640483383684%; background-image: url(rrbpo_2022_0.png);padding: 0; }
+div.ibps_rrb_po_20_aug_2022_s2_46_para::after {max-width:659px; width:100%;height:0;padding: 0 0 50.22761760242792% 0;}
+.ibps_rrb_po_20_aug_2022_s3_46_para {max-width:410px; max-height:273px; }
+.ibps_rrb_po_20_aug_2022_s3_46_para::after {content: '\00a0';display: inline-block; width:410px; height:273px; background-position: 99.79797979797979% 53.796445880452346%; background-size: 220.73170731707316% 326.7399267399267%; background-image: url(rrbpo_2022_0.png);padding: 0; }
+div.ibps_rrb_po_20_aug_2022_s3_46_para::after {max-width:410px; width:100%;height:0;padding: 0 0 66.58536585365853% 0;}
+.ibps_rrb_po_21_aug_2022_s1_46_para {max-width:424px; max-height:242px; }
+.ibps_rrb_po_21_aug_2022_s1_46_para::after {content: '\00a0';display: inline-block; width:424px; height:242px; background-position: 0.2079002079002079% 99.84615384615384%; background-size: 213.4433962264151% 368.59504132231405%; background-image: url(rrbpo_2022_0.png);padding: 0; }
+div.ibps_rrb_po_21_aug_2022_s1_46_para::after {max-width:424px; width:100%;height:0;padding: 0 0 57.075471698113205% 0;}
+.ibps_rrb_po_21_aug_2022_s2_46_para {max-width:316px; max-height:257px; }
+.ibps_rrb_po_21_aug_2022_s2_46_para::after {content: '\00a0';display: inline-block; width:316px; height:257px; background-position: 83.87096774193549% 95.59055118110236%; background-size: 286.39240506329116% 347.0817120622568%; background-image: url(rrbpo_2022_0.png);padding: 0; }
+div.ibps_rrb_po_21_aug_2022_s2_46_para::after {max-width:316px; width:100%;height:0;padding: 0 0 81.32911392405063% 0;}
+
+
+/* $TexturePacker:SmartUpdate:07d966c1cd175bfac86e195f6a6d9e34:349cbccd173beb892fac6512acbdb588:bdb7963ec699bea01e825685530aeeb9$ */
