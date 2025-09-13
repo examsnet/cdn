@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.ibps_rrb_oa_17_aug_2018_s1_48_para {max-width:459px; max-height:268px; }
+.ibps_rrb_oa_17_aug_2018_s1_48_para::after {content: '\00a0';display: inline-block; width:459px; height:268px; background-position: 50% 50%; background-size: 100.43572984749456% 100.74626865671642%; background-image: url(rrboa_2018_0.png);padding: 0; }
+div.ibps_rrb_oa_17_aug_2018_s1_48_para::after {max-width:459px; width:100%;height:0;padding: 0 0 58.38779956427015% 0;}
+
+
+/* $TexturePacker:SmartUpdate:c6664fa73a2978ecbb85e8507709dac3:5dff42b0c87ef7b28f435719277616da:c06879482881f9e23e662d18ca8d7e84$ */

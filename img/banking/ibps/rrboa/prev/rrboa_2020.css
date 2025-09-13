@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.ibps_rrb_oa_9_aug_2020_s1_71_para {max-width:472px; max-height:252px; }
+.ibps_rrb_oa_9_aug_2020_s1_71_para::after {content: '\00a0';display: inline-block; width:472px; height:252px; background-position: 3.225806451612903% 99.65156794425087%; background-size: 106.5677966101695% 213.88888888888889%; background-image: url(rrboa_2020_0.png);padding: 0; }
+div.ibps_rrb_oa_9_aug_2020_s1_71_para::after {max-width:472px; width:100%;height:0;padding: 0 0 53.389830508474574% 0;}
+.ibps_rrb_oa_9_sep_2020_s2_43_para {max-width:501px; max-height:284px; }
+.ibps_rrb_oa_9_sep_2020_s2_43_para::after {content: '\00a0';display: inline-block; width:501px; height:284px; background-position: 50% 0.39215686274509803%; background-size: 100.39920159680639% 189.7887323943662%; background-image: url(rrboa_2020_0.png);padding: 0; }
+div.ibps_rrb_oa_9_sep_2020_s2_43_para::after {max-width:501px; width:100%;height:0;padding: 0 0 56.68662674650699% 0;}
+
+
+/* $TexturePacker:SmartUpdate:16331facfe10446a7c7ed5de4032be92:4ff49d1c22a06c0627c8f48434f02fe6:41b768c304b55064f8957830e04ce24c$ */
