@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.ibps_rrb_sc1_1_aug_2021_s1_53_para {max-width:524px; max-height:331px; }
+.ibps_rrb_sc1_1_aug_2021_s1_53_para::after {content: '\00a0';display: inline-block; width:524px; height:331px; background-position: 0.12239902080783353% 50%; background-size: 255.91603053435114% 100.60422960725076%; background-image: url(rrsca_2021_0.png);padding: 0; }
+div.ibps_rrb_sc1_1_aug_2021_s1_53_para::after {max-width:524px; width:100%;height:0;padding: 0 0 63.16793893129771% 0;}
+.ibps_rrb_sc1_7_aug_2021_s1_56_para {max-width:514px; max-height:322px; }
+.ibps_rrb_sc1_7_aug_2021_s1_56_para::after {content: '\00a0';display: inline-block; width:514px; height:322px; background-position: 63.603385731559854% 9.090909090909092%; background-size: 260.89494163424126% 103.41614906832298%; background-image: url(rrsca_2021_0.png);padding: 0; }
+div.ibps_rrb_sc1_7_aug_2021_s1_56_para::after {max-width:514px; width:100%;height:0;padding: 0 0 62.64591439688716% 0;}
+.ibps_rrb_sc1_7_aug_2021_s1_61_para {max-width:299px; max-height:292px; }
+.ibps_rrb_sc1_7_aug_2021_s1_61_para::after {content: '\00a0';display: inline-block; width:299px; height:292px; background-position: 99.90403071017275% 2.4390243902439024%; background-size: 448.494983277592% 114.04109589041096%; background-image: url(rrsca_2021_0.png);padding: 0; }
+div.ibps_rrb_sc1_7_aug_2021_s1_61_para::after {max-width:299px; width:100%;height:0;padding: 0 0 97.65886287625418% 0;}
+
+
+/* $TexturePacker:SmartUpdate:01069567af91d0b485a36d3b813b49dd:5f5e172db4fda45a82d40be1f6451c12:3daf5d7efa04d5e7b69d6ff6b6d59f23$ */
