@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.JEE_MAINS_2019_JAN10_S2_11sol {max-width:298px; max-height:152px; }
+.JEE_MAINS_2019_JAN10_S2_11sol::after {content: '\00a0';display: inline-block; width:298px; height:152px; background-position: 5% 99.57081545064378%; background-size: 106.71140939597315% 253.28947368421052%; background-image: url(p_12_electromagneticwaves1_0.png);padding: 0; }
+div.JEE_MAINS_2019_JAN10_S2_11sol::after {max-width:298px; width:100%;height:0;padding: 0 0 51.006711409395976% 0;}
+.jee_mn_27_jul_2022_s2_45_sol {max-width:316px; max-height:230px; }
+.jee_mn_27_jul_2022_s2_45_sol::after {content: '\00a0';display: inline-block; width:316px; height:230px; background-position: 50% 0.6451612903225806%; background-size: 100.63291139240506% 167.3913043478261%; background-image: url(p_12_electromagneticwaves1_0.png);padding: 0; }
+div.jee_mn_27_jul_2022_s2_45_sol::after {max-width:316px; width:100%;height:0;padding: 0 0 72.78481012658227% 0;}
+
+
+/* $TexturePacker:SmartUpdate:cdecadcf819b94c261be1f56dad3cb2e:3066909572f2bf07c100d1a0d65b7d08:6197d47c8b2944a4e8f699ce935382e9$ */

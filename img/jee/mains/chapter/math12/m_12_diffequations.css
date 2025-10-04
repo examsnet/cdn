@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.JEEMAINS_10APRIL_2023_S2_S_23 {max-width:280px; max-height:277px; }
+.JEEMAINS_10APRIL_2023_S2_S_23::after {content: '\00a0';display: inline-block; width:280px; height:277px; background-position: 10% 76.66666666666667%; background-size: 103.57142857142857% 338.2671480144404%; background-image: url(m_12_diffequations_0.png);padding: 0; }
+div.JEEMAINS_10APRIL_2023_S2_S_23::after {max-width:280px; width:100%;height:0;padding: 0 0 98.92857142857143% 0;}
+.JEEM_16_Mar_S1_88sol {max-width:233px; max-height:152px; }
+.JEEM_16_Mar_S1_88sol::after {content: '\00a0';display: inline-block; width:233px; height:152px; background-position: 1.7543859649122806% 99.87261146496816%; background-size: 124.46351931330472% 616.4473684210526%; background-image: url(m_12_diffequations_0.png);padding: 0; }
+div.JEEM_16_Mar_S1_88sol::after {max-width:233px; width:100%;height:0;padding: 0 0 65.23605150214593% 0;}
+.JEEM_16_Mar_S2_79sol {max-width:287px; max-height:230px; }
+.JEEM_16_Mar_S2_79sol::after {content: '\00a0';display: inline-block; width:287px; height:230px; background-position: 33.333333333333336% 38.8967468175389%; background-size: 101.04529616724739% 407.39130434782606%; background-image: url(m_12_diffequations_0.png);padding: 0; }
+div.JEEM_16_Mar_S2_79sol::after {max-width:287px; width:100%;height:0;padding: 0 0 80.13937282229965% 0;}
+.JEE_30_Jan_2024_Shift_2_21_s {max-width:288px; max-height:273px; }
+.JEE_30_Jan_2024_Shift_2_21_s::after {content: '\00a0';display: inline-block; width:288px; height:273px; background-position: 50% 0.15060240963855423%; background-size: 100.69444444444444% 343.2234432234432%; background-image: url(m_12_diffequations_0.png);padding: 0; }
+div.JEE_30_Jan_2024_Shift_2_21_s::after {max-width:288px; width:100%;height:0;padding: 0 0 94.79166666666667% 0;}
+
+
+/* $TexturePacker:SmartUpdate:f31a32a2689e8b8448ae2cf498c964f5:6079c80b40c11e8760547fae902ab5ff:c11979f8a74c4767199bdfee77140d9e$ */

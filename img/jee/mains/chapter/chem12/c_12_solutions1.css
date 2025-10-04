@@ -1,0 +1,68 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.JEEMAINS_24JAN_2023_S1_S_49 {max-width:265px; max-height:178px; }
+.JEEMAINS_24JAN_2023_S1_S_49::after {content: '\00a0';display: inline-block; width:265px; height:178px; background-position: 0.45045045045045046% 82.33173076923077%; background-size: 183.77358490566039% 567.4157303370787%; background-image: url(c_12_solutions1_0.png);padding: 0; }
+div.JEEMAINS_24JAN_2023_S1_S_49::after {max-width:265px; width:100%;height:0;padding: 0 0 67.16981132075472% 0;}
+.JEEMAINS_25JAN_S1_S_53 {max-width:272px; max-height:193px; }
+.JEEMAINS_25JAN_S1_S_53::after {content: '\00a0';display: inline-block; width:272px; height:193px; background-position: 0.46511627906976744% 60.09791921664627%; background-size: 179.0441176470588% 523.3160621761658%; background-image: url(c_12_solutions1_0.png);padding: 0; }
+div.JEEMAINS_25JAN_S1_S_53::after {max-width:272px; width:100%;height:0;padding: 0 0 70.95588235294117% 0;}
+.JEE_8_4_2019_P2_54_opt_1 {max-width:212px; max-height:166px; }
+.JEE_8_4_2019_P2_54_opt_1::after {content: '\00a0';display: inline-block; width:212px; height:166px; background-position: 99.63636363636364% 68.12796208530806%; background-size: 229.71698113207546% 608.433734939759%; background-image: url(c_12_solutions1_0.png);padding: 0; }
+div.JEE_8_4_2019_P2_54_opt_1::after {max-width:212px; width:100%;height:0;padding: 0 0 78.30188679245283% 0;}
+.JEE_8_4_2019_P2_54_opt_2 {max-width:206px; max-height:165px; }
+.JEE_8_4_2019_P2_54_opt_2::after {content: '\00a0';display: inline-block; width:206px; height:165px; background-position: 98.22064056939502% 48.40236686390533%; background-size: 236.40776699029126% 612.1212121212121%; background-image: url(c_12_solutions1_0.png);padding: 0; }
+div.JEE_8_4_2019_P2_54_opt_2::after {max-width:206px; width:100%;height:0;padding: 0 0 80.09708737864078% 0;}
+.JEE_8_4_2019_P2_54_opt_3 {max-width:214px; max-height:170px; }
+.JEE_8_4_2019_P2_54_opt_3::after {content: '\00a0';display: inline-block; width:214px; height:170px; background-position: 97.8021978021978% 88.33333333333333%; background-size: 227.57009345794393% 594.1176470588235%; background-image: url(c_12_solutions1_0.png);padding: 0; }
+div.JEE_8_4_2019_P2_54_opt_3::after {max-width:214px; width:100%;height:0;padding: 0 0 79.4392523364486% 0;}
+.JEE_8_4_2019_P2_54_opt_4 {max-width:207px; max-height:168px; }
+.JEE_8_4_2019_P2_54_opt_4::after {content: '\00a0';display: inline-block; width:207px; height:168px; background-position: 98.57142857142857% 28.50356294536817%; background-size: 235.2657004830918% 601.1904761904761%; background-image: url(c_12_solutions1_0.png);padding: 0; }
+div.JEE_8_4_2019_P2_54_opt_4::after {max-width:207px; width:100%;height:0;padding: 0 0 81.15942028985508% 0;}
+.Jan_8_2020_shift_1_38_q {max-width:255px; max-height:145px; }
+.Jan_8_2020_shift_1_38_q::after {content: '\00a0';display: inline-block; width:255px; height:145px; background-position: 0.43103448275862066% 99.88439306358381%; background-size: 190.98039215686273% 696.551724137931%; background-image: url(c_12_solutions1_0.png);padding: 0; }
+div.Jan_8_2020_shift_1_38_q::after {max-width:255px; width:100%;height:0;padding: 0 0 56.86274509803921% 0;}
+.Jan_9_Shift_2_46_s {max-width:274px; max-height:250px; }
+.Jan_9_Shift_2_46_s::after {content: '\00a0';display: inline-block; width:274px; height:250px; background-position: 0.4694835680751174% 31.57894736842105%; background-size: 177.73722627737226% 404%; background-image: url(c_12_solutions1_0.png);padding: 0; }
+div.Jan_9_Shift_2_46_s::after {max-width:274px; width:100%;height:0;padding: 0 0 91.24087591240875% 0;}
+.jee_mains_30_jun_2022_s1_63 {max-width:306px; max-height:238px; }
+.jee_mains_30_jun_2022_s1_63::after {content: '\00a0';display: inline-block; width:306px; height:238px; background-position: 0.5524861878453039% 0.12953367875647667%; background-size: 159.15032679738562% 424.3697478991597%; background-image: url(c_12_solutions1_0.png);padding: 0; }
+div.jee_mains_30_jun_2022_s1_63::after {max-width:306px; width:100%;height:0;padding: 0 0 77.77777777777777% 0;}
+
+@keyframes JEE_8_4_2019_P2_54_opt-frames {
+    0% { background-position: 99.63636363636364% 68.12796208530806%;  }
+    25% { background-position: 98.22064056939502% 48.40236686390533%;  }
+    50% { background-position: 97.8021978021978% 88.33333333333333%;  }
+    75% { background-position: 98.57142857142857% 28.50356294536817%;  }
+}
+
+.JEE_8_4_2019_P2_54_opt-animation {
+    max-width: 212px;
+    max-height: 166px;
+}
+.JEE_8_4_2019_P2_54_opt-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 212px;
+    height: 166px;
+    padding: 0;
+    background-image: url(c_12_solutions1_0.png);
+    background-size: 229.71698113207546% 608.433734939759%; 
+    animation-name: JEE_8_4_2019_P2_54_opt-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.JEE_8_4_2019_P2_54_opt-animation::after {
+    max-width: 212px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 78.30188679245283% 0;
+}
+
+/* $TexturePacker:SmartUpdate:9c957c51767a2ac4aac1c4f157128f7e:293cc576da02e1fa3524d706d7a107b4:26df729bb6f2aaa043c9ba28094e49d9$ */
