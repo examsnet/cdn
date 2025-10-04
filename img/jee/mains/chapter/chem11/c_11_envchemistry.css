@@ -6,9 +6,12 @@ Inline:     <i class="yourspritesname"></i>
 Responsive: <div class="yourspritesname"></div>
 */
 
+.JEEMAINS_25JAN_S1_Q_48 {max-width:202px; max-height:83px; }
+.JEEMAINS_25JAN_S1_Q_48::after {content: '\00a0';display: inline-block; width:202px; height:83px; background-position: 1.6666666666666667% 99.37106918238993%; background-size: 129.7029702970297% 291.56626506024094%; background-image: url(c_11_envchemistry_0.png);padding: 0; }
+div.JEEMAINS_25JAN_S1_Q_48::after {max-width:202px; width:100%;height:0;padding: 0 0 41.08910891089109% 0;}
 .JEEMAINS_25JAN_S1_S_48 {max-width:260px; max-height:156px; }
-.JEEMAINS_25JAN_S1_S_48::after {content: '\00a0';display: inline-block; width:260px; height:156px; background-position: 50% 50%; background-size: 100.76923076923077% 101.28205128205128%; background-image: url(c_11_envchemistry_0.png);padding: 0; }
+.JEEMAINS_25JAN_S1_S_48::after {content: '\00a0';display: inline-block; width:260px; height:156px; background-position: 50% 1.1627906976744187%; background-size: 100.76923076923077% 155.12820512820514%; background-image: url(c_11_envchemistry_0.png);padding: 0; }
 div.JEEMAINS_25JAN_S1_S_48::after {max-width:260px; width:100%;height:0;padding: 0 0 60% 0;}
 
 
-/* $TexturePacker:SmartUpdate:5500387c431b9b009dd931f4eff4ce81:a73ed446d6cdcac798194f3e3f4cb21e:fc959c003f203a70276ea28ccfec594a$ */
+/* $TexturePacker:SmartUpdate:ba256bde4b51ee709eac6b289bae38bb:f78724767c029e3ecbf1847bfe59e31d:fc959c003f203a70276ea28ccfec594a$ */

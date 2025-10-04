@@ -6,12 +6,15 @@ Inline:     <i class="yourspritesname"></i>
 Responsive: <div class="yourspritesname"></div>
 */
 
+.JEEMAINS_30JAN_S1_S_26 {max-width:351px; max-height:271px; }
+.JEEMAINS_30JAN_S1_S_26::after {content: '\00a0';display: inline-block; width:351px; height:271px; background-position: 50% 0.25906735751295334%; background-size: 100.56980056980056% 242.43542435424354%; background-image: url(p_12_electromagneticwaves1_0.png);padding: 0; }
+div.JEEMAINS_30JAN_S1_S_26::after {max-width:351px; width:100%;height:0;padding: 0 0 77.20797720797721% 0;}
 .JEE_MAINS_2019_JAN10_S2_11sol {max-width:298px; max-height:152px; }
-.JEE_MAINS_2019_JAN10_S2_11sol::after {content: '\00a0';display: inline-block; width:298px; height:152px; background-position: 5% 99.57081545064378%; background-size: 106.71140939597315% 253.28947368421052%; background-image: url(p_12_electromagneticwaves1_0.png);padding: 0; }
+.JEE_MAINS_2019_JAN10_S2_11sol::after {content: '\00a0';display: inline-block; width:298px; height:152px; background-position: 1.8181818181818181% 99.8019801980198%; background-size: 118.45637583892618% 432.2368421052632%; background-image: url(p_12_electromagneticwaves1_0.png);padding: 0; }
 div.JEE_MAINS_2019_JAN10_S2_11sol::after {max-width:298px; width:100%;height:0;padding: 0 0 51.006711409395976% 0;}
 .jee_mn_27_jul_2022_s2_45_sol {max-width:316px; max-height:230px; }
-.jee_mn_27_jul_2022_s2_45_sol::after {content: '\00a0';display: inline-block; width:316px; height:230px; background-position: 50% 0.6451612903225806%; background-size: 100.63291139240506% 167.3913043478261%; background-image: url(p_12_electromagneticwaves1_0.png);padding: 0; }
+.jee_mn_27_jul_2022_s2_45_sol::after {content: '\00a0';display: inline-block; width:316px; height:230px; background-position: 2.7027027027027026% 63.9344262295082%; background-size: 111.70886075949367% 285.6521739130435%; background-image: url(p_12_electromagneticwaves1_0.png);padding: 0; }
 div.jee_mn_27_jul_2022_s2_45_sol::after {max-width:316px; width:100%;height:0;padding: 0 0 72.78481012658227% 0;}
 
 
-/* $TexturePacker:SmartUpdate:cdecadcf819b94c261be1f56dad3cb2e:3066909572f2bf07c100d1a0d65b7d08:6197d47c8b2944a4e8f699ce935382e9$ */
+/* $TexturePacker:SmartUpdate:a059d04529a582d64fa25de6650f6d8b:45d05083a97a55e14580b744f9c313a6:6197d47c8b2944a4e8f699ce935382e9$ */
