@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.JEE_Advanced_2020_Paper_2_44_s {max-width:419px; max-height:242px; }
+.JEE_Advanced_2020_Paper_2_44_s::after {content: '\00a0';display: inline-block; width:419px; height:242px; background-position: 0.7092198581560284% 7.142857142857143%; background-size: 133.65155131264916% 105.78512396694215%; background-image: url(m_11_hyperbola_0.png);padding: 0; }
+div.JEE_Advanced_2020_Paper_2_44_s::after {max-width:419px; width:100%;height:0;padding: 0 0 57.756563245823386% 0;}
+.m2018_p2_38sola {max-width:123px; max-height:74px; }
+.m2018_p2_38sola::after {content: '\00a0';display: inline-block; width:123px; height:74px; background-position: 96.33867276887872% 99.45054945054945%; background-size: 455.2845528455285% 345.94594594594594%; background-image: url(m_11_hyperbola_0.png);padding: 0; }
+div.m2018_p2_38sola::after {max-width:123px; width:100%;height:0;padding: 0 0 60.16260162601626% 0;}
+.m2018_p2_38solb {max-width:83px; max-height:80px; }
+.m2018_p2_38solb::after {content: '\00a0';display: inline-block; width:83px; height:80px; background-position: 88.25995807127883% 56.81818181818182%; background-size: 674.6987951807229% 320%; background-image: url(m_11_hyperbola_0.png);padding: 0; }
+div.m2018_p2_38solb::after {max-width:83px; width:100%;height:0;padding: 0 0 96.3855421686747% 0;}
+.m2018_p2_53sol {max-width:138px; max-height:98px; }
+.m2018_p2_53sol::after {content: '\00a0';display: inline-block; width:138px; height:98px; background-position: 99.76303317535545% 0.6329113924050633%; background-size: 405.7971014492754% 261.2244897959184%; background-image: url(m_11_hyperbola_0.png);padding: 0; }
+div.m2018_p2_53sol::after {max-width:138px; width:100%;height:0;padding: 0 0 71.01449275362319% 0;}
+
+
+/* $TexturePacker:SmartUpdate:7bb15a9f75067fde3cad46fddfb0b291:0944e1a0762619530842dfc12c3c4ad3:6d6431f4ab0faa8583036139f9a30cf8$ */

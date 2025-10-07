@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.JEE_Adv_2023_P2_43_sol {max-width:340px; max-height:198px; }
+.JEE_Adv_2023_P2_43_sol::after {content: '\00a0';display: inline-block; width:340px; height:198px; background-position: 70.76923076923077% 33.333333333333336%; background-size: 233.8235294117647% 101.51515151515152%; background-image: url(m_12_differentialequations_0.png);padding: 0; }
+div.JEE_Adv_2023_P2_43_sol::after {max-width:340px; width:100%;height:0;padding: 0 0 58.23529411764706% 0;}
+.ja2019_p1_46sol {max-width:131px; max-height:122px; }
+.ja2019_p1_46sol::after {content: '\00a0';display: inline-block; width:131px; height:122px; background-position: 99.84939759036145% 1.2658227848101267%; background-size: 606.8702290076336% 164.75409836065575%; background-image: url(m_12_differentialequations_0.png);padding: 0; }
+div.ja2019_p1_46sol::after {max-width:131px; width:100%;height:0;padding: 0 0 93.12977099236642% 0;}
+.jee_adv_2009_q2_48sol {max-width:320px; max-height:199px; }
+.jee_adv_2009_q2_48sol::after {content: '\00a0';display: inline-block; width:320px; height:199px; background-position: 0.21052631578947367% 50%; background-size: 248.4375% 101.00502512562814%; background-image: url(m_12_differentialequations_0.png);padding: 0; }
+div.jee_adv_2009_q2_48sol::after {max-width:320px; width:100%;height:0;padding: 0 0 62.1875% 0;}
+
+
+/* $TexturePacker:SmartUpdate:5821475b774a126174069fc74e7002e8:7a5ed2f184c2900c45dfc7daf3117481:09ca7a108edab67b097e528b50edd2d1$ */

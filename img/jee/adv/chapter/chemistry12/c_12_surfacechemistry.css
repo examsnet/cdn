@@ -1,0 +1,45 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jee_adv_2012_q2_40_1 {max-width:320px; max-height:217px; }
+.jee_adv_2012_q2_40_1::after {content: '\00a0';display: inline-block; width:320px; height:217px; background-position: 50% 0.16420361247947454%; background-size: 100.625% 380.64516129032256%; background-image: url(c_12_surfacechemistry_0.png);padding: 0; }
+div.jee_adv_2012_q2_40_1::after {max-width:320px; width:100%;height:0;padding: 0 0 67.8125% 0;}
+.jee_adv_2012_q2_40_2 {max-width:297px; max-height:606px; }
+.jee_adv_2012_q2_40_2::after {content: '\00a0';display: inline-block; width:297px; height:606px; background-position: 4% 99.54545454545455%; background-size: 108.41750841750842% 136.3036303630363%; background-image: url(c_12_surfacechemistry_0.png);padding: 0; }
+div.jee_adv_2012_q2_40_2::after {max-width:297px; width:100%;height:0;padding: 0 0 204.04040404040404% 0;}
+
+@keyframes jee_adv_2012_q2_40-frames {
+    0% { background-position: 50% 0.16420361247947454%;  }
+    50% { background-position: 4% 99.54545454545455%;  }
+}
+
+.jee_adv_2012_q2_40-animation {
+    max-width: 320px;
+    max-height: 217px;
+}
+.jee_adv_2012_q2_40-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 320px;
+    height: 217px;
+    padding: 0;
+    background-image: url(c_12_surfacechemistry_0.png);
+    background-size: 100.625% 380.64516129032256%; 
+    animation-name: jee_adv_2012_q2_40-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.jee_adv_2012_q2_40-animation::after {
+    max-width: 320px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 67.8125% 0;
+}
+
+/* $TexturePacker:SmartUpdate:fe5faef61d097245cfddd6e4d2b58e83:fc8ac4556c430ebf99d3b5490524b4ac:9ee44d4927e1434a2ffae8a399ff9c58$ */

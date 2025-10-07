@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.JEEADV_2021_P1_55sol {max-width:283px; max-height:63px; }
+.JEEADV_2021_P1_55sol::after {content: '\00a0';display: inline-block; width:283px; height:63px; background-position: 50% 50%; background-size: 100.70671378091873% 103.17460317460318%; background-image: url(m_11_quadratic_0.png);padding: 0; }
+div.JEEADV_2021_P1_55sol::after {max-width:283px; width:100%;height:0;padding: 0 0 22.261484098939928% 0;}
+
+
+/* $TexturePacker:SmartUpdate:656253743838828f20297eddb06cdb30:ff9f4a1f3a0cba153a2650c37b410652:ff4af9d527592c5ed4df594f71629ee9$ */

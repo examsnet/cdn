@@ -1,0 +1,57 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.JEEADV_2021_P1_42sol {max-width:262px; max-height:264px; }
+.JEEADV_2021_P1_42sol::after {content: '\00a0';display: inline-block; width:262px; height:264px; background-position: 99.83974358974359% 0.5617977528089888%; background-size: 338.1679389312977% 167.42424242424244%; background-image: url(m_11_complex_0.png);padding: 0; }
+div.JEEADV_2021_P1_42sol::after {max-width:262px; width:100%;height:0;padding: 0 0 100.76335877862596% 0;}
+.JEEADV_2021_P1_54sol {max-width:232px; max-height:148px; }
+.JEEADV_2021_P1_54sol::after {content: '\00a0';display: inline-block; width:232px; height:148px; background-position: 49.235474006116206% 76.53061224489795%; background-size: 381.8965517241379% 298.64864864864865%; background-image: url(m_11_complex_0.png);padding: 0; }
+div.JEEADV_2021_P1_54sol::after {max-width:232px; width:100%;height:0;padding: 0 0 63.793103448275865% 0;}
+.jee_adv_2010_q1_65sol {max-width:320px; max-height:72px; }
+.jee_adv_2010_q1_65sol::after {content: '\00a0';display: inline-block; width:320px; height:72px; background-position: 0.17667844522968199% 74.86486486486487%; background-size: 276.875% 613.8888888888889%; background-image: url(m_11_complex_0.png);padding: 0; }
+div.jee_adv_2010_q1_65sol::after {max-width:320px; width:100%;height:0;padding: 0 0 22.5% 0;}
+.jee_adv_2011_q1_68sol {max-width:320px; max-height:175px; }
+.jee_adv_2011_q1_68sol::after {content: '\00a0';display: inline-block; width:320px; height:175px; background-position: 98.0565371024735% 99.62546816479401%; background-size: 276.875% 252.57142857142858%; background-image: url(m_11_complex_0.png);padding: 0; }
+div.jee_adv_2011_q1_68sol::after {max-width:320px; width:100%;height:0;padding: 0 0 54.6875% 0;}
+.p22013_45 {max-width:320px; max-height:275px; }
+.p22013_45::after {content: '\00a0';display: inline-block; width:320px; height:275px; background-position: 0.17667844522968199% 0.5988023952095808%; background-size: 276.875% 160.72727272727272%; background-image: url(m_11_complex_0.png);padding: 0; }
+div.p22013_45::after {max-width:320px; width:100%;height:0;padding: 0 0 85.9375% 0;}
+.p22013_53 {max-width:300px; max-height:223px; }
+.p22013_53::after {content: '\00a0';display: inline-block; width:300px; height:223px; background-position: 54.948805460750854% 0.45662100456621%; background-size: 295.3333333333333% 198.20627802690584%; background-image: url(m_11_complex_0.png);padding: 0; }
+div.p22013_53::after {max-width:300px; width:100%;height:0;padding: 0 0 74.33333333333333% 0;}
+
+@keyframes p22013-frames {
+    0% { background-position: 0.17667844522968199% 0.5988023952095808%;  }
+    50% { background-position: 54.948805460750854% 0.45662100456621%;  }
+}
+
+.p22013-animation {
+    max-width: 320px;
+    max-height: 275px;
+}
+.p22013-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 320px;
+    height: 275px;
+    padding: 0;
+    background-image: url(m_11_complex_0.png);
+    background-size: 276.875% 160.72727272727272%; 
+    animation-name: p22013-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.p22013-animation::after {
+    max-width: 320px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 85.9375% 0;
+}
+
+/* $TexturePacker:SmartUpdate:9597f8196f73464dcfc12c18fcac460f:8a9da436b881a4bf8747ca6ba18faadc:a40d2825c3886b7da83b22177f3de4dd$ */

@@ -1,0 +1,48 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.m2018_p1_38sol {max-width:135px; max-height:71px; }
+.m2018_p1_38sol::after {content: '\00a0';display: inline-block; width:135px; height:71px; background-position: 99.87562189054727% 0.6578947368421053%; background-size: 695.5555555555555% 314.0845070422535%; background-image: url(m_11_trigonometry_0.png);padding: 0; }
+div.m2018_p1_38sol::after {max-width:135px; width:100%;height:0;padding: 0 0 52.592592592592595% 0;}
+.p12013_50 {max-width:300px; max-height:221px; }
+.p12013_50::after {content: '\00a0';display: inline-block; width:300px; height:221px; background-position: 0.1564945226917058% 50%; background-size: 313% 100.90497737556561%; background-image: url(m_11_trigonometry_0.png);padding: 0; }
+div.p12013_50::after {max-width:300px; width:100%;height:0;padding: 0 0 73.66666666666667% 0;}
+.p12013_54 {max-width:500px; max-height:195px; }
+.p12013_54::after {content: '\00a0';display: inline-block; width:500px; height:195px; background-position: 68.79271070615034% 3.5714285714285716%; background-size: 187.8% 114.35897435897436%; background-image: url(m_11_trigonometry_0.png);padding: 0; }
+div.p12013_54::after {max-width:500px; width:100%;height:0;padding: 0 0 39% 0;}
+
+@keyframes p12013-frames {
+    0% { background-position: 0.1564945226917058% 50%;  }
+    50% { background-position: 68.79271070615034% 3.5714285714285716%;  }
+}
+
+.p12013-animation {
+    max-width: 300px;
+    max-height: 221px;
+}
+.p12013-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 300px;
+    height: 221px;
+    padding: 0;
+    background-image: url(m_11_trigonometry_0.png);
+    background-size: 313% 100.90497737556561%; 
+    animation-name: p12013-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.p12013-animation::after {
+    max-width: 300px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 73.66666666666667% 0;
+}
+
+/* $TexturePacker:SmartUpdate:d0fa642f0724317aa2b858571047c4bd:da1183a5610a7eae8e3b925051d41e9a:62bf0f4374c80058bb00fe1f7f8b4504$ */

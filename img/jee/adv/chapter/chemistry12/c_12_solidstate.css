@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.JEEADV_2021_P1_22 {max-width:156px; max-height:136px; }
+.JEEADV_2021_P1_22::after {content: '\00a0';display: inline-block; width:156px; height:136px; background-position: 91.36986301369863% 0.2857142857142857%; background-size: 567.9487179487179% 357.3529411764706%; background-image: url(c_12_solidstate_0.png);padding: 0; }
+div.JEEADV_2021_P1_22::after {max-width:156px; width:100%;height:0;padding: 0 0 87.17948717948718% 0;}
+.JEE_Advanced_2020_Paper_1_30_q {max-width:142px; max-height:200px; }
+.JEE_Advanced_2020_Paper_1_30_q::after {content: '\00a0';display: inline-block; width:142px; height:200px; background-position: 31.182795698924732% 98.6013986013986%; background-size: 623.943661971831% 243%; background-image: url(c_12_solidstate_0.png);padding: 0; }
+div.JEE_Advanced_2020_Paper_1_30_q::after {max-width:142px; width:100%;height:0;padding: 0 0 140.8450704225352% 0;}
+.jee_adv_2008_q2_36sol {max-width:252px; max-height:197px; }
+.jee_adv_2008_q2_36sol::after {content: '\00a0';display: inline-block; width:252px; height:197px; background-position: 59.14826498422713% 97.57785467128028%; background-size: 351.58730158730157% 246.7005076142132%; background-image: url(c_12_solidstate_0.png);padding: 0; }
+div.jee_adv_2008_q2_36sol::after {max-width:252px; width:100%;height:0;padding: 0 0 78.17460317460318% 0;}
+.jee_adv_2010_q2_22 {max-width:230px; max-height:203px; }
+.jee_adv_2010_q2_22::after {content: '\00a0';display: inline-block; width:230px; height:203px; background-position: 0.1524390243902439% 99.64664310954063%; background-size: 385.2173913043478% 239.40886699507388%; background-image: url(c_12_solidstate_0.png);padding: 0; }
+div.jee_adv_2010_q2_22::after {max-width:230px; width:100%;height:0;padding: 0 0 88.26086956521739% 0;}
+.jee_adv_2011_q2_33sol {max-width:264px; max-height:250px; }
+.jee_adv_2011_q2_33sol::after {content: '\00a0';display: inline-block; width:264px; height:250px; background-position: 64.63022508038586% 0.423728813559322%; background-size: 335.6060606060606% 194.4%; background-image: url(c_12_solidstate_0.png);padding: 0; }
+div.jee_adv_2011_q2_33sol::after {max-width:264px; width:100%;height:0;padding: 0 0 94.6969696969697% 0;}
+.jee_adv_2012_q1_21 {max-width:400px; max-height:280px; }
+.jee_adv_2012_q1_21::after {content: '\00a0';display: inline-block; width:400px; height:280px; background-position: 0.205761316872428% 0.4854368932038835%; background-size: 221.5% 173.57142857142858%; background-image: url(c_12_solidstate_0.png);padding: 0; }
+div.jee_adv_2012_q1_21::after {max-width:400px; width:100%;height:0;padding: 0 0 70% 0;}
+.p12013_27 {max-width:257px; max-height:165px; }
+.p12013_27::after {content: '\00a0';display: inline-block; width:257px; height:165px; background-position: 99.84101748807632% 78.50467289719626%; background-size: 344.74708171206225% 294.54545454545456%; background-image: url(c_12_solidstate_0.png);padding: 0; }
+div.p12013_27::after {max-width:257px; width:100%;height:0;padding: 0 0 64.2023346303502% 0;}
+
+
+/* $TexturePacker:SmartUpdate:4f921b5da11998f32022cbcdf3b26ba1:8146bdba44ebdb5aaed715b8b0b7c6f4:52666d3b1585ccdf701ca1ccfee89651$ */

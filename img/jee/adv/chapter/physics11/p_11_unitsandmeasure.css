@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.JEEADV_2021_P1_1 {max-width:301px; max-height:117px; }
+.JEEADV_2021_P1_1::after {content: '\00a0';display: inline-block; width:301px; height:117px; background-position: 99.84101748807632% 0.7692307692307693%; background-size: 308.9700996677741% 211.11111111111111%; background-image: url(p_11_unitsandmeasure_0.png);padding: 0; }
+div.JEEADV_2021_P1_1::after {max-width:301px; width:100%;height:0;padding: 0 0 38.87043189368771% 0;}
+.ja2019_p2_11sol {max-width:244px; max-height:127px; }
+.ja2019_p2_11sol::after {content: '\00a0';display: inline-block; width:244px; height:127px; background-position: 91.54518950437318% 99.16666666666667%; background-size: 381.1475409836066% 194.48818897637796%; background-image: url(p_11_unitsandmeasure_0.png);padding: 0; }
+div.ja2019_p2_11sol::after {max-width:244px; width:100%;height:0;padding: 0 0 52.049180327868854% 0;}
+.jee_adv_2025_p1_q_20 {max-width:372px; max-height:198px; }
+.jee_adv_2025_p1_q_20::after {content: '\00a0';display: inline-block; width:372px; height:198px; background-position: 45.69892473118279% 2.0408163265306123%; background-size: 250% 124.74747474747475%; background-image: url(p_11_unitsandmeasure_0.png);padding: 0; }
+div.jee_adv_2025_p1_q_20::after {max-width:372px; width:100%;height:0;padding: 0 0 53.225806451612904% 0;}
+.p22016_4 {max-width:253px; max-height:237px; }
+.p22016_4::after {content: '\00a0';display: inline-block; width:253px; height:237px; background-position: 0.14771048744460857% 10%; background-size: 367.5889328063241% 104.21940928270043%; background-image: url(p_11_unitsandmeasure_0.png);padding: 0; }
+div.p22016_4::after {max-width:253px; width:100%;height:0;padding: 0 0 93.67588932806323% 0;}
+
+
+/* $TexturePacker:SmartUpdate:2cc10ce0cd1ddb18482b9490687e8594:9164b9e17156a1c1545f1078fd637df4:893c51951c49689d6f3ef68e8070c26e$ */

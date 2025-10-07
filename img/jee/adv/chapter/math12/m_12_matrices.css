@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.JEE_Adv_2023_P2_39_sol {max-width:328px; max-height:99px; }
+.JEE_Adv_2023_P2_39_sol::after {content: '\00a0';display: inline-block; width:328px; height:99px; background-position: 50% 1.9230769230769231%; background-size: 100.60975609756098% 152.5252525252525%; background-image: url(m_12_matrices_0.png);padding: 0; }
+div.JEE_Adv_2023_P2_39_sol::after {max-width:328px; width:100%;height:0;padding: 0 0 30.182926829268293% 0;}
+.m2018_p2_44sol {max-width:298px; max-height:49px; }
+.m2018_p2_44sol::after {content: '\00a0';display: inline-block; width:298px; height:49px; background-position: 3.125% 99.01960784313725%; background-size: 110.73825503355705% 308.16326530612247%; background-image: url(m_12_matrices_0.png);padding: 0; }
+div.m2018_p2_44sol::after {max-width:298px; width:100%;height:0;padding: 0 0 16.44295302013423% 0;}
+
+
+/* $TexturePacker:SmartUpdate:9b00a81e006b0cedda92f1d0e8de79ae:f463a516ed82449798f1b8f31d12886f:cad845d71cf943f28abc426a5e847fd1$ */

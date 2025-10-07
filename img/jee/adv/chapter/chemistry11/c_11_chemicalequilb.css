@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.JEE_Adv_2023_P1_27 {max-width:468px; max-height:319px; }
+.JEE_Adv_2023_P1_27::after {content: '\00a0';display: inline-block; width:468px; height:319px; background-position: 50% 0.5%; background-size: 100.42735042735043% 162.6959247648903%; background-image: url(c_11_chemicalequilb_0.png);padding: 0; }
+div.JEE_Adv_2023_P1_27::after {max-width:468px; width:100%;height:0;padding: 0 0 68.16239316239316% 0;}
+.JEE_Advanced_2020_Paper_1_32_s {max-width:215px; max-height:197px; }
+.JEE_Advanced_2020_Paper_1_32_s::after {content: '\00a0';display: inline-block; width:215px; height:197px; background-position: 94.11764705882354% 99.68944099378882%; background-size: 218.6046511627907% 263.4517766497462%; background-image: url(c_11_chemicalequilb_0.png);padding: 0; }
+div.JEE_Advanced_2020_Paper_1_32_s::after {max-width:215px; width:100%;height:0;padding: 0 0 91.62790697674419% 0;}
+.m2018_p1_29 {max-width:238px; max-height:164px; }
+.m2018_p1_29::after {content: '\00a0';display: inline-block; width:238px; height:164px; background-position: 0.43103448275862066% 90.4225352112676%; background-size: 197.47899159663865% 316.4634146341463%; background-image: url(c_11_chemicalequilb_0.png);padding: 0; }
+div.m2018_p1_29::after {max-width:238px; width:100%;height:0;padding: 0 0 68.90756302521008% 0;}
+
+
+/* $TexturePacker:SmartUpdate:1529f1bbb53de941611af2677e3c87f5:efac37c4c3e7329814cddd86b123d701:af5c181e1024924d97feca7f33abd840$ */

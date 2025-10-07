@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.JEE_Advanced_2020_Paper_2_31_q {max-width:186px; max-height:194px; }
+.JEE_Advanced_2020_Paper_2_31_q::after {content: '\00a0';display: inline-block; width:186px; height:194px; background-position: 50% 50%; background-size: 101.0752688172043% 101.03092783505154%; background-image: url(c_11_ionicequilib_0.png);padding: 0; }
+div.JEE_Advanced_2020_Paper_2_31_q::after {max-width:186px; width:100%;height:0;padding: 0 0 104.3010752688172% 0;}
+
+
+/* $TexturePacker:SmartUpdate:4ca3a95f08325ebb5b58405e9ed6631c:4f1c4b12ae8d6cba43bc16f4f0a6f796:92c8153a4ed82058c3ce4432d52628c2$ */

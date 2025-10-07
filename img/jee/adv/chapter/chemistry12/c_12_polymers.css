@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jee_adv_2011_q2_30 {max-width:667px; max-height:158px; }
+.jee_adv_2011_q2_30::after {content: '\00a0';display: inline-block; width:667px; height:158px; background-position: 0.31347962382445144% 0.19230769230769232%; background-size: 147.82608695652175% 429.11392405063293%; background-image: url(c_12_polymers_0.png);padding: 0; }
+div.jee_adv_2011_q2_30::after {max-width:667px; width:100%;height:0;padding: 0 0 23.68815592203898% 0;}
+.jee_adv_2011_q2_30sol {max-width:316px; max-height:565px; }
+.jee_adv_2011_q2_30sol::after {content: '\00a0';display: inline-block; width:316px; height:565px; background-position: 99.85074626865672% 0.8849557522123894%; background-size: 312.0253164556962% 120%; background-image: url(c_12_polymers_0.png);padding: 0; }
+div.jee_adv_2011_q2_30sol::after {max-width:316px; width:100%;height:0;padding: 0 0 178.79746835443038% 0;}
+.p12016_22sol {max-width:450px; max-height:209px; }
+.p12016_22sol::after {content: '\00a0';display: inline-block; width:450px; height:209px; background-position: 0.1865671641791045% 99.7867803837953%; background-size: 219.11111111111111% 324.4019138755981%; background-image: url(c_12_polymers_0.png);padding: 0; }
+div.p12016_22sol::after {max-width:450px; width:100%;height:0;padding: 0 0 46.44444444444444% 0;}
+.p22015_35sol {max-width:645px; max-height:307px; }
+.p22015_35sol::after {content: '\00a0';display: inline-block; width:645px; height:307px; background-position: 0.2932551319648094% 43.1266846361186%; background-size: 152.86821705426357% 220.8469055374593%; background-image: url(c_12_polymers_0.png);padding: 0; }
+div.p22015_35sol::after {max-width:645px; width:100%;height:0;padding: 0 0 47.5968992248062% 0;}
+
+
+/* $TexturePacker:SmartUpdate:86d903c95485ea7cb85fc168767a0755:93d068abcf1cf45db77b6865371cae16:ee68f96cb18636a17a5b17401fd82663$ */

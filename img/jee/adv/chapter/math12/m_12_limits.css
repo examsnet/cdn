@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.JEEADV_2021_P1_50sol {max-width:332px; max-height:76px; }
+.JEEADV_2021_P1_50sol::after {content: '\00a0';display: inline-block; width:332px; height:76px; background-position: 3.125% 33.416458852867834%; background-size: 109.63855421686748% 627.6315789473684%; background-image: url(m_12_limits_0.png);padding: 0; }
+div.JEEADV_2021_P1_50sol::after {max-width:332px; width:100%;height:0;padding: 0 0 22.89156626506024% 0;}
+.jee_adv_2025_p1_sol_15 {max-width:261px; max-height:67px; }
+.jee_adv_2025_p1_sol_15::after {content: '\00a0';display: inline-block; width:261px; height:67px; background-position: 0.970873786407767% 16.097560975609756%; background-size: 139.46360153256705% 711.9402985074627%; background-image: url(m_12_limits_0.png);padding: 0; }
+div.jee_adv_2025_p1_sol_15::after {max-width:261px; width:100%;height:0;padding: 0 0 25.67049808429119% 0;}
+.jee_adv_2025_p1_sol_15b {max-width:261px; max-height:64px; }
+.jee_adv_2025_p1_sol_15b::after {content: '\00a0';display: inline-block; width:261px; height:64px; background-position: 0.970873786407767% 0.24213075060532688%; background-size: 139.46360153256705% 745.3125%; background-image: url(m_12_limits_0.png);padding: 0; }
+div.jee_adv_2025_p1_sol_15b::after {max-width:261px; width:100%;height:0;padding: 0 0 24.521072796934867% 0;}
+.m2018_p2_42sol {max-width:100px; max-height:72px; }
+.m2018_p2_42sol::after {content: '\00a0';display: inline-block; width:100px; height:72px; background-position: 99.62121212121212% 0.24691358024691357%; background-size: 364% 662.5%; background-image: url(m_12_limits_0.png);padding: 0; }
+div.m2018_p2_42sol::after {max-width:100px; width:100%;height:0;padding: 0 0 72% 0;}
+.p12014_53sol {max-width:300px; max-height:265px; }
+.p12014_53sol::after {content: '\00a0';display: inline-block; width:300px; height:265px; background-position: 1.5625% 99.52830188679245%; background-size: 121.33333333333333% 180%; background-image: url(m_12_limits_0.png);padding: 0; }
+div.p12014_53sol::after {max-width:300px; width:100%;height:0;padding: 0 0 88.33333333333333% 0;}
+
+
+/* $TexturePacker:SmartUpdate:2f0612552126dc2e38a651b0aa81a331:7ead84f22fda46f44c10b66cc81aa512:0c7cf588069551ebd39c38c66fe92fe5$ */

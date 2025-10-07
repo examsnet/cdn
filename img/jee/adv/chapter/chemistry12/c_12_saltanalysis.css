@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.JEEADV_2021_P2_34sol {max-width:300px; max-height:126px; }
+.JEEADV_2021_P2_34sol::after {content: '\00a0';display: inline-block; width:300px; height:126px; background-position: 79.30489731437599% 99.67320261437908%; background-size: 311% 342.85714285714283%; background-image: url(c_12_saltanalysis_0.png);padding: 0; }
+div.JEEADV_2021_P2_34sol::after {max-width:300px; width:100%;height:0;padding: 0 0 42% 0;}
+.jee_adv_2009_q1_33sol {max-width:520px; max-height:161px; }
+.jee_adv_2009_q1_33sol::after {content: '\00a0';display: inline-block; width:520px; height:161px; background-position: 0.24213075060532688% 0.36900369003690037%; background-size: 179.42307692307693% 268.3229813664596%; background-image: url(c_12_saltanalysis_0.png);padding: 0; }
+div.jee_adv_2009_q1_33sol::after {max-width:520px; width:100%;height:0;padding: 0 0 30.96153846153846% 0;}
+.p22013_30 {max-width:410px; max-height:303px; }
+.p22013_30::after {content: '\00a0';display: inline-block; width:410px; height:303px; background-position: 99.80879541108986% 0.7751937984496124%; background-size: 227.5609756097561% 142.5742574257426%; background-image: url(c_12_saltanalysis_0.png);padding: 0; }
+div.p22013_30::after {max-width:410px; width:100%;height:0;padding: 0 0 73.90243902439025% 0;}
+.p22014_35para {max-width:500px; max-height:198px; }
+.p22014_35para::after {content: '\00a0';display: inline-block; width:500px; height:198px; background-position: 0.23094688221709006% 69.65811965811966%; background-size: 186.6% 218.1818181818182%; background-image: url(c_12_saltanalysis_0.png);padding: 0; }
+div.p22014_35para::after {max-width:500px; width:100%;height:0;padding: 0 0 39.6% 0;}
+
+
+/* $TexturePacker:SmartUpdate:f688387f4643f4c282fb14e96e49e4c2:d431af4962a002ef4133589750c81467:b01ac54911db6ebf7e6b2a13ac81885d$ */
