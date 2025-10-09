@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.AP_EAPCET_22_May_2024_S2_84 {max-width:153px; max-height:223px; }
+.AP_EAPCET_22_May_2024_S2_84::after {content: '\00a0';display: inline-block; width:153px; height:223px; background-position: 50% 50%; background-size: 101.30718954248366% 100.89686098654708%; background-image: url(ap_phy_xi_ch3_0.png);padding: 0; }
+div.AP_EAPCET_22_May_2024_S2_84::after {max-width:153px; width:100%;height:0;padding: 0 0 145.7516339869281% 0;}
+
+
+/* $TexturePacker:SmartUpdate:eff997c888df2011d4c770c21756c8d8:c85fd9d38c65d71b15b36f2f90cd458c:27f9f881451e1d816d69bf18e8f38228$ */

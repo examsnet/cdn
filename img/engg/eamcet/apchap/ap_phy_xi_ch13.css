@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.AP_EAPCET_20_May_2024_S1_86 {max-width:122px; max-height:303px; }
+.AP_EAPCET_20_May_2024_S1_86::after {content: '\00a0';display: inline-block; width:122px; height:303px; background-position: 99.67532467532467% 50%; background-size: 352.4590163934426% 100.66006600660066%; background-image: url(ap_phy_xi_ch13_0.png);padding: 0; }
+div.AP_EAPCET_20_May_2024_S1_86::after {max-width:122px; width:100%;height:0;padding: 0 0 248.36065573770492% 0;}
+.AP_EAPCET_21_May_2024_S2_91 {max-width:228px; max-height:96px; }
+.AP_EAPCET_21_May_2024_S2_91::after {content: '\00a0';display: inline-block; width:228px; height:96px; background-position: 0.49504950495049505% 94.25837320574162%; background-size: 188.59649122807016% 317.7083333333333%; background-image: url(ap_phy_xi_ch13_0.png);padding: 0; }
+div.AP_EAPCET_21_May_2024_S2_91::after {max-width:228px; width:100%;height:0;padding: 0 0 42.10526315789474% 0;}
+.AP_EAPCET_22_May_2024_S1_92 {max-width:233px; max-height:97px; }
+.AP_EAPCET_22_May_2024_S1_92::after {content: '\00a0';display: inline-block; width:233px; height:97px; background-position: 0.5076142131979695% 47.59615384615385%; background-size: 184.54935622317598% 314.4329896907216%; background-image: url(ap_phy_xi_ch13_0.png);padding: 0; }
+div.AP_EAPCET_22_May_2024_S1_92::after {max-width:233px; width:100%;height:0;padding: 0 0 41.63090128755365% 0;}
+.AP_EAPCET_23_May_2024_S1_91 {max-width:305px; max-height:97px; }
+.AP_EAPCET_23_May_2024_S1_91::after {content: '\00a0';display: inline-block; width:305px; height:97px; background-position: 0.8% 0.4807692307692308%; background-size: 140.98360655737704% 314.4329896907216%; background-image: url(ap_phy_xi_ch13_0.png);padding: 0; }
+div.AP_EAPCET_23_May_2024_S1_91::after {max-width:305px; width:100%;height:0;padding: 0 0 31.80327868852459% 0;}
+
+
+/* $TexturePacker:SmartUpdate:1c5276664fd29ef932fc4ef6518fefdf:1de3ba9e42534145d503a38ef4d8075a:fdf99e27a34c79eb1d536892e34fe56a$ */
