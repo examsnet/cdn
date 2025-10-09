@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.TS_EAMCET_10_May_2024_S1_157 {max-width:365px; max-height:122px; }
+.TS_EAMCET_10_May_2024_S1_157::after {content: '\00a0';display: inline-block; width:365px; height:122px; background-position: 99.62406015037594% 7.6923076923076925%; background-size: 172.87671232876713% 110.65573770491804%; background-image: url(tg_che_xi_ch15_0.png);padding: 0; }
+div.TS_EAMCET_10_May_2024_S1_157::after {max-width:365px; width:100%;height:0;padding: 0 0 33.42465753424658% 0;}
+.TS_EAMCET_9_May_2024_S1_137 {max-width:263px; max-height:133px; }
+.TS_EAMCET_9_May_2024_S1_137::after {content: '\00a0';display: inline-block; width:263px; height:133px; background-position: 0.2717391304347826% 50%; background-size: 239.92395437262357% 101.50375939849624%; background-image: url(tg_che_xi_ch15_0.png);padding: 0; }
+div.TS_EAMCET_9_May_2024_S1_137::after {max-width:263px; width:100%;height:0;padding: 0 0 50.57034220532319% 0;}
+
+
+/* $TexturePacker:SmartUpdate:73d0c858eda108c933bbbd3e1833ec72:9042a450223ab0a0a4a3ae4527e051c0:b8ac41e7cf6eef14d2ca30faeb9a176c$ */

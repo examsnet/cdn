@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.TS_EAMCET_10_May_2024_S1_138 {max-width:225px; max-height:84px; }
+.TS_EAMCET_10_May_2024_S1_138::after {content: '\00a0';display: inline-block; width:225px; height:84px; background-position: 50% 0.684931506849315%; background-size: 100.88888888888889% 273.8095238095238%; background-image: url(tg_che_xi_ch17_0.png);padding: 0; }
+div.TS_EAMCET_10_May_2024_S1_138::after {max-width:225px; width:100%;height:0;padding: 0 0 37.333333333333336% 0;}
+.TS_EAMCET_10_May_2024_S2_157 {max-width:177px; max-height:61px; }
+.TS_EAMCET_10_May_2024_S2_157::after {content: '\00a0';display: inline-block; width:177px; height:61px; background-position: 2% 50.887573964497044%; background-size: 128.24858757062148% 377.04918032786884%; background-image: url(tg_che_xi_ch17_0.png);padding: 0; }
+div.TS_EAMCET_10_May_2024_S2_157::after {max-width:177px; width:100%;height:0;padding: 0 0 34.463276836158194% 0;}
+.TS_EAMCET_9_May_2024_S2_137 {max-width:125px; max-height:81px; }
+.TS_EAMCET_9_May_2024_S2_137::after {content: '\00a0';display: inline-block; width:125px; height:81px; background-position: 0.9803921568627451% 99.32885906040268%; background-size: 181.6% 283.95061728395063%; background-image: url(tg_che_xi_ch17_0.png);padding: 0; }
+div.TS_EAMCET_9_May_2024_S2_137::after {max-width:125px; width:100%;height:0;padding: 0 0 64.8% 0;}
+
+
+/* $TexturePacker:SmartUpdate:853abe44b286c7757e1fc330300f514f:f9cea7fa57a48ac9b7f7b58c146d07a8:99d9f40b7dad2bb76c750272d3d11445$ */

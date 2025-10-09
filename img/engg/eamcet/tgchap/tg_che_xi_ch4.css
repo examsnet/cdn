@@ -1,0 +1,48 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.TS_EAMCET_10_May_2024_S2_156 {max-width:84px; max-height:40px; }
+.TS_EAMCET_10_May_2024_S2_156::after {content: '\00a0';display: inline-block; width:84px; height:40px; background-position: 98.08153477218225% 63.75%; background-size: 596.4285714285714% 300%; background-image: url(tg_che_xi_ch4_0.png);padding: 0; }
+div.TS_EAMCET_10_May_2024_S2_156::after {max-width:84px; width:100%;height:0;padding: 0 0 47.61904761904762% 0;}
+.TS_EAMCET_10_May_2024_S2_156_1 {max-width:91px; max-height:49px; }
+.TS_EAMCET_10_May_2024_S2_156_1::after {content: '\00a0';display: inline-block; width:91px; height:49px; background-position: 99.7560975609756% 1.408450704225352%; background-size: 550.5494505494505% 244.89795918367346%; background-image: url(tg_che_xi_ch4_0.png);padding: 0; }
+div.TS_EAMCET_10_May_2024_S2_156_1::after {max-width:91px; width:100%;height:0;padding: 0 0 53.84615384615385% 0;}
+.TS_EAMCET_10_May_2024_S2_156_2 {max-width:407px; max-height:118px; }
+.TS_EAMCET_10_May_2024_S2_156_2::after {content: '\00a0';display: inline-block; width:407px; height:118px; background-position: 1.0638297872340425% 50%; background-size: 123.09582309582309% 101.69491525423729%; background-image: url(tg_che_xi_ch4_0.png);padding: 0; }
+div.TS_EAMCET_10_May_2024_S2_156_2::after {max-width:407px; width:100%;height:0;padding: 0 0 28.992628992628994% 0;}
+
+@keyframes TS_EAMCET_10_May_2024_S2_156-frames {
+    0% { background-position: 99.7560975609756% 1.408450704225352%;  }
+    50% { background-position: 1.0638297872340425% 50%;  }
+}
+
+.TS_EAMCET_10_May_2024_S2_156-animation {
+    max-width: 91px;
+    max-height: 49px;
+}
+.TS_EAMCET_10_May_2024_S2_156-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 91px;
+    height: 49px;
+    padding: 0;
+    background-image: url(tg_che_xi_ch4_0.png);
+    background-size: 550.5494505494505% 244.89795918367346%; 
+    animation-name: TS_EAMCET_10_May_2024_S2_156-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.TS_EAMCET_10_May_2024_S2_156-animation::after {
+    max-width: 91px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 53.84615384615385% 0;
+}
+
+/* $TexturePacker:SmartUpdate:77a59e2f8685a78ef9626879255b2291:7d1719197afe6cd7ee1ad290904ac847:99720eaf5a1b6f70de7360e366bc98ef$ */

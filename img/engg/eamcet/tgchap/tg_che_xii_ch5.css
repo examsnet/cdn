@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.TS_EAMCET_9_May_2024_S2_145 {max-width:182px; max-height:158px; }
+.TS_EAMCET_9_May_2024_S2_145::after {content: '\00a0';display: inline-block; width:182px; height:158px; background-position: 50% 50%; background-size: 101.0989010989011% 101.26582278481013%; background-image: url(tg_che_xii_ch5_0.png);padding: 0; }
+div.TS_EAMCET_9_May_2024_S2_145::after {max-width:182px; width:100%;height:0;padding: 0 0 86.81318681318682% 0;}
+
+
+/* $TexturePacker:SmartUpdate:8dea210c9bb53c2ea39310c3047a0b4a:5f1e5eef510a039b60c094dc11f8fcc4:f05265624132dfff2d237704e9f2e7ca$ */

@@ -1,0 +1,48 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.TS_EAMCET_9_May_2024_S1_119 {max-width:239px; max-height:145px; }
+.TS_EAMCET_9_May_2024_S1_119::after {content: '\00a0';display: inline-block; width:239px; height:145px; background-position: 99.61389961389962% 0.970873786407767%; background-size: 208.36820083682008% 171.0344827586207%; background-image: url(tg_phy_xii_ch13_0.png);padding: 0; }
+div.TS_EAMCET_9_May_2024_S1_119::after {max-width:239px; width:100%;height:0;padding: 0 0 60.66945606694561% 0;}
+.TS_EAMCET_9_May_2024_S2_118 {max-width:256px; max-height:151px; }
+.TS_EAMCET_9_May_2024_S2_118::after {content: '\00a0';display: inline-block; width:256px; height:151px; background-position: 0.4132231404958678% 1.0309278350515463%; background-size: 194.53125% 164.23841059602648%; background-image: url(tg_phy_xii_ch13_0.png);padding: 0; }
+div.TS_EAMCET_9_May_2024_S2_118::after {max-width:256px; width:100%;height:0;padding: 0 0 58.984375% 0;}
+.TS_EAMCET_9_May_2024_S2_119 {max-width:191px; max-height:100px; }
+.TS_EAMCET_9_May_2024_S2_119::after {content: '\00a0';display: inline-block; width:191px; height:100px; background-position: 84.03908794788273% 99.32432432432432%; background-size: 260.73298429319374% 248%; background-image: url(tg_phy_xii_ch13_0.png);padding: 0; }
+div.TS_EAMCET_9_May_2024_S2_119::after {max-width:191px; width:100%;height:0;padding: 0 0 52.35602094240838% 0;}
+
+@keyframes TS_EAMCET_9_May_2024_S2-frames {
+    0% { background-position: 0.4132231404958678% 1.0309278350515463%;  }
+    50% { background-position: 84.03908794788273% 99.32432432432432%;  }
+}
+
+.TS_EAMCET_9_May_2024_S2-animation {
+    max-width: 256px;
+    max-height: 151px;
+}
+.TS_EAMCET_9_May_2024_S2-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 256px;
+    height: 151px;
+    padding: 0;
+    background-image: url(tg_phy_xii_ch13_0.png);
+    background-size: 194.53125% 164.23841059602648%; 
+    animation-name: TS_EAMCET_9_May_2024_S2-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.TS_EAMCET_9_May_2024_S2-animation::after {
+    max-width: 256px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 58.984375% 0;
+}
+
+/* $TexturePacker:SmartUpdate:66014a10177615095ab5ba4c06e00137:b23930903bdce92c36f8cf95a89f5e5b:51d7d7e0d3845043c7885df1a233b4d9$ */
