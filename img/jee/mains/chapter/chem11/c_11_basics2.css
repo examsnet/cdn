@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.JEE_MAIN_4APRIL_2024_S2_S_84 {max-width:390px; max-height:158px; }
+.JEE_MAIN_4APRIL_2024_S2_S_84::after {content: '\00a0';display: inline-block; width:390px; height:158px; background-position: 0.20833333333333334% 0.7194244604316546%; background-size: 223.07692307692307% 187.9746835443038%; background-image: url(c_11_basics2_0.png);padding: 0; }
+div.JEE_MAIN_4APRIL_2024_S2_S_84::after {max-width:390px; width:100%;height:0;padding: 0 0 40.51282051282051% 0;}
+.jee_mains_25_jun_2022_s1_30_sol {max-width:360px; max-height:108px; }
+.jee_mains_25_jun_2022_s1_30_sol::after {content: '\00a0';display: inline-block; width:360px; height:108px; background-position: 0.19607843137254902% 84.65608465608466%; background-size: 241.66666666666666% 275%; background-image: url(c_11_basics2_0.png);padding: 0; }
+div.jee_mains_25_jun_2022_s1_30_sol::after {max-width:360px; width:100%;height:0;padding: 0 0 30% 0;}
+.jee_mains_29_jun_2022_s1_61_sol {max-width:450px; max-height:143px; }
+.jee_mains_29_jun_2022_s1_61_sol::after {content: '\00a0';display: inline-block; width:450px; height:143px; background-position: 93.33333333333333% 99.35064935064935%; background-size: 193.33333333333334% 207.69230769230768%; background-image: url(c_11_basics2_0.png);padding: 0; }
+div.jee_mains_29_jun_2022_s1_61_sol::after {max-width:450px; width:100%;height:0;padding: 0 0 31.77777777777778% 0;}
+.jee_mn_26_jul_2022_s1_89_sol {max-width:477px; max-height:151px; }
+.jee_mn_26_jul_2022_s1_89_sol::after {content: '\00a0';display: inline-block; width:477px; height:151px; background-position: 99.74554707379134% 0.684931506849315%; background-size: 182.38993710691824% 196.6887417218543%; background-image: url(c_11_basics2_0.png);padding: 0; }
+div.jee_mn_26_jul_2022_s1_89_sol::after {max-width:477px; width:100%;height:0;padding: 0 0 31.656184486373167% 0;}
+
+
+/* $TexturePacker:SmartUpdate:d977b7682a8d81714ccc64a9bbd87410:5e42d28b8862c8046e1b65eb1da43518:103d25fb424abaf39e980c1fce356329$ */

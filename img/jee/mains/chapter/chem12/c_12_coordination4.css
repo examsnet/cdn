@@ -1,0 +1,52 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jm_8_apr_2025_s1_sol_52 {max-width:215px; max-height:46px; }
+.jm_8_apr_2025_s1_sol_52::after {content: '\00a0';display: inline-block; width:215px; height:46px; background-position: 0.46296296296296297% 99.51456310679612%; background-size: 200.46511627906978% 547.8260869565217%; background-image: url(c_12_coordination4_0.png);padding: 0; }
+div.jm_8_apr_2025_s1_sol_52::after {max-width:215px; width:100%;height:0;padding: 0 0 21.3953488372093% 0;}
+.jm_8_apr_2025_s1_sol_52a {max-width:213px; max-height:45px; }
+.jm_8_apr_2025_s1_sol_52a::after {content: '\00a0';display: inline-block; width:213px; height:45px; background-position: 99.54128440366972% 99.03381642512078%; background-size: 202.34741784037558% 560%; background-image: url(c_12_coordination4_0.png);padding: 0; }
+div.jm_8_apr_2025_s1_sol_52a::after {max-width:213px; width:100%;height:0;padding: 0 0 21.12676056338028% 0;}
+.jm_8_apr_2025_s1_sol_54 {max-width:400px; max-height:131px; }
+.jm_8_apr_2025_s1_sol_54::after {content: '\00a0';display: inline-block; width:400px; height:131px; background-position: 3.225806451612903% 0.8264462809917356%; background-size: 107.75% 192.36641221374046%; background-image: url(c_12_coordination4_0.png);padding: 0; }
+div.jm_8_apr_2025_s1_sol_54::after {max-width:400px; width:100%;height:0;padding: 0 0 32.75% 0;}
+.jm_8_apr_2025_s1_sol_67 {max-width:360px; max-height:71px; }
+.jm_8_apr_2025_s1_sol_67::after {content: '\00a0';display: inline-block; width:360px; height:71px; background-position: 1.408450704225352% 73.48066298342542%; background-size: 119.72222222222223% 354.92957746478874%; background-image: url(c_12_coordination4_0.png);padding: 0; }
+div.jm_8_apr_2025_s1_sol_67::after {max-width:360px; width:100%;height:0;padding: 0 0 19.72222222222222% 0;}
+
+@keyframes jm_8_apr_2025_s1_sol-frames {
+    0% { background-position: 0.46296296296296297% 99.51456310679612%;  }
+    33.33333333333333% { background-position: 3.225806451612903% 0.8264462809917356%;  }
+    66.66666666666666% { background-position: 1.408450704225352% 73.48066298342542%;  }
+}
+
+.jm_8_apr_2025_s1_sol-animation {
+    max-width: 215px;
+    max-height: 46px;
+}
+.jm_8_apr_2025_s1_sol-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 215px;
+    height: 46px;
+    padding: 0;
+    background-image: url(c_12_coordination4_0.png);
+    background-size: 200.46511627906978% 547.8260869565217%; 
+    animation-name: jm_8_apr_2025_s1_sol-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.jm_8_apr_2025_s1_sol-animation::after {
+    max-width: 215px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 21.3953488372093% 0;
+}
+
+/* $TexturePacker:SmartUpdate:6a0ede7f72f29be132275d1be26733ef:58e0f4be293f8b50566e4c8e1552c994:d20ab4d7c8a316402e62701f96de9a10$ */
