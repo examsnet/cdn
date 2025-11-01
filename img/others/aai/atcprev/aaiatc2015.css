@@ -1,0 +1,49 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.aai_atc_2015_70 {max-width:76px; max-height:105px; }
+.aai_atc_2015_70::after {content: '\00a0';display: inline-block; width:76px; height:105px; background-position: 99.55357142857143% 0.7142857142857143%; background-size: 394.7368421052632% 233.33333333333334%; background-image: url(aaiatc2015_0.png);padding: 0; }
+div.aai_atc_2015_70::after {max-width:76px; width:100%;height:0;padding: 0 0 138.1578947368421% 0;}
+.aai_atc_2015_79 {max-width:167px; max-height:50px; }
+.aai_atc_2015_79::after {content: '\00a0';display: inline-block; width:167px; height:50px; background-position: 0.7518796992481203% 99.48717948717949%; background-size: 179.64071856287424% 490%; background-image: url(aaiatc2015_0.png);padding: 0; }
+div.aai_atc_2015_79::after {max-width:167px; width:100%;height:0;padding: 0 0 29.940119760479043% 0;}
+.aai_atc_2015_80 {max-width:221px; max-height:192px; }
+.aai_atc_2015_80::after {content: '\00a0';display: inline-block; width:221px; height:192px; background-position: 1.2658227848101267% 1.8867924528301887%; background-size: 135.74660633484163% 127.60416666666667%; background-image: url(aaiatc2015_0.png);padding: 0; }
+div.aai_atc_2015_80::after {max-width:221px; width:100%;height:0;padding: 0 0 86.87782805429865% 0;}
+
+@keyframes aai_atc_2015-frames {
+    0% { background-position: 99.55357142857143% 0.7142857142857143%;  }
+    33.33333333333333% { background-position: 0.7518796992481203% 99.48717948717949%;  }
+    66.66666666666666% { background-position: 1.2658227848101267% 1.8867924528301887%;  }
+}
+
+.aai_atc_2015-animation {
+    max-width: 76px;
+    max-height: 105px;
+}
+.aai_atc_2015-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 76px;
+    height: 105px;
+    padding: 0;
+    background-image: url(aaiatc2015_0.png);
+    background-size: 394.7368421052632% 233.33333333333334%; 
+    animation-name: aai_atc_2015-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.aai_atc_2015-animation::after {
+    max-width: 76px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 138.1578947368421% 0;
+}
+
+/* $TexturePacker:SmartUpdate:37a76db3783a85a32e17941e60dcf48b:9fa2fc7f84d331f22acae1c4f927b83c:6a04eebe603e367a093025a51de9ce14$ */
