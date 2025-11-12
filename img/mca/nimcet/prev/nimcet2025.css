@@ -1,0 +1,84 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.nimcet_2024__q_104 {max-width:220px; max-height:193px; }
+.nimcet_2024__q_104::after {content: '\00a0';display: inline-block; width:220px; height:193px; background-position: 99.86541049798116% 48.95104895104895%; background-size: 437.72727272727275% 248.1865284974093%; background-image: url(nimcet2025_0.png);padding: 0; }
+div.nimcet_2024__q_104::after {max-width:220px; width:100%;height:0;padding: 0 0 87.72727272727273% 0;}
+.nimcet_2024__q_82 {max-width:520px; max-height:138px; }
+.nimcet_2024__q_82::after {content: '\00a0';display: inline-block; width:520px; height:138px; background-position: 90.74492099322799% 0.2932551319648094%; background-size: 185.19230769230768% 347.1014492753623%; background-image: url(nimcet2025_0.png);padding: 0; }
+div.nimcet_2024__q_82::after {max-width:520px; width:100%;height:0;padding: 0 0 26.53846153846154% 0;}
+.nimcet_2024__sol_16 {max-width:339px; max-height:313px; }
+.nimcet_2024__sol_16::after {content: '\00a0';display: inline-block; width:339px; height:313px; background-position: 64.42307692307692% 84.33734939759036%; background-size: 284.070796460177% 153.03514376996804%; background-image: url(nimcet2025_0.png);padding: 0; }
+div.nimcet_2024__sol_16::after {max-width:339px; width:100%;height:0;padding: 0 0 92.33038348082596% 0;}
+.nimcet_2024__sol_28 {max-width:253px; max-height:163px; }
+.nimcet_2024__sol_28::after {content: '\00a0';display: inline-block; width:253px; height:163px; background-position: 0.14084507042253522% 99.68354430379746%; background-size: 380.6324110671937% 293.86503067484665%; background-image: url(nimcet2025_0.png);padding: 0; }
+div.nimcet_2024__sol_28::after {max-width:253px; width:100%;height:0;padding: 0 0 64.42687747035573% 0;}
+.nimcet_2024__sol_42 {max-width:400px; max-height:313px; }
+.nimcet_2024__sol_42::after {content: '\00a0';display: inline-block; width:400px; height:313px; background-position: 0.17761989342806395% 0.6024096385542169%; background-size: 240.75% 153.03514376996804%; background-image: url(nimcet2025_0.png);padding: 0; }
+div.nimcet_2024__sol_42::after {max-width:400px; width:100%;height:0;padding: 0 0 78.25% 0;}
+
+@keyframes nimcet_2024__q-frames {
+    0% { background-position: 90.74492099322799% 0.2932551319648094%;  }
+    50% { background-position: 99.86541049798116% 48.95104895104895%;  }
+}
+
+.nimcet_2024__q-animation {
+    max-width: 520px;
+    max-height: 138px;
+}
+.nimcet_2024__q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 520px;
+    height: 138px;
+    padding: 0;
+    background-image: url(nimcet2025_0.png);
+    background-size: 185.19230769230768% 347.1014492753623%; 
+    animation-name: nimcet_2024__q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.nimcet_2024__q-animation::after {
+    max-width: 520px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 26.53846153846154% 0;
+}
+
+@keyframes nimcet_2024__sol-frames {
+    0% { background-position: 64.42307692307692% 84.33734939759036%;  }
+    33.33333333333333% { background-position: 0.14084507042253522% 99.68354430379746%;  }
+    66.66666666666666% { background-position: 0.17761989342806395% 0.6024096385542169%;  }
+}
+
+.nimcet_2024__sol-animation {
+    max-width: 339px;
+    max-height: 313px;
+}
+.nimcet_2024__sol-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 339px;
+    height: 313px;
+    padding: 0;
+    background-image: url(nimcet2025_0.png);
+    background-size: 284.070796460177% 153.03514376996804%; 
+    animation-name: nimcet_2024__sol-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.nimcet_2024__sol-animation::after {
+    max-width: 339px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 92.33038348082596% 0;
+}
+
+/* $TexturePacker:SmartUpdate:3912d70122895d45b9b0c5fd74c8f6fb:4f9232f07244fea4d2bb3cdbf3fcf2b1:4f7c7403ab31a729d67af0a65fa3482b$ */
