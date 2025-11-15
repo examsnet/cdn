@@ -1,0 +1,68 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.upsc_nda_2025_1_math_q_78 {max-width:252px; max-height:181px; }
+.upsc_nda_2025_1_math_q_78::after {content: '\00a0';display: inline-block; width:252px; height:181px; background-position: 92.51968503937007% 77.2264631043257%; background-size: 301.58730158730157% 534.2541436464088%; background-image: url(nda2025_0.png);padding: 0; }
+div.upsc_nda_2025_1_math_q_78::after {max-width:252px; width:100%;height:0;padding: 0 0 71.82539682539682% 0;}
+.upsc_nda_2025_1_math_sol_104 {max-width:758px; max-height:605px; }
+.upsc_nda_2025_1_math_sol_104::after {content: '\00a0';display: inline-block; width:758px; height:605px; background-position: 50% 0.27624309392265195%; background-size: 100.26385224274406% 159.83471074380165%; background-image: url(nda2025_0.png);padding: 0; }
+div.upsc_nda_2025_1_math_sol_104::after {max-width:758px; width:100%;height:0;padding: 0 0 79.81530343007915% 0;}
+.upsc_nda_2025_1_math_sol_39 {max-width:261px; max-height:213px; }
+.upsc_nda_2025_1_math_sol_39::after {content: '\00a0';display: inline-block; width:261px; height:213px; background-position: 0.20040080160320642% 80.50397877984085%; background-size: 291.18773946360153% 453.9906103286385%; background-image: url(nda2025_0.png);padding: 0; }
+div.upsc_nda_2025_1_math_sol_39::after {max-width:261px; width:100%;height:0;padding: 0 0 81.60919540229885% 0;}
+.upsc_nda_2025_1_math_sol_46 {max-width:160px; max-height:145px; }
+.upsc_nda_2025_1_math_sol_46::after {content: '\00a0';display: inline-block; width:160px; height:145px; background-position: 0.16666666666666666% 99.87834549878346%; background-size: 475% 666.8965517241379%; background-image: url(nda2025_0.png);padding: 0; }
+div.upsc_nda_2025_1_math_sol_46::after {max-width:160px; width:100%;height:0;padding: 0 0 90.625% 0;}
+.upsc_nda_2025_1_math_sol_47 {max-width:182px; max-height:165px; }
+.upsc_nda_2025_1_math_sol_47::after {content: '\00a0';display: inline-block; width:182px; height:165px; background-position: 81.31487889273356% 98.3790523690773%; background-size: 417.5824175824176% 586.060606060606%; background-image: url(nda2025_0.png);padding: 0; }
+div.upsc_nda_2025_1_math_sol_47::after {max-width:182px; width:100%;height:0;padding: 0 0 90.65934065934066% 0;}
+.upsc_nda_2025_1_math_sol_57 {max-width:162px; max-height:152px; }
+.upsc_nda_2025_1_math_sol_57::after {content: '\00a0';display: inline-block; width:162px; height:152px; background-position: 47.65886287625418% 98.77300613496932%; background-size: 469.1358024691358% 636.1842105263158%; background-image: url(nda2025_0.png);padding: 0; }
+div.upsc_nda_2025_1_math_sol_57::after {max-width:162px; width:100%;height:0;padding: 0 0 93.82716049382717% 0;}
+.upsc_nda_2025_1_math_sol_73 {max-width:122px; max-height:113px; }
+.upsc_nda_2025_1_math_sol_73::after {content: '\00a0';display: inline-block; width:122px; height:113px; background-position: 25.391849529780565% 96.13583138173303%; background-size: 622.9508196721312% 855.7522123893805%; background-image: url(nda2025_0.png);padding: 0; }
+div.upsc_nda_2025_1_math_sol_73::after {max-width:122px; width:100%;height:0;padding: 0 0 92.62295081967213% 0;}
+.upsc_nda_2025_1_math_sol_90 {max-width:206px; max-height:197px; }
+.upsc_nda_2025_1_math_sol_90::after {content: '\00a0';display: inline-block; width:206px; height:197px; background-position: 47.47292418772563% 78.83116883116882%; background-size: 368.93203883495147% 490.8629441624365%; background-image: url(nda2025_0.png);padding: 0; }
+div.upsc_nda_2025_1_math_sol_90::after {max-width:206px; width:100%;height:0;padding: 0 0 95.63106796116504% 0;}
+
+@keyframes upsc_nda_2025_1_math_sol-frames {
+    0% { background-position: 0.20040080160320642% 80.50397877984085%;  }
+    14.285714285714285% { background-position: 0.16666666666666666% 99.87834549878346%;  }
+    28.57142857142857% { background-position: 81.31487889273356% 98.3790523690773%;  }
+    42.857142857142854% { background-position: 47.65886287625418% 98.77300613496932%;  }
+    57.14285714285714% { background-position: 25.391849529780565% 96.13583138173303%;  }
+    71.42857142857143% { background-position: 47.47292418772563% 78.83116883116882%;  }
+    85.71428571428571% { background-position: 50% 0.27624309392265195%;  }
+}
+
+.upsc_nda_2025_1_math_sol-animation {
+    max-width: 261px;
+    max-height: 213px;
+}
+.upsc_nda_2025_1_math_sol-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 261px;
+    height: 213px;
+    padding: 0;
+    background-image: url(nda2025_0.png);
+    background-size: 291.18773946360153% 453.9906103286385%; 
+    animation-name: upsc_nda_2025_1_math_sol-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.upsc_nda_2025_1_math_sol-animation::after {
+    max-width: 261px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 81.60919540229885% 0;
+}
+
+/* $TexturePacker:SmartUpdate:a14bf4a63bb3d55de74a0d3d2466972f:d00ad82bb98d439ca4acd2b0578fb4e4:d197848ec26937825dd895665dc07dd6$ */
