@@ -6,15 +6,18 @@ Inline:     <i class="yourspritesname"></i>
 Responsive: <div class="yourspritesname"></div>
 */
 
+.jee_mn_24_jan_2025_s1_sol_74 {max-width:500px; max-height:100px; }
+.jee_mn_24_jan_2025_s1_sol_74::after {content: '\00a0';display: inline-block; width:500px; height:100px; background-position: 50% 0.3448275862068966%; background-size: 100.4% 390%; background-image: url(c_11_basics3_0.png);padding: 0; }
+div.jee_mn_24_jan_2025_s1_sol_74::after {max-width:500px; width:100%;height:0;padding: 0 0 20% 0;}
 .jm_3_apr_2025_s1_q_72 {max-width:77px; max-height:197px; }
-.jm_3_apr_2025_s1_q_72::after {content: '\00a0';display: inline-block; width:77px; height:197px; background-position: 99.75186104218362% 1.0869565217391304%; background-size: 623.3766233766233% 146.7005076142132%; background-image: url(c_11_basics3_0.png);padding: 0; }
+.jm_3_apr_2025_s1_q_72::after {content: '\00a0';display: inline-block; width:77px; height:197px; background-position: 94.58823529411765% 52.84974093264249%; background-size: 651.9480519480519% 197.96954314720813%; background-image: url(c_11_basics3_0.png);padding: 0; }
 div.jm_3_apr_2025_s1_q_72::after {max-width:77px; width:100%;height:0;padding: 0 0 255.84415584415584% 0;}
 .jm_3_apr_2025_s2_sol_71 {max-width:360px; max-height:146px; }
-.jm_3_apr_2025_s2_sol_71::after {content: '\00a0';display: inline-block; width:360px; height:146px; background-position: 0.8333333333333334% 99.3006993006993%; background-size: 133.33333333333334% 197.94520547945206%; background-image: url(c_11_basics3_0.png);padding: 0; }
+.jm_3_apr_2025_s2_sol_71::after {content: '\00a0';display: inline-block; width:360px; height:146px; background-position: 0.704225352112676% 99.59016393442623%; background-size: 139.44444444444446% 267.1232876712329%; background-image: url(c_11_basics3_0.png);padding: 0; }
 div.jm_3_apr_2025_s2_sol_71::after {max-width:360px; width:100%;height:0;padding: 0 0 40.55555555555556% 0;}
 .jm_7_apr_2025_s1_q_75 {max-width:400px; max-height:140px; }
-.jm_7_apr_2025_s1_q_75::after {content: '\00a0';display: inline-block; width:400px; height:140px; background-position: 1.25% 0.6711409395973155%; background-size: 120% 206.42857142857142%; background-image: url(c_11_basics3_0.png);padding: 0; }
+.jm_7_apr_2025_s1_q_75::after {content: '\00a0';display: inline-block; width:400px; height:140px; background-position: 0.9803921568627451% 40.8%; background-size: 125.5% 278.57142857142856%; background-image: url(c_11_basics3_0.png);padding: 0; }
 div.jm_7_apr_2025_s1_q_75::after {max-width:400px; width:100%;height:0;padding: 0 0 35% 0;}
 
 
-/* $TexturePacker:SmartUpdate:af946bfb887cd4dfa8181ba42d28ef57:5b6aada623c09bfdc34fa2d92079b51a:738ceb13ab6dd69143713b3eb1ed23bb$ */
+/* $TexturePacker:SmartUpdate:8b86fc81219c7772960ce253eaf0943d:6fcaca0fa17218cabf15719180362063:738ceb13ab6dd69143713b3eb1ed23bb$ */
