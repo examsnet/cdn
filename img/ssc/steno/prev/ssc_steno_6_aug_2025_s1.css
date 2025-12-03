@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.steno_6_aug_2025_s1_19 {max-width:384px; max-height:102px; }
+.steno_6_aug_2025_s1_19::after {content: '\00a0';display: inline-block; width:384px; height:102px; background-position: 50% 50%; background-size: 100.52083333333333% 101.96078431372548%; background-image: url(ssc_steno_6_aug_2025_s1_0.png);padding: 0; }
+div.steno_6_aug_2025_s1_19::after {max-width:384px; width:100%;height:0;padding: 0 0 26.5625% 0;}
+
+
+/* $TexturePacker:SmartUpdate:34cafff8256f5c5bd145ec5a9db2eded:b923c20cf7d68d257f12f51b257c7323:af21acaeb83ddfba327c9150642f2d97$ */
