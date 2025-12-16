@@ -7,8 +7,11 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 .eap_22_may_2025_s1_sol_52 {max-width:250px; max-height:254px; }
-.eap_22_may_2025_s1_sol_52::after {content: '\00a0';display: inline-block; width:250px; height:254px; background-position: 50% 50%; background-size: 100.8% 100.78740157480316%; background-image: url(ap_mat_xi_ch9_0.png);padding: 0; }
+.eap_22_may_2025_s1_sol_52::after {content: '\00a0';display: inline-block; width:250px; height:254px; background-position: 0.33003300330033003% 50%; background-size: 221.2% 100.78740157480316%; background-image: url(ap_mat_xi_ch9_0.png);padding: 0; }
 div.eap_22_may_2025_s1_sol_52::after {max-width:250px; width:100%;height:0;padding: 0 0 101.6% 0;}
+.eap_23_may_2025_s2_sol_52 {max-width:300px; max-height:241px; }
+.eap_23_may_2025_s2_sol_52::after {content: '\00a0';display: inline-block; width:300px; height:241px; background-position: 99.60474308300395% 6.666666666666667%; background-size: 184.33333333333334% 106.2240663900415%; background-image: url(ap_mat_xi_ch9_0.png);padding: 0; }
+div.eap_23_may_2025_s2_sol_52::after {max-width:300px; width:100%;height:0;padding: 0 0 80.33333333333333% 0;}
 
 
-/* $TexturePacker:SmartUpdate:f7186a0b51084c1b556bd229a6d3c267:caafa0bdd2788e3c79d4c7658e6477d4:5698c068ecff213905a693b3f7f3f89d$ */
+/* $TexturePacker:SmartUpdate:e4a8272ff0c3a81cbd2922d5ee606859:bbcb8f2af91366a4655a807008f9ce5c:5698c068ecff213905a693b3f7f3f89d$ */
