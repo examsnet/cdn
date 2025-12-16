@@ -7,11 +7,54 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 .AP_EAPCET_18_May_2024_S1_85 {max-width:227px; max-height:198px; }
-.AP_EAPCET_18_May_2024_S1_85::after {content: '\00a0';display: inline-block; width:227px; height:198px; background-position: 0.591715976331361% 50%; background-size: 174.44933920704847% 101.01010101010101%; background-image: url(ap_phy_xi_ch4_0.png);padding: 0; }
+.AP_EAPCET_18_May_2024_S1_85::after {content: '\00a0';display: inline-block; width:227px; height:198px; background-position: 98.55072463768116% 97.5765306122449%; background-size: 221.58590308370043% 495.95959595959596%; background-image: url(ap_phy_xi_ch4_0.png);padding: 0; }
 div.AP_EAPCET_18_May_2024_S1_85::after {max-width:227px; width:100%;height:0;padding: 0 0 87.22466960352423% 0;}
 .AP_EAPCET_21_May_2024_S2_87 {max-width:166px; max-height:195px; }
-.AP_EAPCET_21_May_2024_S2_87::after {content: '\00a0';display: inline-block; width:166px; height:195px; background-position: 99.56521739130434% 20%; background-size: 238.55421686746988% 102.56410256410257%; background-image: url(ap_phy_xi_ch4_0.png);padding: 0; }
+.AP_EAPCET_21_May_2024_S2_87::after {content: '\00a0';display: inline-block; width:166px; height:195px; background-position: 89.61424332344214% 48.91994917407878%; background-size: 303.0120481927711% 503.5897435897436%; background-image: url(ap_phy_xi_ch4_0.png);padding: 0; }
 div.AP_EAPCET_21_May_2024_S2_87::after {max-width:166px; width:100%;height:0;padding: 0 0 117.46987951807229% 0;}
+.ap_eap_18_may_2024_s1_sol_85 {max-width:300px; max-height:278px; }
+.ap_eap_18_may_2024_s1_sol_85::after {content: '\00a0';display: inline-block; width:300px; height:278px; background-position: 0.49261083743842365% 0.14204545454545456%; background-size: 167.66666666666666% 353.23741007194246%; background-image: url(ap_phy_xi_ch4_0.png);padding: 0; }
+div.ap_eap_18_may_2024_s1_sol_85::after {max-width:300px; width:100%;height:0;padding: 0 0 92.66666666666667% 0;}
+.ap_eap_18_may_2024_s1_sol_86 {max-width:200px; max-height:383px; }
+.ap_eap_18_may_2024_s1_sol_86::after {content: '\00a0';display: inline-block; width:200px; height:383px; background-position: 99.66996699669967% 0.1669449081803005%; background-size: 251.5% 256.3968668407311%; background-image: url(ap_phy_xi_ch4_0.png);padding: 0; }
+div.ap_eap_18_may_2024_s1_sol_86::after {max-width:200px; width:100%;height:0;padding: 0 0 191.5% 0;}
+.eap_21_may_2025_s1_q_86 {max-width:270px; max-height:216px; }
+.eap_21_may_2025_s1_q_86::after {content: '\00a0';display: inline-block; width:270px; height:216px; background-position: 0.4291845493562232% 99.86945169712794%; background-size: 186.2962962962963% 454.6296296296296%; background-image: url(ap_phy_xi_ch4_0.png);padding: 0; }
+div.eap_21_may_2025_s1_q_86::after {max-width:270px; width:100%;height:0;padding: 0 0 80% 0;}
+.eap_23_may_2025_s1_q_86 {max-width:300px; max-height:239px; }
+.eap_23_may_2025_s1_q_86::after {content: '\00a0';display: inline-block; width:300px; height:239px; background-position: 0.49261083743842365% 70.65948855989232%; background-size: 167.66666666666666% 410.87866108786613%; background-image: url(ap_phy_xi_ch4_0.png);padding: 0; }
+div.eap_23_may_2025_s1_q_86::after {max-width:300px; width:100%;height:0;padding: 0 0 79.66666666666667% 0;}
+.eap_23_may_2025_s1_sol_86 {max-width:300px; max-height:244px; }
+.eap_23_may_2025_s1_sol_86::after {content: '\00a0';display: inline-block; width:300px; height:244px; background-position: 0.49261083743842365% 37.94037940379404%; background-size: 167.66666666666666% 402.4590163934426%; background-image: url(ap_phy_xi_ch4_0.png);padding: 0; }
+div.eap_23_may_2025_s1_sol_86::after {max-width:300px; width:100%;height:0;padding: 0 0 81.33333333333333% 0;}
 
+@keyframes ap_eap_18_may_2024_s1_sol-frames {
+    0% { background-position: 0.49261083743842365% 0.14204545454545456%;  }
+    50% { background-position: 99.66996699669967% 0.1669449081803005%;  }
+}
 
-/* $TexturePacker:SmartUpdate:aaac848bdee6a07633c9341258397f55:f157add99c8fa74e8b777300f673f60b:f51107ad815fe0eb3e915c961a790ef4$ */
+.ap_eap_18_may_2024_s1_sol-animation {
+    max-width: 300px;
+    max-height: 278px;
+}
+.ap_eap_18_may_2024_s1_sol-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 300px;
+    height: 278px;
+    padding: 0;
+    background-image: url(ap_phy_xi_ch4_0.png);
+    background-size: 167.66666666666666% 353.23741007194246%; 
+    animation-name: ap_eap_18_may_2024_s1_sol-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.ap_eap_18_may_2024_s1_sol-animation::after {
+    max-width: 300px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 92.66666666666667% 0;
+}
+
+/* $TexturePacker:SmartUpdate:86c667fe609adb01637e53e57506e211:22f5cec5c651d3d986d259bf64ed7ac0:f51107ad815fe0eb3e915c961a790ef4$ */

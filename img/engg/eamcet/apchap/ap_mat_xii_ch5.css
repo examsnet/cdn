@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.eap_21_may_2025_s1_q_67 {max-width:250px; max-height:200px; }
+.eap_21_may_2025_s1_q_67::after {content: '\00a0';display: inline-block; width:250px; height:200px; background-position: 59.92063492063492% 7.6923076923076925%; background-size: 301.6% 106.5%; background-image: url(ap_mat_xii_ch5_0.png);padding: 0; }
+div.eap_21_may_2025_s1_q_67::after {max-width:250px; width:100%;height:0;padding: 0 0 80% 0;}
+.eap_21_may_2025_s1_sol_65 {max-width:300px; max-height:211px; }
+.eap_21_may_2025_s1_sol_65::after {content: '\00a0';display: inline-block; width:300px; height:211px; background-position: 0.22026431718061673% 50%; background-size: 251.33333333333334% 100.9478672985782%; background-image: url(ap_mat_xii_ch5_0.png);padding: 0; }
+div.eap_21_may_2025_s1_sol_65::after {max-width:300px; width:100%;height:0;padding: 0 0 70.33333333333333% 0;}
+.eap_22_may_2025_s2_sol_68 {max-width:200px; max-height:188px; }
+.eap_22_may_2025_s2_sol_68::after {content: '\00a0';display: inline-block; width:200px; height:188px; background-position: 99.81949458483754% 4%; background-size: 377% 113.29787234042553%; background-image: url(ap_mat_xii_ch5_0.png);padding: 0; }
+div.eap_22_may_2025_s2_sol_68::after {max-width:200px; width:100%;height:0;padding: 0 0 94% 0;}
+
+
+/* $TexturePacker:SmartUpdate:efd286e982e8a07030b13f9991e06207:84cc537881b017f67193ec699834455d:9c8195e0fee56a69d2b47ff43dad0950$ */

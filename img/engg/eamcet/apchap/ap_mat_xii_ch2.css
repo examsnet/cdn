@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.eap_22_may_2025_s1_sol_26 {max-width:300px; max-height:234px; }
+.eap_22_may_2025_s1_sol_26::after {content: '\00a0';display: inline-block; width:300px; height:234px; background-position: 50% 99.59514170040485%; background-size: 100.66666666666667% 205.55555555555554%; background-image: url(ap_mat_xii_ch2_0.png);padding: 0; }
+div.eap_22_may_2025_s1_sol_26::after {max-width:300px; width:100%;height:0;padding: 0 0 78% 0;}
+.eap_23_may_2025_s1_sol_62 {max-width:300px; max-height:244px; }
+.eap_23_may_2025_s1_sol_62::after {content: '\00a0';display: inline-block; width:300px; height:244px; background-position: 50% 0.4219409282700422%; background-size: 100.66666666666667% 197.13114754098362%; background-image: url(ap_mat_xii_ch2_0.png);padding: 0; }
+div.eap_23_may_2025_s1_sol_62::after {max-width:300px; width:100%;height:0;padding: 0 0 81.33333333333333% 0;}
+
+
+/* $TexturePacker:SmartUpdate:42b09b4039e75ff8c6f52201f540e5da:d4d67f946d21277754fb58d4be34f088:8a676245e92ae6485c151e4f6b3e08d4$ */

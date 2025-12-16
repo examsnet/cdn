@@ -7,8 +7,17 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 .AP_EAPCET_22_May_2024_S2_89 {max-width:186px; max-height:165px; }
-.AP_EAPCET_22_May_2024_S2_89::after {content: '\00a0';display: inline-block; width:186px; height:165px; background-position: 50% 50%; background-size: 101.0752688172043% 101.21212121212122%; background-image: url(ap_phy_xi_ch7_0.png);padding: 0; }
+.AP_EAPCET_22_May_2024_S2_89::after {content: '\00a0';display: inline-block; width:186px; height:165px; background-position: 99.55156950672645% 90.56603773584905%; background-size: 219.89247311827958% 260.6060606060606%; background-image: url(ap_phy_xi_ch7_0.png);padding: 0; }
 div.AP_EAPCET_22_May_2024_S2_89::after {max-width:186px; width:100%;height:0;padding: 0 0 88.70967741935483% 0;}
+.eap_22_may_2025_s2_q_89 {max-width:350px; max-height:116px; }
+.eap_22_may_2025_s2_q_89::after {content: '\00a0';display: inline-block; width:350px; height:116px; background-position: 1.694915254237288% 39.17197452229299%; background-size: 116.85714285714286% 370.6896551724138%; background-image: url(ap_phy_xi_ch7_0.png);padding: 0; }
+div.eap_22_may_2025_s2_q_89::after {max-width:350px; width:100%;height:0;padding: 0 0 33.142857142857146% 0;}
+.eap_22_may_2025_s2_sol_89 {max-width:360px; max-height:121px; }
+.eap_22_may_2025_s2_sol_89::after {content: '\00a0';display: inline-block; width:360px; height:121px; background-position: 2.0408163265306123% 0.32362459546925565%; background-size: 113.61111111111111% 355.3719008264463%; background-image: url(ap_phy_xi_ch7_0.png);padding: 0; }
+div.eap_22_may_2025_s2_sol_89::after {max-width:360px; width:100%;height:0;padding: 0 0 33.611111111111114% 0;}
+.eap_23_may_2025_s289 {max-width:220px; max-height:189px; }
+.eap_23_may_2025_s289::after {content: '\00a0';display: inline-block; width:220px; height:189px; background-position: 0.5291005291005291% 99.5850622406639%; background-size: 185.9090909090909% 227.51322751322752%; background-image: url(ap_phy_xi_ch7_0.png);padding: 0; }
+div.eap_23_may_2025_s289::after {max-width:220px; width:100%;height:0;padding: 0 0 85.9090909090909% 0;}
 
 
-/* $TexturePacker:SmartUpdate:388e15102f06d28635ae38f18cd5fbf1:47fdfd973d8795e99b1e38b7e9fdcb85:b4114c496e1219ec05c825296d76e61e$ */
+/* $TexturePacker:SmartUpdate:eb461139166b41a42aa2f5070fbd2892:c119e420285101f382e7ae9d375cd914:b4114c496e1219ec05c825296d76e61e$ */

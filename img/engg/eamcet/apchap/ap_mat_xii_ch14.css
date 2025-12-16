@@ -7,8 +7,48 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 .AP_EAPCET_18_May_2024_S1_29_sol {max-width:445px; max-height:385px; }
-.AP_EAPCET_18_May_2024_S1_29_sol::after {content: '\00a0';display: inline-block; width:445px; height:385px; background-position: 50% 50%; background-size: 100.4494382022472% 100.51948051948052%; background-image: url(ap_mat_xii_ch14_0.png);padding: 0; }
+.AP_EAPCET_18_May_2024_S1_29_sol::after {content: '\00a0';display: inline-block; width:445px; height:385px; background-position: 1.7241379310344827% 0.20202020202020202%; background-size: 113.03370786516854% 228.57142857142858%; background-image: url(ap_mat_xii_ch14_0.png);padding: 0; }
 div.AP_EAPCET_18_May_2024_S1_29_sol::after {max-width:445px; width:100%;height:0;padding: 0 0 86.51685393258427% 0;}
+.eap_21_may_2025_s1_sol_30 {max-width:250px; max-height:254px; }
+.eap_21_may_2025_s1_sol_30::after {content: '\00a0';display: inline-block; width:250px; height:254px; background-position: 0.3952569169960474% 99.84025559105432%; background-size: 201.2% 346.45669291338584%; background-image: url(ap_mat_xii_ch14_0.png);padding: 0; }
+div.eap_21_may_2025_s1_sol_30::after {max-width:250px; width:100%;height:0;padding: 0 0 101.6% 0;}
+.eap_22_may_2025_s1_sol_57 {max-width:250px; max-height:207px; }
+.eap_22_may_2025_s1_sol_57::after {content: '\00a0';display: inline-block; width:250px; height:207px; background-position: 99.60474308300395% 92.86775631500743%; background-size: 201.2% 425.1207729468599%; background-image: url(ap_mat_xii_ch14_0.png);padding: 0; }
+div.eap_22_may_2025_s1_sol_57::after {max-width:250px; width:100%;height:0;padding: 0 0 82.8% 0;}
+.eap_23_may_2025_s1_sol_29 {max-width:200px; max-height:189px; }
+.eap_23_may_2025_s1_sol_29::after {content: '\00a0';display: inline-block; width:200px; height:189px; background-position: 99.66996699669967% 56.00578871201158%; background-size: 251.5% 465.6084656084656%; background-image: url(ap_mat_xii_ch14_0.png);padding: 0; }
+div.eap_23_may_2025_s1_sol_29::after {max-width:200px; width:100%;height:0;padding: 0 0 94.5% 0;}
+.eap_23_may_2025_s1_sol_32 {max-width:300px; max-height:237px; }
+.eap_23_may_2025_s1_sol_32::after {content: '\00a0';display: inline-block; width:300px; height:237px; background-position: 0.49261083743842365% 60.186625194401245%; background-size: 167.66666666666666% 371.30801687763716%; background-image: url(ap_mat_xii_ch14_0.png);padding: 0; }
+div.eap_23_may_2025_s1_sol_32::after {max-width:300px; width:100%;height:0;padding: 0 0 79% 0;}
 
+@keyframes eap_23_may_2025_s1_sol-frames {
+    0% { background-position: 99.66996699669967% 56.00578871201158%;  }
+    50% { background-position: 0.49261083743842365% 60.186625194401245%;  }
+}
 
-/* $TexturePacker:SmartUpdate:cefd1ba5d8d7e22ea137e2b78bd688b5:a4d1179e3e7b1131250ccfdcec8ff4dd:01d5a42944dda9f85deb37c4ff1e657e$ */
+.eap_23_may_2025_s1_sol-animation {
+    max-width: 200px;
+    max-height: 189px;
+}
+.eap_23_may_2025_s1_sol-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 200px;
+    height: 189px;
+    padding: 0;
+    background-image: url(ap_mat_xii_ch14_0.png);
+    background-size: 251.5% 465.6084656084656%; 
+    animation-name: eap_23_may_2025_s1_sol-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.eap_23_may_2025_s1_sol-animation::after {
+    max-width: 200px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 94.5% 0;
+}
+
+/* $TexturePacker:SmartUpdate:a71b8525c602b0236e77e39673709106:c0d080d94b391426e1186c82df9bbc2d:01d5a42944dda9f85deb37c4ff1e657e$ */
