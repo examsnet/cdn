@@ -213,3 +213,154 @@ footer .bg-primary,
   .text-left.m-0.p-1.bg-info.m-1,
   .p-2.border-bottom.bg-info.m-1.justify-content-between.align-items-center.d-flex{border-radius:10px!important}
 }
+
+/* ExamSiri violet premium theme (final override) */
+:root{
+  --es-brand:#6b21a8;
+  --es-brand-2:#4c1d95;
+  --es-brand-3:#7c3aed;
+  --es-accent:#f59e0b;
+  --es-bg:#f7f4ff;
+  --es-surface:#ffffff;
+  --es-surface-soft:#f3edff;
+  --es-border:#ddd2ff;
+  --es-ink:#251a3a;
+}
+
+body{
+  color:var(--es-ink)!important;
+  background:
+    radial-gradient(circle at 8% 0%, #efe6ff 0%, rgba(239,230,255,0) 34%),
+    radial-gradient(circle at 94% 5%, #fdf2f8 0%, rgba(253,242,248,0) 38%),
+    var(--es-bg)!important;
+}
+
+/* Force navbar recolor with stronger selectors */
+.navbar,
+.navbar.navbar-expand-lg,
+.navbar.navbar-expand-lg.navbar-dark,
+.navbar.navbar-expand-lg.navbar-dark.bg-primary,
+nav.navbar.bg-primary,
+.fixed-top.bg-primary,
+.bg-primary{
+  background:linear-gradient(115deg,var(--es-brand),var(--es-brand-2))!important;
+  border-color:var(--es-brand-2)!important;
+}
+
+.navbar{
+  box-shadow:0 14px 32px rgba(76,29,149,.34)!important;
+  backdrop-filter:blur(6px);
+}
+
+.menu-active{border-bottom:3px solid #fef3c7!important}
+.text-primary,a,#imagewrap a{color:var(--es-brand)!important}
+a:hover,.btn-link:hover{color:var(--es-brand-2)!important}
+
+/* Home headings and cards */
+.title-mobile{
+  background:linear-gradient(110deg,var(--es-brand-2),var(--es-brand-3))!important;
+  color:#fff!important;
+  border-radius:16px;
+  letter-spacing:.2px;
+  box-shadow:0 12px 26px rgba(88,28,135,.28);
+}
+
+.text-left.m-0.p-1.bg-info.m-1,
+.p-2.border-bottom.bg-info.m-1.justify-content-between.align-items-center.d-flex{
+  background:linear-gradient(170deg,#ffffff,#faf5ff)!important;
+  border:1px solid var(--es-border)!important;
+  border-left:4px solid var(--es-brand-3)!important;
+  border-radius:14px!important;
+  box-shadow:0 10px 24px rgba(73,32,132,.12)!important;
+}
+
+.p-0.bg-white.m-1.collapse.mb-3,
+.p-2.border-bottom.bg-white.shadow.justify-content-between.align-items-center.d-flex{
+  background:var(--es-surface)!important;
+  border:1px solid var(--es-border)!important;
+  border-radius:12px!important;
+}
+
+/* Tabs + panes */
+.nav-tabs{border-bottom:1px solid var(--es-border)!important;gap:8px}
+#myTab li .nav-link{
+  background:#f3ecff!important;
+  color:var(--es-brand-2)!important;
+  border:1px solid #d9cbff!important;
+  border-radius:12px 12px 0 0!important;
+  font-weight:700;
+}
+#myTab li .nav-link.active{
+  background:linear-gradient(115deg,var(--es-brand),var(--es-brand-2))!important;
+  color:#fff!important;
+  border-color:var(--es-brand-2)!important;
+  box-shadow:0 10px 22px rgba(76,29,149,.28)!important;
+}
+
+.tab-content,
+.tab-pane.shadow-sm,
+.tab-pane.shadow-sm.active.border{
+  background:var(--es-surface)!important;
+  border:1px solid var(--es-border)!important;
+  border-radius:0 14px 14px 14px!important;
+  box-shadow:0 12px 30px rgba(68,30,120,.12)!important;
+}
+
+/* Accordions and section bars */
+.tab-pane h3.bg-info,
+.tab-pane h4.bg-info,
+.tab-pane .text-danger.bg-info,
+.row.m-0.mb-2 .bg-info,
+#index-search-results,
+#find-test-search-results,
+.searchpane{
+  background:linear-gradient(100deg,#f8f4ff,#f2eaff)!important;
+  border:1px solid var(--es-border)!important;
+  border-radius:12px!important;
+}
+
+.tab-pane .collapse.bg-light,
+.collapse.bg-light.p-2.border-top.mt-1{
+  background:#fcfaff!important;
+  border:1px solid #dfd2ff!important;
+  border-radius:12px!important;
+}
+
+/* Action buttons */
+.btn-outline-danger.bg-info.text-danger,
+.btn.btn-outline-danger.bg-info.text-danger.m-2,
+#backurl.btn.bg-primary,
+.btn-primary{
+  background:linear-gradient(130deg,var(--es-brand-3),var(--es-brand-2))!important;
+  border:1px solid var(--es-brand-2)!important;
+  color:#fff!important;
+  border-radius:999px!important;
+  box-shadow:0 8px 18px rgba(91,33,182,.3)!important;
+}
+
+.btn-outline-danger.bg-info.text-danger:hover,
+.btn.btn-outline-danger.bg-info.text-danger.m-2:hover,
+#backurl.btn.bg-primary:hover,
+.btn-primary:hover{
+  filter:brightness(.95);
+  transform:translateY(-1px);
+}
+
+.cardwithborders1{border-top:3px solid var(--es-brand-3)!important}
+
+/* Ensure dark mode does not cancel violet branding */
+body.dark-theme .bg-primary,
+body.dark-theme .navbar,
+body.dark-theme .navbar.navbar-expand-lg.navbar-dark.bg-primary,
+body.dark-theme #myTab li .nav-link.active{
+  background:linear-gradient(115deg,#5b21b6,#3b0764)!important;
+  color:#f5f3ff!important;
+}
+body.dark-theme .bg-info,
+body.dark-theme .tab-content,
+body.dark-theme .tab-pane,
+body.dark-theme .bg-white{
+  background:#1f1531!important;
+  color:#f3ecff!important;
+  border-color:#4c3c77!important;
+}
