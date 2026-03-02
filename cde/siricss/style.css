@@ -4,3 +4,20 @@ body.dark-theme,body.dark-theme .navbar-collapse.collapse.show{background-color:
 body.dark-theme .text-success{color: #9fd5ff !important;}
 .ytubevideo { position: relative; display: inline-block; }
 #question .google-auto-placed{ display: none; }
+/* ExamSiri UX refresh overrides */
+:root{
+  --es-brand:#0f4c81;
+  --es-brand-2:#0a3458;
+  --es-accent:#17a589;
+}
+.bg-primary{background-color:var(--es-brand)!important}
+a,.text-primary{color:var(--es-brand)!important}
+a:hover{color:var(--es-brand-2)!important}
+.navbar{box-shadow:0 8px 20px rgba(10,52,88,.18)}
+.searchpane{border-radius:0 0 14px 14px!important}
+.searchpane input[type=search]{box-shadow:0 4px 12px rgba(15,76,129,.15)}
+.menu-active{border-bottom:3px solid #fff!important}
+.title-mobile{background:linear-gradient(90deg,var(--es-brand),var(--es-brand-2))!important}
+.btn-primary{background-color:var(--es-brand)!important;border-color:var(--es-brand)!important}
+.btn-primary:hover{background-color:var(--es-brand-2)!important;border-color:var(--es-brand-2)!important}
+.rightanswer{border-color:var(--es-accent)!important}
