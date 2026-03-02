@@ -21,3 +21,195 @@ a:hover{color:var(--es-brand-2)!important}
 .btn-primary{background-color:var(--es-brand)!important;border-color:var(--es-brand)!important}
 .btn-primary:hover{background-color:var(--es-brand-2)!important;border-color:var(--es-brand-2)!important}
 .rightanswer{border-color:var(--es-accent)!important}
+
+/* ExamSiri 2026 visual refresh - non-blue brand and elevated card/accordion UX */
+:root{
+  --es-brand:#1f6f50;
+  --es-brand-2:#163f31;
+  --es-accent:#f29f3d;
+  --es-accent-2:#d97706;
+  --es-bg:#f7f5ee;
+  --es-surface:#fffdf8;
+  --es-surface-soft:#eef5ef;
+  --es-ink:#1f2b25;
+  --es-muted:#5d6b64;
+  --es-border:#d5dfd8;
+}
+
+body{
+  color:var(--es-ink)!important;
+  background:
+    radial-gradient(circle at 10% 0%, #fff4df 0%, rgba(255,244,223,0) 34%),
+    radial-gradient(circle at 95% 4%, #edf8f0 0%, rgba(237,248,240,0) 38%),
+    var(--es-bg)!important;
+}
+
+.bg-primary,
+.btn-primary,
+#myTab li .nav-link.active{
+  background:linear-gradient(120deg,var(--es-brand),var(--es-brand-2))!important;
+  border-color:var(--es-brand-2)!important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+a.bg-primary:hover,
+a.bg-primary:focus,
+button.bg-primary:hover,
+button.bg-primary:focus{
+  background:linear-gradient(120deg,var(--es-brand-2),#0f2b21)!important;
+  border-color:#0f2b21!important;
+}
+
+.border-primary{border-color:var(--es-brand)!important}
+.text-primary,a,#imagewrap a{color:var(--es-brand)!important}
+a:hover,.btn-link:hover{color:var(--es-brand-2)!important}
+.text-danger{color:#7c2d12!important}
+
+.navbar{
+  background:linear-gradient(100deg,var(--es-brand),var(--es-brand-2))!important;
+  box-shadow:0 10px 24px rgba(16,40,31,.28)!important;
+}
+
+footer.bg-primary,
+footer .bg-primary,
+.col-12.text-center.bg-primary{
+  background:linear-gradient(110deg,var(--es-brand-2),#0f2e23)!important;
+}
+
+.title-mobile{
+  color:#fff!important;
+  background:linear-gradient(105deg,var(--es-brand-2),var(--es-brand))!important;
+  border-radius:14px;
+  box-shadow:0 10px 24px rgba(20,48,37,.2);
+}
+
+#search-text-idx,
+#find-test-search{
+  border:1px solid var(--es-border)!important;
+  background:var(--es-surface)!important;
+  box-shadow:0 8px 20px rgba(25,44,34,.08)!important;
+}
+
+#index-search-results,
+#find-test-search-results,
+.searchpane{
+  background:var(--es-surface-soft)!important;
+  border:1px solid var(--es-border)!important;
+  border-radius:14px!important;
+  box-shadow:0 12px 24px rgba(20,39,31,.1)!important;
+}
+
+/* Home page cards */
+.text-left.m-0.p-1.bg-info.m-1,
+.p-2.border-bottom.bg-info.m-1.justify-content-between.align-items-center.d-flex{
+  background:linear-gradient(180deg,#fffaf1,#fff)!important;
+  border:1px solid #e8e0cf!important;
+  border-radius:14px!important;
+  box-shadow:0 8px 18px rgba(35,43,36,.08)!important;
+}
+
+.p-0.bg-white.m-1.collapse.mb-3,
+.p-2.border-bottom.bg-white.shadow.justify-content-between.align-items-center.d-flex{
+  background:var(--es-surface)!important;
+  border:1px solid var(--es-border)!important;
+  border-radius:12px!important;
+}
+
+.text-left.m-0.p-1.bg-info.m-1 a:hover,
+.p-2.border-bottom.bg-info.m-1.justify-content-between.align-items-center.d-flex a:hover{
+  text-decoration:none!important;
+  transform:translateX(2px);
+  transition:all .2s ease;
+}
+
+/* Tabs and exam sections */
+.nav-tabs{
+  border-bottom:1px solid #cedacf!important;
+  gap:6px;
+}
+
+#myTab li .nav-link{
+  border-radius:10px 10px 0 0!important;
+  border:1px solid #d6e1d8!important;
+  background:#f3f8f4!important;
+  color:var(--es-brand-2)!important;
+  font-weight:600;
+}
+
+#myTab li .nav-link.active{
+  color:#fff!important;
+  box-shadow:0 8px 18px rgba(15,45,34,.25)!important;
+}
+
+.tab-content,
+.tab-pane.shadow-sm,
+.tab-pane.shadow-sm.active.border{
+  background:var(--es-surface)!important;
+  border:1px solid var(--es-border)!important;
+  border-radius:0 14px 14px 14px!important;
+  box-shadow:0 10px 24px rgba(24,42,34,.09)!important;
+}
+
+/* Accordion rows and section headers */
+.tab-pane h3.bg-info,
+.tab-pane h4.bg-info,
+.tab-pane .text-danger.bg-info,
+.row.m-0.mb-2 .bg-info{
+  background:linear-gradient(95deg,#f3f8f4,#ecf2ed)!important;
+  border:1px solid #d6e0d8!important;
+  border-radius:12px!important;
+}
+
+.tab-pane .list-group-item,
+.search-test .list-group-item,
+.search-test-parent .list-group-item,
+.list-group .list-group-item{
+  background:var(--es-surface)!important;
+  border-bottom:1px dashed #d7dfd9!important;
+}
+
+.tab-pane .collapse.bg-light,
+.collapse.bg-light.p-2.border-top.mt-1{
+  background:#f8fcf9!important;
+  border:1px solid #d5e2d8!important;
+  border-radius:12px!important;
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.7);
+}
+
+/* Action buttons inside accordions */
+.btn-outline-danger.bg-info.text-danger,
+.btn.btn-outline-danger.bg-info.text-danger.m-2,
+#backurl.btn.bg-primary{
+  border-radius:999px!important;
+  background:linear-gradient(140deg,var(--es-accent),var(--es-accent-2))!important;
+  border:1px solid var(--es-accent-2)!important;
+  color:#fff!important;
+  box-shadow:0 8px 18px rgba(208,124,23,.28)!important;
+}
+
+.btn-outline-danger.bg-info.text-danger:hover,
+.btn.btn-outline-danger.bg-info.text-danger.m-2:hover,
+#backurl.btn.bg-primary:hover{
+  filter:brightness(.96);
+  transform:translateY(-1px);
+}
+
+.badge .fa-chevron-right,
+.badge .fa-chevron-up,
+.badge .fa-chevron-down{
+  color:var(--es-brand-2)!important;
+}
+
+.cardwithborders1{
+  border-top:3px solid var(--es-accent)!important;
+}
+
+@media (max-width:768px){
+  .title-mobile{border-radius:10px}
+  .tab-content,
+  .tab-pane.shadow-sm,
+  .tab-pane.shadow-sm.active.border{border-radius:0 10px 10px 10px!important}
+  .text-left.m-0.p-1.bg-info.m-1,
+  .p-2.border-bottom.bg-info.m-1.justify-content-between.align-items-center.d-flex{border-radius:10px!important}
+}
