@@ -93,12 +93,12 @@ div.Ba_Barium_lattice_56::after {max-width:60px; width:100%;height:0;padding: 0 
 .Ba_Barium_spectra_56 {max-width:330px; max-height:40px; }
 .Ba_Barium_spectra_56::after {content: '\00a0';display: inline-block; width:330px; height:40px; background-position: 39.487790351399646% 3.936269915651359%; background-size: 608.7878787878788% 2767.5%; background-image: url(ptelements-1.png);padding: 0; }
 div.Ba_Barium_spectra_56::after {max-width:330px; width:100%;height:0;padding: 0 0 12.121212121212121% 0;}
-.Be_Beryllium_element_4 {max-width:60px; max-height:60px; }
-.Be_Beryllium_element_4::after {content: '\00a0';display: inline-block; width:60px; height:60px; background-position: 17.034376603386352% 62.750716332378225%; background-size: 3348.3333333333335% 1845%; background-image: url(ptelements-1.png);padding: 0; }
-div.Be_Beryllium_element_4::after {max-width:60px; width:100%;height:0;padding: 0 0 100% 0;}
-.Be_Beryllium_lattice_4 {max-width:250px; max-height:300px; }
-.Be_Beryllium_lattice_4::after {content: '\00a0';display: inline-block; width:250px; height:300px; background-position: 14.326321773735076% 27.942028985507246%; background-size: 803.6% 675%; background-image: url(ptelements-0.png);padding: 0; }
-div.Be_Beryllium_lattice_4::after {max-width:250px; width:100%;height:0;padding: 0 0 120% 0;}
+.Be_Beryllium_element_4 {max-width:250px; max-height:300px; }
+.Be_Beryllium_element_4::after {content: '\00a0';display: inline-block; width:250px; height:300px; background-position: 14.326321773735076% 27.942028985507246%; background-size: 803.6% 675%; background-image: url(ptelements-0.png);padding: 0; }
+div.Be_Beryllium_element_4::after {max-width:250px; width:100%;height:0;padding: 0 0 120% 0;}
+.Be_Beryllium_lattice_4 {max-width:60px; max-height:60px; }
+.Be_Beryllium_lattice_4::after {content: '\00a0';display: inline-block; width:60px; height:60px; background-position: 17.034376603386352% 62.750716332378225%; background-size: 3348.3333333333335% 1845%; background-image: url(ptelements-1.png);padding: 0; }
+div.Be_Beryllium_lattice_4::after {max-width:60px; width:100%;height:0;padding: 0 0 100% 0;}
 .Be_Beryllium_spectra_4 {max-width:330px; max-height:40px; }
 .Be_Beryllium_spectra_4::after {content: '\00a0';display: inline-block; width:330px; height:40px; background-position: 59.20190589636689% 3.936269915651359%; background-size: 608.7878787878788% 2767.5%; background-image: url(ptelements-1.png);padding: 0; }
 div.Be_Beryllium_spectra_4::after {max-width:330px; width:100%;height:0;padding: 0 0 12.121212121212121% 0;}
@@ -144,12 +144,12 @@ div.C_Carbon_lattice_6::after {max-width:60px; width:100%;height:0;padding: 0 0 
 .C_Carbon_spectra_6 {max-width:330px; max-height:40px; }
 .C_Carbon_spectra_6::after {content: '\00a0';display: inline-block; width:330px; height:40px; background-position: 19.7736748064324% 7.778819119025305%; background-size: 608.7878787878788% 2767.5%; background-image: url(ptelements-1.png);padding: 0; }
 div.C_Carbon_spectra_6::after {max-width:330px; width:100%;height:0;padding: 0 0 12.121212121212121% 0;}
-.Ca_Calcium_element_20 {max-width:60px; max-height:70px; }
-.Ca_Calcium_element_20::after {content: '\00a0';display: inline-block; width:60px; height:70px; background-position: 23.293996921498206% 63.35583413693346%; background-size: 3348.3333333333335% 1581.4285714285713%; background-image: url(ptelements-1.png);padding: 0; }
-div.Ca_Calcium_element_20::after {max-width:60px; width:100%;height:0;padding: 0 0 116.66666666666667% 0;}
-.Ca_Calcium_lattice_20 {max-width:250px; max-height:164px; }
-.Ca_Calcium_lattice_20::after {content: '\00a0';display: inline-block; width:250px; height:164px; background-position: 99.94314951677089% 66.20096722192369%; background-size: 803.6% 1234.7560975609756%; background-image: url(ptelements-0.png);padding: 0; }
-div.Ca_Calcium_lattice_20::after {max-width:250px; width:100%;height:0;padding: 0 0 65.6% 0;}
+.Ca_Calcium_element_20 {max-width:250px; max-height:164px; }
+.Ca_Calcium_element_20::after {content: '\00a0';display: inline-block; width:250px; height:164px; background-position: 99.94314951677089% 66.20096722192369%; background-size: 803.6% 1234.7560975609756%; background-image: url(ptelements-0.png);padding: 0; }
+div.Ca_Calcium_element_20::after {max-width:250px; width:100%;height:0;padding: 0 0 65.6% 0;}
+.Ca_Calcium_lattice_20 {max-width:60px; max-height:70px; }
+.Ca_Calcium_lattice_20::after {content: '\00a0';display: inline-block; width:60px; height:70px; background-position: 23.293996921498206% 63.35583413693346%; background-size: 3348.3333333333335% 1581.4285714285713%; background-image: url(ptelements-1.png);padding: 0; }
+div.Ca_Calcium_lattice_20::after {max-width:60px; width:100%;height:0;padding: 0 0 116.66666666666667% 0;}
 .Ca_Calcium_spectra_20 {max-width:330px; max-height:40px; }
 .Ca_Calcium_spectra_20::after {content: '\00a0';display: inline-block; width:330px; height:40px; background-position: 39.487790351399646% 7.778819119025305%; background-size: 608.7878787878788% 2767.5%; background-image: url(ptelements-1.png);padding: 0; }
 div.Ca_Calcium_spectra_20::after {max-width:330px; width:100%;height:0;padding: 0 0 12.121212121212121% 0;}
@@ -213,12 +213,12 @@ div.Co_Cobalt_lattice_27::after {max-width:60px; width:100%;height:0;padding: 0 
 .Co_Cobalt_spectra_27 {max-width:330px; max-height:40px; }
 .Co_Cobalt_spectra_27::after {content: '\00a0';display: inline-block; width:330px; height:40px; background-position: 39.487790351399646% 11.62136832239925%; background-size: 608.7878787878788% 2767.5%; background-image: url(ptelements-1.png);padding: 0; }
 div.Co_Cobalt_spectra_27::after {max-width:330px; width:100%;height:0;padding: 0 0 12.121212121212121% 0;}
-.Cr_Chromium_element_24 {max-width:60px; max-height:71px; }
-.Cr_Chromium_element_24::after {content: '\00a0';display: inline-block; width:60px; height:71px; background-position: 32.683427398665984% 63.41698841698842%; background-size: 3348.3333333333335% 1559.1549295774648%; background-image: url(ptelements-1.png);padding: 0; }
-div.Cr_Chromium_element_24::after {max-width:60px; width:100%;height:0;padding: 0 0 118.33333333333333% 0;}
-.Cr_Chromium_lattice_24 {max-width:250px; max-height:149px; }
-.Cr_Chromium_lattice_24::after {content: '\00a0';display: inline-block; width:250px; height:149px; background-position: 52.927799886299034% 81.83716075156576%; background-size: 803.6% 742.9530201342282%; background-image: url(ptelements-1.png);padding: 0; }
-div.Cr_Chromium_lattice_24::after {max-width:250px; width:100%;height:0;padding: 0 0 59.6% 0;}
+.Cr_Chromium_element_24 {max-width:250px; max-height:149px; }
+.Cr_Chromium_element_24::after {content: '\00a0';display: inline-block; width:250px; height:149px; background-position: 52.927799886299034% 81.83716075156576%; background-size: 803.6% 742.9530201342282%; background-image: url(ptelements-1.png);padding: 0; }
+div.Cr_Chromium_element_24::after {max-width:250px; width:100%;height:0;padding: 0 0 59.6% 0;}
+.Cr_Chromium_lattice_24 {max-width:60px; max-height:71px; }
+.Cr_Chromium_lattice_24::after {content: '\00a0';display: inline-block; width:60px; height:71px; background-position: 32.683427398665984% 63.41698841698842%; background-size: 3348.3333333333335% 1559.1549295774648%; background-image: url(ptelements-1.png);padding: 0; }
+div.Cr_Chromium_lattice_24::after {max-width:60px; width:100%;height:0;padding: 0 0 118.33333333333333% 0;}
 .Cr_Chromium_spectra_24 {max-width:330px; max-height:40px; }
 .Cr_Chromium_spectra_24::after {content: '\00a0';display: inline-block; width:330px; height:40px; background-position: 59.20190589636689% 11.62136832239925%; background-size: 608.7878787878788% 2767.5%; background-image: url(ptelements-1.png);padding: 0; }
 div.Cr_Chromium_spectra_24::after {max-width:330px; width:100%;height:0;padding: 0 0 12.121212121212121% 0;}
@@ -480,12 +480,12 @@ div.Md_Mendelevium_element_101::after {max-width:60px; width:100%;height:0;paddi
 .Md_Mendelevium_lattice_101 {max-width:60px; max-height:70px; }
 .Md_Mendelevium_lattice_101::after {content: '\00a0';display: inline-block; width:60px; height:70px; background-position: 23.293996921498206% 63.35583413693346%; background-size: 3348.3333333333335% 1581.4285714285713%; background-image: url(ptelements-1.png);padding: 0; }
 div.Md_Mendelevium_lattice_101::after {max-width:60px; width:100%;height:0;padding: 0 0 116.66666666666667% 0;}
-.Mg_Magnesium_element_12 {max-width:60px; max-height:60px; }
-.Mg_Magnesium_element_12::after {content: '\00a0';display: inline-block; width:60px; height:60px; background-position: 17.034376603386352% 62.750716332378225%; background-size: 3348.3333333333335% 1845%; background-image: url(ptelements-1.png);padding: 0; }
-div.Mg_Magnesium_element_12::after {max-width:60px; width:100%;height:0;padding: 0 0 100% 0;}
-.Mg_Magnesium_lattice_12 {max-width:250px; max-height:188px; }
-.Mg_Magnesium_lattice_12::after {content: '\00a0';display: inline-block; width:250px; height:188px; background-position: 71.40420693575895% 61.13228089275994%; background-size: 803.6% 1077.127659574468%; background-image: url(ptelements-0.png);padding: 0; }
-div.Mg_Magnesium_lattice_12::after {max-width:250px; width:100%;height:0;padding: 0 0 75.2% 0;}
+.Mg_Magnesium_element_12 {max-width:250px; max-height:188px; }
+.Mg_Magnesium_element_12::after {content: '\00a0';display: inline-block; width:250px; height:188px; background-position: 71.40420693575895% 61.13228089275994%; background-size: 803.6% 1077.127659574468%; background-image: url(ptelements-0.png);padding: 0; }
+div.Mg_Magnesium_element_12::after {max-width:250px; width:100%;height:0;padding: 0 0 75.2% 0;}
+.Mg_Magnesium_lattice_12 {max-width:60px; max-height:60px; }
+.Mg_Magnesium_lattice_12::after {content: '\00a0';display: inline-block; width:60px; height:60px; background-position: 17.034376603386352% 62.750716332378225%; background-size: 3348.3333333333335% 1845%; background-image: url(ptelements-1.png);padding: 0; }
+div.Mg_Magnesium_lattice_12::after {max-width:60px; width:100%;height:0;padding: 0 0 100% 0;}
 .Mg_Magnesium_spectra_12 {max-width:330px; max-height:40px; }
 .Mg_Magnesium_spectra_12::after {content: '\00a0';display: inline-block; width:330px; height:40px; background-position: 78.91602144133412% 26.991565135895033%; background-size: 608.7878787878788% 2767.5%; background-image: url(ptelements-1.png);padding: 0; }
 div.Mg_Magnesium_spectra_12::after {max-width:330px; width:100%;height:0;padding: 0 0 12.121212121212121% 0;}
@@ -531,12 +531,12 @@ div.Na_Sodium_lattice_11::after {max-width:60px; width:100%;height:0;padding: 0 
 .Na_Sodium_spectra_11 {max-width:330px; max-height:40px; }
 .Na_Sodium_spectra_11::after {content: '\00a0';display: inline-block; width:330px; height:40px; background-position: 39.487790351399646% 30.83411433926898%; background-size: 608.7878787878788% 2767.5%; background-image: url(ptelements-1.png);padding: 0; }
 div.Na_Sodium_spectra_11::after {max-width:330px; width:100%;height:0;padding: 0 0 12.121212121212121% 0;}
-.Nb_Niobium_element_41 {max-width:60px; max-height:71px; }
-.Nb_Niobium_element_41::after {content: '\00a0';display: inline-block; width:60px; height:71px; background-position: 32.683427398665984% 63.41698841698842%; background-size: 3348.3333333333335% 1559.1549295774648%; background-image: url(ptelements-1.png);padding: 0; }
-div.Nb_Niobium_element_41::after {max-width:60px; width:100%;height:0;padding: 0 0 118.33333333333333% 0;}
-.Nb_Niobium_lattice_41 {max-width:250px; max-height:151px; }
-.Nb_Niobium_lattice_41::after {content: '\00a0';display: inline-block; width:250px; height:151px; background-position: 67.197271176805% 82.21757322175732%; background-size: 803.6% 733.1125827814569%; background-image: url(ptelements-1.png);padding: 0; }
-div.Nb_Niobium_lattice_41::after {max-width:250px; width:100%;height:0;padding: 0 0 60.4% 0;}
+.Nb_Niobium_element_41 {max-width:250px; max-height:151px; }
+.Nb_Niobium_element_41::after {content: '\00a0';display: inline-block; width:250px; height:151px; background-position: 67.197271176805% 82.21757322175732%; background-size: 803.6% 733.1125827814569%; background-image: url(ptelements-1.png);padding: 0; }
+div.Nb_Niobium_element_41::after {max-width:250px; width:100%;height:0;padding: 0 0 60.4% 0;}
+.Nb_Niobium_lattice_41 {max-width:60px; max-height:71px; }
+.Nb_Niobium_lattice_41::after {content: '\00a0';display: inline-block; width:60px; height:71px; background-position: 32.683427398665984% 63.41698841698842%; background-size: 3348.3333333333335% 1559.1549295774648%; background-image: url(ptelements-1.png);padding: 0; }
+div.Nb_Niobium_lattice_41::after {max-width:60px; width:100%;height:0;padding: 0 0 118.33333333333333% 0;}
 .Nb_Niobium_spectra_41 {max-width:330px; max-height:40px; }
 .Nb_Niobium_spectra_41::after {content: '\00a0';display: inline-block; width:330px; height:40px; background-position: 59.20190589636689% 30.83411433926898%; background-size: 608.7878787878788% 2767.5%; background-image: url(ptelements-1.png);padding: 0; }
 div.Nb_Niobium_spectra_41::after {max-width:330px; width:100%;height:0;padding: 0 0 12.121212121212121% 0;}
@@ -759,12 +759,12 @@ div.Ru_Ruthenium_lattice_44::after {max-width:60px; width:100%;height:0;padding:
 .Ru_Ruthenium_spectra_44 {max-width:330px; max-height:40px; }
 .Ru_Ruthenium_spectra_44::after {content: '\00a0';display: inline-block; width:330px; height:40px; background-position: 0.05955926146515783% 46.20431115276476%; background-size: 608.7878787878788% 2767.5%; background-image: url(ptelements-1.png);padding: 0; }
 div.Ru_Ruthenium_spectra_44::after {max-width:330px; width:100%;height:0;padding: 0 0 12.121212121212121% 0;}
-.S_Sulfur_element_16 {max-width:60px; max-height:79px; }
-.S_Sulfur_element_16::after {content: '\00a0';display: inline-block; width:60px; height:79px; background-position: 35.81323755772191% 63.91050583657587%; background-size: 3348.3333333333335% 1401.26582278481%; background-image: url(ptelements-1.png);padding: 0; }
-div.S_Sulfur_element_16::after {max-width:60px; width:100%;height:0;padding: 0 0 131.66666666666666% 0;}
-.S_Sulfur_lattice_16 {max-width:250px; max-height:208px; }
-.S_Sulfur_lattice_16::after {content: '\00a0';display: inline-block; width:250px; height:208px; background-position: 42.86526435474701% 88.44248761695101%; background-size: 803.6% 973.5576923076923%; background-image: url(ptelements-0.png);padding: 0; }
-div.S_Sulfur_lattice_16::after {max-width:250px; width:100%;height:0;padding: 0 0 83.2% 0;}
+.S_Sulfur_element_16 {max-width:250px; max-height:208px; }
+.S_Sulfur_element_16::after {content: '\00a0';display: inline-block; width:250px; height:208px; background-position: 42.86526435474701% 88.44248761695101%; background-size: 803.6% 973.5576923076923%; background-image: url(ptelements-0.png);padding: 0; }
+div.S_Sulfur_element_16::after {max-width:250px; width:100%;height:0;padding: 0 0 83.2% 0;}
+.S_Sulfur_lattice_16 {max-width:60px; max-height:79px; }
+.S_Sulfur_lattice_16::after {content: '\00a0';display: inline-block; width:60px; height:79px; background-position: 35.81323755772191% 63.91050583657587%; background-size: 3348.3333333333335% 1401.26582278481%; background-image: url(ptelements-1.png);padding: 0; }
+div.S_Sulfur_lattice_16::after {max-width:60px; width:100%;height:0;padding: 0 0 131.66666666666666% 0;}
 .S_Sulfur_spectra_16 {max-width:330px; max-height:40px; }
 .S_Sulfur_spectra_16::after {content: '\00a0';display: inline-block; width:330px; height:40px; background-position: 19.7736748064324% 46.20431115276476%; background-size: 608.7878787878788% 2767.5%; background-image: url(ptelements-1.png);padding: 0; }
 div.S_Sulfur_spectra_16::after {max-width:330px; width:100%;height:0;padding: 0 0 12.121212121212121% 0;}
@@ -777,12 +777,12 @@ div.Sb_Antimony_lattice_51::after {max-width:60px; width:100%;height:0;padding: 
 .Sb_Antimony_spectra_51 {max-width:330px; max-height:40px; }
 .Sb_Antimony_spectra_51::after {content: '\00a0';display: inline-block; width:330px; height:40px; background-position: 39.487790351399646% 46.20431115276476%; background-size: 608.7878787878788% 2767.5%; background-image: url(ptelements-1.png);padding: 0; }
 div.Sb_Antimony_spectra_51::after {max-width:330px; width:100%;height:0;padding: 0 0 12.121212121212121% 0;}
-.Sc_Scandium_element_21 {max-width:60px; max-height:60px; }
-.Sc_Scandium_element_21::after {content: '\00a0';display: inline-block; width:60px; height:60px; background-position: 17.034376603386352% 62.750716332378225%; background-size: 3348.3333333333335% 1845%; background-image: url(ptelements-1.png);padding: 0; }
-div.Sc_Scandium_element_21::after {max-width:60px; width:100%;height:0;padding: 0 0 100% 0;}
-.Sc_Scandium_lattice_21 {max-width:250px; max-height:153px; }
-.Sc_Scandium_lattice_21::after {content: '\00a0';display: inline-block; width:250px; height:153px; background-position: 95.73621375781694% 83.12368972746332%; background-size: 803.6% 723.5294117647059%; background-image: url(ptelements-1.png);padding: 0; }
-div.Sc_Scandium_lattice_21::after {max-width:250px; width:100%;height:0;padding: 0 0 61.2% 0;}
+.Sc_Scandium_element_21 {max-width:250px; max-height:153px; }
+.Sc_Scandium_element_21::after {content: '\00a0';display: inline-block; width:250px; height:153px; background-position: 95.73621375781694% 83.12368972746332%; background-size: 803.6% 723.5294117647059%; background-image: url(ptelements-1.png);padding: 0; }
+div.Sc_Scandium_element_21::after {max-width:250px; width:100%;height:0;padding: 0 0 61.2% 0;}
+.Sc_Scandium_lattice_21 {max-width:60px; max-height:60px; }
+.Sc_Scandium_lattice_21::after {content: '\00a0';display: inline-block; width:60px; height:60px; background-position: 17.034376603386352% 62.750716332378225%; background-size: 3348.3333333333335% 1845%; background-image: url(ptelements-1.png);padding: 0; }
+div.Sc_Scandium_lattice_21::after {max-width:60px; width:100%;height:0;padding: 0 0 100% 0;}
 .Sc_Scandium_spectra_21 {max-width:330px; max-height:40px; }
 .Sc_Scandium_spectra_21::after {content: '\00a0';display: inline-block; width:330px; height:40px; background-position: 59.20190589636689% 46.20431115276476%; background-size: 608.7878787878788% 2767.5%; background-image: url(ptelements-1.png);padding: 0; }
 div.Sc_Scandium_spectra_21::after {max-width:330px; width:100%;height:0;padding: 0 0 12.121212121212121% 0;}
@@ -882,12 +882,12 @@ div.Th_Thorium_lattice_90::after {max-width:60px; width:100%;height:0;padding: 0
 .Th_Thorium_spectra_90 {max-width:330px; max-height:40px; }
 .Th_Thorium_spectra_90::after {content: '\00a0';display: inline-block; width:330px; height:40px; background-position: 19.7736748064324% 53.88940955951265%; background-size: 608.7878787878788% 2767.5%; background-image: url(ptelements-1.png);padding: 0; }
 div.Th_Thorium_spectra_90::after {max-width:330px; width:100%;height:0;padding: 0 0 12.121212121212121% 0;}
-.Ti_Titanium_element_22 {max-width:60px; max-height:60px; }
-.Ti_Titanium_element_22::after {content: '\00a0';display: inline-block; width:60px; height:60px; background-position: 17.034376603386352% 62.750716332378225%; background-size: 3348.3333333333335% 1845%; background-image: url(ptelements-1.png);padding: 0; }
-div.Ti_Titanium_element_22::after {max-width:60px; width:100%;height:0;padding: 0 0 100% 0;}
-.Ti_Titanium_lattice_22 {max-width:250px; max-height:157px; }
-.Ti_Titanium_lattice_22::after {content: '\00a0';display: inline-block; width:250px; height:157px; background-position: 71.40420693575895% 98.94736842105263%; background-size: 803.6% 705.0955414012739%; background-image: url(ptelements-1.png);padding: 0; }
-div.Ti_Titanium_lattice_22::after {max-width:250px; width:100%;height:0;padding: 0 0 62.8% 0;}
+.Ti_Titanium_element_22 {max-width:250px; max-height:157px; }
+.Ti_Titanium_element_22::after {content: '\00a0';display: inline-block; width:250px; height:157px; background-position: 71.40420693575895% 98.94736842105263%; background-size: 803.6% 705.0955414012739%; background-image: url(ptelements-1.png);padding: 0; }
+div.Ti_Titanium_element_22::after {max-width:250px; width:100%;height:0;padding: 0 0 62.8% 0;}
+.Ti_Titanium_lattice_22 {max-width:60px; max-height:60px; }
+.Ti_Titanium_lattice_22::after {content: '\00a0';display: inline-block; width:60px; height:60px; background-position: 17.034376603386352% 62.750716332378225%; background-size: 3348.3333333333335% 1845%; background-image: url(ptelements-1.png);padding: 0; }
+div.Ti_Titanium_lattice_22::after {max-width:60px; width:100%;height:0;padding: 0 0 100% 0;}
 .Ti_Titanium_spectra_22 {max-width:330px; max-height:40px; }
 .Ti_Titanium_spectra_22::after {content: '\00a0';display: inline-block; width:330px; height:40px; background-position: 39.487790351399646% 53.88940955951265%; background-size: 608.7878787878788% 2767.5%; background-image: url(ptelements-1.png);padding: 0; }
 div.Ti_Titanium_spectra_22::after {max-width:330px; width:100%;height:0;padding: 0 0 12.121212121212121% 0;}
@@ -983,4 +983,4 @@ div.Zr_Zirconium_lattice_40::after {max-width:60px; width:100%;height:0;padding:
 div.Zr_Zirconium_spectra_40::after {max-width:330px; width:100%;height:0;padding: 0 0 12.121212121212121% 0;}
 
 
-/* $TexturePacker:SmartUpdate:10d60f555a6478fbb41a6389f10b57d5:3bbb230cc865b9acc9a88b5bc3bf33b4:254bfd9e5b8696ec83d86248bac1927b$ */
+/* $TexturePacker:SmartUpdate:b04bcc5bd6928cebfa1d07e40c040e79:699af44befa15b3c9345b845d7bc48a0:254bfd9e5b8696ec83d86248bac1927b$ */
