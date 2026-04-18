@@ -1,0 +1,61 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.upsese_2026_q_101 {max-width:360px; max-height:257px; }
+.upsese_2026_q_101::after {content: '\00a0';display: inline-block; width:360px; height:257px; background-position: 50% 0.1040582726326743%; background-size: 100.55555555555556% 473.92996108949416%; background-image: url(ese2026_0.png);padding: 0; }
+div.upsese_2026_q_101::after {max-width:360px; width:100%;height:0;padding: 0 0 71.38888888888889% 0;}
+.upsese_2026_q_102 {max-width:360px; max-height:219px; }
+.upsese_2026_q_102::after {content: '\00a0';display: inline-block; width:360px; height:219px; background-position: 50% 50.750750750750754%; background-size: 100.55555555555556% 556.1643835616438%; background-image: url(ese2026_0.png);padding: 0; }
+div.upsese_2026_q_102::after {max-width:360px; width:100%;height:0;padding: 0 0 60.833333333333336% 0;}
+.upsese_2026_q_106 {max-width:360px; max-height:148px; }
+.upsese_2026_q_106::after {content: '\00a0';display: inline-block; width:360px; height:148px; background-position: 50% 99.90654205607477%; background-size: 100.55555555555556% 822.972972972973%; background-image: url(ese2026_0.png);padding: 0; }
+div.upsese_2026_q_106::after {max-width:360px; width:100%;height:0;padding: 0 0 41.111111111111114% 0;}
+.upsese_2026_q_108 {max-width:360px; max-height:160px; }
+.upsese_2026_q_108::after {content: '\00a0';display: inline-block; width:360px; height:160px; background-position: 50% 85.82230623818525%; background-size: 100.55555555555556% 761.25%; background-image: url(ese2026_0.png);padding: 0; }
+div.upsese_2026_q_108::after {max-width:360px; width:100%;height:0;padding: 0 0 44.44444444444444% 0;}
+.upsese_2026_q_109 {max-width:360px; max-height:180px; }
+.upsese_2026_q_109::after {content: '\00a0';display: inline-block; width:360px; height:180px; background-position: 50% 70.03853564547207%; background-size: 100.55555555555556% 676.6666666666666%; background-image: url(ese2026_0.png);padding: 0; }
+div.upsese_2026_q_109::after {max-width:360px; width:100%;height:0;padding: 0 0 50% 0;}
+.upsese_2026_q_17 {max-width:360px; max-height:247px; }
+.upsese_2026_q_17::after {content: '\00a0';display: inline-block; width:360px; height:247px; background-position: 50% 26.673532440782697%; background-size: 100.55555555555556% 493.1174089068826%; background-image: url(ese2026_0.png);padding: 0; }
+div.upsese_2026_q_17::after {max-width:360px; width:100%;height:0;padding: 0 0 68.61111111111111% 0;}
+
+@keyframes upsese_2026_q-frames {
+    0% { background-position: 50% 26.673532440782697%;  }
+    16.666666666666664% { background-position: 50% 0.1040582726326743%;  }
+    33.33333333333333% { background-position: 50% 50.750750750750754%;  }
+    50% { background-position: 50% 99.90654205607477%;  }
+    66.66666666666666% { background-position: 50% 85.82230623818525%;  }
+    83.33333333333334% { background-position: 50% 70.03853564547207%;  }
+}
+
+.upsese_2026_q-animation {
+    max-width: 360px;
+    max-height: 247px;
+}
+.upsese_2026_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 360px;
+    height: 247px;
+    padding: 0;
+    background-image: url(ese2026_0.png);
+    background-size: 100.55555555555556% 493.1174089068826%; 
+    animation-name: upsese_2026_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.upsese_2026_q-animation::after {
+    max-width: 360px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 68.61111111111111% 0;
+}
+
+/* $TexturePacker:SmartUpdate:a1f801fef06bf20b273d961d8d5158bd:abcf94e8fa937552e7167539f26ecdfb:a2cfe7de6985099e2a666946b2709061$ */
