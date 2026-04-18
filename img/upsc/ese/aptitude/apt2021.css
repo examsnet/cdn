@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.upsc_ese_apt_2021_q_56 {max-width:394px; max-height:329px; }
+.upsc_ese_apt_2021_q_56::after {content: '\00a0';display: inline-block; width:394px; height:329px; background-position: 50% 50%; background-size: 100.50761421319797% 100.6079027355623%; background-image: url(apt2021_0.png);padding: 0; }
+div.upsc_ese_apt_2021_q_56::after {max-width:394px; width:100%;height:0;padding: 0 0 83.50253807106598% 0;}
+
+
+/* $TexturePacker:SmartUpdate:c90c056769af92dea654e583fc886c5a:b96fcc91b29e9f7a3e8399fa570eed95:f0e39f26076a8e41505903b9cd76df34$ */

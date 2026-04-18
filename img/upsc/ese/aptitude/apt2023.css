@@ -1,0 +1,84 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.upsc_ese_apt_2023_q_75 {max-width:670px; max-height:173px; }
+.upsc_ese_apt_2023_q_75::after {content: '\00a0';display: inline-block; width:670px; height:173px; background-position: 0.2994011976047904% 0.49261083743842365%; background-size: 149.8507462686567% 217.34104046242774%; background-image: url(apt2023_0.png);padding: 0; }
+div.upsc_ese_apt_2023_q_75::after {max-width:670px; width:100%;height:0;padding: 0 0 25.82089552238806% 0;}
+.upsc_ese_apt_2023_q_76_1 {max-width:202px; max-height:200px; }
+.upsc_ese_apt_2023_q_76_1::after {content: '\00a0';display: inline-block; width:202px; height:200px; background-position: 0.12468827930174564% 99.43181818181819%; background-size: 497.029702970297% 188%; background-image: url(apt2023_0.png);padding: 0; }
+div.upsc_ese_apt_2023_q_76_1::after {max-width:202px; width:100%;height:0;padding: 0 0 99.00990099009901% 0;}
+.upsc_ese_apt_2023_q_76_2 {max-width:200px; max-height:200px; }
+.upsc_ese_apt_2023_q_76_2::after {content: '\00a0';display: inline-block; width:200px; height:200px; background-position: 25.37313432835821% 99.43181818181819%; background-size: 502% 188%; background-image: url(apt2023_0.png);padding: 0; }
+div.upsc_ese_apt_2023_q_76_2::after {max-width:200px; width:100%;height:0;padding: 0 0 100% 0;}
+.upsc_ese_apt_2023_q_76_3 {max-width:198px; max-height:198px; }
+.upsc_ese_apt_2023_q_76_3::after {content: '\00a0';display: inline-block; width:198px; height:198px; background-position: 50.24813895781638% 98.31460674157303%; background-size: 507.07070707070704% 189.8989898989899%; background-image: url(apt2023_0.png);padding: 0; }
+div.upsc_ese_apt_2023_q_76_3::after {max-width:198px; width:100%;height:0;padding: 0 0 100% 0;}
+.upsc_ese_apt_2023_q_80 {max-width:331px; max-height:335px; }
+.upsc_ese_apt_2023_q_80::after {content: '\00a0';display: inline-block; width:331px; height:335px; background-position: 99.85141158989599% 2.4390243902439024%; background-size: 303.32326283987913% 112.23880597014926%; background-image: url(apt2023_0.png);padding: 0; }
+div.upsc_ese_apt_2023_q_80::after {max-width:331px; width:100%;height:0;padding: 0 0 101.20845921450152% 0;}
+
+@keyframes upsc_ese_apt_2023_q-frames {
+    0% { background-position: 0.2994011976047904% 0.49261083743842365%;  }
+    50% { background-position: 99.85141158989599% 2.4390243902439024%;  }
+}
+
+.upsc_ese_apt_2023_q-animation {
+    max-width: 670px;
+    max-height: 173px;
+}
+.upsc_ese_apt_2023_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 670px;
+    height: 173px;
+    padding: 0;
+    background-image: url(apt2023_0.png);
+    background-size: 149.8507462686567% 217.34104046242774%; 
+    animation-name: upsc_ese_apt_2023_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.upsc_ese_apt_2023_q-animation::after {
+    max-width: 670px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 25.82089552238806% 0;
+}
+
+@keyframes upsc_ese_apt_2023_q_76-frames {
+    0% { background-position: 0.12468827930174564% 99.43181818181819%;  }
+    33.33333333333333% { background-position: 25.37313432835821% 99.43181818181819%;  }
+    66.66666666666666% { background-position: 50.24813895781638% 98.31460674157303%;  }
+}
+
+.upsc_ese_apt_2023_q_76-animation {
+    max-width: 202px;
+    max-height: 200px;
+}
+.upsc_ese_apt_2023_q_76-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 202px;
+    height: 200px;
+    padding: 0;
+    background-image: url(apt2023_0.png);
+    background-size: 497.029702970297% 188%; 
+    animation-name: upsc_ese_apt_2023_q_76-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.upsc_ese_apt_2023_q_76-animation::after {
+    max-width: 202px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 99.00990099009901% 0;
+}
+
+/* $TexturePacker:SmartUpdate:1ec3eccbecc2119ce9db3b4ca0bcbf31:253675e4f9a76a1768e25e4be659a697:4e21f4c6819c0b9009cf0fb6ea4c0e9f$ */
