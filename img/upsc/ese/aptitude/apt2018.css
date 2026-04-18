@@ -1,0 +1,84 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.ese_apt_2018_q_10 {max-width:300px; max-height:85px; }
+.ese_apt_2018_q_10::after {content: '\00a0';display: inline-block; width:300px; height:85px; background-position: 0.24813895781637718% 90.95238095238095%; background-size: 234.33333333333334% 594.1176470588235%; background-image: url(apt2018_0.png);padding: 0; }
+div.ese_apt_2018_q_10::after {max-width:300px; width:100%;height:0;padding: 0 0 28.333333333333332% 0;}
+.ese_apt_2018_q_40_1 {max-width:300px; max-height:206px; }
+.ese_apt_2018_q_40_1::after {content: '\00a0';display: inline-block; width:300px; height:206px; background-position: 0.24813895781637718% 58.52842809364549%; background-size: 234.33333333333334% 245.14563106796118%; background-image: url(apt2018_0.png);padding: 0; }
+div.ese_apt_2018_q_40_1::after {max-width:300px; width:100%;height:0;padding: 0 0 68.66666666666667% 0;}
+.ese_apt_2018_q_40_2 {max-width:300px; max-height:371px; }
+.ese_apt_2018_q_40_2::after {content: '\00a0';display: inline-block; width:300px; height:371px; background-position: 99.75186104218362% 0.746268656716418%; background-size: 234.33333333333334% 136.11859838274933%; background-image: url(apt2018_0.png);padding: 0; }
+div.ese_apt_2018_q_40_2::after {max-width:300px; width:100%;height:0;padding: 0 0 123.66666666666667% 0;}
+.ese_apt_2018_q_46 {max-width:400px; max-height:173px; }
+.ese_apt_2018_q_46::after {content: '\00a0';display: inline-block; width:400px; height:173px; background-position: 0.33003300330033003% 0.30120481927710846%; background-size: 175.75% 291.90751445086704%; background-image: url(apt2018_0.png);padding: 0; }
+div.ese_apt_2018_q_46::after {max-width:400px; width:100%;height:0;padding: 0 0 43.25% 0;}
+.ese_apt_2018_q_50 {max-width:400px; max-height:131px; }
+.ese_apt_2018_q_50::after {content: '\00a0';display: inline-block; width:400px; height:131px; background-position: 99.66996699669967% 99.73262032085562%; background-size: 175.75% 385.4961832061069%; background-image: url(apt2018_0.png);padding: 0; }
+div.ese_apt_2018_q_50::after {max-width:400px; width:100%;height:0;padding: 0 0 32.75% 0;}
+
+@keyframes ese_apt_2018_q-frames {
+    0% { background-position: 0.24813895781637718% 90.95238095238095%;  }
+    33.33333333333333% { background-position: 0.33003300330033003% 0.30120481927710846%;  }
+    66.66666666666666% { background-position: 99.66996699669967% 99.73262032085562%;  }
+}
+
+.ese_apt_2018_q-animation {
+    max-width: 300px;
+    max-height: 85px;
+}
+.ese_apt_2018_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 300px;
+    height: 85px;
+    padding: 0;
+    background-image: url(apt2018_0.png);
+    background-size: 234.33333333333334% 594.1176470588235%; 
+    animation-name: ese_apt_2018_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.ese_apt_2018_q-animation::after {
+    max-width: 300px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 28.333333333333332% 0;
+}
+
+@keyframes ese_apt_2018_q_40-frames {
+    0% { background-position: 0.24813895781637718% 58.52842809364549%;  }
+    50% { background-position: 99.75186104218362% 0.746268656716418%;  }
+}
+
+.ese_apt_2018_q_40-animation {
+    max-width: 300px;
+    max-height: 206px;
+}
+.ese_apt_2018_q_40-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 300px;
+    height: 206px;
+    padding: 0;
+    background-image: url(apt2018_0.png);
+    background-size: 234.33333333333334% 245.14563106796118%; 
+    animation-name: ese_apt_2018_q_40-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.ese_apt_2018_q_40-animation::after {
+    max-width: 300px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 68.66666666666667% 0;
+}
+
+/* $TexturePacker:SmartUpdate:315602d1faf115173468a08bbbf1af2c:9483b62570a5177a5d8beabb1fab903e:475993de2beb53108cd77052e676e7df$ */
