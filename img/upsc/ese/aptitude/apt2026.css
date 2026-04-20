@@ -7,29 +7,33 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 .upsc_ese_apt_2026_q_13 {max-width:360px; max-height:372px; }
-.upsc_ese_apt_2026_q_13::after {content: '\00a0';display: inline-block; width:360px; height:372px; background-position: 99.72451790633609% 50.33557046979866%; background-size: 200.83333333333334% 260.21505376344084%; background-image: url(apt2026_0.png);padding: 0; }
+.upsc_ese_apt_2026_q_13::after {content: '\00a0';display: inline-block; width:360px; height:372px; background-position: 0.15060240963855423% 82.09876543209876%; background-size: 284.44444444444446% 230.6451612903226%; background-image: url(apt2026_0.png);padding: 0; }
 div.upsc_ese_apt_2026_q_13::after {max-width:360px; width:100%;height:0;padding: 0 0 103.33333333333333% 0;}
 .upsc_ese_apt_2026_q_15_1 {max-width:360px; max-height:397px; }
-.upsc_ese_apt_2026_q_15_1::after {content: '\00a0';display: inline-block; width:360px; height:397px; background-position: 0.27548209366391185% 41.5061295971979%; background-size: 200.83333333333334% 243.8287153652393%; background-image: url(apt2026_0.png);padding: 0; }
+.upsc_ese_apt_2026_q_15_1::after {content: '\00a0';display: inline-block; width:360px; height:397px; background-position: 0.15060240963855423% 0.21691973969631237%; background-size: 284.44444444444446% 216.12090680100755%; background-image: url(apt2026_0.png);padding: 0; }
 div.upsc_ese_apt_2026_q_15_1::after {max-width:360px; width:100%;height:0;padding: 0 0 110.27777777777777% 0;}
 .upsc_ese_apt_2026_q_15_2 {max-width:360px; max-height:294px; }
-.upsc_ese_apt_2026_q_15_2::after {content: '\00a0';display: inline-block; width:360px; height:294px; background-position: 99.72451790633609% 99.85163204747775%; background-size: 200.83333333333334% 329.2517006802721%; background-image: url(apt2026_0.png);padding: 0; }
+.upsc_ese_apt_2026_q_15_2::after {content: '\00a0';display: inline-block; width:360px; height:294px; background-position: 54.51807228915663% 99.822695035461%; background-size: 284.44444444444446% 291.83673469387753%; background-image: url(apt2026_0.png);padding: 0; }
 div.upsc_ese_apt_2026_q_15_2::after {max-width:360px; width:100%;height:0;padding: 0 0 81.66666666666667% 0;}
 .upsc_ese_apt_2026_q_21 {max-width:360px; max-height:325px; }
-.upsc_ese_apt_2026_q_21::after {content: '\00a0';display: inline-block; width:360px; height:325px; background-position: 0.27548209366391185% 98.75583203732504%; background-size: 200.83333333333334% 297.84615384615387%; background-image: url(apt2026_0.png);padding: 0; }
+.upsc_ese_apt_2026_q_21::after {content: '\00a0';display: inline-block; width:360px; height:325px; background-position: 54.51807228915663% 44.46529080675422%; background-size: 284.44444444444446% 264%; background-image: url(apt2026_0.png);padding: 0; }
 div.upsc_ese_apt_2026_q_21::after {max-width:360px; width:100%;height:0;padding: 0 0 90.27777777777777% 0;}
 .upsc_ese_apt_2026_q_23 {max-width:400px; max-height:235px; }
-.upsc_ese_apt_2026_q_23::after {content: '\00a0';display: inline-block; width:400px; height:235px; background-position: 0.30959752321981426% 0.1364256480218281%; background-size: 180.75% 411.9148936170213%; background-image: url(apt2026_0.png);padding: 0; }
+.upsc_ese_apt_2026_q_23::after {content: '\00a0';display: inline-block; width:400px; height:235px; background-position: 58.01282051282051% 0.16051364365971107%; background-size: 256% 365.1063829787234%; background-image: url(apt2026_0.png);padding: 0; }
 div.upsc_ese_apt_2026_q_23::after {max-width:400px; width:100%;height:0;padding: 0 0 58.75% 0;}
+.upsc_ese_apt_2026_q_24 {max-width:271px; max-height:258px; }
+.upsc_ese_apt_2026_q_24::after {content: '\00a0';display: inline-block; width:271px; height:258px; background-position: 96.01593625498008% 89.33333333333333%; background-size: 377.859778597786% 332.5581395348837%; background-image: url(apt2026_0.png);padding: 0; }
+div.upsc_ese_apt_2026_q_24::after {max-width:271px; width:100%;height:0;padding: 0 0 95.20295202952029% 0;}
 .upsc_ese_apt_2026_q_25 {max-width:300px; max-height:298px; }
-.upsc_ese_apt_2026_q_25::after {content: '\00a0';display: inline-block; width:300px; height:298px; background-position: 95.0354609929078% 0.14925373134328357%; background-size: 241% 324.8322147651007%; background-image: url(apt2026_0.png);padding: 0; }
+.upsc_ese_apt_2026_q_25::after {content: '\00a0';display: inline-block; width:300px; height:298px; background-position: 99.86187845303867% 42.32142857142857%; background-size: 341.3333333333333% 287.91946308724835%; background-image: url(apt2026_0.png);padding: 0; }
 div.upsc_ese_apt_2026_q_25::after {max-width:300px; width:100%;height:0;padding: 0 0 99.33333333333333% 0;}
 
 @keyframes upsc_ese_apt_2026_q-frames {
-    0% { background-position: 99.72451790633609% 50.33557046979866%;  }
-    25% { background-position: 0.27548209366391185% 98.75583203732504%;  }
-    50% { background-position: 0.30959752321981426% 0.1364256480218281%;  }
-    75% { background-position: 95.0354609929078% 0.14925373134328357%;  }
+    0% { background-position: 0.15060240963855423% 82.09876543209876%;  }
+    20% { background-position: 54.51807228915663% 44.46529080675422%;  }
+    40% { background-position: 58.01282051282051% 0.16051364365971107%;  }
+    60% { background-position: 96.01593625498008% 89.33333333333333%;  }
+    80% { background-position: 99.86187845303867% 42.32142857142857%;  }
 }
 
 .upsc_ese_apt_2026_q-animation {
@@ -43,7 +47,7 @@ div.upsc_ese_apt_2026_q_25::after {max-width:300px; width:100%;height:0;padding:
     height: 372px;
     padding: 0;
     background-image: url(apt2026_0.png);
-    background-size: 200.83333333333334% 260.21505376344084%; 
+    background-size: 284.44444444444446% 230.6451612903226%; 
     animation-name: upsc_ese_apt_2026_q-frames;
     animation-timing-function: steps(1);
     animation-duration: 1s;
@@ -57,8 +61,8 @@ div.upsc_ese_apt_2026_q-animation::after {
 }
 
 @keyframes upsc_ese_apt_2026_q_15-frames {
-    0% { background-position: 0.27548209366391185% 41.5061295971979%;  }
-    50% { background-position: 99.72451790633609% 99.85163204747775%;  }
+    0% { background-position: 0.15060240963855423% 0.21691973969631237%;  }
+    50% { background-position: 54.51807228915663% 99.822695035461%;  }
 }
 
 .upsc_ese_apt_2026_q_15-animation {
@@ -72,7 +76,7 @@ div.upsc_ese_apt_2026_q-animation::after {
     height: 397px;
     padding: 0;
     background-image: url(apt2026_0.png);
-    background-size: 200.83333333333334% 243.8287153652393%; 
+    background-size: 284.44444444444446% 216.12090680100755%; 
     animation-name: upsc_ese_apt_2026_q_15-frames;
     animation-timing-function: steps(1);
     animation-duration: 1s;
@@ -85,4 +89,4 @@ div.upsc_ese_apt_2026_q_15-animation::after {
     padding: 0 0 110.27777777777777% 0;
 }
 
-/* $TexturePacker:SmartUpdate:a085711b217f69b534542c20d1c52377:a317e64287bc56c471e61d9bc93012b4:4bb0790be375396f5352e066abef7358$ */
+/* $TexturePacker:SmartUpdate:bff90a6255aa678ca51bd3410863e200:ef1ee26157528606a04b7399db824b57:4bb0790be375396f5352e066abef7358$ */
