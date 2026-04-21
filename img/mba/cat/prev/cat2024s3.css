@@ -1,0 +1,49 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.cat_2024_slot_3_para_25 {max-width:450px; max-height:332px; }
+.cat_2024_slot_3_para_25::after {content: '\00a0';display: inline-block; width:450px; height:332px; background-position: 1.9230769230769231% 99.80276134122288%; background-size: 111.55555555555556% 252.710843373494%; background-image: url(cat2024s3_0.png);padding: 0; }
+div.cat_2024_slot_3_para_25::after {max-width:450px; width:100%;height:0;padding: 0 0 73.77777777777777% 0;}
+.cat_2024_slot_3_para_30 {max-width:500px; max-height:264px; }
+.cat_2024_slot_3_para_30::after {content: '\00a0';display: inline-block; width:500px; height:264px; background-position: 50% 0.17391304347826086%; background-size: 100.4% 317.8030303030303%; background-image: url(cat2024s3_0.png);padding: 0; }
+div.cat_2024_slot_3_para_30::after {max-width:500px; width:100%;height:0;padding: 0 0 52.8% 0;}
+.cat_2024_slot_3_para_38 {max-width:500px; max-height:239px; }
+.cat_2024_slot_3_para_38::after {content: '\00a0';display: inline-block; width:500px; height:239px; background-position: 50% 44.333333333333336%; background-size: 100.4% 351.0460251046025%; background-image: url(cat2024s3_0.png);padding: 0; }
+div.cat_2024_slot_3_para_38::after {max-width:500px; width:100%;height:0;padding: 0 0 47.8% 0;}
+
+@keyframes cat_2024_slot_3_para-frames {
+    0% { background-position: 1.9230769230769231% 99.80276134122288%;  }
+    33.33333333333333% { background-position: 50% 0.17391304347826086%;  }
+    66.66666666666666% { background-position: 50% 44.333333333333336%;  }
+}
+
+.cat_2024_slot_3_para-animation {
+    max-width: 450px;
+    max-height: 332px;
+}
+.cat_2024_slot_3_para-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 450px;
+    height: 332px;
+    padding: 0;
+    background-image: url(cat2024s3_0.png);
+    background-size: 111.55555555555556% 252.710843373494%; 
+    animation-name: cat_2024_slot_3_para-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.cat_2024_slot_3_para-animation::after {
+    max-width: 450px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 73.77777777777777% 0;
+}
+
+/* $TexturePacker:SmartUpdate:d362221d8e9a7c9f7ec5dc088b44e3d3:24818bd6bdaef0f8f81568f5283e10e3:5ff90a3233d04865ca27d8e47e0fec59$ */

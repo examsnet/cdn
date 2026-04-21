@@ -1,0 +1,48 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.cat_2025_slot_2_para_30 {max-width:500px; max-height:406px; }
+.cat_2025_slot_2_para_30::after {content: '\00a0';display: inline-block; width:500px; height:406px; background-position: 50% 0.16447368421052633%; background-size: 100.4% 249.7536945812808%; background-image: url(cat2025s2_0.png);padding: 0; }
+div.cat_2025_slot_2_para_30::after {max-width:500px; width:100%;height:0;padding: 0 0 81.2% 0;}
+.cat_2025_slot_2_para_39_1 {max-width:500px; max-height:303px; }
+.cat_2025_slot_2_para_39_1::after {content: '\00a0';display: inline-block; width:500px; height:303px; background-position: 50% 57.38396624472574%; background-size: 100.4% 334.65346534653463%; background-image: url(cat2025s2_0.png);padding: 0; }
+div.cat_2025_slot_2_para_39_1::after {max-width:500px; width:100%;height:0;padding: 0 0 60.6% 0;}
+.cat_2025_slot_2_para_39_2 {max-width:500px; max-height:301px; }
+.cat_2025_slot_2_para_39_2::after {content: '\00a0';display: inline-block; width:500px; height:301px; background-position: 50% 99.85974754558205%; background-size: 100.4% 336.87707641196016%; background-image: url(cat2025s2_0.png);padding: 0; }
+div.cat_2025_slot_2_para_39_2::after {max-width:500px; width:100%;height:0;padding: 0 0 60.2% 0;}
+
+@keyframes cat_2025_slot_2_para_39-frames {
+    0% { background-position: 50% 57.38396624472574%;  }
+    50% { background-position: 50% 99.85974754558205%;  }
+}
+
+.cat_2025_slot_2_para_39-animation {
+    max-width: 500px;
+    max-height: 303px;
+}
+.cat_2025_slot_2_para_39-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 500px;
+    height: 303px;
+    padding: 0;
+    background-image: url(cat2025s2_0.png);
+    background-size: 100.4% 334.65346534653463%; 
+    animation-name: cat_2025_slot_2_para_39-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.cat_2025_slot_2_para_39-animation::after {
+    max-width: 500px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 60.6% 0;
+}
+
+/* $TexturePacker:SmartUpdate:ad13f032e3dfffc4d04dc6d657780330:140112ee0c48f09f5e514b92cdee3d3e:bd7f7b649c490fb9d266fdc3ee7ea0c3$ */
