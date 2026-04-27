@@ -1,0 +1,96 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.upsc_ese_civil_2022_q_11 {max-width:400px; max-height:154px; }
+.upsc_ese_civil_2022_q_11::after {content: '\00a0';display: inline-block; width:400px; height:154px; background-position: 0.1984126984126984% 64.56086286594761%; background-size: 226% 521.4285714285714%; background-image: url(c2022_0.png);padding: 0; }
+div.upsc_ese_civil_2022_q_11::after {max-width:400px; width:100%;height:0;padding: 0 0 38.5% 0;}
+.upsc_ese_civil_2022_q_2 {max-width:450px; max-height:231px; }
+.upsc_ese_civil_2022_q_2::after {content: '\00a0';display: inline-block; width:450px; height:231px; background-position: 0.22026431718061673% 0.17482517482517482%; background-size: 200.88888888888889% 347.6190476190476%; background-image: url(c2022_0.png);padding: 0; }
+div.upsc_ese_civil_2022_q_2::after {max-width:450px; width:100%;height:0;padding: 0 0 51.333333333333336% 0;}
+.upsc_ese_civil_2022_q_21 {max-width:400px; max-height:350px; }
+.upsc_ese_civil_2022_q_21::after {content: '\00a0';display: inline-block; width:400px; height:350px; background-position: 89.68253968253968% 0.22075055187637968%; background-size: 226% 229.42857142857142%; background-image: url(c2022_0.png);padding: 0; }
+div.upsc_ese_civil_2022_q_21::after {max-width:400px; width:100%;height:0;padding: 0 0 87.5% 0;}
+.upsc_ese_civil_2022_q_22_1 {max-width:200px; max-height:234px; }
+.upsc_ese_civil_2022_q_22_1::after {content: '\00a0';display: inline-block; width:200px; height:234px; background-position: 99.85795454545455% 92.44288224956064%; background-size: 452% 343.1623931623932%; background-image: url(c2022_0.png);padding: 0; }
+div.upsc_ese_civil_2022_q_22_1::after {max-width:200px; width:100%;height:0;padding: 0 0 117% 0;}
+.upsc_ese_civil_2022_q_22_2 {max-width:300px; max-height:276px; }
+.upsc_ese_civil_2022_q_22_2::after {content: '\00a0';display: inline-block; width:300px; height:276px; background-position: 66.55629139072848% 99.81024667931689%; background-size: 301.3333333333333% 290.94202898550725%; background-image: url(c2022_0.png);padding: 0; }
+div.upsc_ese_civil_2022_q_22_2::after {max-width:300px; width:100%;height:0;padding: 0 0 92% 0;}
+.upsc_ese_civil_2022_q_6 {max-width:400px; max-height:185px; }
+.upsc_ese_civil_2022_q_6::after {content: '\00a0';display: inline-block; width:400px; height:185px; background-position: 0.1984126984126984% 37.702265372168284%; background-size: 226% 434.05405405405406%; background-image: url(c2022_0.png);padding: 0; }
+div.upsc_ese_civil_2022_q_6::after {max-width:400px; width:100%;height:0;padding: 0 0 46.25% 0;}
+.upsc_ese_civil_2022_q_7 {max-width:400px; max-height:153px; }
+.upsc_ese_civil_2022_q_7::after {content: '\00a0';display: inline-block; width:400px; height:153px; background-position: 0.1984126984126984% 88.3076923076923%; background-size: 226% 524.8366013071895%; background-image: url(c2022_0.png);padding: 0; }
+div.upsc_ese_civil_2022_q_7::after {max-width:400px; width:100%;height:0;padding: 0 0 38.25% 0;}
+.upsc_ese_civil_2022_q_9 {max-width:400px; max-height:173px; }
+.upsc_ese_civil_2022_q_9::after {content: '\00a0';display: inline-block; width:400px; height:173px; background-position: 79.76190476190476% 55.87301587301587%; background-size: 226% 464.16184971098266%; background-image: url(c2022_0.png);padding: 0; }
+div.upsc_ese_civil_2022_q_9::after {max-width:400px; width:100%;height:0;padding: 0 0 43.25% 0;}
+
+@keyframes upsc_ese_civil_2022_q-frames {
+    0% { background-position: 0.22026431718061673% 0.17482517482517482%;  }
+    16.666666666666664% { background-position: 0.1984126984126984% 37.702265372168284%;  }
+    33.33333333333333% { background-position: 0.1984126984126984% 88.3076923076923%;  }
+    50% { background-position: 79.76190476190476% 55.87301587301587%;  }
+    66.66666666666666% { background-position: 0.1984126984126984% 64.56086286594761%;  }
+    83.33333333333334% { background-position: 89.68253968253968% 0.22075055187637968%;  }
+}
+
+.upsc_ese_civil_2022_q-animation {
+    max-width: 450px;
+    max-height: 231px;
+}
+.upsc_ese_civil_2022_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 450px;
+    height: 231px;
+    padding: 0;
+    background-image: url(c2022_0.png);
+    background-size: 200.88888888888889% 347.6190476190476%; 
+    animation-name: upsc_ese_civil_2022_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.upsc_ese_civil_2022_q-animation::after {
+    max-width: 450px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 51.333333333333336% 0;
+}
+
+@keyframes upsc_ese_civil_2022_q_22-frames {
+    0% { background-position: 99.85795454545455% 92.44288224956064%;  }
+    50% { background-position: 66.55629139072848% 99.81024667931689%;  }
+}
+
+.upsc_ese_civil_2022_q_22-animation {
+    max-width: 200px;
+    max-height: 234px;
+}
+.upsc_ese_civil_2022_q_22-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 200px;
+    height: 234px;
+    padding: 0;
+    background-image: url(c2022_0.png);
+    background-size: 452% 343.1623931623932%; 
+    animation-name: upsc_ese_civil_2022_q_22-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.upsc_ese_civil_2022_q_22-animation::after {
+    max-width: 200px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 117% 0;
+}
+
+/* $TexturePacker:SmartUpdate:17dc182c46e5eada434b4357e4057098:78f2a6fc991cbd9c7841c874b6224212:caf6399533bcb397c73c66de58ac5f0f$ */
