@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.upsc_ese_mech_2020_q_138 {max-width:500px; max-height:128px; }
+.upsc_ese_mech_2020_q_138::after {content: '\00a0';display: inline-block; width:500px; height:128px; background-position: 50% 50%; background-size: 100.4% 101.5625%; background-image: url(m2020_0.png);padding: 0; }
+div.upsc_ese_mech_2020_q_138::after {max-width:500px; width:100%;height:0;padding: 0 0 25.6% 0;}
+
+
+/* $TexturePacker:SmartUpdate:af644efdad4f4264b64241d79abc2a0a:a5570fdfb8a00701e982c8d6c0963abd:7fbf8459b91c854205f941d1e8f0e7fb$ */

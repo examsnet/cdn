@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.upsc_ese_mech_2019_q_13 {max-width:536px; max-height:511px; }
+.upsc_ese_mech_2019_q_13::after {content: '\00a0';display: inline-block; width:536px; height:511px; background-position: 99.87819732034104% 87.14285714285714%; background-size: 253.17164179104478% 154.7945205479452%; background-image: url(m2019_0.png);padding: 0; }
+div.upsc_ese_mech_2019_q_13::after {max-width:536px; width:100%;height:0;padding: 0 0 95.33582089552239% 0;}
+.upsc_ese_mech_2019_q_17 {max-width:807px; max-height:242px; }
+.upsc_ese_mech_2019_q_17::after {content: '\00a0';display: inline-block; width:807px; height:242px; background-position: 72.9090909090909% 0.18214936247723132%; background-size: 168.15365551425032% 326.8595041322314%; background-image: url(m2019_0.png);padding: 0; }
+div.upsc_ese_mech_2019_q_17::after {max-width:807px; width:100%;height:0;padding: 0 0 29.987608426270135% 0;}
+.upsc_ese_mech_2019_q_21 {max-width:418px; max-height:546px; }
+.upsc_ese_mech_2019_q_21::after {content: '\00a0';display: inline-block; width:418px; height:546px; background-position: 42.705005324813634% 99.59183673469387%; background-size: 324.64114832535887% 144.87179487179486%; background-image: url(m2019_0.png);padding: 0; }
+div.upsc_ese_mech_2019_q_21::after {max-width:418px; width:100%;height:0;padding: 0 0 130.62200956937798% 0;}
+.upsc_ese_mech_2019_q_49 {max-width:399px; max-height:646px; }
+.upsc_ese_mech_2019_q_49::after {content: '\00a0';display: inline-block; width:399px; height:646px; background-position: 0.10438413361169102% 0.6896551724137931%; background-size: 340.10025062656644% 122.44582043343654%; background-image: url(m2019_0.png);padding: 0; }
+div.upsc_ese_mech_2019_q_49::after {max-width:399px; width:100%;height:0;padding: 0 0 161.9047619047619% 0;}
+
+@keyframes upsc_ese_mech_2019_q-frames {
+    0% { background-position: 99.87819732034104% 87.14285714285714%;  }
+    25% { background-position: 72.9090909090909% 0.18214936247723132%;  }
+    50% { background-position: 42.705005324813634% 99.59183673469387%;  }
+    75% { background-position: 0.10438413361169102% 0.6896551724137931%;  }
+}
+
+.upsc_ese_mech_2019_q-animation {
+    max-width: 536px;
+    max-height: 511px;
+}
+.upsc_ese_mech_2019_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 536px;
+    height: 511px;
+    padding: 0;
+    background-image: url(m2019_0.png);
+    background-size: 253.17164179104478% 154.7945205479452%; 
+    animation-name: upsc_ese_mech_2019_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.upsc_ese_mech_2019_q-animation::after {
+    max-width: 536px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 95.33582089552239% 0;
+}
+
+/* $TexturePacker:SmartUpdate:3d86ea7a2037154ac78c2477f31feb4a:2999bd7c9e7e1688c5f5f96fd1afd1ca:6eeeab9d1e989526f86aa1b44ba562b3$ */

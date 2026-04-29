@@ -1,0 +1,57 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.upscese_prelims_2023_q_124 {max-width:450px; max-height:185px; }
+.upscese_prelims_2023_q_124::after {content: '\00a0';display: inline-block; width:450px; height:185px; background-position: 99.66996699669967% 61.9647355163728%; background-size: 167.33333333333334% 314.5945945945946%; background-image: url(m2023_0.png);padding: 0; }
+div.upscese_prelims_2023_q_124::after {max-width:450px; width:100%;height:0;padding: 0 0 41.111111111111114% 0;}
+.upscese_prelims_2023_q_133 {max-width:300px; max-height:401px; }
+.upscese_prelims_2023_q_133::after {content: '\00a0';display: inline-block; width:300px; height:401px; background-position: 0.22075055187637968% 0.5524861878453039%; background-size: 251% 145.13715710723193%; background-image: url(m2023_0.png);padding: 0; }
+div.upscese_prelims_2023_q_133::after {max-width:300px; width:100%;height:0;padding: 0 0 133.66666666666666% 0;}
+.upscese_prelims_2023_q_135 {max-width:300px; max-height:150px; }
+.upscese_prelims_2023_q_135::after {content: '\00a0';display: inline-block; width:300px; height:150px; background-position: 0.22075055187637968% 93.28703703703704%; background-size: 251% 388%; background-image: url(m2023_0.png);padding: 0; }
+div.upscese_prelims_2023_q_135::after {max-width:300px; width:100%;height:0;padding: 0 0 50% 0;}
+.upscese_prelims_2023_q_137 {max-width:400px; max-height:149px; }
+.upscese_prelims_2023_q_137::after {content: '\00a0';display: inline-block; width:400px; height:149px; background-position: 85.55240793201133% 99.7690531177829%; background-size: 188.25% 390.6040268456376%; background-image: url(m2023_0.png);padding: 0; }
+div.upscese_prelims_2023_q_137::after {max-width:400px; width:100%;height:0;padding: 0 0 37.25% 0;}
+.upscese_prelims_2023_q_138 {max-width:450px; max-height:244px; }
+.upscese_prelims_2023_q_138::after {content: '\00a0';display: inline-block; width:450px; height:244px; background-position: 99.66996699669967% 0.2958579881656805%; background-size: 167.33333333333334% 238.52459016393442%; background-image: url(m2023_0.png);padding: 0; }
+div.upscese_prelims_2023_q_138::after {max-width:450px; width:100%;height:0;padding: 0 0 54.22222222222222% 0;}
+
+@keyframes upscese_prelims_2023_q-frames {
+    0% { background-position: 99.66996699669967% 61.9647355163728%;  }
+    20% { background-position: 0.22075055187637968% 0.5524861878453039%;  }
+    40% { background-position: 0.22075055187637968% 93.28703703703704%;  }
+    60% { background-position: 85.55240793201133% 99.7690531177829%;  }
+    80% { background-position: 99.66996699669967% 0.2958579881656805%;  }
+}
+
+.upscese_prelims_2023_q-animation {
+    max-width: 450px;
+    max-height: 185px;
+}
+.upscese_prelims_2023_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 450px;
+    height: 185px;
+    padding: 0;
+    background-image: url(m2023_0.png);
+    background-size: 167.33333333333334% 314.5945945945946%; 
+    animation-name: upscese_prelims_2023_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.upscese_prelims_2023_q-animation::after {
+    max-width: 450px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 41.111111111111114% 0;
+}
+
+/* $TexturePacker:SmartUpdate:f453e8c7a1d7b6d074bbe6d958eb2b66:155235b3cfed10b4b0a291bac2b58307:9546d07aee972fbb78d33ecbeb7bf9c8$ */

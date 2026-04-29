@@ -1,0 +1,45 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.upsc_ese_mech_2021_q_106 {max-width:450px; max-height:146px; }
+.upsc_ese_mech_2021_q_106::after {content: '\00a0';display: inline-block; width:450px; height:146px; background-position: 50% 0.9345794392523364%; background-size: 100.44444444444444% 173.2876712328767%; background-image: url(m2021_0.png);padding: 0; }
+div.upsc_ese_mech_2021_q_106::after {max-width:450px; width:100%;height:0;padding: 0 0 32.44444444444444% 0;}
+.upsc_ese_mech_2021_q_141 {max-width:360px; max-height:104px; }
+.upsc_ese_mech_2021_q_141::after {content: '\00a0';display: inline-block; width:360px; height:104px; background-position: 1.0869565217391304% 99.32885906040268%; background-size: 125.55555555555556% 243.26923076923077%; background-image: url(m2021_0.png);padding: 0; }
+div.upsc_ese_mech_2021_q_141::after {max-width:360px; width:100%;height:0;padding: 0 0 28.88888888888889% 0;}
+
+@keyframes upsc_ese_mech_2021_q-frames {
+    0% { background-position: 50% 0.9345794392523364%;  }
+    50% { background-position: 1.0869565217391304% 99.32885906040268%;  }
+}
+
+.upsc_ese_mech_2021_q-animation {
+    max-width: 450px;
+    max-height: 146px;
+}
+.upsc_ese_mech_2021_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 450px;
+    height: 146px;
+    padding: 0;
+    background-image: url(m2021_0.png);
+    background-size: 100.44444444444444% 173.2876712328767%; 
+    animation-name: upsc_ese_mech_2021_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.upsc_ese_mech_2021_q-animation::after {
+    max-width: 450px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 32.44444444444444% 0;
+}
+
+/* $TexturePacker:SmartUpdate:850a3b8b4895bfab287ba3728e1612a3:d2f3dc775ab05700da0ea2f15f31702e:2328b376bf688b069407bfd8d00f8692$ */
