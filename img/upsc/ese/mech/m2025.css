@@ -1,0 +1,52 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.upscese_mech_2025_q_140 {max-width:360px; max-height:235px; }
+.upscese_mech_2025_q_140::after {content: '\00a0';display: inline-block; width:360px; height:235px; background-position: 2.380952380952381% 99.87080103359173%; background-size: 111.66666666666667% 429.36170212765956%; background-image: url(m2025_0.png);padding: 0; }
+div.upscese_mech_2025_q_140::after {max-width:360px; width:100%;height:0;padding: 0 0 65.27777777777777% 0;}
+.upscese_mech_2025_sol_108 {max-width:400px; max-height:202px; }
+.upscese_mech_2025_sol_108::after {content: '\00a0';display: inline-block; width:400px; height:202px; background-position: 50% 0.12391573729863693%; background-size: 100.5% 499.5049504950495%; background-image: url(m2025_0.png);padding: 0; }
+div.upscese_mech_2025_sol_108::after {max-width:400px; width:100%;height:0;padding: 0 0 50.5% 0;}
+.upscese_mech_2025_sol_6 {max-width:360px; max-height:253px; }
+.upscese_mech_2025_sol_6::after {content: '\00a0';display: inline-block; width:360px; height:253px; background-position: 2.380952380952381% 68.65079365079364%; background-size: 111.66666666666667% 398.8142292490119%; background-image: url(m2025_0.png);padding: 0; }
+div.upscese_mech_2025_sol_6::after {max-width:360px; width:100%;height:0;padding: 0 0 70.27777777777777% 0;}
+.upscese_mech_2025_sol_79 {max-width:360px; max-height:314px; }
+.upscese_mech_2025_sol_79::after {content: '\00a0';display: inline-block; width:360px; height:314px; background-position: 2.380952380952381% 29.35251798561151%; background-size: 111.66666666666667% 321.3375796178344%; background-image: url(m2025_0.png);padding: 0; }
+div.upscese_mech_2025_sol_79::after {max-width:360px; width:100%;height:0;padding: 0 0 87.22222222222223% 0;}
+
+@keyframes upscese_mech_2025_sol-frames {
+    0% { background-position: 2.380952380952381% 68.65079365079364%;  }
+    33.33333333333333% { background-position: 2.380952380952381% 29.35251798561151%;  }
+    66.66666666666666% { background-position: 50% 0.12391573729863693%;  }
+}
+
+.upscese_mech_2025_sol-animation {
+    max-width: 360px;
+    max-height: 253px;
+}
+.upscese_mech_2025_sol-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 360px;
+    height: 253px;
+    padding: 0;
+    background-image: url(m2025_0.png);
+    background-size: 111.66666666666667% 398.8142292490119%; 
+    animation-name: upscese_mech_2025_sol-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.upscese_mech_2025_sol-animation::after {
+    max-width: 360px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 70.27777777777777% 0;
+}
+
+/* $TexturePacker:SmartUpdate:d2ac9465eea077216448c0ac13c0d63b:211274ab39ca8a3786f3158d7bbfe7fd:264f53f98c96e15738a4148cfd7f9141$ */
