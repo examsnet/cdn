@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.ibps_clerk_4_oct_2025_s1_25_para {max-width:566px; max-height:340px; }
+.ibps_clerk_4_oct_2025_s1_25_para::after {content: '\00a0';display: inline-block; width:566px; height:340px; background-position: 50% 0.3105590062111801%; background-size: 100.35335689045937% 194.7058823529412%; background-image: url(pre2025_0.png);padding: 0; }
+div.ibps_clerk_4_oct_2025_s1_25_para::after {max-width:566px; width:100%;height:0;padding: 0 0 60.07067137809187% 0;}
+.ibps_clerk_4_oct_2025_s2_5_para {max-width:547px; max-height:319px; }
+.ibps_clerk_4_oct_2025_s2_5_para::after {content: '\00a0';display: inline-block; width:547px; height:319px; background-position: 4.761904761904762% 99.70845481049562%; background-size: 103.83912248628884% 207.52351097178683%; background-image: url(pre2025_0.png);padding: 0; }
+div.ibps_clerk_4_oct_2025_s2_5_para::after {max-width:547px; width:100%;height:0;padding: 0 0 58.318098720292504% 0;}
+
+
+/* $TexturePacker:SmartUpdate:306bb027b3cfca48f636dbd780c11c70:dc718b791e9514b41545f12e7f7f8c26:6982afbe56ee232e71e9a53da0f165db$ */
