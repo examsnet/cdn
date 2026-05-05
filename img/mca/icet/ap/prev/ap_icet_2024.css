@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.AP_ICET_May_2024_S1_18 {max-width:311px; max-height:208px; }
+.AP_ICET_May_2024_S1_18::after {content: '\00a0';display: inline-block; width:311px; height:208px; background-position: 50% 0.15082956259426847%; background-size: 100.64308681672026% 418.75%; background-image: url(ap_icet_2024_0.png);padding: 0; }
+div.AP_ICET_May_2024_S1_18::after {max-width:311px; width:100%;height:0;padding: 0 0 66.88102893890675% 0;}
+.AP_ICET_May_2024_S1_61_P {max-width:248px; max-height:340px; }
+.AP_ICET_May_2024_S1_61_P::after {content: '\00a0';display: inline-block; width:248px; height:340px; background-position: 1.5384615384615385% 99.81167608286252%; background-size: 126.20967741935483% 256.1764705882353%; background-image: url(ap_icet_2024_0.png);padding: 0; }
+div.AP_ICET_May_2024_S1_61_P::after {max-width:248px; width:100%;height:0;padding: 0 0 137.09677419354838% 0;}
+.AP_ICET_May_2024_S2_4 {max-width:283px; max-height:319px; }
+.AP_ICET_May_2024_S2_4::after {content: '\00a0';display: inline-block; width:283px; height:319px; background-position: 3.3333333333333335% 38.04347826086956%; background-size: 110.60070671378092% 273.0407523510972%; background-image: url(ap_icet_2024_0.png);padding: 0; }
+div.AP_ICET_May_2024_S2_4::after {max-width:283px; width:100%;height:0;padding: 0 0 112.72084805653711% 0;}
+
+
+/* $TexturePacker:SmartUpdate:80c2e6ac80230a7043071708e0535385:d70507e3b24e0fb4b8b0d55584dae191:76d6eece6ac086a0f2f40373762d6e63$ */
