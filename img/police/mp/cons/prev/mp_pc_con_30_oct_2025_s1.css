@@ -1,0 +1,92 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.mp_pc_con_30_oct_2025_s1_50 {max-width:325px; max-height:85px; }
+.mp_pc_con_30_oct_2025_s1_50::after {content: '\00a0';display: inline-block; width:325px; height:85px; background-position: 51.6% 99.32885906040268%; background-size: 176.92307692307693% 275.29411764705884%; background-image: url(mp_pc_con_30_oct_2025_s1_0.png);padding: 0; }
+div.mp_pc_con_30_oct_2025_s1_50::after {max-width:325px; width:100%;height:0;padding: 0 0 26.153846153846153% 0;}
+.mp_pc_con_30_oct_2025_s1_50_1 {max-width:98px; max-height:85px; }
+.mp_pc_con_30_oct_2025_s1_50_1::after {content: '\00a0';display: inline-block; width:98px; height:85px; background-position: 58.280922431865825% 0.6711409395973155%; background-size: 586.734693877551% 275.29411764705884%; background-image: url(mp_pc_con_30_oct_2025_s1_0.png);padding: 0; }
+div.mp_pc_con_30_oct_2025_s1_50_1::after {max-width:98px; width:100%;height:0;padding: 0 0 86.73469387755102% 0;}
+.mp_pc_con_30_oct_2025_s1_50_2 {max-width:98px; max-height:85px; }
+.mp_pc_con_30_oct_2025_s1_50_2::after {content: '\00a0';display: inline-block; width:98px; height:85px; background-position: 79.03563941299791% 0.6711409395973155%; background-size: 586.734693877551% 275.29411764705884%; background-image: url(mp_pc_con_30_oct_2025_s1_0.png);padding: 0; }
+div.mp_pc_con_30_oct_2025_s1_50_2::after {max-width:98px; width:100%;height:0;padding: 0 0 86.73469387755102% 0;}
+.mp_pc_con_30_oct_2025_s1_50_3 {max-width:98px; max-height:84px; }
+.mp_pc_con_30_oct_2025_s1_50_3::after {content: '\00a0';display: inline-block; width:98px; height:84px; background-position: 99.79035639412997% 0.6666666666666666%; background-size: 586.734693877551% 278.57142857142856%; background-image: url(mp_pc_con_30_oct_2025_s1_0.png);padding: 0; }
+div.mp_pc_con_30_oct_2025_s1_50_3::after {max-width:98px; width:100%;height:0;padding: 0 0 85.71428571428571% 0;}
+.mp_pc_con_30_oct_2025_s1_50_4 {max-width:98px; max-height:85px; }
+.mp_pc_con_30_oct_2025_s1_50_4::after {content: '\00a0';display: inline-block; width:98px; height:85px; background-position: 95.38784067085953% 58.38926174496644%; background-size: 586.734693877551% 275.29411764705884%; background-image: url(mp_pc_con_30_oct_2025_s1_0.png);padding: 0; }
+div.mp_pc_con_30_oct_2025_s1_50_4::after {max-width:98px; width:100%;height:0;padding: 0 0 86.73469387755102% 0;}
+.mp_pc_con_30_oct_2025_s1_61 {max-width:148px; max-height:146px; }
+.mp_pc_con_30_oct_2025_s1_61::after {content: '\00a0';display: inline-block; width:148px; height:146px; background-position: 30.210772833723652% 1.1363636363636365%; background-size: 388.5135135135135% 160.27397260273972%; background-image: url(mp_pc_con_30_oct_2025_s1_0.png);padding: 0; }
+div.mp_pc_con_30_oct_2025_s1_61::after {max-width:148px; width:100%;height:0;padding: 0 0 98.64864864864865% 0;}
+.mp_pc_con_30_oct_2025_s1_65 {max-width:127px; max-height:187px; }
+.mp_pc_con_30_oct_2025_s1_65::after {content: '\00a0';display: inline-block; width:127px; height:187px; background-position: 0.22321428571428573% 2.127659574468085%; background-size: 452.755905511811% 125.1336898395722%; background-image: url(mp_pc_con_30_oct_2025_s1_0.png);padding: 0; }
+div.mp_pc_con_30_oct_2025_s1_65::after {max-width:127px; width:100%;height:0;padding: 0 0 147.24409448818898% 0;}
+
+@keyframes mp_pc_con_30_oct_2025_s1-frames {
+    0% { background-position: 51.6% 99.32885906040268%;  }
+    33.33333333333333% { background-position: 30.210772833723652% 1.1363636363636365%;  }
+    66.66666666666666% { background-position: 0.22321428571428573% 2.127659574468085%;  }
+}
+
+.mp_pc_con_30_oct_2025_s1-animation {
+    max-width: 325px;
+    max-height: 85px;
+}
+.mp_pc_con_30_oct_2025_s1-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 325px;
+    height: 85px;
+    padding: 0;
+    background-image: url(mp_pc_con_30_oct_2025_s1_0.png);
+    background-size: 176.92307692307693% 275.29411764705884%; 
+    animation-name: mp_pc_con_30_oct_2025_s1-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.mp_pc_con_30_oct_2025_s1-animation::after {
+    max-width: 325px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 26.153846153846153% 0;
+}
+
+@keyframes mp_pc_con_30_oct_2025_s1_50-frames {
+    0% { background-position: 58.280922431865825% 0.6711409395973155%;  }
+    25% { background-position: 79.03563941299791% 0.6711409395973155%;  }
+    50% { background-position: 99.79035639412997% 0.6666666666666666%;  }
+    75% { background-position: 95.38784067085953% 58.38926174496644%;  }
+}
+
+.mp_pc_con_30_oct_2025_s1_50-animation {
+    max-width: 98px;
+    max-height: 85px;
+}
+.mp_pc_con_30_oct_2025_s1_50-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 98px;
+    height: 85px;
+    padding: 0;
+    background-image: url(mp_pc_con_30_oct_2025_s1_0.png);
+    background-size: 586.734693877551% 275.29411764705884%; 
+    animation-name: mp_pc_con_30_oct_2025_s1_50-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.mp_pc_con_30_oct_2025_s1_50-animation::after {
+    max-width: 98px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 86.73469387755102% 0;
+}
+
+/* $TexturePacker:SmartUpdate:3e8c18b9f2ab88ce279f3af478b76289:20f3b6320d461d9d9c2778696bfac81c:2e701ddda51da95e1f1d6b220dd86c66$ */
