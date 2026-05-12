@@ -1,0 +1,49 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.upscese_ec_2026__q_127 {max-width:273px; max-height:238px; }
+.upscese_ec_2026__q_127::after {content: '\00a0';display: inline-block; width:273px; height:238px; background-position: 41.81326116373478% 9.090909090909092%; background-size: 370.6959706959707% 104.6218487394958%; background-image: url(ec2026_0.png);padding: 0; }
+div.upscese_ec_2026__q_127::after {max-width:273px; width:100%;height:0;padding: 0 0 87.17948717948718% 0;}
+.upscese_ec_2026__q_129 {max-width:428px; max-height:182px; }
+.upscese_ec_2026__q_129::after {content: '\00a0';display: inline-block; width:428px; height:182px; background-position: 99.82876712328768% 1.492537313432836%; background-size: 236.44859813084113% 136.8131868131868%; background-image: url(ec2026_0.png);padding: 0; }
+div.upscese_ec_2026__q_129::after {max-width:428px; width:100%;height:0;padding: 0 0 42.52336448598131% 0;}
+.upscese_ec_2026__q_130 {max-width:307px; max-height:247px; }
+.upscese_ec_2026__q_130::after {content: '\00a0';display: inline-block; width:307px; height:247px; background-position: 0.14184397163120568% 50%; background-size: 329.6416938110749% 100.80971659919028%; background-image: url(ec2026_0.png);padding: 0; }
+div.upscese_ec_2026__q_130::after {max-width:307px; width:100%;height:0;padding: 0 0 80.45602605863192% 0;}
+
+@keyframes upscese_ec_2026__q-frames {
+    0% { background-position: 41.81326116373478% 9.090909090909092%;  }
+    33.33333333333333% { background-position: 99.82876712328768% 1.492537313432836%;  }
+    66.66666666666666% { background-position: 0.14184397163120568% 50%;  }
+}
+
+.upscese_ec_2026__q-animation {
+    max-width: 273px;
+    max-height: 238px;
+}
+.upscese_ec_2026__q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 273px;
+    height: 238px;
+    padding: 0;
+    background-image: url(ec2026_0.png);
+    background-size: 370.6959706959707% 104.6218487394958%; 
+    animation-name: upscese_ec_2026__q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.upscese_ec_2026__q-animation::after {
+    max-width: 273px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 87.17948717948718% 0;
+}
+
+/* $TexturePacker:SmartUpdate:fa6608fa01c399214de3d85567d76835:4ab1589ffeae43e83f2eb3fb85bafe6e:9bfaae6fb7120fc803da911fc2ef4056$ */
