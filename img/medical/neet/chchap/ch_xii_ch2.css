@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.neet_2026_p1_sol_89 {max-width:360px; max-height:136px; }
+.neet_2026_p1_sol_89::after {content: '\00a0';display: inline-block; width:360px; height:136px; background-position: 50% 50%; background-size: 100.55555555555556% 101.47058823529412%; background-image: url(ch_xii_ch2_0.png);padding: 0; }
+div.neet_2026_p1_sol_89::after {max-width:360px; width:100%;height:0;padding: 0 0 37.77777777777778% 0;}
+
+
+/* $TexturePacker:SmartUpdate:d358e31f12a7be70364a2ef0cd380ad4:dc644aa074522cde5cac69ab5f7f76b1:f9b49122b36dcb8efdf5a1073e54e27c$ */

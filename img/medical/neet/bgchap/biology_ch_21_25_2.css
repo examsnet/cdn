@@ -7,11 +7,14 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 .NEET_2024_193_q {max-width:316px; max-height:192px; }
-.NEET_2024_193_q::after {content: '\00a0';display: inline-block; width:316px; height:192px; background-position: 99.73118279569893% 5.882352941176471%; background-size: 217.72151898734177% 108.85416666666667%; background-image: url(biology_ch_21_25_2_0.png);padding: 0; }
+.NEET_2024_193_q::after {content: '\00a0';display: inline-block; width:316px; height:192px; background-position: 0.7352941176470589% 99.8109640831758%; background-size: 143.0379746835443% 375.5208333333333%; background-image: url(biology_ch_21_25_2_0.png);padding: 0; }
 div.NEET_2024_193_q::after {max-width:316px; width:100%;height:0;padding: 0 0 60.75949367088607% 0;}
 .NEET_2024_193_s {max-width:369px; max-height:207px; }
-.NEET_2024_193_s::after {content: '\00a0';display: inline-block; width:369px; height:207px; background-position: 0.31347962382445144% 50%; background-size: 186.44986449864498% 100.96618357487922%; background-image: url(biology_ch_21_25_2_0.png);padding: 0; }
+.NEET_2024_193_s::after {content: '\00a0';display: inline-block; width:369px; height:207px; background-position: 1.2048192771084338% 62.2568093385214%; background-size: 122.49322493224932% 348.30917874396135%; background-image: url(biology_ch_21_25_2_0.png);padding: 0; }
 div.NEET_2024_193_s::after {max-width:369px; width:100%;height:0;padding: 0 0 56.09756097560975% 0;}
+.neet_2026_p1_sol_170 {max-width:450px; max-height:318px; }
+.neet_2026_p1_sol_170::after {content: '\00a0';display: inline-block; width:450px; height:318px; background-position: 50% 0.24813895781637718%; background-size: 100.44444444444444% 226.72955974842768%; background-image: url(biology_ch_21_25_2_0.png);padding: 0; }
+div.neet_2026_p1_sol_170::after {max-width:450px; width:100%;height:0;padding: 0 0 70.66666666666667% 0;}
 
 
-/* $TexturePacker:SmartUpdate:cb100cbf2e4837a8c930fc07e8326011:20f1d0dbb5809197b713ee17333253e8:f7e1a41ddc31b865495f38a4f9ad0e16$ */
+/* $TexturePacker:SmartUpdate:f21c7d68c38dcf20072e4c0795c55384:e426316021a021986940b9d1b8e51755:f7e1a41ddc31b865495f38a4f9ad0e16$ */
