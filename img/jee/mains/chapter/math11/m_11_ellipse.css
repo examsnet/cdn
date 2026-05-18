@@ -7,104 +7,113 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 .AIEEE_2005_Mat_20sol {max-width:222px; max-height:145px; }
-.AIEEE_2005_Mat_20sol::after {content: '\00a0';display: inline-block; width:222px; height:145px; background-position: 98.64099660249151% 95.15331355093966%; background-size: 895.4954954954954% 797.2413793103449%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.AIEEE_2005_Mat_20sol::after {content: '\00a0';display: inline-block; width:222px; height:145px; background-position: 17.455439459127227% 98.56902356902357%; background-size: 832.8828828828829% 919.3103448275862%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.AIEEE_2005_Mat_20sol::after {max-width:222px; width:100%;height:0;padding: 0 0 65.31531531531532% 0;}
 .AIEEE_2008_Mat_11sol {max-width:251px; max-height:238px; }
-.AIEEE_2008_Mat_11sol::after {content: '\00a0';display: inline-block; width:251px; height:238px; background-position: 40.12665515256189% 89.97821350762527%; background-size: 792.0318725099602% 485.7142857142857%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.AIEEE_2008_Mat_11sol::after {content: '\00a0';display: inline-block; width:251px; height:238px; background-position: 21.026282853566958% 84.93150684931507%; background-size: 736.6533864541833% 560.0840336134454%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.AIEEE_2008_Mat_11sol::after {max-width:251px; width:100%;height:0;padding: 0 0 94.8207171314741% 0;}
 .AIEEE_2009_Mat_12sol {max-width:264px; max-height:179px; }
-.AIEEE_2009_Mat_12sol::after {content: '\00a0';display: inline-block; width:264px; height:179px; background-position: 93.03944315545243% 47.69703172978505%; background-size: 753.030303030303% 645.8100558659218%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.AIEEE_2009_Mat_12sol::after {content: '\00a0';display: inline-block; width:264px; height:179px; background-position: 87.44479495268139% 78.76949740034662%; background-size: 700.3787878787879% 744.6927374301677%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.AIEEE_2009_Mat_12sol::after {max-width:264px; width:100%;height:0;padding: 0 0 67.8030303030303% 0;}
 .JEEMAINS_10APRIL_2023_S1_S_20 {max-width:451px; max-height:305px; }
-.JEEMAINS_10APRIL_2023_S1_S_20::after {content: '\00a0';display: inline-block; width:451px; height:305px; background-position: 0.06506180871828236% 0.11750881316098707%; background-size: 440.79822616407984% 379.0163934426229%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.JEEMAINS_10APRIL_2023_S1_S_20::after {content: '\00a0';display: inline-block; width:451px; height:305px; background-position: 0.0715307582260372% 60.70038910505836%; background-size: 409.9778270509978% 437.04918032786884%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.JEEMAINS_10APRIL_2023_S1_S_20::after {max-width:451px; width:100%;height:0;padding: 0 0 67.62749445676275% 0;}
 .JEEMAINS_10APRIL_2023_S2_S_17 {max-width:227px; max-height:188px; }
-.JEEMAINS_10APRIL_2023_S2_S_17::after {content: '\00a0';display: inline-block; width:227px; height:188px; background-position: 85.97387847813742% 99.3801652892562%; background-size: 875.7709251101321% 614.8936170212766%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.JEEMAINS_10APRIL_2023_S2_S_17::after {content: '\00a0';display: inline-block; width:227px; height:188px; background-position: 68.24907521578298% 98.77729257641921%; background-size: 814.5374449339207% 709.0425531914893%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.JEEMAINS_10APRIL_2023_S2_S_17::after {max-width:227px; width:100%;height:0;padding: 0 0 82.81938325991189% 0;}
 .JEEMAINS_11APRIL_2023_S1_S_14 {max-width:352px; max-height:235px; }
-.JEEMAINS_11APRIL_2023_S1_S_14::after {content: '\00a0';display: inline-block; width:352px; height:235px; background-position: 76.46699266503667% 25.0814332247557%; background-size: 564.7727272727273% 491.9148936170213%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.JEEMAINS_11APRIL_2023_S1_S_14::after {content: '\00a0';display: inline-block; width:352px; height:235px; background-position: 30.260521042084168% 51.91256830601093%; background-size: 525.2840909090909% 567.2340425531914%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.JEEMAINS_11APRIL_2023_S1_S_14::after {max-width:352px; width:100%;height:0;padding: 0 0 66.76136363636364% 0;}
 .JEEMAINS_15APRIL_2023_S1_S_23 {max-width:220px; max-height:250px; }
-.JEEMAINS_15APRIL_2023_S1_S_23::after {content: '\00a0';display: inline-block; width:220px; height:250px; background-position: 57.97511312217195% 48.23399558498896%; background-size: 903.6363636363636% 462.4%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.JEEMAINS_15APRIL_2023_S1_S_23::after {content: '\00a0';display: inline-block; width:220px; height:250px; background-position: 22.897483118477595% 0.09233610341643583%; background-size: 840.4545454545455% 533.2%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.JEEMAINS_15APRIL_2023_S1_S_23::after {max-width:220px; width:100%;height:0;padding: 0 0 113.63636363636364% 0;}
 .JEEMAINS_24JAN_2023_S1_S_81 {max-width:427px; max-height:206px; }
-.JEEMAINS_24JAN_2023_S1_S_81::after {content: '\00a0';display: inline-block; width:427px; height:206px; background-position: 57.01473414477899% 0.10526315789473684%; background-size: 465.57377049180326% 561.1650485436893%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.JEEMAINS_24JAN_2023_S1_S_81::after {content: '\00a0';display: inline-block; width:427px; height:206px; background-position: 56.680731364275665% 63.17657497781721%; background-size: 433.0210772833724% 647.0873786407767%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.JEEMAINS_24JAN_2023_S1_S_81::after {max-width:427px; width:100%;height:0;padding: 0 0 48.24355971896956% 0;}
 .JEEMAIN_25FEB_SHIFT2_SOL_70 {max-width:281px; max-height:173px; }
-.JEEMAIN_25FEB_SHIFT2_SOL_70::after {content: '\00a0';display: inline-block; width:281px; height:173px; background-position: 55.59461042765085% 86.77517802644964%; background-size: 707.473309608541% 668.2080924855492%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.JEEMAIN_25FEB_SHIFT2_SOL_70::after {content: '\00a0';display: inline-block; width:281px; height:173px; background-position: 79.71938775510205% 0.08620689655172414%; background-size: 658.0071174377224% 770.5202312138729%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.JEEMAIN_25FEB_SHIFT2_SOL_70::after {max-width:281px; width:100%;height:0;padding: 0 0 61.56583629893238% 0;}
 .JEEM_18_Mar_S2_75sol {max-width:217px; max-height:54px; }
-.JEEM_18_Mar_S2_75sol::after {content: '\00a0';display: inline-block; width:217px; height:54px; background-position: 39.356295878035006% 96.64246823956442%; background-size: 916.1290322580645% 2140.740740740741%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.JEEM_18_Mar_S2_75sol::after {content: '\00a0';display: inline-block; width:217px; height:54px; background-position: 22.855392156862745% 19.702892885066458%; background-size: 852.073732718894% 2468.5185185185187%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.JEEM_18_Mar_S2_75sol::after {max-width:217px; width:100%;height:0;padding: 0 0 24.88479262672811% 0;}
 .JEE_1_Feb_2024_Shift_2_5_s {max-width:334px; max-height:240px; }
-.JEE_1_Feb_2024_Shift_2_5_s::after {content: '\00a0';display: inline-block; width:334px; height:240px; background-position: 21.8863361547763% 95.63318777292577%; background-size: 595.2095808383234% 481.6666666666667%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.JEE_1_Feb_2024_Shift_2_5_s::after {content: '\00a0';display: inline-block; width:334px; height:240px; background-position: 0.066006600660066% 85.08691674290942%; background-size: 553.5928143712575% 555.4166666666666%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.JEE_1_Feb_2024_Shift_2_5_s::after {max-width:334px; width:100%;height:0;padding: 0 0 71.8562874251497% 0;}
 .JEE_30_Jan_2024_Shift_2_3_s {max-width:246px; max-height:177px; }
-.JEE_30_Jan_2024_Shift_2_3_s::after {content: '\00a0';display: inline-block; width:246px; height:177px; background-position: 87.65786452353616% 65.98569969356487%; background-size: 808.130081300813% 653.1073446327683%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.JEE_30_Jan_2024_Shift_2_3_s::after {content: '\00a0';display: inline-block; width:246px; height:177px; background-position: 99.50093574547724% 45.93425605536332%; background-size: 751.6260162601626% 753.1073446327683%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.JEE_30_Jan_2024_Shift_2_3_s::after {max-width:246px; width:100%;height:0;padding: 0 0 71.95121951219512% 0;}
 .JEE_31_Jan_2024_Shift_2_7_s {max-width:304px; max-height:172px; }
-.JEE_31_Jan_2024_Shift_2_7_s::after {content: '\00a0';display: inline-block; width:304px; height:172px; background-position: 40.558194774346795% 66.36178861788618%; background-size: 653.9473684210526% 672.0930232558139%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.JEE_31_Jan_2024_Shift_2_7_s::after {content: '\00a0';display: inline-block; width:304px; height:172px; background-position: 99.35275080906149% 0.08613264427217916%; background-size: 608.2236842105264% 775%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.JEE_31_Jan_2024_Shift_2_7_s::after {max-width:304px; width:100%;height:0;padding: 0 0 56.578947368421055% 0;}
 .JEE_MAINS_2019_JAN12_S2_55sol {max-width:344px; max-height:229px; }
-.JEE_MAINS_2019_JAN12_S2_55sol::after {content: '\00a0';display: inline-block; width:344px; height:229px; background-position: 97.5669099756691% 25.458468176914778%; background-size: 577.9069767441861% 504.8034934497817%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.JEE_MAINS_2019_JAN12_S2_55sol::after {content: '\00a0';display: inline-block; width:344px; height:229px; background-position: 60.1328903654485% 22.3731884057971%; background-size: 537.5% 582.0960698689956%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.JEE_MAINS_2019_JAN12_S2_55sol::after {max-width:344px; width:100%;height:0;padding: 0 0 66.56976744186046% 0;}
 .JEE_Main_22_July_2021_eve_80_s {max-width:371px; max-height:314px; }
-.JEE_Main_22_July_2021_eve_80_s::after {content: '\00a0';display: inline-block; width:371px; height:314px; background-position: 0.06184291898577613% 36.46080760095012%; background-size: 535.8490566037735% 368.1528662420382%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.JEE_Main_22_July_2021_eve_80_s::after {content: '\00a0';display: inline-block; width:371px; height:314px; background-position: 0.06765899864682003% 0.09813542688910697%; background-size: 498.38274932614553% 424.5222929936306%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.JEE_Main_22_July_2021_eve_80_s::after {max-width:371px; width:100%;height:0;padding: 0 0 84.63611859838275% 0;}
 .JEE_Main_25_July_2021_evening_77_s {max-width:367px; max-height:229px; }
-.JEE_Main_25_July_2021_evening_77_s::after {content: '\00a0';display: inline-block; width:367px; height:229px; background-position: 81.30783466995682% 0.10787486515641856%; background-size: 541.6893732970027% 504.8034934497817%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.JEE_Main_25_July_2021_evening_77_s::after {content: '\00a0';display: inline-block; width:367px; height:229px; background-position: 54.3859649122807% 43.65942028985507%; background-size: 503.81471389645776% 582.0960698689956%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.JEE_Main_25_July_2021_evening_77_s::after {max-width:367px; width:100%;height:0;padding: 0 0 62.39782016348774% 0;}
 .JEE_Main_26_Aug_2021_Shift_1_63_Q_1_S {max-width:290px; max-height:116px; }
-.JEE_Main_26_Aug_2021_Shift_1_63_Q_1_S::after {content: '\00a0';display: inline-block; width:290px; height:116px; background-position: 71.61366313309776% 99.23076923076923%; background-size: 685.5172413793103% 996.551724137931%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.JEE_Main_26_Aug_2021_Shift_1_63_Q_1_S::after {content: '\00a0';display: inline-block; width:290px; height:116px; background-position: 29.057087876844133% 66.22843056696796%; background-size: 637.5862068965517% 1149.1379310344828%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.JEE_Main_26_Aug_2021_Shift_1_63_Q_1_S::after {max-width:290px; width:100%;height:0;padding: 0 0 40% 0;}
 .JEE_Main_27_Aug_2021_Shift_1_88_Q_1_S {max-width:246px; max-height:137px; }
-.JEE_Main_27_Aug_2021_Shift_1_88_Q_1_S::after {content: '\00a0';display: inline-block; width:246px; height:137px; background-position: 87.37083811710677% 80.86359175662415%; background-size: 808.130081300813% 843.7956204379562%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.JEE_Main_27_Aug_2021_Shift_1_88_Q_1_S::after {content: '\00a0';display: inline-block; width:246px; height:137px; background-position: 99.50093574547724% 59.280936454849495%; background-size: 751.6260162601626% 972.992700729927%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.JEE_Main_27_Aug_2021_Shift_1_88_Q_1_S::after {max-width:246px; width:100%;height:0;padding: 0 0 55.6910569105691% 0;}
 .JEE_Main_27_July_2021_evening_84_s {max-width:285px; max-height:163px; }
-.JEE_Main_27_July_2021_evening_84_s::after {content: '\00a0';display: inline-block; width:285px; height:163px; background-position: 72.5778038755138% 72.60825780463243%; background-size: 697.5438596491229% 709.2024539877301%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.JEE_Main_27_July_2021_evening_84_s::after {content: '\00a0';display: inline-block; width:285px; height:163px; background-position: 32.41687979539642% 99.91452991452991%; background-size: 648.7719298245614% 817.7914110429448%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.JEE_Main_27_July_2021_evening_84_s::after {max-width:285px; width:100%;height:0;padding: 0 0 57.19298245614035% 0;}
 .JEE_Main_27_July_2021_morning_67_s {max-width:301px; max-height:234px; }
-.JEE_Main_27_July_2021_morning_67_s::after {content: '\00a0';display: inline-block; width:301px; height:234px; background-position: 99.9407231772377% 0.10845986984815618%; background-size: 660.4651162790698% 494.017094017094%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.JEE_Main_27_July_2021_morning_67_s::after {content: '\00a0';display: inline-block; width:301px; height:234px; background-position: 38.95348837209303% 22.474977252047317%; background-size: 614.2857142857143% 569.6581196581196%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.JEE_Main_27_July_2021_morning_67_s::after {max-width:301px; width:100%;height:0;padding: 0 0 77.74086378737542% 0;}
 .Shift_1_6_sept_51 {max-width:290px; max-height:215px; }
-.Shift_1_6_sept_51::after {content: '\00a0';display: inline-block; width:290px; height:215px; background-position: 43.227326266195526% 46.439957492029755%; background-size: 685.5172413793103% 537.6744186046511%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.Shift_1_6_sept_51::after {content: '\00a0';display: inline-block; width:290px; height:215px; background-position: 61.257216164207826% 0.08944543828264759%; background-size: 637.5862068965517% 620%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.Shift_1_6_sept_51::after {max-width:290px; width:100%;height:0;padding: 0 0 74.13793103448276% 0;}
 .Shift_2_6_sept_55 {max-width:436px; max-height:211px; }
-.Shift_2_6_sept_55::after {content: '\00a0';display: inline-block; width:436px; height:211px; background-position: 29.188144329896907% 0.10582010582010581%; background-size: 455.9633027522936% 547.8672985781991%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.Shift_2_6_sept_55::after {content: '\00a0';display: inline-block; width:436px; height:211px; background-position: 67.16206652512385% 81.90730837789661%; background-size: 424.08256880733944% 631.7535545023696%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.Shift_2_6_sept_55::after {max-width:436px; width:100%;height:0;padding: 0 0 48.39449541284404% 0;}
 .j2017_57sol {max-width:266px; max-height:128px; }
-.j2017_57sol::after {content: '\00a0';display: inline-block; width:266px; height:128px; background-position: 55.11033681765389% 99.90272373540856%; background-size: 747.3684210526316% 903.125%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.j2017_57sol::after {content: '\00a0';display: inline-block; width:266px; height:128px; background-position: 78.96399241945673% 14.522821576763485%; background-size: 695.1127819548872% 1041.40625%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.j2017_57sol::after {max-width:266px; width:100%;height:0;padding: 0 0 48.1203007518797% 0;}
 .jee_mains_24_jun_2022_s2_9_sol {max-width:320px; max-height:307px; }
-.jee_mains_24_jun_2022_s2_9_sol::after {content: '\00a0';display: inline-block; width:320px; height:307px; background-position: 0.05995203836930456% 73.26266195524146%; background-size: 621.25% 376.5472312703583%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.jee_mains_24_jun_2022_s2_9_sol::after {content: '\00a0';display: inline-block; width:320px; height:307px; background-position: 0.06540222367560497% 30.799220272904485%; background-size: 577.8125% 434.20195439739416%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.jee_mains_24_jun_2022_s2_9_sol::after {max-width:320px; width:100%;height:0;padding: 0 0 95.9375% 0;}
 .jee_mains_30_jun_2022_s1_15_sol {max-width:280px; max-height:253px; }
-.jee_mains_30_jun_2022_s1_15_sol::after {content: '\00a0';display: inline-block; width:280px; height:253px; background-position: 72.95081967213115% 51.71650055370986%; background-size: 710% 456.9169960474308%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.jee_mains_30_jun_2022_s1_15_sol::after {content: '\00a0';display: inline-block; width:280px; height:253px; background-position: 20.522625876354365% 29.25925925925926%; background-size: 660.3571428571429% 526.8774703557312%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.jee_mains_30_jun_2022_s1_15_sol::after {max-width:280px; width:100%;height:0;padding: 0 0 90.35714285714286% 0;}
 .jee_mn_28_jan_2025_s2_sol_14 {max-width:282px; max-height:146px; }
-.jee_mn_28_jan_2025_s2_sol_14::after {content: '\00a0';display: inline-block; width:282px; height:146px; background-position: 72.15709261430246% 87.62376237623762%; background-size: 704.9645390070922% 791.7808219178082%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.jee_mn_28_jan_2025_s2_sol_14::after {content: '\00a0';display: inline-block; width:282px; height:146px; background-position: 0.06381620931716656% 98.65206402695873%; background-size: 655.6737588652483% 913.013698630137%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.jee_mn_28_jan_2025_s2_sol_14::after {max-width:282px; width:100%;height:0;padding: 0 0 51.773049645390074% 0;}
+.jeem_4_apr_2026_s1_sol_72 {max-width:289px; max-height:180px; }
+.jeem_4_apr_2026_s1_sol_72::after {content: '\00a0';display: inline-block; width:289px; height:180px; background-position: 98.3974358974359% 30.355594102341716%; background-size: 639.7923875432526% 740.5555555555555%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+div.jeem_4_apr_2026_s1_sol_72::after {max-width:289px; width:100%;height:0;padding: 0 0 62.28373702422145% 0;}
+.jeem_4_apr_2026_s2_sol_60 {max-width:313px; max-height:174px; }
+.jeem_4_apr_2026_s2_sol_60::after {content: '\00a0';display: inline-block; width:313px; height:174px; background-position: 51.627604166666664% 99.9137187230371%; background-size: 590.7348242811502% 766.0919540229885%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+div.jeem_4_apr_2026_s2_sol_60::after {max-width:313px; width:100%;height:0;padding: 0 0 55.59105431309904% 0;}
+.jeem_5_apr_2026_s1_sol_59 {max-width:316px; max-height:175px; }
+.jeem_5_apr_2026_s1_sol_59::after {content: '\00a0';display: inline-block; width:316px; height:175px; background-position: 99.93476842791911% 15.025906735751295%; background-size: 585.126582278481% 761.7142857142857%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+div.jeem_5_apr_2026_s1_sol_59::after {max-width:316px; width:100%;height:0;padding: 0 0 55.379746835443036% 0;}
 .jm_2_apr_2025_s1_sol_4 {max-width:247px; max-height:164px; }
-.jm_2_apr_2025_s1_sol_4::after {content: '\00a0';display: inline-block; width:247px; height:164px; background-position: 56.74899483055715% 69.35483870967742%; background-size: 804.8582995951417% 704.8780487804878%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.jm_2_apr_2025_s1_sol_4::after {content: '\00a0';display: inline-block; width:247px; height:164px; background-position: 78.02746566791511% 26.00513259195894%; background-size: 748.582995951417% 812.8048780487804%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.jm_2_apr_2025_s1_sol_4::after {max-width:247px; width:100%;height:0;padding: 0 0 66.39676113360323% 0;}
 .jm_3_apr_2025_s1_sol_4a {max-width:360px; max-height:234px; }
-.jm_3_apr_2025_s1_sol_4a::after {content: '\00a0';display: inline-block; width:360px; height:234px; background-position: 19.77886977886978% 69.5227765726681%; background-size: 552.2222222222222% 494.017094017094%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.jm_3_apr_2025_s1_sol_4a::after {content: '\00a0';display: inline-block; width:360px; height:234px; background-position: 39.48959032907992% 83.98544131028207%; background-size: 513.6111111111111% 569.6581196581196%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.jm_3_apr_2025_s1_sol_4a::after {max-width:360px; width:100%;height:0;padding: 0 0 65% 0;}
 .jm_3_apr_2025_s1_sol_4b {max-width:360px; max-height:202px; }
-.jm_3_apr_2025_s1_sol_4b::after {content: '\00a0';display: inline-block; width:360px; height:202px; background-position: 0.06142506142506143% 97.48427672955975%; background-size: 552.2222222222222% 572.2772277227723%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.jm_3_apr_2025_s1_sol_4b::after {content: '\00a0';display: inline-block; width:360px; height:202px; background-position: 82.87441235728677% 62.42263483642794%; background-size: 513.6111111111111% 659.9009900990098%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.jm_3_apr_2025_s1_sol_4b::after {max-width:360px; width:100%;height:0;padding: 0 0 56.111111111111114% 0;}
 .jm_3_apr_2025_s2_sol_20 {max-width:360px; max-height:245px; }
-.jm_3_apr_2025_s2_sol_20::after {content: '\00a0';display: inline-block; width:360px; height:245px; background-position: 22.911547911547913% 43.3589462129528%; background-size: 552.2222222222222% 471.83673469387753%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.jm_3_apr_2025_s2_sol_20::after {content: '\00a0';display: inline-block; width:360px; height:245px; background-position: 39.89254533243788% 0.09191176470588236%; background-size: 513.6111111111111% 544.0816326530612%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.jm_3_apr_2025_s2_sol_20::after {max-width:360px; width:100%;height:0;padding: 0 0 68.05555555555556% 0;}
 .jm_4_apr_2025_s2_sol_5 {max-width:360px; max-height:228px; }
-.jm_4_apr_2025_s2_sol_5::after {content: '\00a0';display: inline-block; width:360px; height:228px; background-position: 54.66830466830467% 22.413793103448278%; background-size: 552.2222222222222% 507.0175438596491%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.jm_4_apr_2025_s2_sol_5::after {content: '\00a0';display: inline-block; width:360px; height:228px; background-position: 78.84486232370719% 43.16742081447964%; background-size: 513.6111111111111% 584.6491228070175%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.jm_4_apr_2025_s2_sol_5::after {max-width:360px; width:100%;height:0;padding: 0 0 63.333333333333336% 0;}
 .m2015_46sol {max-width:383px; max-height:181px; }
-.m2015_46sol::after {content: '\00a0';display: inline-block; width:383px; height:181px; background-position: 28.22429906542056% 21.846153846153847%; background-size: 519.0600522193212% 638.6740331491712%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.m2015_46sol::after {content: '\00a0';display: inline-block; width:383px; height:181px; background-position: 91.06412005457025% 98.17708333333333%; background-size: 482.76762402088775% 736.4640883977901%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.m2015_46sol::after {max-width:383px; width:100%;height:0;padding: 0 0 47.25848563968668% 0;}
 .m2017_apr8_81sol {max-width:174px; max-height:175px; }
-.m2017_apr8_81sol::after {content: '\00a0';display: inline-block; width:174px; height:175px; background-position: 97.7949283351709% 65.85117227319063%; background-size: 1142.528735632184% 660.5714285714286%; background-image: url(m_11_ellipse_0.png);padding: 0; }
+.m2017_apr8_81sol::after {content: '\00a0';display: inline-block; width:174px; height:175px; background-position: 98.56716417910448% 73.14335060449051%; background-size: 1062.6436781609195% 761.7142857142857%; background-image: url(m_11_ellipse_0.png);padding: 0; }
 div.m2017_apr8_81sol::after {max-width:174px; width:100%;height:0;padding: 0 0 100.57471264367815% 0;}
 
 
-/* $TexturePacker:SmartUpdate:22a334226e9c19fe6db806e096a847bd:615266ab0d91192cad80212704fe2353:af8d607c48a5f6bd4ea57075b4656672$ */
+/* $TexturePacker:SmartUpdate:496ee5fa54b7a7fd6464a21855e93ce0:d1d5e67b8d614ec3b8fb9a8c733999d8:af8d607c48a5f6bd4ea57075b4656672$ */

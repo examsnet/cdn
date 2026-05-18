@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jm_2_apr_2025_s1_sol_73 {max-width:271px; max-height:154px; }
+.jm_2_apr_2025_s1_sol_73::after {content: '\00a0';display: inline-block; width:271px; height:154px; background-position: 50% 50%; background-size: 100.7380073800738% 101.2987012987013%; background-image: url(c_11_chequilibrium2_0.png);padding: 0; }
+div.jm_2_apr_2025_s1_sol_73::after {max-width:271px; width:100%;height:0;padding: 0 0 56.82656826568266% 0;}
+
+
+/* $TexturePacker:SmartUpdate:38142f1249668565e39b1e9c2c069702:3440f1ccf63b9721d8caa7f5c486c3d9:96f1e0669c2c5e44c2e3ee87ca765794$ */
