@@ -1,0 +1,88 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.cbse_math_2024_all_q_10 {max-width:265px; max-height:143px; }
+.cbse_math_2024_all_q_10::after {content: '\00a0';display: inline-block; width:265px; height:143px; background-position: 0.5181347150259067% 51.57593123209169%; background-size: 172.83018867924528% 344.05594405594405%; background-image: url(cbse_x_2024_0.png);padding: 0; }
+div.cbse_math_2024_all_q_10::after {max-width:265px; width:100%;height:0;padding: 0 0 53.9622641509434% 0;}
+.cbse_math_2024_all_q_12 {max-width:187px; max-height:191px; }
+.cbse_math_2024_all_q_12::after {content: '\00a0';display: inline-block; width:187px; height:191px; background-position: 98.5239852398524% 65.11627906976744%; background-size: 244.91978609625667% 257.5916230366492%; background-image: url(cbse_x_2024_0.png);padding: 0; }
+div.cbse_math_2024_all_q_12::after {max-width:187px; width:100%;height:0;padding: 0 0 102.13903743315508% 0;}
+.cbse_math_2024_all_q_18 {max-width:184px; max-height:194px; }
+.cbse_math_2024_all_q_18::after {content: '\00a0';display: inline-block; width:184px; height:194px; background-position: 99.63503649635037% 0.33557046979865773%; background-size: 248.91304347826087% 253.60824742268042%; background-image: url(cbse_x_2024_0.png);padding: 0; }
+div.cbse_math_2024_all_q_18::after {max-width:184px; width:100%;height:0;padding: 0 0 105.43478260869566% 0;}
+.cbse_math_2024_all_sol_12 {max-width:187px; max-height:191px; }
+.cbse_math_2024_all_sol_12::after {content: '\00a0';display: inline-block; width:187px; height:191px; background-position: 98.5239852398524% 65.11627906976744%; background-size: 244.91978609625667% 257.5916230366492%; background-image: url(cbse_x_2024_0.png);padding: 0; }
+div.cbse_math_2024_all_sol_12::after {max-width:187px; width:100%;height:0;padding: 0 0 102.13903743315508% 0;}
+.cbse_math_2024_all_sol_7 {max-width:210px; max-height:167px; }
+.cbse_math_2024_all_sol_7::after {content: '\00a0';display: inline-block; width:210px; height:167px; background-position: 0.4032258064516129% 99.6923076923077%; background-size: 218.0952380952381% 294.61077844311376%; background-image: url(cbse_x_2024_0.png);padding: 0; }
+div.cbse_math_2024_all_sol_7::after {max-width:210px; width:100%;height:0;padding: 0 0 79.52380952380952% 0;}
+.cbse_math_2024_all_sol_9 {max-width:271px; max-height:178px; }
+.cbse_math_2024_all_sol_9::after {content: '\00a0';display: inline-block; width:271px; height:178px; background-position: 0.5347593582887701% 0.3184713375796178%; background-size: 169.00369003690037% 276.40449438202245%; background-image: url(cbse_x_2024_0.png);padding: 0; }
+div.cbse_math_2024_all_sol_9::after {max-width:271px; width:100%;height:0;padding: 0 0 65.68265682656826% 0;}
+
+@keyframes cbse_math_2024_all_q-frames {
+    0% { background-position: 0.5181347150259067% 51.57593123209169%;  }
+    33.33333333333333% { background-position: 98.5239852398524% 65.11627906976744%;  }
+    66.66666666666666% { background-position: 99.63503649635037% 0.33557046979865773%;  }
+}
+
+.cbse_math_2024_all_q-animation {
+    max-width: 265px;
+    max-height: 143px;
+}
+.cbse_math_2024_all_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 265px;
+    height: 143px;
+    padding: 0;
+    background-image: url(cbse_x_2024_0.png);
+    background-size: 172.83018867924528% 344.05594405594405%; 
+    animation-name: cbse_math_2024_all_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.cbse_math_2024_all_q-animation::after {
+    max-width: 265px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 53.9622641509434% 0;
+}
+
+@keyframes cbse_math_2024_all_sol-frames {
+    0% { background-position: 0.4032258064516129% 99.6923076923077%;  }
+    33.33333333333333% { background-position: 0.5347593582887701% 0.3184713375796178%;  }
+    66.66666666666666% { background-position: 98.5239852398524% 65.11627906976744%;  }
+}
+
+.cbse_math_2024_all_sol-animation {
+    max-width: 210px;
+    max-height: 167px;
+}
+.cbse_math_2024_all_sol-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 210px;
+    height: 167px;
+    padding: 0;
+    background-image: url(cbse_x_2024_0.png);
+    background-size: 218.0952380952381% 294.61077844311376%; 
+    animation-name: cbse_math_2024_all_sol-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.cbse_math_2024_all_sol-animation::after {
+    max-width: 210px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 79.52380952380952% 0;
+}
+
+/* $TexturePacker:SmartUpdate:225aed9220a3c9a9cc34280bce0b9702:4157e7451f6a65e4f865c86b4ef8f64e:7c365b675c045672364a4fb3958a1878$ */

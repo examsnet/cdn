@@ -1,0 +1,48 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.cbse_12_biology_2025_q_12 {max-width:398px; max-height:216px; }
+.cbse_12_biology_2025_q_12::after {content: '\00a0';display: inline-block; width:398px; height:216px; background-position: 99.78540772532189% 0.8928571428571429%; background-size: 217.0854271356784% 151.85185185185185%; background-image: url(cbse_12_bio_2025_0.png);padding: 0; }
+div.cbse_12_biology_2025_q_12::after {max-width:398px; width:100%;height:0;padding: 0 0 54.2713567839196% 0;}
+.cbse_12_biology_2025_sol_4 {max-width:463px; max-height:286px; }
+.cbse_12_biology_2025_sol_4::after {content: '\00a0';display: inline-block; width:463px; height:286px; background-position: 0.24937655860349128% 2.380952380952381%; background-size: 186.60907127429806% 114.68531468531468%; background-image: url(cbse_12_bio_2025_0.png);padding: 0; }
+div.cbse_12_biology_2025_sol_4::after {max-width:463px; width:100%;height:0;padding: 0 0 61.77105831533477% 0;}
+.cbse_12_biology_2025_sol_7 {max-width:386px; max-height:109px; }
+.cbse_12_biology_2025_sol_7::after {content: '\00a0';display: inline-block; width:386px; height:109px; background-position: 97.28033472803347% 99.54337899543378%; background-size: 223.8341968911917% 300.91743119266056%; background-image: url(cbse_12_bio_2025_0.png);padding: 0; }
+div.cbse_12_biology_2025_sol_7::after {max-width:386px; width:100%;height:0;padding: 0 0 28.238341968911918% 0;}
+
+@keyframes cbse_12_biology_2025_sol-frames {
+    0% { background-position: 0.24937655860349128% 2.380952380952381%;  }
+    50% { background-position: 97.28033472803347% 99.54337899543378%;  }
+}
+
+.cbse_12_biology_2025_sol-animation {
+    max-width: 463px;
+    max-height: 286px;
+}
+.cbse_12_biology_2025_sol-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 463px;
+    height: 286px;
+    padding: 0;
+    background-image: url(cbse_12_bio_2025_0.png);
+    background-size: 186.60907127429806% 114.68531468531468%; 
+    animation-name: cbse_12_biology_2025_sol-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.cbse_12_biology_2025_sol-animation::after {
+    max-width: 463px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 61.77105831533477% 0;
+}
+
+/* $TexturePacker:SmartUpdate:22237a212e0dff3880346f4f5988cf3f:be14715e9019faff7b2ba29530e826e3:dffdb749f24b94d71860a9d67a029cdf$ */

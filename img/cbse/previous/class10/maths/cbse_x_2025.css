@@ -1,0 +1,99 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.cbse_basic_math_2025_all_q_1 {max-width:369px; max-height:206px; }
+.cbse_basic_math_2025_all_q_1::after {content: '\00a0';display: inline-block; width:369px; height:206px; background-position: 0.14947683109118087% 99.62121212121212%; background-size: 281.3008130081301% 228.15533980582524%; background-image: url(cbse_x_2025_0.png);padding: 0; }
+div.cbse_basic_math_2025_all_q_1::after {max-width:369px; width:100%;height:0;padding: 0 0 55.826558265582655% 0;}
+.cbse_basic_math_2025_all_q_11 {max-width:267px; max-height:235px; }
+.cbse_basic_math_2025_all_q_11::after {content: '\00a0';display: inline-block; width:267px; height:235px; background-position: 36.57587548638132% 0.425531914893617%; background-size: 388.76404494382024% 200%; background-image: url(cbse_x_2025_0.png);padding: 0; }
+div.cbse_basic_math_2025_all_q_11::after {max-width:267px; width:100%;height:0;padding: 0 0 88.01498127340824% 0;}
+.cbse_basic_math_2025_all_q_7 {max-width:166px; max-height:184px; }
+.cbse_basic_math_2025_all_q_7::after {content: '\00a0';display: inline-block; width:166px; height:184px; background-position: 99.88532110091744% 72.72727272727273%; background-size: 625.3012048192771% 255.43478260869566%; background-image: url(cbse_x_2025_0.png);padding: 0; }
+div.cbse_basic_math_2025_all_q_7::after {max-width:166px; width:100%;height:0;padding: 0 0 110.8433734939759% 0;}
+.cbse_basic_math_2025_all_q_8 {max-width:252px; max-height:206px; }
+.cbse_basic_math_2025_all_q_8::after {content: '\00a0';display: inline-block; width:252px; height:206px; background-position: 69.97455470737914% 0.3787878787878788%; background-size: 411.9047619047619% 228.15533980582524%; background-image: url(cbse_x_2025_0.png);padding: 0; }
+div.cbse_basic_math_2025_all_q_8::after {max-width:252px; width:100%;height:0;padding: 0 0 81.74603174603175% 0;}
+.cbse_math_2025_all_q_15 {max-width:263px; max-height:58px; }
+.cbse_math_2025_all_q_15::after {content: '\00a0';display: inline-block; width:263px; height:58px; background-position: 89.29032258064517% 97.33009708737865%; background-size: 394.6768060836502% 810.3448275862069%; background-image: url(cbse_x_2025_0.png);padding: 0; }
+div.cbse_math_2025_all_q_15::after {max-width:263px; width:100%;height:0;padding: 0 0 22.0532319391635% 0;}
+.cbse_math_2025_all_q_18 {max-width:320px; max-height:211px; }
+.cbse_math_2025_all_q_18::after {content: '\00a0';display: inline-block; width:320px; height:211px; background-position: 51.67130919220056% 91.5057915057915%; background-size: 324.375% 222.74881516587678%; background-image: url(cbse_x_2025_0.png);padding: 0; }
+div.cbse_math_2025_all_q_18::after {max-width:320px; width:100%;height:0;padding: 0 0 65.9375% 0;}
+.cbse_math_2025_all_q_2 {max-width:280px; max-height:261px; }
+.cbse_math_2025_all_q_2::after {content: '\00a0';display: inline-block; width:280px; height:261px; background-position: 0.13192612137203166% 0.4784688995215311%; background-size: 370.7142857142857% 180.07662835249042%; background-image: url(cbse_x_2025_0.png);padding: 0; }
+div.cbse_math_2025_all_q_2::after {max-width:280px; width:100%;height:0;padding: 0 0 93.21428571428571% 0;}
+.cbse_math_2025_all_q_5 {max-width:219px; max-height:206px; }
+.cbse_math_2025_all_q_5::after {content: '\00a0';display: inline-block; width:219px; height:206px; background-position: 98.04639804639805% 0.3787878787878788%; background-size: 473.972602739726% 228.15533980582524%; background-image: url(cbse_x_2025_0.png);padding: 0; }
+div.cbse_math_2025_all_q_5::after {max-width:219px; width:100%;height:0;padding: 0 0 94.06392694063926% 0;}
+.cbse_math_2025_all_sol_4 {max-width:178px; max-height:192px; }
+.cbse_math_2025_all_sol_4::after {content: '\00a0';display: inline-block; width:178px; height:192px; background-position: 80.46511627906976% 74.82014388489209%; background-size: 583.1460674157304% 244.79166666666666%; background-image: url(cbse_x_2025_0.png);padding: 0; }
+div.cbse_math_2025_all_sol_4::after {max-width:178px; width:100%;height:0;padding: 0 0 107.86516853932584% 0;}
+
+@keyframes cbse_basic_math_2025_all_q-frames {
+    0% { background-position: 0.14947683109118087% 99.62121212121212%;  }
+    25% { background-position: 99.88532110091744% 72.72727272727273%;  }
+    50% { background-position: 69.97455470737914% 0.3787878787878788%;  }
+    75% { background-position: 36.57587548638132% 0.425531914893617%;  }
+}
+
+.cbse_basic_math_2025_all_q-animation {
+    max-width: 369px;
+    max-height: 206px;
+}
+.cbse_basic_math_2025_all_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 369px;
+    height: 206px;
+    padding: 0;
+    background-image: url(cbse_x_2025_0.png);
+    background-size: 281.3008130081301% 228.15533980582524%; 
+    animation-name: cbse_basic_math_2025_all_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.cbse_basic_math_2025_all_q-animation::after {
+    max-width: 369px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 55.826558265582655% 0;
+}
+
+@keyframes cbse_math_2025_all_q-frames {
+    0% { background-position: 0.13192612137203166% 0.4784688995215311%;  }
+    25% { background-position: 98.04639804639805% 0.3787878787878788%;  }
+    50% { background-position: 89.29032258064517% 97.33009708737865%;  }
+    75% { background-position: 51.67130919220056% 91.5057915057915%;  }
+}
+
+.cbse_math_2025_all_q-animation {
+    max-width: 280px;
+    max-height: 261px;
+}
+.cbse_math_2025_all_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 280px;
+    height: 261px;
+    padding: 0;
+    background-image: url(cbse_x_2025_0.png);
+    background-size: 370.7142857142857% 180.07662835249042%; 
+    animation-name: cbse_math_2025_all_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.cbse_math_2025_all_q-animation::after {
+    max-width: 280px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 93.21428571428571% 0;
+}
+
+/* $TexturePacker:SmartUpdate:d050fbbece596790399d322458d019a0:bb793c6c390f56fc311b0d8754ccc373:80fbb3be55f5688b1b7037ffc84e484b$ */

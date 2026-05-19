@@ -1,0 +1,45 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.cbse_12_chem_2023_sol_14 {max-width:299px; max-height:65px; }
+.cbse_12_chem_2023_sol_14::after {content: '\00a0';display: inline-block; width:299px; height:65px; background-position: 50% 99.15966386554622%; background-size: 100.66889632107024% 283.0769230769231%; background-image: url(cbse_che_12_2023_all_0.png);padding: 0; }
+div.cbse_12_chem_2023_sol_14::after {max-width:299px; width:100%;height:0;padding: 0 0 21.73913043478261% 0;}
+.cbse_12_chem_2023_sol_6 {max-width:214px; max-height:116px; }
+.cbse_12_chem_2023_sol_6::after {content: '\00a0';display: inline-block; width:214px; height:116px; background-position: 1.1494252873563218% 1.4705882352941178%; background-size: 140.65420560747663% 158.6206896551724%; background-image: url(cbse_che_12_2023_all_0.png);padding: 0; }
+div.cbse_12_chem_2023_sol_6::after {max-width:214px; width:100%;height:0;padding: 0 0 54.205607476635514% 0;}
+
+@keyframes cbse_12_chem_2023_sol-frames {
+    0% { background-position: 1.1494252873563218% 1.4705882352941178%;  }
+    50% { background-position: 50% 99.15966386554622%;  }
+}
+
+.cbse_12_chem_2023_sol-animation {
+    max-width: 214px;
+    max-height: 116px;
+}
+.cbse_12_chem_2023_sol-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 214px;
+    height: 116px;
+    padding: 0;
+    background-image: url(cbse_che_12_2023_all_0.png);
+    background-size: 140.65420560747663% 158.6206896551724%; 
+    animation-name: cbse_12_chem_2023_sol-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.cbse_12_chem_2023_sol-animation::after {
+    max-width: 214px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 54.205607476635514% 0;
+}
+
+/* $TexturePacker:SmartUpdate:ee5ac5f487b6a930f4b123966f6be7ba:25f7c502ba372cd8e3e46e457b044fb3:edfbb8c55335978d47a4524d712b0ea4$ */

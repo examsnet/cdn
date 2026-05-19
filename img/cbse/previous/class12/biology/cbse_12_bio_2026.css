@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.cbse_12_biology_2026_q_4 {max-width:318px; max-height:214px; }
+.cbse_12_biology_2026_q_4::after {content: '\00a0';display: inline-block; width:318px; height:214px; background-position: 50% 50%; background-size: 100.62893081761007% 100.93457943925233%; background-image: url(cbse_12_bio_2026_0.png);padding: 0; }
+div.cbse_12_biology_2026_q_4::after {max-width:318px; width:100%;height:0;padding: 0 0 67.29559748427673% 0;}
+
+
+/* $TexturePacker:SmartUpdate:aaf341f05ab3553fe3c60c702f007412:b2e07a35376086ab22576a6dd1ea3735:2a5f005a3628e3f9f16efc5424477814$ */

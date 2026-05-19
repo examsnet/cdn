@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.cbse_12_biology_2024_q_2 {max-width:481px; max-height:390px; }
+.cbse_12_biology_2024_q_2::after {content: '\00a0';display: inline-block; width:481px; height:390px; background-position: 0.26246719160104987% 0.684931506849315%; background-size: 179.20997920997922% 137.43589743589743%; background-image: url(cbse_12_bio_2024_0.png);padding: 0; }
+div.cbse_12_biology_2024_q_2::after {max-width:481px; width:100%;height:0;padding: 0 0 81.08108108108108% 0;}
+.cbse_12_biology_2024_q_4 {max-width:370px; max-height:124px; }
+.cbse_12_biology_2024_q_4::after {content: '\00a0';display: inline-block; width:370px; height:124px; background-position: 0.2032520325203252% 95.14563106796116%; background-size: 232.97297297297297% 432.258064516129%; background-image: url(cbse_12_bio_2024_0.png);padding: 0; }
+div.cbse_12_biology_2024_q_4::after {max-width:370px; width:100%;height:0;padding: 0 0 33.513513513513516% 0;}
+.cbse_12_biology_2024_q_6 {max-width:360px; max-height:203px; }
+.cbse_12_biology_2024_q_6::after {content: '\00a0';display: inline-block; width:360px; height:203px; background-position: 96.21513944223108% 99.69969969969969%; background-size: 239.44444444444446% 264.0394088669951%; background-image: url(cbse_12_bio_2024_0.png);padding: 0; }
+div.cbse_12_biology_2024_q_6::after {max-width:360px; width:100%;height:0;padding: 0 0 56.388888888888886% 0;}
+.cbse_12_biology_2024_q_8 {max-width:378px; max-height:330px; }
+.cbse_12_biology_2024_q_8::after {content: '\00a0';display: inline-block; width:378px; height:330px; background-position: 99.79338842975207% 0.4854368932038835%; background-size: 228.04232804232805% 162.42424242424244%; background-image: url(cbse_12_bio_2024_0.png);padding: 0; }
+div.cbse_12_biology_2024_q_8::after {max-width:378px; width:100%;height:0;padding: 0 0 87.3015873015873% 0;}
+
+@keyframes cbse_12_biology_2024_q-frames {
+    0% { background-position: 0.26246719160104987% 0.684931506849315%;  }
+    25% { background-position: 0.2032520325203252% 95.14563106796116%;  }
+    50% { background-position: 96.21513944223108% 99.69969969969969%;  }
+    75% { background-position: 99.79338842975207% 0.4854368932038835%;  }
+}
+
+.cbse_12_biology_2024_q-animation {
+    max-width: 481px;
+    max-height: 390px;
+}
+.cbse_12_biology_2024_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 481px;
+    height: 390px;
+    padding: 0;
+    background-image: url(cbse_12_bio_2024_0.png);
+    background-size: 179.20997920997922% 137.43589743589743%; 
+    animation-name: cbse_12_biology_2024_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.cbse_12_biology_2024_q-animation::after {
+    max-width: 481px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 81.08108108108108% 0;
+}
+
+/* $TexturePacker:SmartUpdate:f146757ad8a340b1552688b1d44dc0fc:42352b5939d3775086eba3124fe7a91d:4cb01a155367c41f16a10ade2d4a32d2$ */

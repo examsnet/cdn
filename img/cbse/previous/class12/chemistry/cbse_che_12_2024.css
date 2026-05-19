@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.cbse_12_chem_2024_q_9 {max-width:204px; max-height:473px; }
+.cbse_12_chem_2024_q_9::after {content: '\00a0';display: inline-block; width:204px; height:473px; background-position: 0.3436426116838488% 50%; background-size: 242.64705882352942% 100.42283298097252%; background-image: url(cbse_che_12_2024_0.png);padding: 0; }
+div.cbse_12_chem_2024_q_9::after {max-width:204px; width:100%;height:0;padding: 0 0 231.86274509803923% 0;}
+.cbse_12_chem_2024_qc_10_4 {max-width:130px; max-height:93px; }
+.cbse_12_chem_2024_qc_10_4::after {content: '\00a0';display: inline-block; width:130px; height:93px; background-position: 56.43835616438356% 33.246073298429316%; background-size: 380.7692307692308% 510.752688172043%; background-image: url(cbse_che_12_2024_0.png);padding: 0; }
+div.cbse_12_chem_2024_qc_10_4::after {max-width:130px; width:100%;height:0;padding: 0 0 71.53846153846153% 0;}
+.cbse_12_chem_2024_sol_3 {max-width:288px; max-height:125px; }
+.cbse_12_chem_2024_sol_3::after {content: '\00a0';display: inline-block; width:288px; height:125px; background-position: 99.51690821256038% 0.2857142857142857%; background-size: 171.875% 380%; background-image: url(cbse_che_12_2024_0.png);padding: 0; }
+div.cbse_12_chem_2024_sol_3::after {max-width:288px; width:100%;height:0;padding: 0 0 43.40277777777778% 0;}
+
+
+/* $TexturePacker:SmartUpdate:9f4add5b53cb8f4e6ec6d4064276e4d4:a8530f71b5d04d607c0e20b187d30cf0:f74d627218dfdb90bc1407142e4f492a$ */
